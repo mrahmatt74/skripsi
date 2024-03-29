@@ -1,0 +1,35 @@
+# Dirsearch started Thu Mar 28 12:56:18 2024 as: /usr/lib/python3/dist-packages/dirsearch/dirsearch.py -u api.siapkerja.tangerangkab.go.id -o api.siapkerja.txt
+
+403   580B   https://api.siapkerja.tangerangkab.go.id/%2e%2e;/test
+404   580B   https://api.siapkerja.tangerangkab.go.id/.well-known/acme-challenge/dtfy
+403   112B   https://api.siapkerja.tangerangkab.go.id/\..\..\..\..\..\..\..\..\..\etc\passwd
+403   580B   https://api.siapkerja.tangerangkab.go.id/admin/.config
+403   580B   https://api.siapkerja.tangerangkab.go.id/admpar/.ftppass
+403   580B   https://api.siapkerja.tangerangkab.go.id/admrev/.ftppass
+403   580B   https://api.siapkerja.tangerangkab.go.id/bitrix/.settings.bak
+403   580B   https://api.siapkerja.tangerangkab.go.id/bitrix/.settings.php
+403   580B   https://api.siapkerja.tangerangkab.go.id/bitrix/.settings
+403   580B   https://api.siapkerja.tangerangkab.go.id/bitrix/.settings.php.bak
+500   472B   https://api.siapkerja.tangerangkab.go.id/checkuser
+301   173B   https://api.siapkerja.tangerangkab.go.id/css    -> REDIRECTS TO: /css/
+301   185B   https://api.siapkerja.tangerangkab.go.id/documents    -> REDIRECTS TO: /documents/
+200     1KB  https://api.siapkerja.tangerangkab.go.id/email
+200     1KB  https://api.siapkerja.tangerangkab.go.id/email/
+403   580B   https://api.siapkerja.tangerangkab.go.id/ext/.deps
+301   179B   https://api.siapkerja.tangerangkab.go.id/images    -> REDIRECTS TO: /images/
+404   136B   https://api.siapkerja.tangerangkab.go.id/images/c99.php
+404   136B   https://api.siapkerja.tangerangkab.go.id/images/README
+404   136B   https://api.siapkerja.tangerangkab.go.id/images/Sym.php
+403   580B   https://api.siapkerja.tangerangkab.go.id/lib/flex/uploader/.project
+403   580B   https://api.siapkerja.tangerangkab.go.id/lib/flex/uploader/.settings
+403   580B   https://api.siapkerja.tangerangkab.go.id/lib/flex/uploader/.flexProperties
+403   580B   https://api.siapkerja.tangerangkab.go.id/lib/flex/varien/.actionScriptProperties
+403   580B   https://api.siapkerja.tangerangkab.go.id/lib/flex/varien/.project
+403   580B   https://api.siapkerja.tangerangkab.go.id/lib/flex/varien/.settings
+403   580B   https://api.siapkerja.tangerangkab.go.id/lib/flex/varien/.flexLibProperties
+403   580B   https://api.siapkerja.tangerangkab.go.id/lib/flex/uploader/.actionScriptProperties
+403   580B   https://api.siapkerja.tangerangkab.go.id/mailer/.env
+403   580B   https://api.siapkerja.tangerangkab.go.id/resources/.arch-internal-preview.css
+403   580B   https://api.siapkerja.tangerangkab.go.id/resources/sass/.sass-cache/
+403   580B   https://api.siapkerja.tangerangkab.go.id/twitter/.env
+301   181B   https://api.siapkerja.tangerangkab.go.id/uploads    -> REDIRECTS TO: /uploads/

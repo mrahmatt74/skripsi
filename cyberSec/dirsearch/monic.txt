@@ -1,0 +1,57 @@
+# Dirsearch started Thu Mar 28 12:37:27 2024 as: /usr/lib/python3/dist-packages/dirsearch/dirsearch.py -u monic.tangerangkab.go.id -o monic.txt
+
+301   335B   https://monic.tangerangkab.go.id/js    -> REDIRECTS TO: https://monic.tangerangkab.go.id/js/
+403   290B   https://monic.tangerangkab.go.id/.ht_wsr.txt
+403   290B   https://monic.tangerangkab.go.id/.htaccess.bak1
+403   290B   https://monic.tangerangkab.go.id/.htaccess.sample
+403   290B   https://monic.tangerangkab.go.id/.htaccess.orig
+403   290B   https://monic.tangerangkab.go.id/.htaccess_sc
+403   290B   https://monic.tangerangkab.go.id/.htaccess_orig
+403   290B   https://monic.tangerangkab.go.id/.htaccess_extra
+403   290B   https://monic.tangerangkab.go.id/.htaccess.save
+403   290B   https://monic.tangerangkab.go.id/.htaccessBAK
+403   290B   https://monic.tangerangkab.go.id/.htaccessOLD
+403   290B   https://monic.tangerangkab.go.id/.htm
+403   290B   https://monic.tangerangkab.go.id/.htaccessOLD2
+403   290B   https://monic.tangerangkab.go.id/.html
+403   290B   https://monic.tangerangkab.go.id/.htpasswds
+403   290B   https://monic.tangerangkab.go.id/.htpasswd_test
+403   290B   https://monic.tangerangkab.go.id/.httr-oauth
+403   290B   https://monic.tangerangkab.go.id/.php
+403   290B   https://monic.tangerangkab.go.id/.php3
+301   337B   https://monic.tangerangkab.go.id/apps    -> REDIRECTS TO: https://monic.tangerangkab.go.id/apps/
+404     2KB  https://monic.tangerangkab.go.id/apps/__pycache__/
+200   296B   https://monic.tangerangkab.go.id/apps/
+404     2KB  https://monic.tangerangkab.go.id/apps/frontend/config/databases.yml
+404     2KB  https://monic.tangerangkab.go.id/apps/frontend/config/app.yml
+404     1KB  https://monic.tangerangkab.go.id/apps/vendor/phpunit/phpunit/phpunit
+301   339B   https://monic.tangerangkab.go.id/assets    -> REDIRECTS TO: https://monic.tangerangkab.go.id/assets/
+200     0B   https://monic.tangerangkab.go.id/assets/
+301   339B   https://monic.tangerangkab.go.id/attach    -> REDIRECTS TO: https://monic.tangerangkab.go.id/attach/
+301   339B   https://monic.tangerangkab.go.id/config    -> REDIRECTS TO: https://monic.tangerangkab.go.id/config/
+200     1B   https://monic.tangerangkab.go.id/config/
+301   336B   https://monic.tangerangkab.go.id/css    -> REDIRECTS TO: https://monic.tangerangkab.go.id/css/
+301   337B   https://monic.tangerangkab.go.id/data    -> REDIRECTS TO: https://monic.tangerangkab.go.id/data/
+200     0B   https://monic.tangerangkab.go.id/data/
+301   336B   https://monic.tangerangkab.go.id/dev    -> REDIRECTS TO: https://monic.tangerangkab.go.id/dev/
+200     0B   https://monic.tangerangkab.go.id/dev/
+200     0B   https://monic.tangerangkab.go.id/dist/
+301   337B   https://monic.tangerangkab.go.id/dist    -> REDIRECTS TO: https://monic.tangerangkab.go.id/dist/
+301   338B   https://monic.tangerangkab.go.id/fonts    -> REDIRECTS TO: https://monic.tangerangkab.go.id/fonts/
+200     0B   https://monic.tangerangkab.go.id/images/
+301   339B   https://monic.tangerangkab.go.id/images    -> REDIRECTS TO: https://monic.tangerangkab.go.id/images/
+200    24KB  https://monic.tangerangkab.go.id/info.php
+200     0B   https://monic.tangerangkab.go.id/js/
+301   337B   https://monic.tangerangkab.go.id/libs    -> REDIRECTS TO: https://monic.tangerangkab.go.id/libs/
+301   337B   https://monic.tangerangkab.go.id/logo    -> REDIRECTS TO: https://monic.tangerangkab.go.id/logo/
+302     0B   https://monic.tangerangkab.go.id/logout.php    -> REDIRECTS TO: index.php?msg=logout_1
+200   171B   https://monic.tangerangkab.go.id/mail.php
+302   659B   https://monic.tangerangkab.go.id/maintenance.php    -> REDIRECTS TO: index.php
+301   338B   https://monic.tangerangkab.go.id/pages    -> REDIRECTS TO: https://monic.tangerangkab.go.id/pages/
+302     0B   https://monic.tangerangkab.go.id/pages/    -> REDIRECTS TO: login/
+301   342B   https://monic.tangerangkab.go.id/phpmailer    -> REDIRECTS TO: https://monic.tangerangkab.go.id/phpmailer/
+403   290B   https://monic.tangerangkab.go.id/server-status
+403   290B   https://monic.tangerangkab.go.id/server-status/
+200     0B   https://monic.tangerangkab.go.id/team/
+200     0B   https://monic.tangerangkab.go.id/tmp/
+301   336B   https://monic.tangerangkab.go.id/tmp    -> REDIRECTS TO: https://monic.tangerangkab.go.id/tmp/

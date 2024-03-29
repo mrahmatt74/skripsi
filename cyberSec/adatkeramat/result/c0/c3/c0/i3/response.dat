@@ -1,0 +1,53 @@
+HTTP/1.1 200 OK
+Server: nginx
+Date: Tue, 19 Mar 2024 18:33:46 GMT
+Content-Type: text/html; charset=utf-8
+Content-Length: 755
+Connection: keep-alive
+X-Frame-Options: SAMEORIGIN
+X-XSS-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Referrer-Policy: no-referrer-when-downgrade
+X-Permitted-Cross-Domain-Policies: master-only
+Content-Security-Policy: frame-ancestors 'self'
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Permissions-Policy: geolocation=(),midi=(),sync-xhr=(),microphone=(),camera=(),magnetometer=(),gyroscope=(),payment=()
+Set-Cookie: Path=/; HttpOnly; Secure
+Feature-Policy: fullscreen 'self';
+Expect-CT: enforce; max-age=7776000
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>ADATKERAMAT</title>
+  <link rel="stylesheet" href="/style.css" />
+</head>
+
+<style>
+    .logo{
+      padding-top: 5px;
+      height: 100vh;
+      
+      text-align: center;
+      display: block
+    }
+</style>
+<body>
+  <section>
+    <div class="logo">
+        <H1>SELAMAT DATANG</H1>
+        <br>
+        <img width='200'  height='150' src='/images/rest-api-logo.png'  />
+        <br>
+        <h5>RESTfull API Service ADATKERAMAT Ver.  1.00
+          <div style="font-weight: normal;margin-top=5 ">Copyright Badan Penanggulangan Bencana &copy; 2021</div>
+        </h5>
+    </div>
+    <div class="title"></div>
+    <div class="subtitle">
+    </div>
+   
+  </section>
+</body>
+</html>

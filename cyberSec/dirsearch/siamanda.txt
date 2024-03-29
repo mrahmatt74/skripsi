@@ -1,0 +1,10 @@
+# Dirsearch started Thu Mar 28 12:38:07 2024 as: /usr/lib/python3/dist-packages/dirsearch/dirsearch.py -u https://siamanda.tangerangkab.go.id -o siamanda.txt
+
+301   162B   https://siamanda.tangerangkab.go.id/js    -> REDIRECTS TO: https://siamanda.tangerangkab.go.id/js/
+301   162B   https://siamanda.tangerangkab.go.id/css    -> REDIRECTS TO: https://siamanda.tangerangkab.go.id/css/
+200    15KB  https://siamanda.tangerangkab.go.id/favicon.ico
+301   162B   https://siamanda.tangerangkab.go.id/fonts    -> REDIRECTS TO: https://siamanda.tangerangkab.go.id/fonts/
+301   162B   https://siamanda.tangerangkab.go.id/images    -> REDIRECTS TO: https://siamanda.tangerangkab.go.id/images/
+403   548B   https://siamanda.tangerangkab.go.id/images/
+301   162B   https://siamanda.tangerangkab.go.id/img    -> REDIRECTS TO: https://siamanda.tangerangkab.go.id/img/
+403   548B   https://siamanda.tangerangkab.go.id/js/

@@ -1,0 +1,56 @@
+# Dirsearch started Wed Mar 27 06:33:38 2024 as: /usr/lib/python3/dist-packages/dirsearch/dirsearch.py -u csirt.tangerangkab.go.id -o csirt.txt
+
+301   178B   https://csirt.tangerangkab.go.id/js    -> REDIRECTS TO: https://csirt.tangerangkab.go.id/js/
+403   564B   https://csirt.tangerangkab.go.id/%2e%2e;/test
+404   564B   https://csirt.tangerangkab.go.id/adm/style/admin.css
+403   564B   https://csirt.tangerangkab.go.id/admin/.config
+404   564B   https://csirt.tangerangkab.go.id/admin_my_avatar.png
+403   564B   https://csirt.tangerangkab.go.id/admpar/.ftppass
+403   564B   https://csirt.tangerangkab.go.id/admrev/.ftppass
+403   564B   https://csirt.tangerangkab.go.id/bitrix/.settings.php.bak
+403   564B   https://csirt.tangerangkab.go.id/bitrix/.settings
+403   564B   https://csirt.tangerangkab.go.id/bitrix/.settings.bak
+403   564B   https://csirt.tangerangkab.go.id/bitrix/.settings.php
+404   564B   https://csirt.tangerangkab.go.id/bundles/kibana.style.css
+200     9KB  https://csirt.tangerangkab.go.id/contact
+301   178B   https://csirt.tangerangkab.go.id/css    -> REDIRECTS TO: https://csirt.tangerangkab.go.id/css/
+302   422B   https://csirt.tangerangkab.go.id/dashboard    -> REDIRECTS TO: https://csirt.tangerangkab.go.id/csirt-login
+302   422B   https://csirt.tangerangkab.go.id/dashboard/    -> REDIRECTS TO: https://csirt.tangerangkab.go.id/csirt-login
+403   564B   https://csirt.tangerangkab.go.id/ext/.deps
+200     0B   https://csirt.tangerangkab.go.id/favicon.ico
+200     8KB  https://csirt.tangerangkab.go.id/file
+200     8KB  https://csirt.tangerangkab.go.id/file/
+404   564B   https://csirt.tangerangkab.go.id/IdentityGuardSelfService/images/favicon.ico
+301   178B   https://csirt.tangerangkab.go.id/img    -> REDIRECTS TO: https://csirt.tangerangkab.go.id/img/
+302   414B   https://csirt.tangerangkab.go.id/index.php-bak    -> REDIRECTS TO: https://csirt.tangerangkab.go.id/index.php
+302   414B   https://csirt.tangerangkab.go.id/index.php.bak    -> REDIRECTS TO: https://csirt.tangerangkab.go.id/index.php
+302   414B   https://csirt.tangerangkab.go.id/index.php/login/    -> REDIRECTS TO: https://csirt.tangerangkab.go.id/index.php
+302   414B   https://csirt.tangerangkab.go.id/index.php5    -> REDIRECTS TO: https://csirt.tangerangkab.go.id/index.php
+302   414B   https://csirt.tangerangkab.go.id/index.php::$DATA    -> REDIRECTS TO: https://csirt.tangerangkab.go.id/index.php
+302   414B   https://csirt.tangerangkab.go.id/index.php3    -> REDIRECTS TO: https://csirt.tangerangkab.go.id/index.php
+302   414B   https://csirt.tangerangkab.go.id/index.php~    -> REDIRECTS TO: https://csirt.tangerangkab.go.id/index.php
+302   414B   https://csirt.tangerangkab.go.id/index.php4    -> REDIRECTS TO: https://csirt.tangerangkab.go.id/index.php
+302   414B   https://csirt.tangerangkab.go.id/index.php.    -> REDIRECTS TO: https://csirt.tangerangkab.go.id/index.php
+403   564B   https://csirt.tangerangkab.go.id/js/
+403   564B   https://csirt.tangerangkab.go.id/lib/flex/uploader/.actionScriptProperties
+403   564B   https://csirt.tangerangkab.go.id/lib/flex/uploader/.flexProperties
+403   564B   https://csirt.tangerangkab.go.id/lib/flex/uploader/.project
+403   564B   https://csirt.tangerangkab.go.id/lib/flex/varien/.settings
+403   564B   https://csirt.tangerangkab.go.id/lib/flex/varien/.project
+403   564B   https://csirt.tangerangkab.go.id/lib/flex/uploader/.settings
+403   564B   https://csirt.tangerangkab.go.id/lib/flex/varien/.flexLibProperties
+403   564B   https://csirt.tangerangkab.go.id/lib/flex/varien/.actionScriptProperties
+404   564B   https://csirt.tangerangkab.go.id/logo.gif
+403   564B   https://csirt.tangerangkab.go.id/mailer/.env
+200   114B   https://csirt.tangerangkab.go.id/nginx_status
+200    16KB  https://csirt.tangerangkab.go.id/posts
+302   398B   https://csirt.tangerangkab.go.id/register    -> REDIRECTS TO: https://csirt.tangerangkab.go.id/posts
+403   564B   https://csirt.tangerangkab.go.id/resources/.arch-internal-preview.css
+403   564B   https://csirt.tangerangkab.go.id/resources/sass/.sass-cache/
+200    24B   https://csirt.tangerangkab.go.id/robots.txt
+200     9KB  https://csirt.tangerangkab.go.id/service?Wsdl
+200     9KB  https://csirt.tangerangkab.go.id/service
+404   564B   https://csirt.tangerangkab.go.id/skin1_admin.css
+403   564B   https://csirt.tangerangkab.go.id/storage/
+301   178B   https://csirt.tangerangkab.go.id/storage    -> REDIRECTS TO: https://csirt.tangerangkab.go.id/storage/
+403   564B   https://csirt.tangerangkab.go.id/twitter/.env

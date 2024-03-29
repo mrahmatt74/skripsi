@@ -1,0 +1,61 @@
+# Dirsearch started Thu Mar 28 12:08:15 2024 as: /usr/lib/python3/dist-packages/dirsearch/dirsearch.py -u perpusip.tangerangkab.go.id -o perpusip.txt
+
+403   564B   https://perpusip.tangerangkab.go.id/%2e%2e;/test
+301   178B   https://perpusip.tangerangkab.go.id/js    -> REDIRECTS TO: https://perpusip.tangerangkab.go.id/js/
+404   564B   https://perpusip.tangerangkab.go.id/adm/style/admin.css
+302   386B   https://perpusip.tangerangkab.go.id/admin    -> REDIRECTS TO: https://perpusip.tangerangkab.go.id
+403   564B   https://perpusip.tangerangkab.go.id/admin/.config
+302   386B   https://perpusip.tangerangkab.go.id/admin/    -> REDIRECTS TO: https://perpusip.tangerangkab.go.id
+404   564B   https://perpusip.tangerangkab.go.id/admin_my_avatar.png
+403   564B   https://perpusip.tangerangkab.go.id/admrev/.ftppass
+403   564B   https://perpusip.tangerangkab.go.id/admpar/.ftppass
+302     1KB  https://perpusip.tangerangkab.go.id/auth    -> REDIRECTS TO: https://accounts.google.com/o/oauth2/auth?client_id=378236386170-olnaalr3tmpfuvll6u3n23hbopn816jm.apps.googleusercontent.com&redirect_uri=https%3A%2F%2Fearsip.tangerangkab.go.id%2Fauth%2Fgmail&scope=openid+profile+email&response_type=code&state=WYXq6X8NIDj96Krba1XWc5wqnTG7miesVqIOrYbw
+302     1KB  https://perpusip.tangerangkab.go.id/auth/    -> REDIRECTS TO: https://accounts.google.com/o/oauth2/auth?client_id=378236386170-olnaalr3tmpfuvll6u3n23hbopn816jm.apps.googleusercontent.com&redirect_uri=https%3A%2F%2Fearsip.tangerangkab.go.id%2Fauth%2Fgmail&scope=openid+profile+email&response_type=code&state=pwfyE7oXxeSa858ueP6lRGlu9BZdyFalithDatJk
+403   564B   https://perpusip.tangerangkab.go.id/bitrix/.settings
+403   564B   https://perpusip.tangerangkab.go.id/bitrix/.settings.bak
+403   564B   https://perpusip.tangerangkab.go.id/bitrix/.settings.php.bak
+403   564B   https://perpusip.tangerangkab.go.id/bitrix/.settings.php
+404   564B   https://perpusip.tangerangkab.go.id/bundles/kibana.style.css
+301   178B   https://perpusip.tangerangkab.go.id/cms    -> REDIRECTS TO: https://perpusip.tangerangkab.go.id/cms/
+403   564B   https://perpusip.tangerangkab.go.id/cms/
+301   178B   https://perpusip.tangerangkab.go.id/css    -> REDIRECTS TO: https://perpusip.tangerangkab.go.id/css/
+403   564B   https://perpusip.tangerangkab.go.id/ext/.deps
+200     0B   https://perpusip.tangerangkab.go.id/favicon.ico
+404   564B   https://perpusip.tangerangkab.go.id/IdentityGuardSelfService/images/favicon.ico
+200    13KB  https://perpusip.tangerangkab.go.id/index.php
+404     2KB  https://perpusip.tangerangkab.go.id/index.php.
+404     2KB  https://perpusip.tangerangkab.go.id/index.php.bak
+404     2KB  https://perpusip.tangerangkab.go.id/index.php3
+404     2KB  https://perpusip.tangerangkab.go.id/index.php::$DATA
+404     2KB  https://perpusip.tangerangkab.go.id/index.php~
+404     2KB  https://perpusip.tangerangkab.go.id/index.php/login/
+404     2KB  https://perpusip.tangerangkab.go.id/index.php-bak
+404     2KB  https://perpusip.tangerangkab.go.id/index.php5
+404     2KB  https://perpusip.tangerangkab.go.id/index.php4
+403   564B   https://perpusip.tangerangkab.go.id/js/
+403   564B   https://perpusip.tangerangkab.go.id/lib/flex/uploader/.settings
+403   564B   https://perpusip.tangerangkab.go.id/lib/flex/uploader/.project
+403   564B   https://perpusip.tangerangkab.go.id/lib/flex/uploader/.actionScriptProperties
+403   564B   https://perpusip.tangerangkab.go.id/lib/flex/varien/.project
+403   564B   https://perpusip.tangerangkab.go.id/lib/flex/varien/.flexLibProperties
+403   564B   https://perpusip.tangerangkab.go.id/lib/flex/varien/.actionScriptProperties
+403   564B   https://perpusip.tangerangkab.go.id/lib/flex/uploader/.flexProperties
+403   564B   https://perpusip.tangerangkab.go.id/lib/flex/varien/.settings
+404   564B   https://perpusip.tangerangkab.go.id/logo.gif
+302   386B   https://perpusip.tangerangkab.go.id/logs    -> REDIRECTS TO: https://perpusip.tangerangkab.go.id
+302   386B   https://perpusip.tangerangkab.go.id/logs/    -> REDIRECTS TO: https://perpusip.tangerangkab.go.id
+403   564B   https://perpusip.tangerangkab.go.id/mailer/.env
+301   178B   https://perpusip.tangerangkab.go.id/media    -> REDIRECTS TO: https://perpusip.tangerangkab.go.id/media/
+403   564B   https://perpusip.tangerangkab.go.id/media/
+200   114B   https://perpusip.tangerangkab.go.id/nginx_status
+301   178B   https://perpusip.tangerangkab.go.id/plugins    -> REDIRECTS TO: https://perpusip.tangerangkab.go.id/plugins/
+403   564B   https://perpusip.tangerangkab.go.id/plugins/
+403   564B   https://perpusip.tangerangkab.go.id/resources/.arch-internal-preview.css
+403   564B   https://perpusip.tangerangkab.go.id/resources/sass/.sass-cache/
+200    24B   https://perpusip.tangerangkab.go.id/robots.txt
+404   564B   https://perpusip.tangerangkab.go.id/skin1_admin.css
+403   564B   https://perpusip.tangerangkab.go.id/storage/
+301   178B   https://perpusip.tangerangkab.go.id/storage    -> REDIRECTS TO: https://perpusip.tangerangkab.go.id/storage/
+403   564B   https://perpusip.tangerangkab.go.id/twitter/.env
+403   564B   https://perpusip.tangerangkab.go.id/vendor/
+200     1KB  https://perpusip.tangerangkab.go.id/web.config

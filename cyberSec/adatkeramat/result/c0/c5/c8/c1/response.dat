@@ -1,0 +1,22 @@
+HTTP/1.1 200 Partial Content
+Server: nginx
+Date: Tue, 19 Mar 2024 18:00:30 GMT
+Content-Type: text/html; charset=utf-8
+Content-Length: 1508
+Last-Modified: Mon, 20 Feb 2023 08:52:54 GMT
+Connection: close
+ETag: "63f334e6-5e4"
+X-Frame-Options: SAMEORIGIN
+X-XSS-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Referrer-Policy: no-referrer-when-downgrade
+X-Permitted-Cross-Domain-Policies: master-only
+Content-Security-Policy: frame-ancestors 'self'
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Permissions-Policy: geolocation=(),midi=(),sync-xhr=(),microphone=(),camera=(),magnetometer=(),gyroscope=(),payment=()
+Set-Cookie: Path=/; HttpOnly; Secure
+Feature-Policy: fullscreen 'self';
+Expect-CT: enforce; max-age=7776000
+Content-Range: bytes 0-1507/1508
+
+<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="viewport" content="width=device-width,initial-scale=1"><link rel="icon" id="favicon" href="/favicon.ico"><title>Loading...</title><link href="https://fonts.googleapis.com/css?family=Montserrat:400,500,500i,600,700,800" rel="stylesheet"><link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet"><link href="https://cdn.materialdesignicons.com/2.5.94/css/materialdesignicons.min.css" rel="stylesheet"><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/material-design-iconic-font/2.2.0/css/material-design-iconic-font.min.css"><link rel="stylesheet" type="text/css" href="./css/waves.css"><link rel="stylesheet" href="https://unpkg.com/leaflet-geosearch@2.6.0/assets/css/leaflet.css"><link href="/css/app.5960aefa.css" rel="preload" as="style"><link href="/css/chunk-vendors.a98fcd41.css" rel="preload" as="style"><link href="/js/app.8d21fcc5.js" rel="preload" as="script"><link href="/js/chunk-vendors.ad615650.js" rel="preload" as="script"><link href="/css/chunk-vendors.a98fcd41.css" rel="stylesheet"><link href="/css/app.5960aefa.css" rel="stylesheet"></head><body><noscript><strong>We're sorry but vue-todo doesn't work properly without JavaScript enabled. Please enable it to continue.</strong></noscript><div id="app"></div><script src="/js/chunk-vendors.ad615650.js"></script><script src="/js/app.8d21fcc5.js"></script></body></html>

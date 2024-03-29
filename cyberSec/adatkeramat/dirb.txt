@@ -1,0 +1,35 @@
+
+-----------------
+DIRB v2.22    
+By The Dark Raver
+-----------------
+
+OUTPUT_FILE: dirb.txt
+START_TIME: Tue Mar 19 14:09:31 2024
+URL_BASE: https://adatkeramat.tangerangkab.go.id/
+WORDLIST_FILES: /usr/share/dirb/wordlists/common.txt
+
+-----------------
+
+GENERATED WORDS: 4612
+
+---- Scanning URL: https://adatkeramat.tangerangkab.go.id/ ----
+==> DIRECTORY: https://adatkeramat.tangerangkab.go.id/css/
++ https://adatkeramat.tangerangkab.go.id/favicon.ico (CODE:200|SIZE:15406)
+==> DIRECTORY: https://adatkeramat.tangerangkab.go.id/fonts/
+==> DIRECTORY: https://adatkeramat.tangerangkab.go.id/images/
+==> DIRECTORY: https://adatkeramat.tangerangkab.go.id/img/
+==> DIRECTORY: https://adatkeramat.tangerangkab.go.id/js/
+
+---- Entering directory: https://adatkeramat.tangerangkab.go.id/css/ ----
+
+---- Entering directory: https://adatkeramat.tangerangkab.go.id/fonts/ ----
+
+---- Entering directory: https://adatkeramat.tangerangkab.go.id/images/ ----
+
+(!) FATAL: Too many errors connecting to host
+    (Possible cause: SSL CONNECT ERROR)
+
+-----------------
+END_TIME: Tue Mar 19 14:35:52 2024
+DOWNLOADED: 17885 - FOUND: 1

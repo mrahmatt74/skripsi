@@ -1,0 +1,31 @@
+HTTP/1.1 301 Moved Permanently
+Server: nginx
+Date: Tue, 19 Mar 2024 18:16:29 GMT
+Content-Type: text/html; charset=UTF-8
+Content-Length: 173
+Connection: keep-alive
+Content-Security-Policy: default-src 'none'
+X-Content-Type-Options: nosniff
+Location: /css/
+X-Frame-Options: SAMEORIGIN
+X-XSS-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Referrer-Policy: no-referrer-when-downgrade
+X-Permitted-Cross-Domain-Policies: master-only
+Content-Security-Policy: frame-ancestors 'self'
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Permissions-Policy: geolocation=(),midi=(),sync-xhr=(),microphone=(),camera=(),magnetometer=(),gyroscope=(),payment=()
+Set-Cookie: Path=/; HttpOnly; Secure
+Feature-Policy: fullscreen 'self';
+Expect-CT: enforce; max-age=7776000
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Redirecting</title>
+</head>
+<body>
+<pre>Redirecting to <a href="/css/">/css/</a></pre>
+</body>
+</html>

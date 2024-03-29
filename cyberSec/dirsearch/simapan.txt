@@ -1,0 +1,95 @@
+# Dirsearch started Thu Mar 28 12:57:42 2024 as: /usr/lib/python3/dist-packages/dirsearch/dirsearch.py -u https://simapan.tangerangkab.go.id -o simapan.txt
+
+403   555B   https://simapan.tangerangkab.go.id/%2e%2e;/test
+403   552B   https://simapan.tangerangkab.go.id/+CSCOT+/translation-table?type=mst&textdomain=/%2bCSCOE%2b/portal_inc.lua&default-language&lang=../
+301   169B   https://simapan.tangerangkab.go.id/js    -> REDIRECTS TO: https://simapan.tangerangkab.go.id/js/
+302   430B   https://simapan.tangerangkab.go.id/admin    -> REDIRECTS TO: https://simapan.tangerangkab.go.id/admin/login
+302   430B   https://simapan.tangerangkab.go.id/admin/    -> REDIRECTS TO: https://simapan.tangerangkab.go.id/admin/login
+403   555B   https://simapan.tangerangkab.go.id/admin/.config
+302   430B   https://simapan.tangerangkab.go.id/admin/logs/    -> REDIRECTS TO: https://simapan.tangerangkab.go.id/admin/login
+403   552B   https://simapan.tangerangkab.go.id/admin/portalcollect.php?f=http://xxx&t=js
+200    19KB  https://simapan.tangerangkab.go.id/admin/login
+302   406B   https://simapan.tangerangkab.go.id/administrator/    -> REDIRECTS TO: https://simapan.tangerangkab.go.id/login
+302   406B   https://simapan.tangerangkab.go.id/administrator/account.jsp    -> REDIRECTS TO: https://simapan.tangerangkab.go.id/login
+302   406B   https://simapan.tangerangkab.go.id/administrator/account.aspx    -> REDIRECTS TO: https://simapan.tangerangkab.go.id/login
+302   406B   https://simapan.tangerangkab.go.id/administrator/db/    -> REDIRECTS TO: https://simapan.tangerangkab.go.id/login
+302   406B   https://simapan.tangerangkab.go.id/administrator/account.html    -> REDIRECTS TO: https://simapan.tangerangkab.go.id/login
+302   406B   https://simapan.tangerangkab.go.id/administrator/index.js    -> REDIRECTS TO: https://simapan.tangerangkab.go.id/login
+302   406B   https://simapan.tangerangkab.go.id/administrator/index.html    -> REDIRECTS TO: https://simapan.tangerangkab.go.id/login
+302   406B   https://simapan.tangerangkab.go.id/administrator/account    -> REDIRECTS TO: https://simapan.tangerangkab.go.id/login
+302   406B   https://simapan.tangerangkab.go.id/administrator/admin/    -> REDIRECTS TO: https://simapan.tangerangkab.go.id/login
+302   406B   https://simapan.tangerangkab.go.id/administrator/login.aspx    -> REDIRECTS TO: https://simapan.tangerangkab.go.id/login
+302   406B   https://simapan.tangerangkab.go.id/administrator/login.jsp    -> REDIRECTS TO: https://simapan.tangerangkab.go.id/login
+302   406B   https://simapan.tangerangkab.go.id/administrator/index.jsp    -> REDIRECTS TO: https://simapan.tangerangkab.go.id/login
+302   406B   https://simapan.tangerangkab.go.id/administrator/login    -> REDIRECTS TO: https://simapan.tangerangkab.go.id/login
+302   406B   https://simapan.tangerangkab.go.id/administrator/login.html    -> REDIRECTS TO: https://simapan.tangerangkab.go.id/login
+302   406B   https://simapan.tangerangkab.go.id/administrator/logs    -> REDIRECTS TO: https://simapan.tangerangkab.go.id/login
+302   406B   https://simapan.tangerangkab.go.id/administrator    -> REDIRECTS TO: https://simapan.tangerangkab.go.id/login
+302   406B   https://simapan.tangerangkab.go.id/administrator/admin.asp    -> REDIRECTS TO: https://simapan.tangerangkab.go.id/login
+302   406B   https://simapan.tangerangkab.go.id/administrator/index.aspx    -> REDIRECTS TO: https://simapan.tangerangkab.go.id/login
+302   406B   https://simapan.tangerangkab.go.id/administrator/includes/    -> REDIRECTS TO: https://simapan.tangerangkab.go.id/login
+302   406B   https://simapan.tangerangkab.go.id/administrator/cache/    -> REDIRECTS TO: https://simapan.tangerangkab.go.id/login
+302   406B   https://simapan.tangerangkab.go.id/administrator/login.js    -> REDIRECTS TO: https://simapan.tangerangkab.go.id/login
+302   406B   https://simapan.tangerangkab.go.id/administrator/phpMyAdmin/    -> REDIRECTS TO: https://simapan.tangerangkab.go.id/login
+302   406B   https://simapan.tangerangkab.go.id/administrator/phpmyadmin/    -> REDIRECTS TO: https://simapan.tangerangkab.go.id/login
+302   406B   https://simapan.tangerangkab.go.id/administrator/PMA/    -> REDIRECTS TO: https://simapan.tangerangkab.go.id/login
+302   406B   https://simapan.tangerangkab.go.id/administrator/account.js    -> REDIRECTS TO: https://simapan.tangerangkab.go.id/login
+302   406B   https://simapan.tangerangkab.go.id/administrator/web/    -> REDIRECTS TO: https://simapan.tangerangkab.go.id/login
+302   406B   https://simapan.tangerangkab.go.id/administrator/pma/    -> REDIRECTS TO: https://simapan.tangerangkab.go.id/login
+302   406B   https://simapan.tangerangkab.go.id/administrator/logs/    -> REDIRECTS TO: https://simapan.tangerangkab.go.id/login
+403   555B   https://simapan.tangerangkab.go.id/admrev/.ftppass
+403   555B   https://simapan.tangerangkab.go.id/admpar/.ftppass
+200     0B   https://simapan.tangerangkab.go.id/api/profile
+302     0B   https://simapan.tangerangkab.go.id/assets/    -> REDIRECTS TO: ../
+301   169B   https://simapan.tangerangkab.go.id/assets    -> REDIRECTS TO: https://simapan.tangerangkab.go.id/assets/
+403   555B   https://simapan.tangerangkab.go.id/bitrix/.settings.php.bak
+403   555B   https://simapan.tangerangkab.go.id/bitrix/.settings.bak
+403   555B   https://simapan.tangerangkab.go.id/bitrix/.settings
+301   169B   https://simapan.tangerangkab.go.id/ckeditor    -> REDIRECTS TO: https://simapan.tangerangkab.go.id/ckeditor/
+403   555B   https://simapan.tangerangkab.go.id/ckeditor/
+200     7KB  https://simapan.tangerangkab.go.id/ckeditor/samples/
+403   552B   https://simapan.tangerangkab.go.id/docpicker/common_proxy/http/www.redbooks.ibm.com/Redbooks.nsf/RedbookAbstracts/sg247798.html?Logout&RedirectTo=http://example.com
+403   555B   https://simapan.tangerangkab.go.id/ext/.deps
+403   552B   https://simapan.tangerangkab.go.id/faces/javax.faces.resource/web.xml?ln=../WEB-INF
+301   169B   https://simapan.tangerangkab.go.id/files    -> REDIRECTS TO: https://simapan.tangerangkab.go.id/files/
+200     5KB  https://simapan.tangerangkab.go.id/favicon.ico
+403   555B   https://simapan.tangerangkab.go.id/files/
+301   169B   https://simapan.tangerangkab.go.id/img    -> REDIRECTS TO: https://simapan.tangerangkab.go.id/img/
+302   486B   https://simapan.tangerangkab.go.id/index.php/login/    -> REDIRECTS TO: https://simapan.tangerangkab.go.id/index.php/admin/dashboard
+200    21KB  https://simapan.tangerangkab.go.id/index.php
+200   114KB  https://simapan.tangerangkab.go.id/home
+403   555B   https://simapan.tangerangkab.go.id/js/
+403   555B   https://simapan.tangerangkab.go.id/lib/flex/uploader/.actionScriptProperties
+403   555B   https://simapan.tangerangkab.go.id/lib/flex/uploader/.project
+403   555B   https://simapan.tangerangkab.go.id/lib/flex/uploader/.flexProperties
+403   555B   https://simapan.tangerangkab.go.id/lib/flex/uploader/.settings
+403   555B   https://simapan.tangerangkab.go.id/lib/flex/varien/.settings
+403   555B   https://simapan.tangerangkab.go.id/lib/flex/varien/.flexLibProperties
+403   555B   https://simapan.tangerangkab.go.id/lib/flex/varien/.project
+302   446B   https://simapan.tangerangkab.go.id/login    -> REDIRECTS TO: https://simapan.tangerangkab.go.id/admin/dashboard
+302   446B   https://simapan.tangerangkab.go.id/login/    -> REDIRECTS TO: https://simapan.tangerangkab.go.id/admin/dashboard
+302   406B   https://simapan.tangerangkab.go.id/logout    -> REDIRECTS TO: https://simapan.tangerangkab.go.id/login
+403   555B   https://simapan.tangerangkab.go.id/mailer/.env
+403   555B   https://simapan.tangerangkab.go.id/lib/flex/varien/.actionScriptProperties
+302   406B   https://simapan.tangerangkab.go.id/logout/    -> REDIRECTS TO: https://simapan.tangerangkab.go.id/login
+301   169B   https://simapan.tangerangkab.go.id/maps    -> REDIRECTS TO: https://simapan.tangerangkab.go.id/maps/
+301   169B   https://simapan.tangerangkab.go.id/photos    -> REDIRECTS TO: https://simapan.tangerangkab.go.id/photos/
+301   169B   https://simapan.tangerangkab.go.id/portal    -> REDIRECTS TO: https://simapan.tangerangkab.go.id/portal/
+403   555B   https://simapan.tangerangkab.go.id/portal/
+302   406B   https://simapan.tangerangkab.go.id/register    -> REDIRECTS TO: https://simapan.tangerangkab.go.id/login
+403   555B   https://simapan.tangerangkab.go.id/resources/.arch-internal-preview.css
+403   555B   https://simapan.tangerangkab.go.id/resources/sass/.sass-cache/
+200    24B   https://simapan.tangerangkab.go.id/robots.txt
+301   169B   https://simapan.tangerangkab.go.id/storage    -> REDIRECTS TO: https://simapan.tangerangkab.go.id/storage/
+403   555B   https://simapan.tangerangkab.go.id/storage/
+301   169B   https://simapan.tangerangkab.go.id/theme    -> REDIRECTS TO: https://simapan.tangerangkab.go.id/theme/
+301   169B   https://simapan.tangerangkab.go.id/tinymce    -> REDIRECTS TO: https://simapan.tangerangkab.go.id/tinymce/
+403   555B   https://simapan.tangerangkab.go.id/tinymce/
+403   555B   https://simapan.tangerangkab.go.id/twitter/.env
+403   555B   https://simapan.tangerangkab.go.id/vendor/
+200     1KB  https://simapan.tangerangkab.go.id/web.config
+403   552B   https://simapan.tangerangkab.go.id/wps/common_proxy/http/www.redbooks.ibm.com/Redbooks.nsf/RedbookAbstracts/sg247798.html?Logout&RedirectTo=http://example.com
+403   552B   https://simapan.tangerangkab.go.id/wps/cmis_proxy/http/www.redbooks.ibm.com/Redbooks.nsf/RedbookAbstracts/sg247798.html?Logout&RedirectTo=http://example.com
+403   552B   https://simapan.tangerangkab.go.id/wps/myproxy/http/www.redbooks.ibm.com/Redbooks.nsf/RedbookAbstracts/sg247798.html?Logout&RedirectTo=http://example.com
+403   552B   https://simapan.tangerangkab.go.id/wps/contenthandler/!ut/p/digest!8skKFbWr_TwcZcvoc9Dn3g/?uri=http://www.redbooks.ibm.com/Redbooks.nsf/RedbookAbstracts/sg247798.html?Logout&RedirectTo=http://example.com
+403   552B   https://simapan.tangerangkab.go.id/wps/proxy/http/www.redbooks.ibm.com/Redbooks.nsf/RedbookAbstracts/sg247798.html?Logout&RedirectTo=http://example.com

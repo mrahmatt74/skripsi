@@ -1,0 +1,61 @@
+# Dirsearch started Wed Mar 27 10:53:02 2024 as: /usr/lib/python3/dist-packages/dirsearch/dirsearch.py -u earsip.tangerangkab.go.id -o earsip.txt
+
+403   564B   https://earsip.tangerangkab.go.id/%2e%2e;/test
+301   178B   https://earsip.tangerangkab.go.id/js    -> REDIRECTS TO: https://earsip.tangerangkab.go.id/js/
+404   564B   https://earsip.tangerangkab.go.id/adm/style/admin.css
+302   378B   https://earsip.tangerangkab.go.id/admin    -> REDIRECTS TO: https://earsip.tangerangkab.go.id
+302   378B   https://earsip.tangerangkab.go.id/admin/    -> REDIRECTS TO: https://earsip.tangerangkab.go.id
+403   564B   https://earsip.tangerangkab.go.id/admin/.config
+404   564B   https://earsip.tangerangkab.go.id/admin_my_avatar.png
+403   564B   https://earsip.tangerangkab.go.id/admrev/.ftppass
+403   564B   https://earsip.tangerangkab.go.id/admpar/.ftppass
+302     1KB  https://earsip.tangerangkab.go.id/auth    -> REDIRECTS TO: https://accounts.google.com/o/oauth2/auth?client_id=378236386170-olnaalr3tmpfuvll6u3n23hbopn816jm.apps.googleusercontent.com&redirect_uri=https%3A%2F%2Fearsip.tangerangkab.go.id%2Fauth%2Fgmail&scope=openid+profile+email&response_type=code&state=8fNx6Q74SLx2WZaPSMfpWOJfs1MUqeLC9TlJdL5C
+302     1KB  https://earsip.tangerangkab.go.id/auth/    -> REDIRECTS TO: https://accounts.google.com/o/oauth2/auth?client_id=378236386170-olnaalr3tmpfuvll6u3n23hbopn816jm.apps.googleusercontent.com&redirect_uri=https%3A%2F%2Fearsip.tangerangkab.go.id%2Fauth%2Fgmail&scope=openid+profile+email&response_type=code&state=ZY4sqFgbSOEosadcfn0igKYKKqofATu9SbyBEr7p
+403   564B   https://earsip.tangerangkab.go.id/bitrix/.settings.bak
+403   564B   https://earsip.tangerangkab.go.id/bitrix/.settings.php
+403   564B   https://earsip.tangerangkab.go.id/bitrix/.settings
+403   564B   https://earsip.tangerangkab.go.id/bitrix/.settings.php.bak
+404   564B   https://earsip.tangerangkab.go.id/bundles/kibana.style.css
+403   564B   https://earsip.tangerangkab.go.id/cms/
+301   178B   https://earsip.tangerangkab.go.id/cms    -> REDIRECTS TO: https://earsip.tangerangkab.go.id/cms/
+301   178B   https://earsip.tangerangkab.go.id/css    -> REDIRECTS TO: https://earsip.tangerangkab.go.id/css/
+403   564B   https://earsip.tangerangkab.go.id/ext/.deps
+200     0B   https://earsip.tangerangkab.go.id/favicon.ico
+404   564B   https://earsip.tangerangkab.go.id/IdentityGuardSelfService/images/favicon.ico
+200    13KB  https://earsip.tangerangkab.go.id/index.php
+404     2KB  https://earsip.tangerangkab.go.id/index.php-bak
+404     2KB  https://earsip.tangerangkab.go.id/index.php.
+404     2KB  https://earsip.tangerangkab.go.id/index.php/login/
+404     2KB  https://earsip.tangerangkab.go.id/index.php4
+404     2KB  https://earsip.tangerangkab.go.id/index.php~
+404     2KB  https://earsip.tangerangkab.go.id/index.php.bak
+404     2KB  https://earsip.tangerangkab.go.id/index.php::$DATA
+404     2KB  https://earsip.tangerangkab.go.id/index.php5
+404     2KB  https://earsip.tangerangkab.go.id/index.php3
+403   564B   https://earsip.tangerangkab.go.id/js/
+403   564B   https://earsip.tangerangkab.go.id/lib/flex/uploader/.settings
+403   564B   https://earsip.tangerangkab.go.id/lib/flex/uploader/.project
+403   564B   https://earsip.tangerangkab.go.id/lib/flex/uploader/.actionScriptProperties
+403   564B   https://earsip.tangerangkab.go.id/lib/flex/uploader/.flexProperties
+403   564B   https://earsip.tangerangkab.go.id/lib/flex/varien/.actionScriptProperties
+403   564B   https://earsip.tangerangkab.go.id/lib/flex/varien/.settings
+403   564B   https://earsip.tangerangkab.go.id/lib/flex/varien/.project
+403   564B   https://earsip.tangerangkab.go.id/lib/flex/varien/.flexLibProperties
+404   564B   https://earsip.tangerangkab.go.id/logo.gif
+302   378B   https://earsip.tangerangkab.go.id/logs    -> REDIRECTS TO: https://earsip.tangerangkab.go.id
+302   378B   https://earsip.tangerangkab.go.id/logs/    -> REDIRECTS TO: https://earsip.tangerangkab.go.id
+403   564B   https://earsip.tangerangkab.go.id/mailer/.env
+301   178B   https://earsip.tangerangkab.go.id/media    -> REDIRECTS TO: https://earsip.tangerangkab.go.id/media/
+403   564B   https://earsip.tangerangkab.go.id/media/
+200   114B   https://earsip.tangerangkab.go.id/nginx_status
+403   564B   https://earsip.tangerangkab.go.id/plugins/
+301   178B   https://earsip.tangerangkab.go.id/plugins    -> REDIRECTS TO: https://earsip.tangerangkab.go.id/plugins/
+403   564B   https://earsip.tangerangkab.go.id/resources/.arch-internal-preview.css
+403   564B   https://earsip.tangerangkab.go.id/resources/sass/.sass-cache/
+200    24B   https://earsip.tangerangkab.go.id/robots.txt
+404   564B   https://earsip.tangerangkab.go.id/skin1_admin.css
+301   178B   https://earsip.tangerangkab.go.id/storage    -> REDIRECTS TO: https://earsip.tangerangkab.go.id/storage/
+403   564B   https://earsip.tangerangkab.go.id/storage/
+403   564B   https://earsip.tangerangkab.go.id/twitter/.env
+403   564B   https://earsip.tangerangkab.go.id/vendor/
+200     1KB  https://earsip.tangerangkab.go.id/web.config

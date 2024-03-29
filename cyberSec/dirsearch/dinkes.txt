@@ -1,0 +1,40 @@
+# Dirsearch started Wed Mar 27 10:39:43 2024 as: /usr/lib/python3/dist-packages/dirsearch/dirsearch.py -u dinkes.tangerangkab.go.id -o dinkes.txt
+
+200     6KB  https://dinkes.tangerangkab.go.id/.DS_Store
+200    16B   https://dinkes.tangerangkab.go.id/.gitignore
+200   603B   https://dinkes.tangerangkab.go.id/.htaccess
+405  1005B   https://dinkes.tangerangkab.go.id/_ignition/execute-solution
+403   564B   https://dinkes.tangerangkab.go.id/_thumbs/
+200     9KB  https://dinkes.tangerangkab.go.id/admin/login
+302   426B   https://dinkes.tangerangkab.go.id/dashboard    -> REDIRECTS TO: https://dinkes.tangerangkab.go.id/admin/login
+302   426B   https://dinkes.tangerangkab.go.id/dashboard/    -> REDIRECTS TO: https://dinkes.tangerangkab.go.id/admin/login
+301   178B   https://dinkes.tangerangkab.go.id/documents    -> REDIRECTS TO: https://dinkes.tangerangkab.go.id/documents/
+200     0B   https://dinkes.tangerangkab.go.id/favicon.ico
+301   178B   https://dinkes.tangerangkab.go.id/images    -> REDIRECTS TO: https://dinkes.tangerangkab.go.id/images/
+403   564B   https://dinkes.tangerangkab.go.id/images/
+404     3KB  https://dinkes.tangerangkab.go.id/index.php-bak
+404     3KB  https://dinkes.tangerangkab.go.id/index.php.
+404     3KB  https://dinkes.tangerangkab.go.id/index.php.bak
+404     3KB  https://dinkes.tangerangkab.go.id/index.php~
+404     3KB  https://dinkes.tangerangkab.go.id/index.php/login/
+200    62KB  https://dinkes.tangerangkab.go.id/index.php
+404     3KB  https://dinkes.tangerangkab.go.id/index.php::$DATA
+404     3KB  https://dinkes.tangerangkab.go.id/index.php5
+404     3KB  https://dinkes.tangerangkab.go.id/index.php4
+404     3KB  https://dinkes.tangerangkab.go.id/index.php3
+302   426B   https://dinkes.tangerangkab.go.id/menu    -> REDIRECTS TO: https://dinkes.tangerangkab.go.id/admin/login
+200   118B   https://dinkes.tangerangkab.go.id/nginx_status
+200    24B   https://dinkes.tangerangkab.go.id/robots.txt
+403   564B   https://dinkes.tangerangkab.go.id/storage/
+301   178B   https://dinkes.tangerangkab.go.id/storage    -> REDIRECTS TO: https://dinkes.tangerangkab.go.id/storage/
+301   178B   https://dinkes.tangerangkab.go.id/theme    -> REDIRECTS TO: https://dinkes.tangerangkab.go.id/theme/
+302   426B   https://dinkes.tangerangkab.go.id/users    -> REDIRECTS TO: https://dinkes.tangerangkab.go.id/admin/login
+302   426B   https://dinkes.tangerangkab.go.id/users/login    -> REDIRECTS TO: https://dinkes.tangerangkab.go.id/admin/login
+302   426B   https://dinkes.tangerangkab.go.id/users/login.html    -> REDIRECTS TO: https://dinkes.tangerangkab.go.id/admin/login
+302   426B   https://dinkes.tangerangkab.go.id/users/    -> REDIRECTS TO: https://dinkes.tangerangkab.go.id/admin/login
+302   426B   https://dinkes.tangerangkab.go.id/users/login.aspx    -> REDIRECTS TO: https://dinkes.tangerangkab.go.id/admin/login
+302   426B   https://dinkes.tangerangkab.go.id/users/admin    -> REDIRECTS TO: https://dinkes.tangerangkab.go.id/admin/login
+302   426B   https://dinkes.tangerangkab.go.id/users/login.jsp    -> REDIRECTS TO: https://dinkes.tangerangkab.go.id/admin/login
+302   426B   https://dinkes.tangerangkab.go.id/users/login.js    -> REDIRECTS TO: https://dinkes.tangerangkab.go.id/admin/login
+403   564B   https://dinkes.tangerangkab.go.id/vendor/
+302   426B   https://dinkes.tangerangkab.go.id/video    -> REDIRECTS TO: https://dinkes.tangerangkab.go.id/admin/login

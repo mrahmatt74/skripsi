@@ -1,0 +1,9 @@
+GET /js/h(t){return/^[mzlhvcsqta]s*[-%2B.0-9][^mlhvzcsqta]%2B/i.test(t)%26%26/[dz] HTTP/1.1
+Host: adatkeramat.tangerangkab.go.id
+Accept-Encoding: gzip
+Connection: keep-alive
+User-Agent: Mozilla/5.0 SF/2.10b
+Range: bytes=0-399999
+Referer: https://adatkeramat.tangerangkab.go.id/
+Cookie: Path=/
+

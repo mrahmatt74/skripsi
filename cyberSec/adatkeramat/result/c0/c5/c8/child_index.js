@@ -1,0 +1,5 @@
+var child = [
+  { 'dupe': true, 'type': 32, 'name': 'office.png', 'dir': 'c0', 'linked': 1, 'url': 'https://adatkeramat.tangerangkab.go.id/js/images/office.png', 'fetched': true, 'code': 200, 'len': 1508, 'decl_mime': 'text/html', 'sniff_mime': '[none]', 'cset': 'utf-8', 'missing': true, 'csens': false, 'child_cnt': 0, 'issue_cnt': [ 0, 0, 0, 0, 0 ], 'sig': 0xffdfffff },
+  { 'dupe': true, 'type': 32, 'name': 'pencaker.png', 'dir': 'c1', 'linked': 1, 'url': 'https://adatkeramat.tangerangkab.go.id/js/images/pencaker.png', 'fetched': true, 'code': 200, 'len': 1508, 'decl_mime': 'text/html', 'sniff_mime': '[none]', 'cset': 'utf-8', 'missing': true, 'csens': false, 'child_cnt': 0, 'issue_cnt': [ 0, 0, 0, 0, 0 ], 'sig': 0xffdfffff },
+  { 'dupe': true, 'type': 32, 'name': 'total.png', 'dir': 'c2', 'linked': 1, 'url': 'https://adatkeramat.tangerangkab.go.id/js/images/total.png', 'fetched': true, 'code': 200, 'len': 1508, 'decl_mime': 'text/html', 'sniff_mime': '[none]', 'cset': 'utf-8', 'missing': true, 'csens': false, 'child_cnt': 0, 'issue_cnt': [ 0, 0, 0, 0, 0 ], 'sig': 0xffdfffff }
+];

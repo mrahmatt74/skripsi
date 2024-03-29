@@ -1,0 +1,27 @@
+# Dirsearch started Thu Mar 28 12:24:49 2024 as: /usr/lib/python3/dist-packages/dirsearch/dirsearch.py -u https://it-aset.tangerangkab.go.id -o it-aset.txt
+
+301   178B   https://it-aset.tangerangkab.go.id/js    -> REDIRECTS TO: https://it-aset.tangerangkab.go.id/js/
+200     1KB  https://it-aset.tangerangkab.go.id/.htaccess
+404   552B   https://it-aset.tangerangkab.go.id/.well-known/acme-challenge/dtfy
+405   835B   https://it-aset.tangerangkab.go.id/_ignition/execute-solution
+301   178B   https://it-aset.tangerangkab.go.id/css    -> REDIRECTS TO: https://it-aset.tangerangkab.go.id/css/
+200    17KB  https://it-aset.tangerangkab.go.id/favicon.ico
+302     1KB  https://it-aset.tangerangkab.go.id/google    -> REDIRECTS TO: https://accounts.google.com/o/oauth2/auth?redirect_uri=https%3A%2F%2Fit-aset.tangerangkab.go.id%2Fgoogle%2Fcallback&scope=openid+profile+email&response_type=code&state=dDGAwcXicrdKOzioInxI68iu2OOryKzii3VOKgx8
+200    15B   https://it-aset.tangerangkab.go.id/health
+301   178B   https://it-aset.tangerangkab.go.id/img    -> REDIRECTS TO: https://it-aset.tangerangkab.go.id/img/
+200     6KB  https://it-aset.tangerangkab.go.id/index.php/login/
+403   564B   https://it-aset.tangerangkab.go.id/js/
+200     6KB  https://it-aset.tangerangkab.go.id/login
+405   835B   https://it-aset.tangerangkab.go.id/logout
+200     6KB  https://it-aset.tangerangkab.go.id/login/
+405   835B   https://it-aset.tangerangkab.go.id/logout/
+200    26B   https://it-aset.tangerangkab.go.id/robots.txt
+302   382B   https://it-aset.tangerangkab.go.id/setup    -> REDIRECTS TO: https://it-aset.tangerangkab.go.id
+302   382B   https://it-aset.tangerangkab.go.id/setup.data    -> REDIRECTS TO: https://it-aset.tangerangkab.go.id
+302   382B   https://it-aset.tangerangkab.go.id/setup.log    -> REDIRECTS TO: https://it-aset.tangerangkab.go.id
+302   382B   https://it-aset.tangerangkab.go.id/setup.sql    -> REDIRECTS TO: https://it-aset.tangerangkab.go.id
+302   382B   https://it-aset.tangerangkab.go.id/setup/    -> REDIRECTS TO: https://it-aset.tangerangkab.go.id
+301   178B   https://it-aset.tangerangkab.go.id/uploads    -> REDIRECTS TO: https://it-aset.tangerangkab.go.id/uploads/
+403   564B   https://it-aset.tangerangkab.go.id/uploads/
+403   564B   https://it-aset.tangerangkab.go.id/vendor/
+200     1KB  https://it-aset.tangerangkab.go.id/web.config

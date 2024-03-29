@@ -1,0 +1,165 @@
+# Dirsearch started Wed Mar 27 10:57:31 2024 as: /usr/lib/python3/dist-packages/dirsearch/dirsearch.py -u drive.tangerangkab.go.id -o drive.txt
+
+404   548B   https://drive.tangerangkab.go.id/%2e%2e;/test
+301   162B   https://drive.tangerangkab.go.id/.well-known/apple-app-site-association    -> REDIRECTS TO: https://drive.tangerangkab.go.id/index.php/.well-known/apple-app-site-association
+301   162B   https://drive.tangerangkab.go.id/.well-known/apple-developer-merchant-domain-association    -> REDIRECTS TO: https://drive.tangerangkab.go.id/index.php/.well-known/apple-developer-merchant-domain-association
+301   162B   https://drive.tangerangkab.go.id/.well-known/ashrae    -> REDIRECTS TO: https://drive.tangerangkab.go.id/index.php/.well-known/ashrae
+301   162B   https://drive.tangerangkab.go.id/.well-known/caldav    -> REDIRECTS TO: https://drive.tangerangkab.go.id/remote.php/dav/
+301   162B   https://drive.tangerangkab.go.id/.well-known/carddav    -> REDIRECTS TO: https://drive.tangerangkab.go.id/remote.php/dav/
+301   162B   https://drive.tangerangkab.go.id/.well-known/assetlinks.json    -> REDIRECTS TO: https://drive.tangerangkab.go.id/index.php/.well-known/assetlinks.json
+301   162B   https://drive.tangerangkab.go.id/.well-known/browserid    -> REDIRECTS TO: https://drive.tangerangkab.go.id/index.php/.well-known/browserid
+301   162B   https://drive.tangerangkab.go.id/.well-known/core    -> REDIRECTS TO: https://drive.tangerangkab.go.id/index.php/.well-known/core
+301   162B   https://drive.tangerangkab.go.id/.well-known/csvm    -> REDIRECTS TO: https://drive.tangerangkab.go.id/index.php/.well-known/csvm
+301   162B   https://drive.tangerangkab.go.id/.well-known/est    -> REDIRECTS TO: https://drive.tangerangkab.go.id/index.php/.well-known/est
+301   162B   https://drive.tangerangkab.go.id/.well-known/genid    -> REDIRECTS TO: https://drive.tangerangkab.go.id/index.php/.well-known/genid
+301   162B   https://drive.tangerangkab.go.id/.well-known/keybase.txt    -> REDIRECTS TO: https://drive.tangerangkab.go.id/index.php/.well-known/keybase.txt
+301   162B   https://drive.tangerangkab.go.id/.well-known/host-meta    -> REDIRECTS TO: https://drive.tangerangkab.go.id/index.php/.well-known/host-meta
+301   162B   https://drive.tangerangkab.go.id/.well-known/posh    -> REDIRECTS TO: https://drive.tangerangkab.go.id/index.php/.well-known/posh
+301   162B   https://drive.tangerangkab.go.id/.well-known/stun-key    -> REDIRECTS TO: https://drive.tangerangkab.go.id/index.php/.well-known/stun-key
+301   162B   https://drive.tangerangkab.go.id/.well-known/time    -> REDIRECTS TO: https://drive.tangerangkab.go.id/index.php/.well-known/time
+301   162B   https://drive.tangerangkab.go.id/.well-known/void    -> REDIRECTS TO: https://drive.tangerangkab.go.id/index.php/.well-known/void
+301   162B   https://drive.tangerangkab.go.id/.well-known/webfinger    -> REDIRECTS TO: https://drive.tangerangkab.go.id/index.php/.well-known/webfinger
+301   162B   https://drive.tangerangkab.go.id/.well-known/timezone    -> REDIRECTS TO: https://drive.tangerangkab.go.id/index.php/.well-known/timezone
+301   162B   https://drive.tangerangkab.go.id/.well-known/host-meta.json    -> REDIRECTS TO: https://drive.tangerangkab.go.id/index.php/.well-known/host-meta.json
+301   162B   https://drive.tangerangkab.go.id/.well-known/reload-config    -> REDIRECTS TO: https://drive.tangerangkab.go.id/index.php/.well-known/reload-config
+301   162B   https://drive.tangerangkab.go.id/.well-known/dnt-policy.txt    -> REDIRECTS TO: https://drive.tangerangkab.go.id/index.php/.well-known/dnt-policy.txt
+301   162B   https://drive.tangerangkab.go.id/.well-known/ni    -> REDIRECTS TO: https://drive.tangerangkab.go.id/index.php/.well-known/ni
+301   162B   https://drive.tangerangkab.go.id/.well-known/openid-configuration    -> REDIRECTS TO: https://drive.tangerangkab.go.id/index.php/.well-known/openid-configuration
+301   162B   https://drive.tangerangkab.go.id/.well-known/security.txt    -> REDIRECTS TO: https://drive.tangerangkab.go.id/index.php/.well-known/security.txt
+301   162B   https://drive.tangerangkab.go.id/.well-known/repute-template    -> REDIRECTS TO: https://drive.tangerangkab.go.id/index.php/.well-known/repute-template
+301   162B   https://drive.tangerangkab.go.id/.well-known/openorg    -> REDIRECTS TO: https://drive.tangerangkab.go.id/index.php/.well-known/openorg
+301   162B   https://drive.tangerangkab.go.id/.well-known/hoba    -> REDIRECTS TO: https://drive.tangerangkab.go.id/index.php/.well-known/hoba
+301   162B   https://drive.tangerangkab.go.id/.well-known/jwks    -> REDIRECTS TO: https://drive.tangerangkab.go.id/index.php/.well-known/jwks
+301   162B   https://drive.tangerangkab.go.id/.well-known/dnt    -> REDIRECTS TO: https://drive.tangerangkab.go.id/index.php/.well-known/dnt
+301   162B   https://drive.tangerangkab.go.id/.well-known/jwks.json    -> REDIRECTS TO: https://drive.tangerangkab.go.id/index.php/.well-known/jwks.json
+404   548B   https://drive.tangerangkab.go.id/3rdparty
+301   162B   https://drive.tangerangkab.go.id/apps    -> REDIRECTS TO: https://drive.tangerangkab.go.id/apps/
+404   548B   https://drive.tangerangkab.go.id/build
+404   548B   https://drive.tangerangkab.go.id/build/
+404   548B   https://drive.tangerangkab.go.id/build/build.properties
+404   548B   https://drive.tangerangkab.go.id/build/buildinfo.properties
+404   548B   https://drive.tangerangkab.go.id/build/reference/web-api/explore
+404   548B   https://drive.tangerangkab.go.id/build/Release
+200     1KB  https://drive.tangerangkab.go.id/composer.json
+200     3KB  https://drive.tangerangkab.go.id/composer.lock
+404   548B   https://drive.tangerangkab.go.id/config
+404   548B   https://drive.tangerangkab.go.id/config/
+404   548B   https://drive.tangerangkab.go.id/config/app.yml
+404   548B   https://drive.tangerangkab.go.id/config/AppData.config
+404   548B   https://drive.tangerangkab.go.id/config/banned_words.txt
+404   548B   https://drive.tangerangkab.go.id/config/autoload/
+404   548B   https://drive.tangerangkab.go.id/config/database.yml.sqlite3
+404   548B   https://drive.tangerangkab.go.id/config/app.php
+404   548B   https://drive.tangerangkab.go.id/config/aws.yml
+404   548B   https://drive.tangerangkab.go.id/config/database.yml.pgsql
+404   548B   https://drive.tangerangkab.go.id/config/databases.yml
+404   548B   https://drive.tangerangkab.go.id/config/master.key
+404   548B   https://drive.tangerangkab.go.id/config/initializers/secret_token.rb
+404   548B   https://drive.tangerangkab.go.id/config/development/
+404   548B   https://drive.tangerangkab.go.id/config/apc.php
+404   548B   https://drive.tangerangkab.go.id/config/database.yml~
+404   548B   https://drive.tangerangkab.go.id/config/db.inc
+404   548B   https://drive.tangerangkab.go.id/config/monkcheckout.ini
+404   548B   https://drive.tangerangkab.go.id/config/config.ini
+404   548B   https://drive.tangerangkab.go.id/config/producao.ini
+404   548B   https://drive.tangerangkab.go.id/config/routes.yml
+404   548B   https://drive.tangerangkab.go.id/config/settings.ini.cfm
+404   548B   https://drive.tangerangkab.go.id/config/config.inc
+404   548B   https://drive.tangerangkab.go.id/config/monkdonate.ini
+404   548B   https://drive.tangerangkab.go.id/config/settings.inc
+404   548B   https://drive.tangerangkab.go.id/config/settings/production.yml
+404   548B   https://drive.tangerangkab.go.id/config/site.php
+404   548B   https://drive.tangerangkab.go.id/config/database.yml
+404   548B   https://drive.tangerangkab.go.id/config/settings.ini
+404   548B   https://drive.tangerangkab.go.id/config/settings.local.yml
+404   548B   https://drive.tangerangkab.go.id/config/xml/
+404   548B   https://drive.tangerangkab.go.id/config/monkid.ini
+404   548B   https://drive.tangerangkab.go.id/console/base/config.json
+404   548B   https://drive.tangerangkab.go.id/console
+404   548B   https://drive.tangerangkab.go.id/console/j_security_check
+404   548B   https://drive.tangerangkab.go.id/console/
+404   548B   https://drive.tangerangkab.go.id/console/login/LoginForm.jsp
+404   548B   https://drive.tangerangkab.go.id/console/payments/config.json
+301   162B   https://drive.tangerangkab.go.id/core    -> REDIRECTS TO: https://drive.tangerangkab.go.id/core/
+200    34KB  https://drive.tangerangkab.go.id/COPYING
+200    20B   https://drive.tangerangkab.go.id/cron.php
+404   548B   https://drive.tangerangkab.go.id/data
+404   548B   https://drive.tangerangkab.go.id/data/DoctrineORMModule/Proxy/
+404   548B   https://drive.tangerangkab.go.id/data/cache/
+404   548B   https://drive.tangerangkab.go.id/data/files/
+404   548B   https://drive.tangerangkab.go.id/data/
+404   548B   https://drive.tangerangkab.go.id/data/debug/
+404   548B   https://drive.tangerangkab.go.id/data/adminer.php
+404   548B   https://drive.tangerangkab.go.id/data/backups/
+404   548B   https://drive.tangerangkab.go.id/data/autosuggest
+404   548B   https://drive.tangerangkab.go.id/data/sessions/
+404   548B   https://drive.tangerangkab.go.id/data/tmp/
+404   548B   https://drive.tangerangkab.go.id/data/DoctrineORMModule/cache/
+404   548B   https://drive.tangerangkab.go.id/data/logs/
+404   548B   https://drive.tangerangkab.go.id/db_admin
+404   548B   https://drive.tangerangkab.go.id/db__.init.php
+404   548B   https://drive.tangerangkab.go.id/db_session.init.php
+404   548B   https://drive.tangerangkab.go.id/db_backups/
+404   548B   https://drive.tangerangkab.go.id/db_backup.sql
+404   548B   https://drive.tangerangkab.go.id/db_status.php
+301   162B   https://drive.tangerangkab.go.id/dist    -> REDIRECTS TO: https://drive.tangerangkab.go.id/dist/
+200   156B   https://drive.tangerangkab.go.id/index.html
+404   548B   https://drive.tangerangkab.go.id/index-test.php
+404   548B   https://drive.tangerangkab.go.id/index3.php
+404   548B   https://drive.tangerangkab.go.id/index_admin.php
+404   548B   https://drive.tangerangkab.go.id/index2.php
+404   548B   https://drive.tangerangkab.go.id/issue/createmeta
+404   548B   https://drive.tangerangkab.go.id/issues
+404    20KB  https://drive.tangerangkab.go.id/js/elfinder/elfinder.php
+404    20KB  https://drive.tangerangkab.go.id/js/swfupload/swfupload_f9.swf
+404    20KB  https://drive.tangerangkab.go.id/js/swfupload/swfupload.swf
+404   548B   https://drive.tangerangkab.go.id/lib
+404   548B   https://drive.tangerangkab.go.id/lib/fckeditor
+404   548B   https://drive.tangerangkab.go.id/lib/
+404   548B   https://drive.tangerangkab.go.id/lib/bundler/man/
+404   548B   https://drive.tangerangkab.go.id/lib/flex/uploader/.actionScriptProperties
+404   548B   https://drive.tangerangkab.go.id/lib/fckeditor/
+404   548B   https://drive.tangerangkab.go.id/lib/flex/varien/.actionScriptProperties
+404   548B   https://drive.tangerangkab.go.id/lib/flex/varien/.flexLibProperties
+404   548B   https://drive.tangerangkab.go.id/lib/flex/uploader/.project
+404   548B   https://drive.tangerangkab.go.id/lib/flex/uploader/.flexProperties
+404   548B   https://drive.tangerangkab.go.id/lib/flex/varien/.settings
+404   548B   https://drive.tangerangkab.go.id/lib/phpunit/phpunit/phpunit
+404   548B   https://drive.tangerangkab.go.id/lib/flex/varien/.project
+404   548B   https://drive.tangerangkab.go.id/lib/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+404   548B   https://drive.tangerangkab.go.id/lib/tinymce
+404   548B   https://drive.tangerangkab.go.id/lib/tiny_mce/
+404   548B   https://drive.tangerangkab.go.id/lib/tiny_mce
+404   548B   https://drive.tangerangkab.go.id/lib/flex/uploader/.settings
+404   548B   https://drive.tangerangkab.go.id/lib/phpunit/Util/PHP/eval-stdin.php
+404   548B   https://drive.tangerangkab.go.id/lib/phpunit/src/Util/PHP/eval-stdin.php
+404   548B   https://drive.tangerangkab.go.id/lib/tinymce/
+404   548B   https://drive.tangerangkab.go.id/lib/phpunit/phpunit/Util/PHP/eval-stdin.php
+200     8KB  https://drive.tangerangkab.go.id/login
+401    43B   https://drive.tangerangkab.go.id/logout
+200     6KB  https://drive.tangerangkab.go.id/package.json
+200     2MB  https://drive.tangerangkab.go.id/package-lock.json
+404     0B   https://drive.tangerangkab.go.id/public.php
+404   548B   https://drive.tangerangkab.go.id/public/adminer.php
+404   548B   https://drive.tangerangkab.go.id/publicadminer.php
+301   162B   https://drive.tangerangkab.go.id/remote-entry/    -> REDIRECTS TO: https://drive.tangerangkab.go.id/remote.php/remote-entry/
+301   162B   https://drive.tangerangkab.go.id/remote/fgt_lang?lang=/../../../../////////////////////////bin/sslvpnd    -> REDIRECTS TO: https://drive.tangerangkab.go.id/remote.php/remote/fgt_lang?lang=/../../../../////////////////////////bin/sslvpnd
+301   162B   https://drive.tangerangkab.go.id/remote/login    -> REDIRECTS TO: https://drive.tangerangkab.go.id/remote.php/remote/login
+301   162B   https://drive.tangerangkab.go.id/remote_adm/    -> REDIRECTS TO: https://drive.tangerangkab.go.id/remote.php/remote_adm/
+301   162B   https://drive.tangerangkab.go.id/remote/fgt_lang?lang=/../../../..//////////dev/cmdb/sslvpn_websession    -> REDIRECTS TO: https://drive.tangerangkab.go.id/remote.php/remote/fgt_lang?lang=/../../../..//////////dev/cmdb/sslvpn_websession
+301   162B   https://drive.tangerangkab.go.id/resources    -> REDIRECTS TO: https://drive.tangerangkab.go.id/resources/
+200    26B   https://drive.tangerangkab.go.id/robots.txt
+200   170B   https://drive.tangerangkab.go.id/status.php
+404   548B   https://drive.tangerangkab.go.id/templates
+404   548B   https://drive.tangerangkab.go.id/templates/
+404   548B   https://drive.tangerangkab.go.id/templates/index.html
+404   548B   https://drive.tangerangkab.go.id/templates/beez/index.php
+404   548B   https://drive.tangerangkab.go.id/templates/system/
+404   548B   https://drive.tangerangkab.go.id/templates/protostar/
+404   548B   https://drive.tangerangkab.go.id/templates/ja-helio-farsi/index.php
+404   548B   https://drive.tangerangkab.go.id/templates/beez3/
+404   548B   https://drive.tangerangkab.go.id/templates/rhuk_milkyway/index.php
+404   548B   https://drive.tangerangkab.go.id/tests/
+404   548B   https://drive.tangerangkab.go.id/tests
+404   548B   https://drive.tangerangkab.go.id/tests/phpunit_report.xml
+301   162B   https://drive.tangerangkab.go.id/themes    -> REDIRECTS TO: https://drive.tangerangkab.go.id/themes/

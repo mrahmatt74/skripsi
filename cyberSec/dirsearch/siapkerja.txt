@@ -1,0 +1,10 @@
+# Dirsearch started Thu Mar 28 12:49:27 2024 as: /usr/lib/python3/dist-packages/dirsearch/dirsearch.py -u siapkerja.tangerangkab.go.id -o siapkerja.txt
+
+301   194B   https://siapkerja.tangerangkab.go.id/js    -> REDIRECTS TO: https://siapkerja.tangerangkab.go.id/js/
+301   194B   https://siapkerja.tangerangkab.go.id/css    -> REDIRECTS TO: https://siapkerja.tangerangkab.go.id/css/
+200     7KB  https://siapkerja.tangerangkab.go.id/favicon.ico
+301   194B   https://siapkerja.tangerangkab.go.id/fonts    -> REDIRECTS TO: https://siapkerja.tangerangkab.go.id/fonts/
+403   580B   https://siapkerja.tangerangkab.go.id/images/
+301   194B   https://siapkerja.tangerangkab.go.id/images    -> REDIRECTS TO: https://siapkerja.tangerangkab.go.id/images/
+301   194B   https://siapkerja.tangerangkab.go.id/img    -> REDIRECTS TO: https://siapkerja.tangerangkab.go.id/img/
+403   580B   https://siapkerja.tangerangkab.go.id/js/

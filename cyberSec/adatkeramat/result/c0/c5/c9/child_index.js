@@ -1,0 +1,5 @@
+var child = [
+  { 'dupe': false, 'type': 16, 'name': '**', 'dir': 'c0', 'linked': 1, 'url': 'https://adatkeramat.tangerangkab.go.id/js/lib/**', 'fetched': true, 'code': 200, 'len': 1508, 'decl_mime': 'text/html', 'sniff_mime': '[none]', 'cset': 'utf-8', 'missing': false, 'csens': false, 'child_cnt': 0, 'issue_cnt': [ 0, 0, 0, 0, 0 ], 'sig': 0x85010d6 },
+  { 'dupe': true, 'type': 32, 'name': '*.js', 'dir': 'c1', 'linked': 1, 'url': 'https://adatkeramat.tangerangkab.go.id/js/lib/*.js', 'fetched': true, 'code': 200, 'len': 1508, 'decl_mime': 'text/html', 'sniff_mime': '[none]', 'cset': 'utf-8', 'missing': true, 'csens': false, 'child_cnt': 0, 'issue_cnt': [ 0, 0, 0, 0, 0 ], 'sig': 0xffdfffff },
+  { 'dupe': true, 'type': 32, 'name': 'elliptic.js', 'dir': 'c2', 'linked': 1, 'url': 'https://adatkeramat.tangerangkab.go.id/js/lib/elliptic.js', 'fetched': true, 'code': 200, 'len': 1508, 'decl_mime': 'text/html', 'sniff_mime': '[none]', 'cset': 'utf-8', 'missing': true, 'csens': false, 'child_cnt': 0, 'issue_cnt': [ 0, 0, 0, 0, 0 ], 'sig': 0xffdfffff }
+];

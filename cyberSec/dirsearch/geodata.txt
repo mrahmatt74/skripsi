@@ -1,0 +1,672 @@
+# Dirsearch started Wed Mar 27 14:14:46 2024 as: /usr/lib/python3/dist-packages/dirsearch/dirsearch.py -u geodata.tangerangkab.go.id -o geodata.txt
+
+404   555B   https://geodata.tangerangkab.go.id/jsp.tar
+404   555B   https://geodata.tangerangkab.go.id/php.tar
+404   555B   https://geodata.tangerangkab.go.id/php.tgz
+404   555B   https://geodata.tangerangkab.go.id/aspx.tar
+404   555B   https://geodata.tangerangkab.go.id/js.tar
+404   555B   https://geodata.tangerangkab.go.id/html.tar
+404   555B   https://geodata.tangerangkab.go.id/aspx.tgz
+404   555B   https://geodata.tangerangkab.go.id/jsp.tgz
+404   555B   https://geodata.tangerangkab.go.id/js.tgz
+404   555B   https://geodata.tangerangkab.go.id/html.tgz
+404   555B   https://geodata.tangerangkab.go.id/.apport-ignore.xml
+404   555B   https://geodata.tangerangkab.go.id/.bz2
+404   555B   https://geodata.tangerangkab.go.id/.config/filezilla/sitemanager.xml.xml
+404   555B   https://geodata.tangerangkab.go.id/.config/psi+/profiles/default/accounts.xml
+404   555B   https://geodata.tangerangkab.go.id/.db.xml
+404   555B   https://geodata.tangerangkab.go.id/.doc
+404   555B   https://geodata.tangerangkab.go.id/.filezilla/sitemanager.xml.xml
+404   555B   https://geodata.tangerangkab.go.id/.flv
+404   555B   https://geodata.tangerangkab.go.id/.gif
+404   555B   https://geodata.tangerangkab.go.id/.gz
+404   555B   https://geodata.tangerangkab.go.id/.ico
+404   555B   https://geodata.tangerangkab.go.id/.idea/assetwizardsettings.xml
+404   555B   https://geodata.tangerangkab.go.id/.idea/dataSources.local.xml
+404   555B   https://geodata.tangerangkab.go.id/.idea/copyright/profiles_settings.xml
+404   555B   https://geodata.tangerangkab.go.id/.idea/compiler.xml
+404   555B   https://geodata.tangerangkab.go.id/.idea/dataSources.xml
+404   555B   https://geodata.tangerangkab.go.id/.idea/deployment.xml
+404   555B   https://geodata.tangerangkab.go.id/.idea/gradle.xml
+404   555B   https://geodata.tangerangkab.go.id/.idea/encodings.xml
+404   555B   https://geodata.tangerangkab.go.id/.idea/naveditor.xml
+404   555B   https://geodata.tangerangkab.go.id/.idea/inspectionProfiles/Project_Default.xml
+404   555B   https://geodata.tangerangkab.go.id/.idea/misc.xml
+404   555B   https://geodata.tangerangkab.go.id/.idea/replstate.xml
+404   555B   https://geodata.tangerangkab.go.id/.idea/runConfigurations.xml
+404   555B   https://geodata.tangerangkab.go.id/.idea/modules.xml
+404   555B   https://geodata.tangerangkab.go.id/.idea/scopes/scope_settings.xml
+404   555B   https://geodata.tangerangkab.go.id/.idea/sqlDataSources.xml
+404   555B   https://geodata.tangerangkab.go.id/.idea/uiDesigner.xml
+404   555B   https://geodata.tangerangkab.go.id/.idea/tasks.xml
+404   555B   https://geodata.tangerangkab.go.id/.idea/vcs.xml
+404   555B   https://geodata.tangerangkab.go.id/.idea/workspace(2).xml
+404   555B   https://geodata.tangerangkab.go.id/.idea/webServers.xml
+404   555B   https://geodata.tangerangkab.go.id/.idea/workspace(4).xml
+404   555B   https://geodata.tangerangkab.go.id/.idea/workspace(3).xml
+404   555B   https://geodata.tangerangkab.go.id/.idea/workspace(6).xml
+404   555B   https://geodata.tangerangkab.go.id/.idea/workspace.xml
+404   555B   https://geodata.tangerangkab.go.id/.idea/workspace(5).xml
+404   555B   https://geodata.tangerangkab.go.id/.idea/workspace(7).xml
+404   555B   https://geodata.tangerangkab.go.id/.jpg
+404   555B   https://geodata.tangerangkab.go.id/.jpeg
+404   555B   https://geodata.tangerangkab.go.id/.pdf
+404   555B   https://geodata.tangerangkab.go.id/.PDF
+404   555B   https://geodata.tangerangkab.go.id/.phpcs.xml
+404   555B   https://geodata.tangerangkab.go.id/.png
+404   555B   https://geodata.tangerangkab.go.id/.project.xml
+404   555B   https://geodata.tangerangkab.go.id/.rar
+404   555B   https://geodata.tangerangkab.go.id/.settings/org.eclipse.wst.common.project.facet.core.xml
+404   555B   https://geodata.tangerangkab.go.id/.sql.bz2
+404   555B   https://geodata.tangerangkab.go.id/.sql.gz
+404   555B   https://geodata.tangerangkab.go.id/.swf
+404   555B   https://geodata.tangerangkab.go.id/.tar.bz2
+404   555B   https://geodata.tangerangkab.go.id/.tar
+404   555B   https://geodata.tangerangkab.go.id/.tar.gz
+404   555B   https://geodata.tangerangkab.go.id/.tgz
+404   555B   https://geodata.tangerangkab.go.id/.xml
+404   555B   https://geodata.tangerangkab.go.id/1.rar
+404   555B   https://geodata.tangerangkab.go.id/1.tar
+404   555B   https://geodata.tangerangkab.go.id/1.tar.bz2
+404   555B   https://geodata.tangerangkab.go.id/1.tar.gz
+404   555B   https://geodata.tangerangkab.go.id/2010.tar.bz2
+404   555B   https://geodata.tangerangkab.go.id/2010.tar
+404   555B   https://geodata.tangerangkab.go.id/2010.tgz
+404   555B   https://geodata.tangerangkab.go.id/2010.tar.gz
+404   555B   https://geodata.tangerangkab.go.id/2011.tar
+404   555B   https://geodata.tangerangkab.go.id/2011.tar.bz2
+404   555B   https://geodata.tangerangkab.go.id/2011.tar.gz
+404   555B   https://geodata.tangerangkab.go.id/2011.tgz
+404   555B   https://geodata.tangerangkab.go.id/2012.tar
+404   555B   https://geodata.tangerangkab.go.id/2012.tar.bz2
+404   555B   https://geodata.tangerangkab.go.id/2013.tar.bz2
+404   555B   https://geodata.tangerangkab.go.id/2012.tar.gz
+404   555B   https://geodata.tangerangkab.go.id/2013.tar.gz
+404   555B   https://geodata.tangerangkab.go.id/2013.tar
+404   555B   https://geodata.tangerangkab.go.id/2014.tar
+404   555B   https://geodata.tangerangkab.go.id/2014.tar.bz2
+404   555B   https://geodata.tangerangkab.go.id/2012.tgz
+404   555B   https://geodata.tangerangkab.go.id/2013.tgz
+404   555B   https://geodata.tangerangkab.go.id/2014.tar.gz
+404   555B   https://geodata.tangerangkab.go.id/2015.tar.gz
+404   555B   https://geodata.tangerangkab.go.id/2014.tgz
+404   555B   https://geodata.tangerangkab.go.id/2015.tar
+404   555B   https://geodata.tangerangkab.go.id/2015.tar.bz2
+404   555B   https://geodata.tangerangkab.go.id/2015.tgz
+404   555B   https://geodata.tangerangkab.go.id/2016.tar.bz2
+404   555B   https://geodata.tangerangkab.go.id/2016.tar
+404   555B   https://geodata.tangerangkab.go.id/2016.tgz
+404   555B   https://geodata.tangerangkab.go.id/2016.tar.gz
+404   555B   https://geodata.tangerangkab.go.id/2017.tar.bz2
+404   555B   https://geodata.tangerangkab.go.id/2017.tar
+404   555B   https://geodata.tangerangkab.go.id/2017.tar.gz
+404   555B   https://geodata.tangerangkab.go.id/2017.tgz
+404   555B   https://geodata.tangerangkab.go.id/2018.tar
+404   555B   https://geodata.tangerangkab.go.id/2018.tar.gz
+404   555B   https://geodata.tangerangkab.go.id/2018.tar.bz2
+404   555B   https://geodata.tangerangkab.go.id/2018.tgz
+404   555B   https://geodata.tangerangkab.go.id/2019.tar
+404   555B   https://geodata.tangerangkab.go.id/2019.tar.bz2
+404   555B   https://geodata.tangerangkab.go.id/2019.tar.gz
+404   555B   https://geodata.tangerangkab.go.id/2019.tgz
+404   555B   https://geodata.tangerangkab.go.id/2020.tar.gz
+404   555B   https://geodata.tangerangkab.go.id/2020.tar.bz2
+404   555B   https://geodata.tangerangkab.go.id/2020.tgz
+404   555B   https://geodata.tangerangkab.go.id/2020.tar
+404   555B   https://geodata.tangerangkab.go.id/_notes/dwsync.xml
+301     0B   https://geodata.tangerangkab.go.id/about    -> REDIRECTS TO: /about/
+301     0B   https://geodata.tangerangkab.go.id/account/login    -> REDIRECTS TO: /account/login/
+404   555B   https://geodata.tangerangkab.go.id/accounts.xml
+302     0B   https://geodata.tangerangkab.go.id/admin    -> REDIRECTS TO: /en-us/admin/
+404   555B   https://geodata.tangerangkab.go.id/admin-authz.xml
+302     0B   https://geodata.tangerangkab.go.id/admin/    -> REDIRECTS TO: /en-us/admin/
+302     0B   https://geodata.tangerangkab.go.id/admin/%3bindex/    -> REDIRECTS TO: /en-us/admin/%3Bindex/
+302     0B   https://geodata.tangerangkab.go.id/admin/.htaccess    -> REDIRECTS TO: /en-us/admin/.htaccess
+302     0B   https://geodata.tangerangkab.go.id/admin/.config    -> REDIRECTS TO: /en-us/admin/.config
+302     0B   https://geodata.tangerangkab.go.id/admin/_logs/access-log    -> REDIRECTS TO: /en-us/admin/_logs/access-log
+302     0B   https://geodata.tangerangkab.go.id/admin/_logs/access.log    -> REDIRECTS TO: /en-us/admin/_logs/access.log
+302     0B   https://geodata.tangerangkab.go.id/admin/_logs/error_log    -> REDIRECTS TO: /en-us/admin/_logs/error_log
+302     0B   https://geodata.tangerangkab.go.id/admin/_logs/login.txt    -> REDIRECTS TO: /en-us/admin/_logs/login.txt
+302     0B   https://geodata.tangerangkab.go.id/admin/_logs/access_log    -> REDIRECTS TO: /en-us/admin/_logs/access_log
+302     0B   https://geodata.tangerangkab.go.id/admin/_logs/err.log    -> REDIRECTS TO: /en-us/admin/_logs/err.log
+302     0B   https://geodata.tangerangkab.go.id/admin/_logs/error-log    -> REDIRECTS TO: /en-us/admin/_logs/error-log
+302     0B   https://geodata.tangerangkab.go.id/admin/_logs/error.log    -> REDIRECTS TO: /en-us/admin/_logs/error.log
+302     0B   https://geodata.tangerangkab.go.id/admin/access.txt    -> REDIRECTS TO: /en-us/admin/access.txt
+302     0B   https://geodata.tangerangkab.go.id/admin/access.log    -> REDIRECTS TO: /en-us/admin/access.log
+302     0B   https://geodata.tangerangkab.go.id/admin/account.php    -> REDIRECTS TO: /en-us/admin/account.php
+302     0B   https://geodata.tangerangkab.go.id/admin/account    -> REDIRECTS TO: /en-us/admin/account
+302     0B   https://geodata.tangerangkab.go.id/admin/account.aspx    -> REDIRECTS TO: /en-us/admin/account.aspx
+302     0B   https://geodata.tangerangkab.go.id/admin/access_log    -> REDIRECTS TO: /en-us/admin/access_log
+302     0B   https://geodata.tangerangkab.go.id/admin/account.jsp    -> REDIRECTS TO: /en-us/admin/account.jsp
+302     0B   https://geodata.tangerangkab.go.id/admin/admin.html    -> REDIRECTS TO: /en-us/admin/admin.html
+302     0B   https://geodata.tangerangkab.go.id/admin/admin-login.aspx    -> REDIRECTS TO: /en-us/admin/admin-login.aspx
+302     0B   https://geodata.tangerangkab.go.id/admin/account.html    -> REDIRECTS TO: /en-us/admin/account.html
+302     0B   https://geodata.tangerangkab.go.id/admin/admin-login.html    -> REDIRECTS TO: /en-us/admin/admin-login.html
+302     0B   https://geodata.tangerangkab.go.id/admin/admin-login.jsp    -> REDIRECTS TO: /en-us/admin/admin-login.jsp
+302     0B   https://geodata.tangerangkab.go.id/admin/admin.aspx    -> REDIRECTS TO: /en-us/admin/admin.aspx
+302     0B   https://geodata.tangerangkab.go.id/admin/admin-login    -> REDIRECTS TO: /en-us/admin/admin-login
+302     0B   https://geodata.tangerangkab.go.id/admin/admin_login.php    -> REDIRECTS TO: /en-us/admin/admin_login.php
+302     0B   https://geodata.tangerangkab.go.id/admin/admin-login.php    -> REDIRECTS TO: /en-us/admin/admin-login.php
+302     0B   https://geodata.tangerangkab.go.id/admin/admin.jsp    -> REDIRECTS TO: /en-us/admin/admin.jsp
+302     0B   https://geodata.tangerangkab.go.id/admin/admin_login    -> REDIRECTS TO: /en-us/admin/admin_login
+302     0B   https://geodata.tangerangkab.go.id/admin/admin.php    -> REDIRECTS TO: /en-us/admin/admin.php
+302     0B   https://geodata.tangerangkab.go.id/admin/admin_login.html    -> REDIRECTS TO: /en-us/admin/admin_login.html
+302     0B   https://geodata.tangerangkab.go.id/admin/admin_login.jsp    -> REDIRECTS TO: /en-us/admin/admin_login.jsp
+302     0B   https://geodata.tangerangkab.go.id/admin/admin    -> REDIRECTS TO: /en-us/admin/admin
+302     0B   https://geodata.tangerangkab.go.id/admin/admin/login    -> REDIRECTS TO: /en-us/admin/admin/login
+302     0B   https://geodata.tangerangkab.go.id/admin/adminer.php    -> REDIRECTS TO: /en-us/admin/adminer.php
+302     0B   https://geodata.tangerangkab.go.id/admin/adminLogin.html    -> REDIRECTS TO: /en-us/admin/adminLogin.html
+302     0B   https://geodata.tangerangkab.go.id/admin/controlpanel.jsp    -> REDIRECTS TO: /en-us/admin/controlpanel.jsp
+302     0B   https://geodata.tangerangkab.go.id/admin/adminLogin.aspx    -> REDIRECTS TO: /en-us/admin/adminLogin.aspx
+302     0B   https://geodata.tangerangkab.go.id/admin/cp.html    -> REDIRECTS TO: /en-us/admin/cp.html
+302     0B   https://geodata.tangerangkab.go.id/admin/adminLogin    -> REDIRECTS TO: /en-us/admin/adminLogin
+302     0B   https://geodata.tangerangkab.go.id/admin/admin_login.aspx    -> REDIRECTS TO: /en-us/admin/admin_login.aspx
+302     0B   https://geodata.tangerangkab.go.id/admin/controlpanel.aspx    -> REDIRECTS TO: /en-us/admin/controlpanel.aspx
+302     0B   https://geodata.tangerangkab.go.id/admin/controlpanel    -> REDIRECTS TO: /en-us/admin/controlpanel
+302     0B   https://geodata.tangerangkab.go.id/admin/cp.php    -> REDIRECTS TO: /en-us/admin/cp.php
+302     0B   https://geodata.tangerangkab.go.id/admin/cp    -> REDIRECTS TO: /en-us/admin/cp
+302     0B   https://geodata.tangerangkab.go.id/admin/adminLogin.php    -> REDIRECTS TO: /en-us/admin/adminLogin.php
+302     0B   https://geodata.tangerangkab.go.id/admin/adminLogin.jsp    -> REDIRECTS TO: /en-us/admin/adminLogin.jsp
+302     0B   https://geodata.tangerangkab.go.id/admin/backups/    -> REDIRECTS TO: /en-us/admin/backups/
+302     0B   https://geodata.tangerangkab.go.id/admin/data/autosuggest    -> REDIRECTS TO: /en-us/admin/data/autosuggest
+302     0B   https://geodata.tangerangkab.go.id/admin/error.log    -> REDIRECTS TO: /en-us/admin/error.log
+302     0B   https://geodata.tangerangkab.go.id/admin/default/login.asp    -> REDIRECTS TO: /en-us/admin/default/login.asp
+302     0B   https://geodata.tangerangkab.go.id/admin/backup/    -> REDIRECTS TO: /en-us/admin/backup/
+302     0B   https://geodata.tangerangkab.go.id/admin/config.php    -> REDIRECTS TO: /en-us/admin/config.php
+302     0B   https://geodata.tangerangkab.go.id/admin/db/    -> REDIRECTS TO: /en-us/admin/db/
+302     0B   https://geodata.tangerangkab.go.id/admin/cp.jsp    -> REDIRECTS TO: /en-us/admin/cp.jsp
+302     0B   https://geodata.tangerangkab.go.id/admin/controlpanel.html    -> REDIRECTS TO: /en-us/admin/controlpanel.html
+302     0B   https://geodata.tangerangkab.go.id/admin/dumper/    -> REDIRECTS TO: /en-us/admin/dumper/
+302     0B   https://geodata.tangerangkab.go.id/admin/cp.aspx    -> REDIRECTS TO: /en-us/admin/cp.aspx
+302     0B   https://geodata.tangerangkab.go.id/admin/default.asp    -> REDIRECTS TO: /en-us/admin/default.asp
+302     0B   https://geodata.tangerangkab.go.id/admin/default/admin.asp    -> REDIRECTS TO: /en-us/admin/default/admin.asp
+302     0B   https://geodata.tangerangkab.go.id/admin/download.php    -> REDIRECTS TO: /en-us/admin/download.php
+302     0B   https://geodata.tangerangkab.go.id/admin/default    -> REDIRECTS TO: /en-us/admin/default
+302     0B   https://geodata.tangerangkab.go.id/admin/error_log    -> REDIRECTS TO: /en-us/admin/error_log
+302     0B   https://geodata.tangerangkab.go.id/admin/error.txt    -> REDIRECTS TO: /en-us/admin/error.txt
+302     0B   https://geodata.tangerangkab.go.id/admin/fckeditor/editor/filemanager/upload/php/upload.php    -> REDIRECTS TO: /en-us/admin/fckeditor/editor/filemanager/upload/php/upload.php
+302     0B   https://geodata.tangerangkab.go.id/admin/fckeditor/editor/filemanager/browser/default/connectors/asp/connector.asp    -> REDIRECTS TO: /en-us/admin/fckeditor/editor/filemanager/browser/default/connectors/asp/connector.asp
+302     0B   https://geodata.tangerangkab.go.id/admin/export.php    -> REDIRECTS TO: /en-us/admin/export.php
+302     0B   https://geodata.tangerangkab.go.id/admin/fckeditor/editor/filemanager/connectors/php/connector.php    -> REDIRECTS TO: /en-us/admin/fckeditor/editor/filemanager/connectors/php/connector.php
+302     0B   https://geodata.tangerangkab.go.id/admin/controlpanel.php    -> REDIRECTS TO: /en-us/admin/controlpanel.php
+302     0B   https://geodata.tangerangkab.go.id/admin/fckeditor/editor/filemanager/connectors/aspx/connector.aspx    -> REDIRECTS TO: /en-us/admin/fckeditor/editor/filemanager/connectors/aspx/connector.aspx
+302     0B   https://geodata.tangerangkab.go.id/admin/fckeditor/editor/filemanager/upload/asp/upload.asp    -> REDIRECTS TO: /en-us/admin/fckeditor/editor/filemanager/upload/asp/upload.asp
+302     0B   https://geodata.tangerangkab.go.id/admin/file.php    -> REDIRECTS TO: /en-us/admin/file.php
+302     0B   https://geodata.tangerangkab.go.id/admin/fckeditor/editor/filemanager/connectors/asp/connector.asp    -> REDIRECTS TO: /en-us/admin/fckeditor/editor/filemanager/connectors/asp/connector.asp
+302     0B   https://geodata.tangerangkab.go.id/admin/FCKeditor    -> REDIRECTS TO: /en-us/admin/FCKeditor
+302     0B   https://geodata.tangerangkab.go.id/admin/files.php    -> REDIRECTS TO: /en-us/admin/files.php
+302     0B   https://geodata.tangerangkab.go.id/admin/includes/configure.php~    -> REDIRECTS TO: /en-us/admin/includes/configure.php~
+302     0B   https://geodata.tangerangkab.go.id/admin/home    -> REDIRECTS TO: /en-us/admin/home
+302     0B   https://geodata.tangerangkab.go.id/admin/heapdump    -> REDIRECTS TO: /en-us/admin/heapdump
+302     0B   https://geodata.tangerangkab.go.id/admin/errors.log    -> REDIRECTS TO: /en-us/admin/errors.log
+302     0B   https://geodata.tangerangkab.go.id/admin/fckeditor/editor/filemanager/browser/default/connectors/aspx/connector.aspx    -> REDIRECTS TO: /en-us/admin/fckeditor/editor/filemanager/browser/default/connectors/aspx/connector.aspx
+302     0B   https://geodata.tangerangkab.go.id/admin/fckeditor/editor/filemanager/connectors/aspx/upload.aspx    -> REDIRECTS TO: /en-us/admin/fckeditor/editor/filemanager/connectors/aspx/upload.aspx
+302     0B   https://geodata.tangerangkab.go.id/admin/fckeditor/editor/filemanager/browser/default/connectors/php/connector.php    -> REDIRECTS TO: /en-us/admin/fckeditor/editor/filemanager/browser/default/connectors/php/connector.php
+302     0B   https://geodata.tangerangkab.go.id/admin/index    -> REDIRECTS TO: /en-us/admin/index
+302     0B   https://geodata.tangerangkab.go.id/admin/index.php    -> REDIRECTS TO: /en-us/admin/index.php
+302     0B   https://geodata.tangerangkab.go.id/admin/home.php    -> REDIRECTS TO: /en-us/admin/home.php
+302     0B   https://geodata.tangerangkab.go.id/admin/fckeditor/editor/filemanager/connectors/php/upload.php    -> REDIRECTS TO: /en-us/admin/fckeditor/editor/filemanager/connectors/php/upload.php
+302     0B   https://geodata.tangerangkab.go.id/admin/home.aspx    -> REDIRECTS TO: /en-us/admin/home.aspx
+302     0B   https://geodata.tangerangkab.go.id/admin/index.aspx    -> REDIRECTS TO: /en-us/admin/index.aspx
+302     0B   https://geodata.tangerangkab.go.id/admin/home.jsp    -> REDIRECTS TO: /en-us/admin/home.jsp
+302     0B   https://geodata.tangerangkab.go.id/admin/js/tinymce/    -> REDIRECTS TO: /en-us/admin/js/tinymce/
+302     0B   https://geodata.tangerangkab.go.id/admin/js/tiny_mce    -> REDIRECTS TO: /en-us/admin/js/tiny_mce
+302     0B   https://geodata.tangerangkab.go.id/admin/login.jsp    -> REDIRECTS TO: /en-us/admin/login.jsp
+302     0B   https://geodata.tangerangkab.go.id/admin/log    -> REDIRECTS TO: /en-us/admin/log
+302     0B   https://geodata.tangerangkab.go.id/admin/fckeditor/editor/filemanager/upload/aspx/upload.aspx    -> REDIRECTS TO: /en-us/admin/fckeditor/editor/filemanager/upload/aspx/upload.aspx
+302     0B   https://geodata.tangerangkab.go.id/admin/index.jsp    -> REDIRECTS TO: /en-us/admin/index.jsp
+302     0B   https://geodata.tangerangkab.go.id/admin/home.html    -> REDIRECTS TO: /en-us/admin/home.html
+302     0B   https://geodata.tangerangkab.go.id/admin/login    -> REDIRECTS TO: /en-us/admin/login
+302     0B   https://geodata.tangerangkab.go.id/admin/js/tinymce    -> REDIRECTS TO: /en-us/admin/js/tinymce
+302     0B   https://geodata.tangerangkab.go.id/admin/log/error.log    -> REDIRECTS TO: /en-us/admin/log/error.log
+302     0B   https://geodata.tangerangkab.go.id/admin/index.html    -> REDIRECTS TO: /en-us/admin/index.html
+302     0B   https://geodata.tangerangkab.go.id/admin/login.php    -> REDIRECTS TO: /en-us/admin/login.php
+302     0B   https://geodata.tangerangkab.go.id/admin/login.aspx    -> REDIRECTS TO: /en-us/admin/login.aspx
+302     0B   https://geodata.tangerangkab.go.id/admin/login.asp    -> REDIRECTS TO: /en-us/admin/login.asp
+302     0B   https://geodata.tangerangkab.go.id/admin/js/tiny_mce/    -> REDIRECTS TO: /en-us/admin/js/tiny_mce/
+302     0B   https://geodata.tangerangkab.go.id/admin/login.py    -> REDIRECTS TO: /en-us/admin/login.py
+302     0B   https://geodata.tangerangkab.go.id/admin/login.rb    -> REDIRECTS TO: /en-us/admin/login.rb
+302     0B   https://geodata.tangerangkab.go.id/admin/logon.jsp    -> REDIRECTS TO: /en-us/admin/logon.jsp
+302     0B   https://geodata.tangerangkab.go.id/admin/logs/access-log    -> REDIRECTS TO: /en-us/admin/logs/access-log
+302     0B   https://geodata.tangerangkab.go.id/admin/login.html    -> REDIRECTS TO: /en-us/admin/login.html
+302     0B   https://geodata.tangerangkab.go.id/admin/login.do    -> REDIRECTS TO: /en-us/admin/login.do
+302     0B   https://geodata.tangerangkab.go.id/admin/logs/error-log    -> REDIRECTS TO: /en-us/admin/logs/error-log
+302     0B   https://geodata.tangerangkab.go.id/admin/fckeditor/editor/filemanager/connectors/asp/upload.asp    -> REDIRECTS TO: /en-us/admin/fckeditor/editor/filemanager/connectors/asp/upload.asp
+302     0B   https://geodata.tangerangkab.go.id/admin/manage/login.asp    -> REDIRECTS TO: /en-us/admin/manage/login.asp
+302     0B   https://geodata.tangerangkab.go.id/admin/mysql/    -> REDIRECTS TO: /en-us/admin/mysql/
+302     0B   https://geodata.tangerangkab.go.id/admin/logs/login.txt    -> REDIRECTS TO: /en-us/admin/logs/login.txt
+302     0B   https://geodata.tangerangkab.go.id/admin/logs/errors.log    -> REDIRECTS TO: /en-us/admin/logs/errors.log
+302     0B   https://geodata.tangerangkab.go.id/admin/logs/    -> REDIRECTS TO: /en-us/admin/logs/
+302     0B   https://geodata.tangerangkab.go.id/admin/phpMyAdmin    -> REDIRECTS TO: /en-us/admin/phpMyAdmin
+302     0B   https://geodata.tangerangkab.go.id/admin/manage    -> REDIRECTS TO: /en-us/admin/manage
+302     0B   https://geodata.tangerangkab.go.id/admin/logs/access.log    -> REDIRECTS TO: /en-us/admin/logs/access.log
+302     0B   https://geodata.tangerangkab.go.id/admin/manage.asp    -> REDIRECTS TO: /en-us/admin/manage.asp
+302     0B   https://geodata.tangerangkab.go.id/admin/phpmyadmin/    -> REDIRECTS TO: /en-us/admin/phpmyadmin/
+302     0B   https://geodata.tangerangkab.go.id/admin/login.htm    -> REDIRECTS TO: /en-us/admin/login.htm
+302     0B   https://geodata.tangerangkab.go.id/admin/logs/error.log    -> REDIRECTS TO: /en-us/admin/logs/error.log
+302     0B   https://geodata.tangerangkab.go.id/admin/mysql2/index.php    -> REDIRECTS TO: /en-us/admin/mysql2/index.php
+302     0B   https://geodata.tangerangkab.go.id/admin/manage/admin.asp    -> REDIRECTS TO: /en-us/admin/manage/admin.asp
+302     0B   https://geodata.tangerangkab.go.id/admin/logs/err.log    -> REDIRECTS TO: /en-us/admin/logs/err.log
+302     0B   https://geodata.tangerangkab.go.id/admin/phpMyAdmin/    -> REDIRECTS TO: /en-us/admin/phpMyAdmin/
+302     0B   https://geodata.tangerangkab.go.id/admin/logs/error_log    -> REDIRECTS TO: /en-us/admin/logs/error_log
+302     0B   https://geodata.tangerangkab.go.id/admin/mysql/index.php    -> REDIRECTS TO: /en-us/admin/mysql/index.php
+302     0B   https://geodata.tangerangkab.go.id/admin/phpMyAdmin/index.php    -> REDIRECTS TO: /en-us/admin/phpMyAdmin/index.php
+302     0B   https://geodata.tangerangkab.go.id/admin/phpmyadmin/index.php    -> REDIRECTS TO: /en-us/admin/phpmyadmin/index.php
+302     0B   https://geodata.tangerangkab.go.id/admin/phpmyadmin2/index.php    -> REDIRECTS TO: /en-us/admin/phpmyadmin2/index.php
+302     0B   https://geodata.tangerangkab.go.id/admin/pMA/    -> REDIRECTS TO: /en-us/admin/pMA/
+302     0B   https://geodata.tangerangkab.go.id/admin/logs/access_log    -> REDIRECTS TO: /en-us/admin/logs/access_log
+302     0B   https://geodata.tangerangkab.go.id/admin/pma/index.php    -> REDIRECTS TO: /en-us/admin/pma/index.php
+302     0B   https://geodata.tangerangkab.go.id/admin/private/logs    -> REDIRECTS TO: /en-us/admin/private/logs
+302     0B   https://geodata.tangerangkab.go.id/admin/portalcollect.php?f=http://xxx&t=js    -> REDIRECTS TO: /en-us/admin/portalcollect.php?f=http://xxx&t=js
+302     0B   https://geodata.tangerangkab.go.id/admin/pma/    -> REDIRECTS TO: /en-us/admin/pma/
+302     0B   https://geodata.tangerangkab.go.id/admin/release    -> REDIRECTS TO: /en-us/admin/release
+302     0B   https://geodata.tangerangkab.go.id/admin/scripts/fckeditor    -> REDIRECTS TO: /en-us/admin/scripts/fckeditor
+302     0B   https://geodata.tangerangkab.go.id/admin/signin    -> REDIRECTS TO: /en-us/admin/signin
+302     0B   https://geodata.tangerangkab.go.id/admin/sxd/    -> REDIRECTS TO: /en-us/admin/sxd/
+302     0B   https://geodata.tangerangkab.go.id/admin/sqladmin/    -> REDIRECTS TO: /en-us/admin/sqladmin/
+302     0B   https://geodata.tangerangkab.go.id/admin/pol_log.txt    -> REDIRECTS TO: /en-us/admin/pol_log.txt
+302     0B   https://geodata.tangerangkab.go.id/admin/secure/logon.jsp    -> REDIRECTS TO: /en-us/admin/secure/logon.jsp
+302     0B   https://geodata.tangerangkab.go.id/admin/tinymce    -> REDIRECTS TO: /en-us/admin/tinymce
+302     0B   https://geodata.tangerangkab.go.id/admin/tiny_mce    -> REDIRECTS TO: /en-us/admin/tiny_mce
+302     0B   https://geodata.tangerangkab.go.id/admin/PMA/index.php    -> REDIRECTS TO: /en-us/admin/PMA/index.php
+302     0B   https://geodata.tangerangkab.go.id/admin/user_count.txt    -> REDIRECTS TO: /en-us/admin/user_count.txt
+302     0B   https://geodata.tangerangkab.go.id/admin/views/ajax/autocomplete/user/a    -> REDIRECTS TO: /en-us/admin/views/ajax/autocomplete/user/a
+302     0B   https://geodata.tangerangkab.go.id/admin/sysadmin/    -> REDIRECTS TO: /en-us/admin/sysadmin/
+302     0B   https://geodata.tangerangkab.go.id/admin/upload.php    -> REDIRECTS TO: /en-us/admin/upload.php
+302     0B   https://geodata.tangerangkab.go.id/admin/web/    -> REDIRECTS TO: /en-us/admin/web/
+302     0B   https://geodata.tangerangkab.go.id/admin/uploads.php    -> REDIRECTS TO: /en-us/admin/uploads.php
+404   555B   https://geodata.tangerangkab.go.id/admin_my_avatar.png
+404   555B   https://geodata.tangerangkab.go.id/all/modules/ogdi_field/plugins/dataTables/extras/TableTools/media/swf/ZeroClipboard.swf
+301     0B   https://geodata.tangerangkab.go.id/api    -> REDIRECTS TO: /api/
+200     1KB  https://geodata.tangerangkab.go.id/api/
+301     0B   https://geodata.tangerangkab.go.id/api/v2    -> REDIRECTS TO: /api/v2/
+200     1KB  https://geodata.tangerangkab.go.id/api/v2/
+404   555B   https://geodata.tangerangkab.go.id/app/etc/config.xml
+404   555B   https://geodata.tangerangkab.go.id/app/etc/local.xml
+404   555B   https://geodata.tangerangkab.go.id/app/etc/enterprise.xml
+404   555B   https://geodata.tangerangkab.go.id/app/etc/fpc.xml
+404   555B   https://geodata.tangerangkab.go.id/app/phpunit.xml
+404   555B   https://geodata.tangerangkab.go.id/archive.rar
+404   555B   https://geodata.tangerangkab.go.id/archive.tar.gz
+404   555B   https://geodata.tangerangkab.go.id/archive.tar
+404   555B   https://geodata.tangerangkab.go.id/archive.tgz
+404   555B   https://geodata.tangerangkab.go.id/atlassian-ide-plugin.xml
+404   555B   https://geodata.tangerangkab.go.id/auth.tar.gz
+404   555B   https://geodata.tangerangkab.go.id/backend/core/info.xml
+404   555B   https://geodata.tangerangkab.go.id/backup.rar
+404   555B   https://geodata.tangerangkab.go.id/backup.tar
+404   555B   https://geodata.tangerangkab.go.id/backup.tar.gz
+404   555B   https://geodata.tangerangkab.go.id/backup.tgz
+404   555B   https://geodata.tangerangkab.go.id/backup.tar.bz2
+404   555B   https://geodata.tangerangkab.go.id/backups.rar
+404   555B   https://geodata.tangerangkab.go.id/backups.tar
+404   555B   https://geodata.tangerangkab.go.id/backups.tar.gz
+404   555B   https://geodata.tangerangkab.go.id/backups.tar.bz2
+404   555B   https://geodata.tangerangkab.go.id/backups.tgz
+404   555B   https://geodata.tangerangkab.go.id/banner.swf
+404   555B   https://geodata.tangerangkab.go.id/BingSiteAuth.xml
+404   555B   https://geodata.tangerangkab.go.id/black/template.xml
+404   555B   https://geodata.tangerangkab.go.id/bookContent.swf
+404   555B   https://geodata.tangerangkab.go.id/build.local.xml
+404   555B   https://geodata.tangerangkab.go.id/build.xml
+404   555B   https://geodata.tangerangkab.go.id/cbx-portal/js/zeroclipboard/ZeroClipboard.swf
+404   555B   https://geodata.tangerangkab.go.id/cell.xml
+404   555B   https://geodata.tangerangkab.go.id/chubb.xml
+404   555B   https://geodata.tangerangkab.go.id/Citrix/PNAgent/config.xml
+404   555B   https://geodata.tangerangkab.go.id/citydesk.xml
+404   555B   https://geodata.tangerangkab.go.id/ClientAccessPolicy.xml
+404   555B   https://geodata.tangerangkab.go.id/clients.tar.gz
+404   555B   https://geodata.tangerangkab.go.id/cms/themes/cp_themes/default/images/swfupload.swf
+404   555B   https://geodata.tangerangkab.go.id/cms/themes/cp_themes/default/images/swfupload_f9.swf
+404   555B   https://geodata.tangerangkab.go.id/com.tar.gz
+404   555B   https://geodata.tangerangkab.go.id/common.xml
+404   555B   https://geodata.tangerangkab.go.id/conf/server.xml
+404   555B   https://geodata.tangerangkab.go.id/conf/context.xml
+404   555B   https://geodata.tangerangkab.go.id/conf/tomcat-users.xml
+404   555B   https://geodata.tangerangkab.go.id/conf/web.xml
+404   555B   https://geodata.tangerangkab.go.id/config.xml
+404   555B   https://geodata.tangerangkab.go.id/coverage.xml
+404   555B   https://geodata.tangerangkab.go.id/credentials.xml
+404   555B   https://geodata.tangerangkab.go.id/crossdomain.xml
+404   555B   https://geodata.tangerangkab.go.id/customers.sql.gz
+404   555B   https://geodata.tangerangkab.go.id/dat.tar.gz
+404   555B   https://geodata.tangerangkab.go.id/db.xml
+404   555B   https://geodata.tangerangkab.go.id/debug.xml
+404    50KB  https://geodata.tangerangkab.go.id/de
+404   555B   https://geodata.tangerangkab.go.id/dependency-reduced-pom.xml
+301     0B   https://geodata.tangerangkab.go.id/developer    -> REDIRECTS TO: /developer/
+404   555B   https://geodata.tangerangkab.go.id/docs/export-demo.xml
+301     0B   https://geodata.tangerangkab.go.id/download    -> REDIRECTS TO: /download/
+500    50KB  https://geodata.tangerangkab.go.id/download/
+500    50KB  https://geodata.tangerangkab.go.id/download/history.csv
+500    50KB  https://geodata.tangerangkab.go.id/download/users.csv
+404   555B   https://geodata.tangerangkab.go.id/dump.rar
+404   555B   https://geodata.tangerangkab.go.id/dump.sql.tgz
+404   555B   https://geodata.tangerangkab.go.id/dump.tar
+404   555B   https://geodata.tangerangkab.go.id/dump.tar.gz
+404   555B   https://geodata.tangerangkab.go.id/dump.tar.bz2
+404   555B   https://geodata.tangerangkab.go.id/dump.tgz
+404   555B   https://geodata.tangerangkab.go.id/dwsync.xml
+404   555B   https://geodata.tangerangkab.go.id/engine/classes/swfupload//swfupload.swf
+404   555B   https://geodata.tangerangkab.go.id/engine/classes/swfupload/swfupload.swf
+404   555B   https://geodata.tangerangkab.go.id/engine/classes/swfupload//swfupload_f9.swf
+404   555B   https://geodata.tangerangkab.go.id/engine.tar.gz
+404   555B   https://geodata.tangerangkab.go.id/engine/classes/swfupload/swfupload_f9.swf
+404   555B   https://geodata.tangerangkab.go.id/error.xml
+404   555B   https://geodata.tangerangkab.go.id/error_log.gz
+404   555B   https://geodata.tangerangkab.go.id/errors/local.xml
+404   555B   https://geodata.tangerangkab.go.id/etc/database.xml
+404    50KB  https://geodata.tangerangkab.go.id/es
+404   555B   https://geodata.tangerangkab.go.id/expressInstall.swf
+404   555B   https://geodata.tangerangkab.go.id/extjs/resources//charts.swf
+404   555B   https://geodata.tangerangkab.go.id/faces/javax.faces.resource/web.xml?ln=../WEB-INF
+404   555B   https://geodata.tangerangkab.go.id/faces/javax.faces.resource/web.xml?ln=..\\WEB-INF
+404   555B   https://geodata.tangerangkab.go.id/fastlane/report.xml
+404   555B   https://geodata.tangerangkab.go.id/favicon.ico
+404   555B   https://geodata.tangerangkab.go.id/filemanager/views/js/ZeroClipboard.swf
+404   555B   https://geodata.tangerangkab.go.id/files.tar
+404   555B   https://geodata.tangerangkab.go.id/files.rar
+404   555B   https://geodata.tangerangkab.go.id/files.tar.bz2
+404   555B   https://geodata.tangerangkab.go.id/files.tar.gz
+404   555B   https://geodata.tangerangkab.go.id/FileZilla.xml
+404   555B   https://geodata.tangerangkab.go.id/filezilla.xml
+404   555B   https://geodata.tangerangkab.go.id/flash/ZeroClipboard.swf
+404   555B   https://geodata.tangerangkab.go.id/forum.rar
+404   555B   https://geodata.tangerangkab.go.id/forum.tar.bz2
+404   555B   https://geodata.tangerangkab.go.id/forum.tar
+404   555B   https://geodata.tangerangkab.go.id/forum.tar.gz
+404    50KB  https://geodata.tangerangkab.go.id/fr
+404   555B   https://geodata.tangerangkab.go.id/graphql/schema.xml
+301     0B   https://geodata.tangerangkab.go.id/help    -> REDIRECTS TO: /help/
+404   555B   https://geodata.tangerangkab.go.id/home.rar
+404   555B   https://geodata.tangerangkab.go.id/home.tar
+404   555B   https://geodata.tangerangkab.go.id/home.tar.bz2
+404   555B   https://geodata.tangerangkab.go.id/home.tar.gz
+200    55KB  https://geodata.tangerangkab.go.id/help/
+404   555B   https://geodata.tangerangkab.go.id/html/js/misc/swfupload/swfupload.swf
+404   555B   https://geodata.tangerangkab.go.id/html.tar.bz2
+404   555B   https://geodata.tangerangkab.go.id/html.tar.gz
+404   555B   https://geodata.tangerangkab.go.id/html/js/misc/swfupload/swfupload_f9.swf
+404   555B   https://geodata.tangerangkab.go.id/html/js/misc/swfupload//swfupload.swf
+404   555B   https://geodata.tangerangkab.go.id/Http/DataLayCfg.xml
+404   555B   https://geodata.tangerangkab.go.id/IdentityGuardSelfService/images/favicon.ico
+404   555B   https://geodata.tangerangkab.go.id/includes/swfupload/swfupload.swf
+404   555B   https://geodata.tangerangkab.go.id/includes/swfupload/swfupload_f9.swf
+404   555B   https://geodata.tangerangkab.go.id/index.bz2
+404   555B   https://geodata.tangerangkab.go.id/index.gz
+404   555B   https://geodata.tangerangkab.go.id/index.tar
+404   555B   https://geodata.tangerangkab.go.id/index.tar.bz2
+404   555B   https://geodata.tangerangkab.go.id/index.tgz
+404   555B   https://geodata.tangerangkab.go.id/index.tar.gz
+404   555B   https://geodata.tangerangkab.go.id/index.rar
+404   555B   https://geodata.tangerangkab.go.id/index.xml
+404   555B   https://geodata.tangerangkab.go.id/io.swf
+500   579B   https://geodata.tangerangkab.go.id/jenkins/
+500   579B   https://geodata.tangerangkab.go.id/jenkins/script
+404   555B   https://geodata.tangerangkab.go.id/joomla.rar
+404   555B   https://geodata.tangerangkab.go.id/joomla.xml
+404   555B   https://geodata.tangerangkab.go.id/js/swfupload/swfupload.swf
+404   555B   https://geodata.tangerangkab.go.id/js/yui/uploader/assets/uploader.swf
+404   555B   https://geodata.tangerangkab.go.id/js/swfupload/swfupload_f9.swf
+404   555B   https://geodata.tangerangkab.go.id/js/ZeroClipboard.swf
+404   555B   https://geodata.tangerangkab.go.id/js/ZeroClipboard10.swf
+404   555B   https://geodata.tangerangkab.go.id/lfc/fixtures/superuser.xml
+404   555B   https://geodata.tangerangkab.go.id/logo.gif
+404   555B   https://geodata.tangerangkab.go.id/master.tar.bz2
+404   555B   https://geodata.tangerangkab.go.id/master.tar
+404   555B   https://geodata.tangerangkab.go.id/master.tar.gz
+404   555B   https://geodata.tangerangkab.go.id/media.tar
+404   555B   https://geodata.tangerangkab.go.id/media.tar.bz2
+404   555B   https://geodata.tangerangkab.go.id/media.tar.gz
+404   555B   https://geodata.tangerangkab.go.id/media/export-criteo.xml
+404   555B   https://geodata.tangerangkab.go.id/members.sql.gz
+404   555B   https://geodata.tangerangkab.go.id/META-INF/app-config.xml
+404   555B   https://geodata.tangerangkab.go.id/META-INF/application-client.xml
+404   555B   https://geodata.tangerangkab.go.id/META-INF/beans.xml
+404   555B   https://geodata.tangerangkab.go.id/META-INF/application.xml
+404   555B   https://geodata.tangerangkab.go.id/META-INF/container.xml
+404   555B   https://geodata.tangerangkab.go.id/META-INF/ejb-jar.xml
+404   555B   https://geodata.tangerangkab.go.id/META-INF/ironjacamar.xml
+404   555B   https://geodata.tangerangkab.go.id/META-INF/context.xml
+404   555B   https://geodata.tangerangkab.go.id/META-INF/jboss-app.xml
+404   555B   https://geodata.tangerangkab.go.id/META-INF/jboss-deployment-structure.xml
+404   555B   https://geodata.tangerangkab.go.id/META-INF/jboss-ejb-client.xml
+404   555B   https://geodata.tangerangkab.go.id/META-INF/persistence.xml
+404   555B   https://geodata.tangerangkab.go.id/META-INF/jboss-client.xml
+404   555B   https://geodata.tangerangkab.go.id/META-INF/jboss-webservices.xml
+404   555B   https://geodata.tangerangkab.go.id/META-INF/jboss-ejb3.xml
+404   555B   https://geodata.tangerangkab.go.id/META-INF/jbosscmp-jdbc.xml
+404   555B   https://geodata.tangerangkab.go.id/META-INF/ra.xml
+404   555B   https://geodata.tangerangkab.go.id/META-INF/weblogic-application.xml
+404   555B   https://geodata.tangerangkab.go.id/META-INF/weblogic-ejb-jar.xml
+404   555B   https://geodata.tangerangkab.go.id/META-INF/spring/application-context.xml
+301     0B   https://geodata.tangerangkab.go.id/monitoring    -> REDIRECTS TO: /monitoring/
+404   555B   https://geodata.tangerangkab.go.id/my.tar
+404   555B   https://geodata.tangerangkab.go.id/my.tar.bz2
+404   555B   https://geodata.tangerangkab.go.id/my.rar
+200    50KB  https://geodata.tangerangkab.go.id/monitoring/
+404   555B   https://geodata.tangerangkab.go.id/my.tar.gz
+404   555B   https://geodata.tangerangkab.go.id/mysql.tar
+404   555B   https://geodata.tangerangkab.go.id/mysql.tar.bz2
+404   555B   https://geodata.tangerangkab.go.id/mysql.tar.gz
+404   555B   https://geodata.tangerangkab.go.id/nbactions.xml
+404   555B   https://geodata.tangerangkab.go.id/nb-configuration.xml
+404   555B   https://geodata.tangerangkab.go.id/nbproject/project.xml
+404   555B   https://geodata.tangerangkab.go.id/nbproject/private/private.xml
+404   555B   https://geodata.tangerangkab.go.id/new.rar
+404   555B   https://geodata.tangerangkab.go.id/new.tar.gz
+404   555B   https://geodata.tangerangkab.go.id/new.tar
+404   555B   https://geodata.tangerangkab.go.id/new.tar.bz2
+404   555B   https://geodata.tangerangkab.go.id/node.xml
+404   555B   https://geodata.tangerangkab.go.id/nosetests.xml
+404   555B   https://geodata.tangerangkab.go.id/old.rar
+404   555B   https://geodata.tangerangkab.go.id/old.tar
+404   555B   https://geodata.tangerangkab.go.id/old.tar.bz2
+404   555B   https://geodata.tangerangkab.go.id/old.tar.gz
+404   555B   https://geodata.tangerangkab.go.id/open-flash-chart.swf?get-data=xss
+404   555B   https://geodata.tangerangkab.go.id/orders.sql.gz
+404   555B   https://geodata.tangerangkab.go.id/Package.StoreAssociation.xml
+404   555B   https://geodata.tangerangkab.go.id/path/dataTables/extras/TableTools/media/swf/ZeroClipboard.swf
+301     0B   https://geodata.tangerangkab.go.id/people    -> REDIRECTS TO: /people/
+404   555B   https://geodata.tangerangkab.go.id/phpunit.xml
+404   555B   https://geodata.tangerangkab.go.id/piwigo/extensions/UserCollections/template/ZeroClipboard.swf
+404   555B   https://geodata.tangerangkab.go.id/player.swf
+404   555B   https://geodata.tangerangkab.go.id/plugin.xml
+404   555B   https://geodata.tangerangkab.go.id/plugins/sfSWFUploadPlugin/web/sfSWFUploadPlugin/swf/swfupload_f9.swf
+404   555B   https://geodata.tangerangkab.go.id/plugins/sfSWFUploadPlugin/web/sfSWFUploadPlugin/swf/swfupload.swf
+404   555B   https://geodata.tangerangkab.go.id/pom.xml
+404   555B   https://geodata.tangerangkab.go.id/profiles.xml
+404   555B   https://geodata.tangerangkab.go.id/project.xml
+301     0B   https://geodata.tangerangkab.go.id/proxy    -> REDIRECTS TO: /proxy/
+400    60B   https://geodata.tangerangkab.go.id/proxy/
+404   555B   https://geodata.tangerangkab.go.id/publication_list.xml
+404   555B   https://geodata.tangerangkab.go.id/recentservers.xml
+404   555B   https://geodata.tangerangkab.go.id/resources.xml
+200    91B   https://geodata.tangerangkab.go.id/robots.txt
+404   555B   https://geodata.tangerangkab.go.id/RushSite.xml
+404   555B   https://geodata.tangerangkab.go.id/sales.sql.gz
+404   555B   https://geodata.tangerangkab.go.id/script/jqueryplugins/dataTables/extras/TableTools/media/swf/ZeroClipboard.swf
+404   555B   https://geodata.tangerangkab.go.id/security.xml
+404   555B   https://geodata.tangerangkab.go.id/server.xml
+404   555B   https://geodata.tangerangkab.go.id/serverindex.xml
+404   555B   https://geodata.tangerangkab.go.id/ServerList.xml
+404   555B   https://geodata.tangerangkab.go.id/servers.xml
+301     0B   https://geodata.tangerangkab.go.id/services    -> REDIRECTS TO: /services/
+404   555B   https://geodata.tangerangkab.go.id/servlet/Oracle.xml.xsql.XSQLServlet/xsql/lib/XSQLConfig.xml
+404   555B   https://geodata.tangerangkab.go.id/servlet/oracle.xml.xsql.XSQLServlet/xsql/lib/XSQLConfig.xml
+404   555B   https://geodata.tangerangkab.go.id/servlet/Oracle.xml.xsql.XSQLServlet/soapdocs/webapps/soap/WEB-INF/config/soapConfig.xml
+404   555B   https://geodata.tangerangkab.go.id/servlet/oracle.xml.xsql.XSQLServlet/soapdocs/webapps/soap/WEB-INF/config/soapConfig.xml
+200    51KB  https://geodata.tangerangkab.go.id/services/
+404   555B   https://geodata.tangerangkab.go.id/settings.xml
+404   555B   https://geodata.tangerangkab.go.id/site.rar
+404   555B   https://geodata.tangerangkab.go.id/site.tar
+404   555B   https://geodata.tangerangkab.go.id/site.tar.bz2
+404   555B   https://geodata.tangerangkab.go.id/site.tar.gz
+404   555B   https://geodata.tangerangkab.go.id/site/common.xml
+404   555B   https://geodata.tangerangkab.go.id/sitemap.xml.gz
+404   555B   https://geodata.tangerangkab.go.id/sitemap.xml
+404   555B   https://geodata.tangerangkab.go.id/sitemanager.xml
+404   555B   https://geodata.tangerangkab.go.id/sites.xml
+404   555B   https://geodata.tangerangkab.go.id/soapdocs/webapps/soap/WEB-INF/config/soapConfig.xml
+404   555B   https://geodata.tangerangkab.go.id/sql.tar
+404   555B   https://geodata.tangerangkab.go.id/sql.tar.bz2
+404   555B   https://geodata.tangerangkab.go.id/sql.tar.gz
+404   555B   https://geodata.tangerangkab.go.id/sql.tgz
+404   555B   https://geodata.tangerangkab.go.id/static/api/swagger.yaml
+404   555B   https://geodata.tangerangkab.go.id/static/api/swagger.json
+404   555B   https://geodata.tangerangkab.go.id/static/dump.sql
+404   555B   https://geodata.tangerangkab.go.id/store/app/etc/local.xml
+404   555B   https://geodata.tangerangkab.go.id/store.tgz
+404   555B   https://geodata.tangerangkab.go.id/StyleCopReport.xml
+404   555B   https://geodata.tangerangkab.go.id/surgemail/mtemp/surgeweb/tpl/shared/modules/swfupload.swf
+404   555B   https://geodata.tangerangkab.go.id/surgemail/mtemp/surgeweb/tpl/shared/modules/swfupload_f9.swf
+404   555B   https://geodata.tangerangkab.go.id/swfupload.swf
+404   555B   https://geodata.tangerangkab.go.id/systemstatus.xml
+404   555B   https://geodata.tangerangkab.go.id/tar.bz2
+404   555B   https://geodata.tangerangkab.go.id/tar.gz
+404   555B   https://geodata.tangerangkab.go.id/temp-testng-customsuite.xml
+404   555B   https://geodata.tangerangkab.go.id/template.xml
+404   555B   https://geodata.tangerangkab.go.id/TestResult.xml
+404   555B   https://geodata.tangerangkab.go.id/tests/phpunit_report.xml
+404   555B   https://geodata.tangerangkab.go.id/themes/default/htdocs/flash/ZeroClipboard.swf
+301     0B   https://geodata.tangerangkab.go.id/upload    -> REDIRECTS TO: /upload/
+404   555B   https://geodata.tangerangkab.go.id/UpgradeLog.XML
+302     0B   https://geodata.tangerangkab.go.id/upload/    -> REDIRECTS TO: https://geodata.tangerangkab.go.id/account/login/?next=/upload/
+403   555B   https://geodata.tangerangkab.go.id/uploaded/
+404   555B   https://geodata.tangerangkab.go.id/users.sql.gz
+404   555B   https://geodata.tangerangkab.go.id/vb.rar
+200     5B   https://geodata.tangerangkab.go.id/version.txt
+404   555B   https://geodata.tangerangkab.go.id/video-js.swf
+404   555B   https://geodata.tangerangkab.go.id/WEB-INF./web.xml
+404   555B   https://geodata.tangerangkab.go.id/WEB-INF/application-client.xml
+404   555B   https://geodata.tangerangkab.go.id/WEB-INF/application_config.xml
+404   555B   https://geodata.tangerangkab.go.id/WEB-INF/applicationContext.xml
+404   555B   https://geodata.tangerangkab.go.id/WEB-INF/beans.xml
+404   555B   https://geodata.tangerangkab.go.id/WEB-INF/cas-servlet.xml
+404   555B   https://geodata.tangerangkab.go.id/WEB-INF/classes/applicationContext.xml
+404   555B   https://geodata.tangerangkab.go.id/WEB-INF/classes/app-config.xml
+404   555B   https://geodata.tangerangkab.go.id/WEB-INF/classes/demo.xml
+404   555B   https://geodata.tangerangkab.go.id/WEB-INF/classes/faces-config.xml
+404   555B   https://geodata.tangerangkab.go.id/WEB-INF/classes/hibernate.cfg.xml
+404   555B   https://geodata.tangerangkab.go.id/WEB-INF/classes/logback.xml
+404   555B   https://geodata.tangerangkab.go.id/WEB-INF/classes/languages.xml
+404   555B   https://geodata.tangerangkab.go.id/WEB-INF/classes/META-INF/app-config.xml
+404   555B   https://geodata.tangerangkab.go.id/WEB-INF/classes/META-INF/persistence.xml
+404   555B   https://geodata.tangerangkab.go.id/WEB-INF/classes/log4j.xml
+404   555B   https://geodata.tangerangkab.go.id/WEB-INF/classes/persistence.xml
+404   555B   https://geodata.tangerangkab.go.id/WEB-INF/classes/mobile.xml
+404   555B   https://geodata.tangerangkab.go.id/WEB-INF/classes/struts.xml
+404   555B   https://geodata.tangerangkab.go.id/WEB-INF/classes/web.xml
+404   555B   https://geodata.tangerangkab.go.id/WEB-INF/conf/core_context.xml
+404   555B   https://geodata.tangerangkab.go.id/WEB-INF/components.xml
+404   555B   https://geodata.tangerangkab.go.id/WEB-INF/conf/core.xml
+404   555B   https://geodata.tangerangkab.go.id/WEB-INF/conf/jpa_context.xml
+404   555B   https://geodata.tangerangkab.go.id/WEB-INF/conf/page_navigator.xml
+404   555B   https://geodata.tangerangkab.go.id/WEB-INF/config/dashboard-statistics.xml
+404   555B   https://geodata.tangerangkab.go.id/WEB-INF/config/mua-endpoints.xml
+404   555B   https://geodata.tangerangkab.go.id/WEB-INF/config.xml
+404   555B   https://geodata.tangerangkab.go.id/WEB-INF/config/faces-config.xml
+404   555B   https://geodata.tangerangkab.go.id/WEB-INF/config/security.xml
+404   555B   https://geodata.tangerangkab.go.id/WEB-INF/config/metadata.xml
+404   555B   https://geodata.tangerangkab.go.id/WEB-INF/config/soapConfig.xml
+404   555B   https://geodata.tangerangkab.go.id/WEB-INF/config/users.xml
+404   555B   https://geodata.tangerangkab.go.id/WEB-INF/decorators.xml
+404   555B   https://geodata.tangerangkab.go.id/WEB-INF/config/webflow-config.xml
+404   555B   https://geodata.tangerangkab.go.id/WEB-INF/dispatcher-servlet.xml
+404   555B   https://geodata.tangerangkab.go.id/WEB-INF/config/webmvc-config.xml
+404   555B   https://geodata.tangerangkab.go.id/WEB-INF/faces-config.xml
+404   555B   https://geodata.tangerangkab.go.id/WEB-INF/ejb-jar.xml
+404   555B   https://geodata.tangerangkab.go.id/WEB-INF/config/web-core.xml
+404   555B   https://geodata.tangerangkab.go.id/WEB-INF/glassfish-resources.xml
+404   555B   https://geodata.tangerangkab.go.id/WEB-INF/glassfish-web.xml
+404   555B   https://geodata.tangerangkab.go.id/WEB-INF/hibernate.cfg.xml
+404   555B   https://geodata.tangerangkab.go.id/WEB-INF/jax-ws-catalog.xml
+404   555B   https://geodata.tangerangkab.go.id/WEB-INF/ias-web.xml
+404   555B   https://geodata.tangerangkab.go.id/WEB-INF/jboss-client.xml
+404   555B   https://geodata.tangerangkab.go.id/WEB-INF/deployerConfigContext.xml
+404   555B   https://geodata.tangerangkab.go.id/WEB-INF/jboss-web.xml
+404   555B   https://geodata.tangerangkab.go.id/WEB-INF/jetty-env.xml
+404   555B   https://geodata.tangerangkab.go.id/WEB-INF/jboss-webservices.xml
+404   555B   https://geodata.tangerangkab.go.id/WEB-INF/jboss-ejb3.xml
+404   555B   https://geodata.tangerangkab.go.id/WEB-INF/jrun-web.xml
+404   555B   https://geodata.tangerangkab.go.id/WEB-INF/jboss-ejb-client.xml
+404   555B   https://geodata.tangerangkab.go.id/WEB-INF/geronimo-web.xml
+404   555B   https://geodata.tangerangkab.go.id/WEB-INF/liferay-layout-templates.xml
+404   555B   https://geodata.tangerangkab.go.id/WEB-INF/liferay-plugin-package.xml
+404   555B   https://geodata.tangerangkab.go.id/WEB-INF/jetty-web.xml
+404   555B   https://geodata.tangerangkab.go.id/WEB-INF/logback.xml
+404   555B   https://geodata.tangerangkab.go.id/WEB-INF/liferay-display.xml
+404   555B   https://geodata.tangerangkab.go.id/WEB-INF/liferay-look-and-feel.xml
+404   555B   https://geodata.tangerangkab.go.id/WEB-INF/jboss-deployment-structure.xml
+404   555B   https://geodata.tangerangkab.go.id/WEB-INF/liferay-portlet.xml
+404   555B   https://geodata.tangerangkab.go.id/WEB-INF/jonas-web.xml
+404   555B   https://geodata.tangerangkab.go.id/WEB-INF/portlet-custom.xml
+404   555B   https://geodata.tangerangkab.go.id/WEB-INF/local.xml
+404   555B   https://geodata.tangerangkab.go.id/WEB-INF/openx-config.xml
+404   555B   https://geodata.tangerangkab.go.id/WEB-INF/remoting-servlet.xml
+404   555B   https://geodata.tangerangkab.go.id/WEB-INF/resin-web.xml
+404   555B   https://geodata.tangerangkab.go.id/WEB-INF/quartz-properties.xml
+404   555B   https://geodata.tangerangkab.go.id/WEB-INF/rexip-web.xml
+404   555B   https://geodata.tangerangkab.go.id/WEB-INF/restlet-servlet.xml
+404   555B   https://geodata.tangerangkab.go.id/WEB-INF/portlet.xml
+404   555B   https://geodata.tangerangkab.go.id/WEB-INF/sitemesh.xml
+404   555B   https://geodata.tangerangkab.go.id/WEB-INF/spring-config/application-context.xml
+404   555B   https://geodata.tangerangkab.go.id/WEB-INF/spring-config/presentation-config.xml
+404   555B   https://geodata.tangerangkab.go.id/WEB-INF/spring-config/management-config.xml
+404   555B   https://geodata.tangerangkab.go.id/WEB-INF/spring-config/authorization-config.xml
+404   555B   https://geodata.tangerangkab.go.id/WEB-INF/spring-config.xml
+404   555B   https://geodata.tangerangkab.go.id/WEB-INF/spring-dispatcher-servlet.xml
+404   555B   https://geodata.tangerangkab.go.id/WEB-INF/spring-config/services-config.xml
+404   555B   https://geodata.tangerangkab.go.id/WEB-INF/spring-config/messaging-config.xml
+404   555B   https://geodata.tangerangkab.go.id/WEB-INF/spring-context.xml
+404   555B   https://geodata.tangerangkab.go.id/WEB-INF/struts-config.xml
+404   555B   https://geodata.tangerangkab.go.id/WEB-INF/struts-config-ext.xml
+404   555B   https://geodata.tangerangkab.go.id/WEB-INF/springweb-servlet.xml
+404   555B   https://geodata.tangerangkab.go.id/WEB-INF/spring-configuration/filters.xml
+404   555B   https://geodata.tangerangkab.go.id/WEB-INF/tiles-defs.xml
+404   555B   https://geodata.tangerangkab.go.id/WEB-INF/spring/webmvc-config.xml
+404   555B   https://geodata.tangerangkab.go.id/WEB-INF/tjc-web.xml
+404   555B   https://geodata.tangerangkab.go.id/WEB-INF/struts-config-widgets.xml
+404   555B   https://geodata.tangerangkab.go.id/WEB-INF/trinidad-config.xml
+404   555B   https://geodata.tangerangkab.go.id/WEB-INF/validation.xml
+404   555B   https://geodata.tangerangkab.go.id/WEB-INF/spring-ws-servlet.xml
+404   555B   https://geodata.tangerangkab.go.id/WEB-INF/spring-mvc.xml
+404   555B   https://geodata.tangerangkab.go.id/WEB-INF/sun-jaxws.xml
+404   555B   https://geodata.tangerangkab.go.id/WEB-INF/sun-web.xml
+404   555B   https://geodata.tangerangkab.go.id/WEB-INF/web-jetty.xml
+404   555B   https://geodata.tangerangkab.go.id/WEB-INF/urlrewrite.xml
+404   555B   https://geodata.tangerangkab.go.id/WEB-INF/spring-config/services-remote-config.xml
+404   555B   https://geodata.tangerangkab.go.id/WEB-INF/validator-rules.xml
+404   555B   https://geodata.tangerangkab.go.id/WEB-INF/weblogic.xml
+404   555B   https://geodata.tangerangkab.go.id/WEB-INF/workflow-properties.xml
+404   555B   https://geodata.tangerangkab.go.id/WEB-INF/web-borland.xml
+404   555B   https://geodata.tangerangkab.go.id/WEB-INF/web.xml
+404   555B   https://geodata.tangerangkab.go.id/WEB-INF/web2.xml
+404   555B   https://geodata.tangerangkab.go.id/web.rar
+404   555B   https://geodata.tangerangkab.go.id/web.tar.bz2
+404   555B   https://geodata.tangerangkab.go.id/web.tar
+404   555B   https://geodata.tangerangkab.go.id/web.tar.gz
+404   555B   https://geodata.tangerangkab.go.id/web.xml
+404   555B   https://geodata.tangerangkab.go.id/web.tgz
+404   555B   https://geodata.tangerangkab.go.id/website.tar.bz2
+404   555B   https://geodata.tangerangkab.go.id/website.tar
+404   555B   https://geodata.tangerangkab.go.id/website.tar.gz
+404   555B   https://geodata.tangerangkab.go.id/wordpress.tar
+404   555B   https://geodata.tangerangkab.go.id/wordpress.tar.bz2
+404   555B   https://geodata.tangerangkab.go.id/wordpress.tar.gz
+404   555B   https://geodata.tangerangkab.go.id/workspace.xml
+404   555B   https://geodata.tangerangkab.go.id/www.tar.bz2
+404   555B   https://geodata.tangerangkab.go.id/www.tar
+404   555B   https://geodata.tangerangkab.go.id/www.tar.gz
+404   555B   https://geodata.tangerangkab.go.id/www.rar
+404   555B   https://geodata.tangerangkab.go.id/www.tgz
+404   555B   https://geodata.tangerangkab.go.id/wwwroot.rar
+404   555B   https://geodata.tangerangkab.go.id/wwwroot.tar
+404   555B   https://geodata.tangerangkab.go.id/wwwroot.tar.gz
+404   555B   https://geodata.tangerangkab.go.id/wwwroot.tar.bz2
+404   555B   https://geodata.tangerangkab.go.id/wwwroot.tgz
+404   555B   https://geodata.tangerangkab.go.id/xml/_common.xml
+404   555B   https://geodata.tangerangkab.go.id/xml/common.xml
+404   555B   https://geodata.tangerangkab.go.id/XSQLConfig.xml
+404   555B   https://geodata.tangerangkab.go.id/xsql/lib/XSQLConfig.xml
+404   555B   https://geodata.tangerangkab.go.id/zeroclipboard.swf

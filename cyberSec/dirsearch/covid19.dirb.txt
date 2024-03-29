@@ -1,0 +1,183 @@
+
+-----------------
+DIRB v2.22    
+By The Dark Raver
+-----------------
+
+OUTPUT_FILE: covid19.dirb.txt
+START_TIME: Thu Mar 28 19:31:50 2024
+URL_BASE: https://covid19.tangerangkab.go.id/
+WORDLIST_FILES: /usr/share/dirb/wordlists/common.txt
+
+-----------------
+
+GENERATED WORDS: 4612
+
+---- Scanning URL: https://covid19.tangerangkab.go.id/ ----
++ https://covid19.tangerangkab.go.id/.git/HEAD (CODE:500|SIZE:38668)
++ https://covid19.tangerangkab.go.id/.htaccess (CODE:500|SIZE:38668)
++ https://covid19.tangerangkab.go.id/.htpasswd (CODE:500|SIZE:38668)
++ https://covid19.tangerangkab.go.id/.svn/entries (CODE:500|SIZE:38671)
++ https://covid19.tangerangkab.go.id/admin (CODE:302|SIZE:430)
++ https://covid19.tangerangkab.go.id/aux (CODE:500|SIZE:38662)
+==> DIRECTORY: https://covid19.tangerangkab.go.id/back/
+==> DIRECTORY: https://covid19.tangerangkab.go.id/backend/
++ https://covid19.tangerangkab.go.id/callback (CODE:200|SIZE:0)
++ https://covid19.tangerangkab.go.id/captcha (CODE:200|SIZE:7727)
++ https://covid19.tangerangkab.go.id/com1 (CODE:500|SIZE:38663)
++ https://covid19.tangerangkab.go.id/com2 (CODE:500|SIZE:38663)
++ https://covid19.tangerangkab.go.id/com3 (CODE:500|SIZE:38663)
+==> DIRECTORY: https://covid19.tangerangkab.go.id/css/
++ https://covid19.tangerangkab.go.id/CVS/Entries (CODE:500|SIZE:38670)
++ https://covid19.tangerangkab.go.id/dashboard (CODE:302|SIZE:406)
++ https://covid19.tangerangkab.go.id/f (CODE:200|SIZE:314573)
++ https://covid19.tangerangkab.go.id/faq (CODE:200|SIZE:66206)
++ https://covid19.tangerangkab.go.id/favicon.ico (CODE:200|SIZE:5077)
++ https://covid19.tangerangkab.go.id/file (CODE:200|SIZE:33888)
+==> DIRECTORY: https://covid19.tangerangkab.go.id/files/
+==> DIRECTORY: https://covid19.tangerangkab.go.id/front/
++ https://covid19.tangerangkab.go.id/global.asa (CODE:500|SIZE:38669)
+==> DIRECTORY: https://covid19.tangerangkab.go.id/images/
+==> DIRECTORY: https://covid19.tangerangkab.go.id/img/
++ https://covid19.tangerangkab.go.id/index.php (CODE:200|SIZE:74134)
+==> DIRECTORY: https://covid19.tangerangkab.go.id/js/
++ https://covid19.tangerangkab.go.id/login (CODE:200|SIZE:4478)
++ https://covid19.tangerangkab.go.id/logout (CODE:405|SIZE:1425)
++ https://covid19.tangerangkab.go.id/logs (CODE:302|SIZE:406)
++ https://covid19.tangerangkab.go.id/lpt1 (CODE:500|SIZE:38663)
++ https://covid19.tangerangkab.go.id/lpt2 (CODE:500|SIZE:38663)
++ https://covid19.tangerangkab.go.id/map (CODE:200|SIZE:4662)
+==> DIRECTORY: https://covid19.tangerangkab.go.id/packages/
++ https://covid19.tangerangkab.go.id/prn (CODE:500|SIZE:38662)
++ https://covid19.tangerangkab.go.id/readfile (CODE:500|SIZE:38667)
++ https://covid19.tangerangkab.go.id/register (CODE:302|SIZE:406)
++ https://covid19.tangerangkab.go.id/robots.txt (CODE:200|SIZE:24)
++ https://covid19.tangerangkab.go.id/statistik (CODE:200|SIZE:40957)
+==> DIRECTORY: https://covid19.tangerangkab.go.id/storage/
+==> DIRECTORY: https://covid19.tangerangkab.go.id/theme/
+==> DIRECTORY: https://covid19.tangerangkab.go.id/uploads/
++ https://covid19.tangerangkab.go.id/users (CODE:302|SIZE:406)
++ https://covid19.tangerangkab.go.id/v1 (CODE:500|SIZE:7818)
++ https://covid19.tangerangkab.go.id/v2 (CODE:200|SIZE:73924)
+==> DIRECTORY: https://covid19.tangerangkab.go.id/vendor/
++ https://covid19.tangerangkab.go.id/web.config (CODE:200|SIZE:1194)
++ https://covid19.tangerangkab.go.id/WS_FTP.LOG (CODE:500|SIZE:38669)
+
+---- Entering directory: https://covid19.tangerangkab.go.id/back/ ----
++ https://covid19.tangerangkab.go.id/back/.git/HEAD (CODE:500|SIZE:38673)
++ https://covid19.tangerangkab.go.id/back/.htaccess (CODE:500|SIZE:38673)
++ https://covid19.tangerangkab.go.id/back/.htpasswd (CODE:500|SIZE:38673)
++ https://covid19.tangerangkab.go.id/back/.svn/entries (CODE:500|SIZE:38676)
++ https://covid19.tangerangkab.go.id/back/admin.php (CODE:403|SIZE:548)
++ https://covid19.tangerangkab.go.id/back/com1 (CODE:500|SIZE:38668)
++ https://covid19.tangerangkab.go.id/back/com2 (CODE:500|SIZE:38668)
++ https://covid19.tangerangkab.go.id/back/com3 (CODE:500|SIZE:38668)
+==> DIRECTORY: https://covid19.tangerangkab.go.id/back/css/
++ https://covid19.tangerangkab.go.id/back/CVS/Entries (CODE:500|SIZE:38675)
++ https://covid19.tangerangkab.go.id/back/global.asa (CODE:500|SIZE:38674)
+==> DIRECTORY: https://covid19.tangerangkab.go.id/back/img/
++ https://covid19.tangerangkab.go.id/back/index.php (CODE:403|SIZE:548)
++ https://covid19.tangerangkab.go.id/back/info.php (CODE:403|SIZE:548)
+==> DIRECTORY: https://covid19.tangerangkab.go.id/back/js/
++ https://covid19.tangerangkab.go.id/back/lpt1 (CODE:500|SIZE:38668)
++ https://covid19.tangerangkab.go.id/back/lpt2 (CODE:500|SIZE:38668)
++ https://covid19.tangerangkab.go.id/back/phpinfo.php (CODE:403|SIZE:548)
++ https://covid19.tangerangkab.go.id/back/readfile (CODE:500|SIZE:38672)
+==> DIRECTORY: https://covid19.tangerangkab.go.id/back/theme/
++ https://covid19.tangerangkab.go.id/back/WS_FTP.LOG (CODE:500|SIZE:38674)
++ https://covid19.tangerangkab.go.id/back/xmlrpc.php (CODE:403|SIZE:548)
++ https://covid19.tangerangkab.go.id/back/xmlrpc_server.php (CODE:403|SIZE:548)
+
+---- Entering directory: https://covid19.tangerangkab.go.id/backend/ ----
++ https://covid19.tangerangkab.go.id/backend/.git/HEAD (CODE:500|SIZE:38676)
++ https://covid19.tangerangkab.go.id/backend/.htaccess (CODE:500|SIZE:38676)
++ https://covid19.tangerangkab.go.id/backend/.htpasswd (CODE:500|SIZE:38676)
++ https://covid19.tangerangkab.go.id/backend/.svn/entries (CODE:500|SIZE:38679)
++ https://covid19.tangerangkab.go.id/backend/com1 (CODE:500|SIZE:38671)
++ https://covid19.tangerangkab.go.id/backend/com2 (CODE:500|SIZE:38671)
++ https://covid19.tangerangkab.go.id/backend/com3 (CODE:500|SIZE:38671)
+==> DIRECTORY: https://covid19.tangerangkab.go.id/backend/css/
++ https://covid19.tangerangkab.go.id/backend/CVS/Entries (CODE:500|SIZE:38678)
+==> DIRECTORY: https://covid19.tangerangkab.go.id/backend/fonts/
++ https://covid19.tangerangkab.go.id/backend/global.asa (CODE:500|SIZE:38677)
+==> DIRECTORY: https://covid19.tangerangkab.go.id/backend/images/
+==> DIRECTORY: https://covid19.tangerangkab.go.id/backend/js/
++ https://covid19.tangerangkab.go.id/backend/lpt1 (CODE:500|SIZE:38671)
++ https://covid19.tangerangkab.go.id/backend/lpt2 (CODE:500|SIZE:38671)
++ https://covid19.tangerangkab.go.id/backend/readfile (CODE:500|SIZE:38675)
++ https://covid19.tangerangkab.go.id/backend/WS_FTP.LOG (CODE:500|SIZE:38677)
+
+---- Entering directory: https://covid19.tangerangkab.go.id/css/ ----
++ https://covid19.tangerangkab.go.id/css/.git/HEAD (CODE:500|SIZE:38672)
++ https://covid19.tangerangkab.go.id/css/.htaccess (CODE:500|SIZE:38672)
++ https://covid19.tangerangkab.go.id/css/.htpasswd (CODE:500|SIZE:38672)
++ https://covid19.tangerangkab.go.id/css/.svn/entries (CODE:500|SIZE:38675)
++ https://covid19.tangerangkab.go.id/css/admin.php (CODE:403|SIZE:548)
++ https://covid19.tangerangkab.go.id/css/com1 (CODE:500|SIZE:38667)
++ https://covid19.tangerangkab.go.id/css/com2 (CODE:500|SIZE:38667)
++ https://covid19.tangerangkab.go.id/css/com3 (CODE:500|SIZE:38667)
++ https://covid19.tangerangkab.go.id/css/CVS/Entries (CODE:500|SIZE:38674)
++ https://covid19.tangerangkab.go.id/css/global.asa (CODE:500|SIZE:38673)
++ https://covid19.tangerangkab.go.id/css/index.php (CODE:403|SIZE:548)
++ https://covid19.tangerangkab.go.id/css/info.php (CODE:403|SIZE:548)
++ https://covid19.tangerangkab.go.id/css/lpt1 (CODE:500|SIZE:38667)
++ https://covid19.tangerangkab.go.id/css/lpt2 (CODE:500|SIZE:38667)
++ https://covid19.tangerangkab.go.id/css/phpinfo.php (CODE:403|SIZE:548)
++ https://covid19.tangerangkab.go.id/css/readfile (CODE:500|SIZE:38671)
++ https://covid19.tangerangkab.go.id/css/WS_FTP.LOG (CODE:500|SIZE:38673)
++ https://covid19.tangerangkab.go.id/css/xmlrpc.php (CODE:403|SIZE:548)
++ https://covid19.tangerangkab.go.id/css/xmlrpc_server.php (CODE:403|SIZE:548)
+
+---- Entering directory: https://covid19.tangerangkab.go.id/files/ ----
++ https://covid19.tangerangkab.go.id/files/.git/HEAD (CODE:500|SIZE:38674)
++ https://covid19.tangerangkab.go.id/files/.htaccess (CODE:500|SIZE:38674)
++ https://covid19.tangerangkab.go.id/files/.htpasswd (CODE:500|SIZE:38674)
++ https://covid19.tangerangkab.go.id/files/.svn/entries (CODE:500|SIZE:38677)
++ https://covid19.tangerangkab.go.id/files/admin.php (CODE:403|SIZE:548)
++ https://covid19.tangerangkab.go.id/files/com1 (CODE:500|SIZE:38669)
++ https://covid19.tangerangkab.go.id/files/com2 (CODE:500|SIZE:38669)
++ https://covid19.tangerangkab.go.id/files/com3 (CODE:500|SIZE:38669)
++ https://covid19.tangerangkab.go.id/files/CVS/Entries (CODE:500|SIZE:38676)
++ https://covid19.tangerangkab.go.id/files/global.asa (CODE:500|SIZE:38675)
++ https://covid19.tangerangkab.go.id/files/index.php (CODE:403|SIZE:548)
++ https://covid19.tangerangkab.go.id/files/info.php (CODE:403|SIZE:548)
++ https://covid19.tangerangkab.go.id/files/lpt1 (CODE:500|SIZE:38669)
++ https://covid19.tangerangkab.go.id/files/lpt2 (CODE:500|SIZE:38669)
++ https://covid19.tangerangkab.go.id/files/phpinfo.php (CODE:403|SIZE:548)
++ https://covid19.tangerangkab.go.id/files/readfile (CODE:500|SIZE:38673)
++ https://covid19.tangerangkab.go.id/files/WS_FTP.LOG (CODE:500|SIZE:38675)
++ https://covid19.tangerangkab.go.id/files/xmlrpc.php (CODE:403|SIZE:548)
++ https://covid19.tangerangkab.go.id/files/xmlrpc_server.php (CODE:403|SIZE:548)
+
+---- Entering directory: https://covid19.tangerangkab.go.id/front/ ----
++ https://covid19.tangerangkab.go.id/front/.git/HEAD (CODE:500|SIZE:38674)
++ https://covid19.tangerangkab.go.id/front/.htaccess (CODE:500|SIZE:38674)
++ https://covid19.tangerangkab.go.id/front/.htpasswd (CODE:500|SIZE:38674)
++ https://covid19.tangerangkab.go.id/front/.svn/entries (CODE:500|SIZE:38677)
++ https://covid19.tangerangkab.go.id/front/com1 (CODE:500|SIZE:38669)
++ https://covid19.tangerangkab.go.id/front/com2 (CODE:500|SIZE:38669)
++ https://covid19.tangerangkab.go.id/front/com3 (CODE:500|SIZE:38669)
+==> DIRECTORY: https://covid19.tangerangkab.go.id/front/css/
++ https://covid19.tangerangkab.go.id/front/CVS/Entries (CODE:500|SIZE:38676)
++ https://covid19.tangerangkab.go.id/front/global.asa (CODE:500|SIZE:38675)
+==> DIRECTORY: https://covid19.tangerangkab.go.id/front/images/
+==> DIRECTORY: https://covid19.tangerangkab.go.id/front/js/
++ https://covid19.tangerangkab.go.id/front/lpt1 (CODE:500|SIZE:38669)
++ https://covid19.tangerangkab.go.id/front/lpt2 (CODE:500|SIZE:38669)
++ https://covid19.tangerangkab.go.id/front/readfile (CODE:500|SIZE:38673)
++ https://covid19.tangerangkab.go.id/front/WS_FTP.LOG (CODE:500|SIZE:38675)
+
+---- Entering directory: https://covid19.tangerangkab.go.id/images/ ----
++ https://covid19.tangerangkab.go.id/images/.git/HEAD (CODE:500|SIZE:38675)
++ https://covid19.tangerangkab.go.id/images/.htaccess (CODE:500|SIZE:38675)
++ https://covid19.tangerangkab.go.id/images/.htpasswd (CODE:500|SIZE:38675)
++ https://covid19.tangerangkab.go.id/images/.svn/entries (CODE:500|SIZE:38678)
++ https://covid19.tangerangkab.go.id/images/admin.php (CODE:403|SIZE:548)
+==> DIRECTORY: https://covid19.tangerangkab.go.id/images/big/
++ https://covid19.tangerangkab.go.id/images/com1 (CODE:500|SIZE:38670)
++ https://covid19.tangerangkab.go.id/images/com2 (CODE:500|SIZE:38670)
++ https://covid19.tangerangkab.go.id/images/com3 (CODE:500|SIZE:38670)
++ https://covid19.tangerangkab.go.id/images/CVS/Entries (CODE:500|SIZE:38677)
++ https://covid19.tangerangkab.go.id/images/global.asa (CODE:500|SIZE:38676)
++ https://covid19.tangerangkab.go.id/images/index.php (CODE:403|SIZE:548)
++ https://covid19.tangerangkab.go.id/images/info.php (CODE:403|SIZE:548)

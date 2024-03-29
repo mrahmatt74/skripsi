@@ -1,0 +1,172 @@
+# Dirsearch started Thu Mar 28 13:05:53 2024 as: /usr/lib/python3/dist-packages/dirsearch/dirsearch.py -u sipinter.tangerangkab.go.id -o sipinter.txt
+
+400     1KB  https://sipinter.tangerangkab.go.id/!.htaccess
+400     1KB  https://sipinter.tangerangkab.go.id/+CSCOE+/logon.html
+400     1KB  https://sipinter.tangerangkab.go.id/+CSCOT+/oem-customization?app=AnyConnect&type=oem&platform=..&resource-type=..&name=%2bCSCOE%2b/portal_inc.lua
+400     1KB  https://sipinter.tangerangkab.go.id/+CSCOT+/oem
+400     1KB  https://sipinter.tangerangkab.go.id/+CSCOT+/translation
+400     1KB  https://sipinter.tangerangkab.go.id/+CSCOT+/translation-table?type=mst&textdomain=/%2bCSCOE%2b/portal_inc.lua&default-language&lang=../
+307     0B   https://sipinter.tangerangkab.go.id/.admin    -> REDIRECTS TO: https://sipinter.tangerangkab.go.id/
+307     0B   https://sipinter.tangerangkab.go.id/.admin/    -> REDIRECTS TO: https://sipinter.tangerangkab.go.id/
+400     1KB  https://sipinter.tangerangkab.go.id/!.htpasswd
+400     1KB  https://sipinter.tangerangkab.go.id/!.gitignore
+400     1KB  https://sipinter.tangerangkab.go.id/+CSCOE+/session_password.html
+400     1KB  https://sipinter.tangerangkab.go.id/.config/psi+/profiles/default/accounts.xml
+200   302B   https://sipinter.tangerangkab.go.id/.editorconfig
+200    10KB  https://sipinter.tangerangkab.go.id/.DS_Store
+200   503B   https://sipinter.tangerangkab.go.id/.gitignore
+404   209B   https://sipinter.tangerangkab.go.id/.gitignore/
+403   213B   https://sipinter.tangerangkab.go.id/.ht_wsr.txt
+403   216B   https://sipinter.tangerangkab.go.id/.htaccess.bak1
+403   216B   https://sipinter.tangerangkab.go.id/.htaccess.orig
+403   218B   https://sipinter.tangerangkab.go.id/.htaccess.sample
+403   216B   https://sipinter.tangerangkab.go.id/.htaccess.save
+403   214B   https://sipinter.tangerangkab.go.id/.htaccess_sc
+403   214B   https://sipinter.tangerangkab.go.id/.htaccessBAK
+403   214B   https://sipinter.tangerangkab.go.id/.htaccessOLD
+403   215B   https://sipinter.tangerangkab.go.id/.htaccessOLD2
+403   216B   https://sipinter.tangerangkab.go.id/.htpasswd_test
+403   213B   https://sipinter.tangerangkab.go.id/.httr-oauth
+403   212B   https://sipinter.tangerangkab.go.id/.htpasswds
+403   207B   https://sipinter.tangerangkab.go.id/.html
+403   206B   https://sipinter.tangerangkab.go.id/.htm
+403   217B   https://sipinter.tangerangkab.go.id/.htaccess_extra
+403   216B   https://sipinter.tangerangkab.go.id/.htaccess_orig
+200     1KB  https://sipinter.tangerangkab.go.id/.login
+307     0B   https://sipinter.tangerangkab.go.id/.logout    -> REDIRECTS TO: https://sipinter.tangerangkab.go.id/
+404     2KB  https://sipinter.tangerangkab.go.id/.maintenance
+403   207B   https://sipinter.tangerangkab.go.id/.php3
+403   206B   https://sipinter.tangerangkab.go.id/.php
+400     1KB  https://sipinter.tangerangkab.go.id/;/login
+400     1KB  https://sipinter.tangerangkab.go.id/;admin/
+400     1KB  https://sipinter.tangerangkab.go.id/;/admin
+400     1KB  https://sipinter.tangerangkab.go.id/;login/
+400     1KB  https://sipinter.tangerangkab.go.id/;json/
+400     1KB  https://sipinter.tangerangkab.go.id/;/json
+400     1KB  https://sipinter.tangerangkab.go.id/actuator/;/auditevents
+400     1KB  https://sipinter.tangerangkab.go.id/actuator/;/beans
+400     1KB  https://sipinter.tangerangkab.go.id/actuator/;/configprops
+400     1KB  https://sipinter.tangerangkab.go.id/actuator/;/conditions
+400     1KB  https://sipinter.tangerangkab.go.id/actuator/;/events
+400     1KB  https://sipinter.tangerangkab.go.id/actuator/;/features
+400     1KB  https://sipinter.tangerangkab.go.id/actuator/;/health
+400     1KB  https://sipinter.tangerangkab.go.id/actuator/;/auditLog
+400     1KB  https://sipinter.tangerangkab.go.id/actuator/;/heapdump
+400     1KB  https://sipinter.tangerangkab.go.id/actuator/;/httptrace
+400     1KB  https://sipinter.tangerangkab.go.id/actuator/;/configurationMetadata
+400     1KB  https://sipinter.tangerangkab.go.id/actuator/;/dump
+400     1KB  https://sipinter.tangerangkab.go.id/actuator/;/caches
+400     1KB  https://sipinter.tangerangkab.go.id/actuator/;/logfile
+400     1KB  https://sipinter.tangerangkab.go.id/actuator/;/exportRegisteredServices
+400     1KB  https://sipinter.tangerangkab.go.id/actuator/;/env
+400     1KB  https://sipinter.tangerangkab.go.id/actuator/;/healthcheck
+400     1KB  https://sipinter.tangerangkab.go.id/actuator/;/liquibase
+400     1KB  https://sipinter.tangerangkab.go.id/actuator/;/info
+400     1KB  https://sipinter.tangerangkab.go.id/actuator/;/metrics
+400     1KB  https://sipinter.tangerangkab.go.id/actuator/;/integrationgraph
+400     1KB  https://sipinter.tangerangkab.go.id/actuator/;/loggers
+400     1KB  https://sipinter.tangerangkab.go.id/actuator/;/refresh
+400     1KB  https://sipinter.tangerangkab.go.id/actuator/;/prometheus
+400     1KB  https://sipinter.tangerangkab.go.id/actuator/;/flyway
+400     1KB  https://sipinter.tangerangkab.go.id/actuator/;/releaseAttributes
+400     1KB  https://sipinter.tangerangkab.go.id/actuator/;/loggingConfig
+400     1KB  https://sipinter.tangerangkab.go.id/actuator/;/resolveAttributes
+400     1KB  https://sipinter.tangerangkab.go.id/actuator/;/sessions
+400     1KB  https://sipinter.tangerangkab.go.id/actuator/;/ssoSessions
+400     1KB  https://sipinter.tangerangkab.go.id/actuator/;/shutdown
+400     1KB  https://sipinter.tangerangkab.go.id/actuator/;/mappings
+400     1KB  https://sipinter.tangerangkab.go.id/actuator/;/status
+400     1KB  https://sipinter.tangerangkab.go.id/actuator/;/threaddump
+400     1KB  https://sipinter.tangerangkab.go.id/actuator/;/trace
+400     1KB  https://sipinter.tangerangkab.go.id/actuator/;/scheduledtasks
+400     1KB  https://sipinter.tangerangkab.go.id/actuator/;/statistics
+400     1KB  https://sipinter.tangerangkab.go.id/actuator/;/jolokia
+400     1KB  https://sipinter.tangerangkab.go.id/actuator/;/springWebflow
+400     1KB  https://sipinter.tangerangkab.go.id/actuator/;/registeredServices
+400     1KB  https://sipinter.tangerangkab.go.id/actuator/;/sso
+307     0B   https://sipinter.tangerangkab.go.id/Admin    -> REDIRECTS TO: https://sipinter.tangerangkab.go.id/
+307     0B   https://sipinter.tangerangkab.go.id/admin    -> REDIRECTS TO: https://sipinter.tangerangkab.go.id/
+307     0B   https://sipinter.tangerangkab.go.id/admin.    -> REDIRECTS TO: https://sipinter.tangerangkab.go.id/
+307     0B   https://sipinter.tangerangkab.go.id/Admin/    -> REDIRECTS TO: https://sipinter.tangerangkab.go.id/
+307     0B   https://sipinter.tangerangkab.go.id/admin/    -> REDIRECTS TO: https://sipinter.tangerangkab.go.id/
+307     0B   https://sipinter.tangerangkab.go.id/admin/index    -> REDIRECTS TO: https://sipinter.tangerangkab.go.id/
+400     1KB  https://sipinter.tangerangkab.go.id/Admin;/
+400     1KB  https://sipinter.tangerangkab.go.id/admin;/
+403   214B   https://sipinter.tangerangkab.go.id/application/
+403   220B   https://sipinter.tangerangkab.go.id/application/cache/
+403   237B   https://sipinter.tangerangkab.go.id/application/configs/application.ini
+200     0B   https://sipinter.tangerangkab.go.id/assets/
+301   251B   https://sipinter.tangerangkab.go.id/assets    -> REDIRECTS TO: https://sipinter.tangerangkab.go.id/assets/
+403   213B   https://sipinter.tangerangkab.go.id/application
+403   219B   https://sipinter.tangerangkab.go.id/application/logs/
+301   251B   https://sipinter.tangerangkab.go.id/banner    -> REDIRECTS TO: https://sipinter.tangerangkab.go.id/banner/
+403   209B   https://sipinter.tangerangkab.go.id/banner/
+404   204B   https://sipinter.tangerangkab.go.id/button
+404   226B   https://sipinter.tangerangkab.go.id/composer/installed.json
+200   594B   https://sipinter.tangerangkab.go.id/composer.json
+200     6KB  https://sipinter.tangerangkab.go.id/contributing.md
+200     1KB  https://sipinter.tangerangkab.go.id/favicon.ico
+301   251B   https://sipinter.tangerangkab.go.id/images    -> REDIRECTS TO: https://sipinter.tangerangkab.go.id/images/
+403   209B   https://sipinter.tangerangkab.go.id/images/
+200     0B   https://sipinter.tangerangkab.go.id/include/
+301   252B   https://sipinter.tangerangkab.go.id/include    -> REDIRECTS TO: https://sipinter.tangerangkab.go.id/include/
+404   203B   https://sipinter.tangerangkab.go.id/index
+200     1KB  https://sipinter.tangerangkab.go.id/index.php/login/
+400     1KB  https://sipinter.tangerangkab.go.id/index.php::$DATA
+301   255B   https://sipinter.tangerangkab.go.id/javascript    -> REDIRECTS TO: https://sipinter.tangerangkab.go.id/javascript/
+404   226B   https://sipinter.tangerangkab.go.id/javascript/editors/fckeditor
+404   217B   https://sipinter.tangerangkab.go.id/javascript/tiny_mce
+400     1KB  https://sipinter.tangerangkab.go.id/jkstatus;
+400     1KB  https://sipinter.tangerangkab.go.id/jolokia/exec/com.sun.management:type=DiagnosticCommand/jfrStart/filename=!/tmp!/foo
+400     1KB  https://sipinter.tangerangkab.go.id/jolokia/exec/com.sun.management:type=DiagnosticCommand/vmLog/output=!/tmp!/pwned
+400     1KB  https://sipinter.tangerangkab.go.id/jolokia/exec/com.sun.management:type=DiagnosticCommand/compilerDirectivesAdd/!/etc!/passwd
+400     1KB  https://sipinter.tangerangkab.go.id/jolokia/search/*:j2eeType=J2EEServer,*
+400     1KB  https://sipinter.tangerangkab.go.id/jolokia/read/java.lang:type=*/HeapMemoryUsage
+400     1KB  https://sipinter.tangerangkab.go.id/jolokia/exec/com.sun.management:type=DiagnosticCommand/help/*
+400     1KB  https://sipinter.tangerangkab.go.id/jolokia/exec/com.sun.management:type=DiagnosticCommand/jvmtiAgentLoad/!/etc!/passwd
+200   677B   https://sipinter.tangerangkab.go.id/license.txt
+200   677B   https://sipinter.tangerangkab.go.id/license
+200     1KB  https://sipinter.tangerangkab.go.id/login
+200     1KB  https://sipinter.tangerangkab.go.id/login/
+200     1KB  https://sipinter.tangerangkab.go.id/login/index
+307     0B   https://sipinter.tangerangkab.go.id/logout    -> REDIRECTS TO: https://sipinter.tangerangkab.go.id/
+307     0B   https://sipinter.tangerangkab.go.id/logout/    -> REDIRECTS TO: https://sipinter.tangerangkab.go.id/
+404     2KB  https://sipinter.tangerangkab.go.id/maintenance/test.php
+404     2KB  https://sipinter.tangerangkab.go.id/maintenance/test2.php
+404     2KB  https://sipinter.tangerangkab.go.id/maintenance/
+301   254B   https://sipinter.tangerangkab.go.id/phpmailer    -> REDIRECTS TO: https://sipinter.tangerangkab.go.id/phpmailer/
+400     1KB  https://sipinter.tangerangkab.go.id/phpmyadmin!!
+200     2KB  https://sipinter.tangerangkab.go.id/privacypolicy
+404   204B   https://sipinter.tangerangkab.go.id/readme
+307     0B   https://sipinter.tangerangkab.go.id/report    -> REDIRECTS TO: https://sipinter.tangerangkab.go.id/
+200    27B   https://sipinter.tangerangkab.go.id/robot.txt
+400     1KB  https://sipinter.tangerangkab.go.id/secure/ConfigurePortalPages!default.jspa?view=popular
+400     1KB  https://sipinter.tangerangkab.go.id/secure/ContactAdministrators!default.jspa
+403   215B   https://sipinter.tangerangkab.go.id/server-status
+403   216B   https://sipinter.tangerangkab.go.id/server-status/
+400     1KB  https://sipinter.tangerangkab.go.id/secure/QueryComponent!Default.jspa
+404   222B   https://sipinter.tangerangkab.go.id/storage/logs/laravel.log
+200     0B   https://sipinter.tangerangkab.go.id/storage/
+301   252B   https://sipinter.tangerangkab.go.id/storage    -> REDIRECTS TO: https://sipinter.tangerangkab.go.id/storage/
+403   208B   https://sipinter.tangerangkab.go.id/system
+403   215B   https://sipinter.tangerangkab.go.id/system/cache/
+403   222B   https://sipinter.tangerangkab.go.id/system/cron/cron.txt
+403   218B   https://sipinter.tangerangkab.go.id/system/error.txt
+403   245B   https://sipinter.tangerangkab.go.id/system/expressionengine/config/database.php
+403   217B   https://sipinter.tangerangkab.go.id/system/storage/
+403   213B   https://sipinter.tangerangkab.go.id/system/log/
+403   214B   https://sipinter.tangerangkab.go.id/system/logs/
+403   209B   https://sipinter.tangerangkab.go.id/system/
+403   243B   https://sipinter.tangerangkab.go.id/system/expressionengine/config/config.php
+301   249B   https://sipinter.tangerangkab.go.id/test    -> REDIRECTS TO: https://sipinter.tangerangkab.go.id/test/
+403   207B   https://sipinter.tangerangkab.go.id/test/
+301   250B   https://sipinter.tangerangkab.go.id/tests    -> REDIRECTS TO: https://sipinter.tangerangkab.go.id/tests/
+200     0B   https://sipinter.tangerangkab.go.id/tests/
+400     1KB  https://sipinter.tangerangkab.go.id/Trace.axd::$DATA
+400     1KB  https://sipinter.tangerangkab.go.id/typo3conf/ext/static_info_tables/ext_tables_static+adt-orig.sql
+400     1KB  https://sipinter.tangerangkab.go.id/typo3conf/ext/static_info_tables/ext_tables_static+adt.sql
+301   255B   https://sipinter.tangerangkab.go.id/user_guide    -> REDIRECTS TO: https://sipinter.tangerangkab.go.id/user_guide/
+301   248B   https://sipinter.tangerangkab.go.id/var    -> REDIRECTS TO: https://sipinter.tangerangkab.go.id/var/
+403   206B   https://sipinter.tangerangkab.go.id/var/
+400     1KB  https://sipinter.tangerangkab.go.id/web.config::$DATA
+400     1KB  https://sipinter.tangerangkab.go.id/wps/contenthandler/!ut/p/digest!8skKFbWr_TwcZcvoc9Dn3g/?uri=http://www.redbooks.ibm.com/Redbooks.nsf/RedbookAbstracts/sg247798.html?Logout&RedirectTo=http://example.com

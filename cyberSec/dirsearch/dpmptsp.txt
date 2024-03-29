@@ -1,0 +1,40 @@
+# Dirsearch started Wed Mar 27 10:48:51 2024 as: /usr/lib/python3/dist-packages/dirsearch/dirsearch.py -u dpmptsp.tangerangkab.go.id -o dpmptsp.txt
+
+200     6KB  https://dpmptsp.tangerangkab.go.id/.DS_Store
+200    16B   https://dpmptsp.tangerangkab.go.id/.gitignore
+200   603B   https://dpmptsp.tangerangkab.go.id/.htaccess
+405  1005B   https://dpmptsp.tangerangkab.go.id/_ignition/execute-solution
+403   564B   https://dpmptsp.tangerangkab.go.id/_thumbs/
+200     9KB  https://dpmptsp.tangerangkab.go.id/admin/login
+302   430B   https://dpmptsp.tangerangkab.go.id/dashboard    -> REDIRECTS TO: https://dpmptsp.tangerangkab.go.id/admin/login
+302   430B   https://dpmptsp.tangerangkab.go.id/dashboard/    -> REDIRECTS TO: https://dpmptsp.tangerangkab.go.id/admin/login
+301   178B   https://dpmptsp.tangerangkab.go.id/documents    -> REDIRECTS TO: https://dpmptsp.tangerangkab.go.id/documents/
+200     0B   https://dpmptsp.tangerangkab.go.id/favicon.ico
+301   178B   https://dpmptsp.tangerangkab.go.id/images    -> REDIRECTS TO: https://dpmptsp.tangerangkab.go.id/images/
+403   564B   https://dpmptsp.tangerangkab.go.id/images/
+200    72KB  https://dpmptsp.tangerangkab.go.id/index.php
+404     3KB  https://dpmptsp.tangerangkab.go.id/index.php/login/
+404     3KB  https://dpmptsp.tangerangkab.go.id/index.php.bak
+404     3KB  https://dpmptsp.tangerangkab.go.id/index.php-bak
+404     3KB  https://dpmptsp.tangerangkab.go.id/index.php::$DATA
+404     3KB  https://dpmptsp.tangerangkab.go.id/index.php4
+404     3KB  https://dpmptsp.tangerangkab.go.id/index.php~
+404     3KB  https://dpmptsp.tangerangkab.go.id/index.php5
+404     3KB  https://dpmptsp.tangerangkab.go.id/index.php.
+404     3KB  https://dpmptsp.tangerangkab.go.id/index.php3
+302   430B   https://dpmptsp.tangerangkab.go.id/menu    -> REDIRECTS TO: https://dpmptsp.tangerangkab.go.id/admin/login
+200   118B   https://dpmptsp.tangerangkab.go.id/nginx_status
+200    24B   https://dpmptsp.tangerangkab.go.id/robots.txt
+301   178B   https://dpmptsp.tangerangkab.go.id/storage    -> REDIRECTS TO: https://dpmptsp.tangerangkab.go.id/storage/
+403   564B   https://dpmptsp.tangerangkab.go.id/storage/
+301   178B   https://dpmptsp.tangerangkab.go.id/theme    -> REDIRECTS TO: https://dpmptsp.tangerangkab.go.id/theme/
+302   430B   https://dpmptsp.tangerangkab.go.id/users/admin    -> REDIRECTS TO: https://dpmptsp.tangerangkab.go.id/admin/login
+302   430B   https://dpmptsp.tangerangkab.go.id/users/    -> REDIRECTS TO: https://dpmptsp.tangerangkab.go.id/admin/login
+302   430B   https://dpmptsp.tangerangkab.go.id/users/login    -> REDIRECTS TO: https://dpmptsp.tangerangkab.go.id/admin/login
+302   430B   https://dpmptsp.tangerangkab.go.id/users/login.aspx    -> REDIRECTS TO: https://dpmptsp.tangerangkab.go.id/admin/login
+302   430B   https://dpmptsp.tangerangkab.go.id/users/login.jsp    -> REDIRECTS TO: https://dpmptsp.tangerangkab.go.id/admin/login
+302   430B   https://dpmptsp.tangerangkab.go.id/users/login.js    -> REDIRECTS TO: https://dpmptsp.tangerangkab.go.id/admin/login
+302   430B   https://dpmptsp.tangerangkab.go.id/users/login.html    -> REDIRECTS TO: https://dpmptsp.tangerangkab.go.id/admin/login
+302   430B   https://dpmptsp.tangerangkab.go.id/users    -> REDIRECTS TO: https://dpmptsp.tangerangkab.go.id/admin/login
+403   564B   https://dpmptsp.tangerangkab.go.id/vendor/
+302   430B   https://dpmptsp.tangerangkab.go.id/video    -> REDIRECTS TO: https://dpmptsp.tangerangkab.go.id/admin/login

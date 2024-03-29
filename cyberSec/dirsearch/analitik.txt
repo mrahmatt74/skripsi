@@ -1,0 +1,31 @@
+# Dirsearch started Wed Mar 27 02:45:38 2024 as: /usr/lib/python3/dist-packages/dirsearch/dirsearch.py -u analitik.tangerangkab.go.id -o analitik.txt
+
+500    38KB  https://analitik.tangerangkab.go.id/!.htaccess
+500    38KB  https://analitik.tangerangkab.go.id/%2e%2e//google.com
+500    38KB  https://analitik.tangerangkab.go.id/.%2e/%2e%2e/%2e%2e/%2e%2e/etc/passwd
+500    38KB  https://analitik.tangerangkab.go.id/!.gitignore
+500    38KB  https://analitik.tangerangkab.go.id/.bzrignore
+500    38KB  https://analitik.tangerangkab.go.id/.DS_Store
+500    38KB  https://analitik.tangerangkab.go.id/.ds_store
+500    38KB  https://analitik.tangerangkab.go.id/.git/HEAD
+500    38KB  https://analitik.tangerangkab.go.id/.gitignore.orig
+500    38KB  https://analitik.tangerangkab.go.id/.gitignore
+500    38KB  https://analitik.tangerangkab.go.id/.git/config
+500    38KB  https://analitik.tangerangkab.go.id/.hgignore
+500    38KB  https://analitik.tangerangkab.go.id/.gitignore~
+500    38KB  https://analitik.tangerangkab.go.id/.gitignore.swp
+500    38KB  https://analitik.tangerangkab.go.id/.htaccess.bak1
+500    38KB  https://analitik.tangerangkab.go.id/.htaccess/
+500    38KB  https://analitik.tangerangkab.go.id/.htaccess-local
+500    38KB  https://analitik.tangerangkab.go.id/.htaccess.bak
+500    38KB  https://analitik.tangerangkab.go.id/.htaccess-marco
+500    38KB  https://analitik.tangerangkab.go.id/.htaccess-dev
+500    38KB  https://analitik.tangerangkab.go.id/.git/index
+500    38KB  https://analitik.tangerangkab.go.id/.htaccess.inc
+500    38KB  https://analitik.tangerangkab.go.id/.htaccess.orig
+500    38KB  https://analitik.tangerangkab.go.id/.htpasswd
+500    38KB  https://analitik.tangerangkab.go.id/.git/head
+500    38KB  https://analitik.tangerangkab.go.id/.htaccess.BAK
+500    38KB  https://analitik.tangerangkab.go.id/.htaccess.old
+500    38KB  https://analitik.tangerangkab.go.id/!.htpasswd
+500    38KB  https://analitik.tangerangkab.go.id/+CSCOT+/translation-table?type=mst&textdomain=/%2bCSCOE%2b/portal_inc.lua&default-language&lang=../

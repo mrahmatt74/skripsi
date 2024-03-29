@@ -1,0 +1,113 @@
+
+-----------------
+DIRB v2.22    
+By The Dark Raver
+-----------------
+
+OUTPUT_FILE: dinkes.txt
+START_TIME: Thu Mar 28 18:38:45 2024
+URL_BASE: https://sikat.tangerangkab.go.id/
+WORDLIST_FILES: /usr/share/dirb/wordlists/common.txt
+
+-----------------
+
+GENERATED WORDS: 4612
+
+---- Scanning URL: https://sikat.tangerangkab.go.id/ ----
++ https://sikat.tangerangkab.go.id/.htaccess (CODE:200|SIZE:255)
+
+-----------------
+DIRB v2.22    
+By The Dark Raver
+-----------------
+
+OUTPUT_FILE: dinkes.txt
+START_TIME: Thu Mar 28 18:38:55 2024
+URL_BASE: https://dinkes.tangerangkab.go.id/
+WORDLIST_FILES: /usr/share/dirb/wordlists/common.txt
+
+-----------------
+
+GENERATED WORDS: 4612
+
+---- Scanning URL: https://dinkes.tangerangkab.go.id/ ----
++ https://dinkes.tangerangkab.go.id/.htaccess (CODE:200|SIZE:603)
++ https://dinkes.tangerangkab.go.id/dashboard (CODE:302|SIZE:426)
+==> DIRECTORY: https://dinkes.tangerangkab.go.id/documents/
++ https://dinkes.tangerangkab.go.id/favicon.ico (CODE:200|SIZE:0)
+==> DIRECTORY: https://dinkes.tangerangkab.go.id/images/
++ https://dinkes.tangerangkab.go.id/index.php (CODE:200|SIZE:63906)
++ https://dinkes.tangerangkab.go.id/menu (CODE:302|SIZE:426)
++ https://dinkes.tangerangkab.go.id/robots.txt (CODE:200|SIZE:24)
++ https://dinkes.tangerangkab.go.id/statistik (CODE:302|SIZE:426)
+==> DIRECTORY: https://dinkes.tangerangkab.go.id/storage/
+==> DIRECTORY: https://dinkes.tangerangkab.go.id/theme/
++ https://dinkes.tangerangkab.go.id/users (CODE:302|SIZE:426)
+==> DIRECTORY: https://dinkes.tangerangkab.go.id/vendor/
++ https://dinkes.tangerangkab.go.id/video (CODE:302|SIZE:426)
++ https://dinkes.tangerangkab.go.id/videos (CODE:200|SIZE:305101)
+
+---- Entering directory: https://dinkes.tangerangkab.go.id/documents/ ----
+
+---- Entering directory: https://dinkes.tangerangkab.go.id/images/ ----
+
+---- Entering directory: https://dinkes.tangerangkab.go.id/storage/ ----
+==> DIRECTORY: https://dinkes.tangerangkab.go.id/storage/files/
+==> DIRECTORY: https://dinkes.tangerangkab.go.id/storage/photos/
+
+---- Entering directory: https://dinkes.tangerangkab.go.id/theme/ ----
+==> DIRECTORY: https://dinkes.tangerangkab.go.id/theme/backend/
+==> DIRECTORY: https://dinkes.tangerangkab.go.id/theme/frontend/
+==> DIRECTORY: https://dinkes.tangerangkab.go.id/theme/others/
+
+---- Entering directory: https://dinkes.tangerangkab.go.id/vendor/ ----
+
+---- Entering directory: https://dinkes.tangerangkab.go.id/storage/files/ ----
+==> DIRECTORY: https://dinkes.tangerangkab.go.id/storage/files/10/
+==> DIRECTORY: https://dinkes.tangerangkab.go.id/storage/files/103/
+==> DIRECTORY: https://dinkes.tangerangkab.go.id/storage/files/64/
+==> DIRECTORY: https://dinkes.tangerangkab.go.id/storage/files/shares/
+
+---- Entering directory: https://dinkes.tangerangkab.go.id/storage/photos/ ----
+==> DIRECTORY: https://dinkes.tangerangkab.go.id/storage/photos/10/
+==> DIRECTORY: https://dinkes.tangerangkab.go.id/storage/photos/103/
+==> DIRECTORY: https://dinkes.tangerangkab.go.id/storage/photos/64/
+==> DIRECTORY: https://dinkes.tangerangkab.go.id/storage/photos/shares/
+
+---- Entering directory: https://dinkes.tangerangkab.go.id/theme/backend/ ----
+
+---- Entering directory: https://dinkes.tangerangkab.go.id/theme/frontend/ ----
+
+---- Entering directory: https://dinkes.tangerangkab.go.id/theme/others/ ----
+
+---- Entering directory: https://dinkes.tangerangkab.go.id/storage/files/10/ ----
+
+---- Entering directory: https://dinkes.tangerangkab.go.id/storage/files/103/ ----
+
+---- Entering directory: https://dinkes.tangerangkab.go.id/storage/files/64/ ----
+
+---- Entering directory: https://dinkes.tangerangkab.go.id/storage/files/shares/ ----
+==> DIRECTORY: https://dinkes.tangerangkab.go.id/storage/files/shares/thumbs/
+
+---- Entering directory: https://dinkes.tangerangkab.go.id/storage/photos/10/ ----
+==> DIRECTORY: https://dinkes.tangerangkab.go.id/storage/photos/10/thumbs/
+
+---- Entering directory: https://dinkes.tangerangkab.go.id/storage/photos/103/ ----
+==> DIRECTORY: https://dinkes.tangerangkab.go.id/storage/photos/103/thumbs/
+
+---- Entering directory: https://dinkes.tangerangkab.go.id/storage/photos/64/ ----
+
+---- Entering directory: https://dinkes.tangerangkab.go.id/storage/photos/shares/ ----
+==> DIRECTORY: https://dinkes.tangerangkab.go.id/storage/photos/shares/thumbs/
+
+---- Entering directory: https://dinkes.tangerangkab.go.id/storage/files/shares/thumbs/ ----
+
+---- Entering directory: https://dinkes.tangerangkab.go.id/storage/photos/10/thumbs/ ----
+
+---- Entering directory: https://dinkes.tangerangkab.go.id/storage/photos/103/thumbs/ ----
+
+---- Entering directory: https://dinkes.tangerangkab.go.id/storage/photos/shares/thumbs/ ----
+
+-----------------
+END_TIME: Thu Mar 28 19:38:03 2024
+DOWNLOADED: 106076 - FOUND: 10

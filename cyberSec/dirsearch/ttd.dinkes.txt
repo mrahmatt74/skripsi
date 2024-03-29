@@ -1,0 +1,47 @@
+# Dirsearch started Wed Mar 27 10:44:56 2024 as: /usr/lib/python3/dist-packages/dirsearch/dirsearch.py -u ttd.dinkes.tangerangkab.go.id -o ttd.dinkes.txt
+
+403   564B   https://ttd.dinkes.tangerangkab.go.id/%2e%2e;/test
+405   835B   https://ttd.dinkes.tangerangkab.go.id/_ignition/execute-solution
+404   564B   https://ttd.dinkes.tangerangkab.go.id/adm/style/admin.css
+403   564B   https://ttd.dinkes.tangerangkab.go.id/admin/.config
+404   564B   https://ttd.dinkes.tangerangkab.go.id/admin_my_avatar.png
+200     4KB  https://ttd.dinkes.tangerangkab.go.id/adminer/index.php
+200     4KB  https://ttd.dinkes.tangerangkab.go.id/adminer/
+403   564B   https://ttd.dinkes.tangerangkab.go.id/admpar/.ftppass
+403   564B   https://ttd.dinkes.tangerangkab.go.id/admrev/.ftppass
+403   564B   https://ttd.dinkes.tangerangkab.go.id/assets/
+301   178B   https://ttd.dinkes.tangerangkab.go.id/assets    -> REDIRECTS TO: https://ttd.dinkes.tangerangkab.go.id/assets/
+403   564B   https://ttd.dinkes.tangerangkab.go.id/bitrix/.settings.php.bak
+403   564B   https://ttd.dinkes.tangerangkab.go.id/bitrix/.settings.bak
+403   564B   https://ttd.dinkes.tangerangkab.go.id/bitrix/.settings
+403   564B   https://ttd.dinkes.tangerangkab.go.id/bitrix/.settings.php
+404   564B   https://ttd.dinkes.tangerangkab.go.id/bundles/kibana.style.css
+302   418B   https://ttd.dinkes.tangerangkab.go.id/dashboard    -> REDIRECTS TO: https://ttd.dinkes.tangerangkab.go.id/login
+302   418B   https://ttd.dinkes.tangerangkab.go.id/dashboard/    -> REDIRECTS TO: https://ttd.dinkes.tangerangkab.go.id/login
+403   564B   https://ttd.dinkes.tangerangkab.go.id/ext/.deps
+200     0B   https://ttd.dinkes.tangerangkab.go.id/favicon.ico
+404   564B   https://ttd.dinkes.tangerangkab.go.id/IdentityGuardSelfService/images/favicon.ico
+302   474B   https://ttd.dinkes.tangerangkab.go.id/index.php    -> REDIRECTS TO: https://ttd.dinkes.tangerangkab.go.id/index.php/dashboard
+200     6KB  https://ttd.dinkes.tangerangkab.go.id/index.php/login/
+403   564B   https://ttd.dinkes.tangerangkab.go.id/lib/flex/uploader/.project
+403   564B   https://ttd.dinkes.tangerangkab.go.id/lib/flex/uploader/.actionScriptProperties
+403   564B   https://ttd.dinkes.tangerangkab.go.id/lib/flex/uploader/.settings
+403   564B   https://ttd.dinkes.tangerangkab.go.id/lib/flex/varien/.flexLibProperties
+403   564B   https://ttd.dinkes.tangerangkab.go.id/lib/flex/varien/.actionScriptProperties
+403   564B   https://ttd.dinkes.tangerangkab.go.id/lib/flex/varien/.settings
+403   564B   https://ttd.dinkes.tangerangkab.go.id/lib/flex/varien/.project
+403   564B   https://ttd.dinkes.tangerangkab.go.id/lib/flex/uploader/.flexProperties
+200     6KB  https://ttd.dinkes.tangerangkab.go.id/login
+200     6KB  https://ttd.dinkes.tangerangkab.go.id/login/
+404   564B   https://ttd.dinkes.tangerangkab.go.id/logo.gif
+405   835B   https://ttd.dinkes.tangerangkab.go.id/logout/
+405   835B   https://ttd.dinkes.tangerangkab.go.id/logout
+403   564B   https://ttd.dinkes.tangerangkab.go.id/mailer/.env
+200   114B   https://ttd.dinkes.tangerangkab.go.id/nginx_status
+403   564B   https://ttd.dinkes.tangerangkab.go.id/resources/.arch-internal-preview.css
+403   564B   https://ttd.dinkes.tangerangkab.go.id/resources/sass/.sass-cache/
+200    24B   https://ttd.dinkes.tangerangkab.go.id/robots.txt
+404   564B   https://ttd.dinkes.tangerangkab.go.id/skin1_admin.css
+403   564B   https://ttd.dinkes.tangerangkab.go.id/twitter/.env
+302   418B   https://ttd.dinkes.tangerangkab.go.id/users    -> REDIRECTS TO: https://ttd.dinkes.tangerangkab.go.id/login
+302   418B   https://ttd.dinkes.tangerangkab.go.id/users/    -> REDIRECTS TO: https://ttd.dinkes.tangerangkab.go.id/login

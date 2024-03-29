@@ -1,0 +1,69 @@
+# Dirsearch started Thu Mar 28 13:11:21 2024 as: /usr/lib/python3/dist-packages/dirsearch/dirsearch.py -u https://support.tangerangkab.go.id -o support.txt
+
+301   339B   https://support.tangerangkab.go.id/js    -> REDIRECTS TO: https://support.tangerangkab.go.id/js/
+403   292B   https://support.tangerangkab.go.id/.ht_wsr.txt
+403   292B   https://support.tangerangkab.go.id/.htaccess.save
+403   292B   https://support.tangerangkab.go.id/.htaccess_orig
+403   292B   https://support.tangerangkab.go.id/.htaccess_sc
+403   292B   https://support.tangerangkab.go.id/.htaccessOLD
+403   292B   https://support.tangerangkab.go.id/.htaccessBAK
+403   292B   https://support.tangerangkab.go.id/.htaccessOLD2
+403   292B   https://support.tangerangkab.go.id/.htm
+403   292B   https://support.tangerangkab.go.id/.html
+403   292B   https://support.tangerangkab.go.id/.htaccess.sample
+403   292B   https://support.tangerangkab.go.id/.htpasswds
+403   292B   https://support.tangerangkab.go.id/.htaccess_extra
+403   292B   https://support.tangerangkab.go.id/.htpasswd_test
+403   292B   https://support.tangerangkab.go.id/.httr-oauth
+403   292B   https://support.tangerangkab.go.id/.htaccess.bak1
+403   292B   https://support.tangerangkab.go.id/.htaccess.orig
+403   292B   https://support.tangerangkab.go.id/.php
+301   342B   https://support.tangerangkab.go.id/admin    -> REDIRECTS TO: https://support.tangerangkab.go.id/admin/
+200     2KB  https://support.tangerangkab.go.id/admin/
+302     0B   https://support.tangerangkab.go.id/admin/export.php    -> REDIRECTS TO: http://helpdesk.tangerangkab.go.id/admin/index.php?a=login&notice=1&goto=%2Fadmin%2Fexport.php
+200     2KB  https://support.tangerangkab.go.id/admin/index.php
+403   292B   https://support.tangerangkab.go.id/attachments
+200   177B   https://support.tangerangkab.go.id/cache/
+301   342B   https://support.tangerangkab.go.id/cache    -> REDIRECTS TO: https://support.tangerangkab.go.id/cache/
+301   341B   https://support.tangerangkab.go.id/cron    -> REDIRECTS TO: https://support.tangerangkab.go.id/cron/
+200   177B   https://support.tangerangkab.go.id/cron/
+301   340B   https://support.tangerangkab.go.id/css    -> REDIRECTS TO: https://support.tangerangkab.go.id/css/
+301   341B   https://support.tangerangkab.go.id/docs    -> REDIRECTS TO: https://support.tangerangkab.go.id/docs/
+200  1013B   https://support.tangerangkab.go.id/docs/
+301   342B   https://support.tangerangkab.go.id/fonts    -> REDIRECTS TO: https://support.tangerangkab.go.id/fonts/
+200    54B   https://support.tangerangkab.go.id/footer
+200    54B   https://support.tangerangkab.go.id/head
+200    52B   https://support.tangerangkab.go.id/header
+200   177B   https://support.tangerangkab.go.id/inc/
+403   292B   https://support.tangerangkab.go.id/inc/tiny_mce/
+301   340B   https://support.tangerangkab.go.id/img    -> REDIRECTS TO: https://support.tangerangkab.go.id/img/
+301   349B   https://support.tangerangkab.go.id/inc/tiny_mce    -> REDIRECTS TO: https://support.tangerangkab.go.id/inc/tiny_mce/
+301   340B   https://support.tangerangkab.go.id/inc    -> REDIRECTS TO: https://support.tangerangkab.go.id/inc/
+403   292B   https://support.tangerangkab.go.id/js/
+301   345B   https://support.tangerangkab.go.id/language    -> REDIRECTS TO: https://support.tangerangkab.go.id/language/
+403   292B   https://support.tangerangkab.go.id/php5.fcgi
+200    48B   https://support.tangerangkab.go.id/print.php
+200   159B   https://support.tangerangkab.go.id/readme
+200   159B   https://support.tangerangkab.go.id/readme.html
+200   149B   https://support.tangerangkab.go.id/robots.txt
+403   292B   https://support.tangerangkab.go.id/server-status
+403   292B   https://support.tangerangkab.go.id/server-status/
+301   342B   https://support.tangerangkab.go.id/theme    -> REDIRECTS TO: https://support.tangerangkab.go.id/theme/
+403   292B   https://support.tangerangkab.go.id/vendor/
+403   292B   https://support.tangerangkab.go.id/vendor/bundle
+403   292B   https://support.tangerangkab.go.id/vendor/composer/autoload_classmap.php
+403   292B   https://support.tangerangkab.go.id/vendor/composer/autoload_namespaces.php
+403   292B   https://support.tangerangkab.go.id/vendor/composer/autoload_files.php
+403   292B   https://support.tangerangkab.go.id/vendor/phpunit/phpunit/Util/PHP/eval-stdin.php
+403   292B   https://support.tangerangkab.go.id/vendor/composer/installed.json
+403   292B   https://support.tangerangkab.go.id/vendor/phpunit/Util/PHP/eval-stdin.php
+403   292B   https://support.tangerangkab.go.id/vendor/assets/bower_components
+403   292B   https://support.tangerangkab.go.id/vendor/composer/autoload_static.php
+403   292B   https://support.tangerangkab.go.id/vendor/composer/ClassLoader.php
+403   292B   https://support.tangerangkab.go.id/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+403   292B   https://support.tangerangkab.go.id/vendor/phpunit/phpunit/phpunit
+403   292B   https://support.tangerangkab.go.id/vendor/composer/autoload_psr4.php
+403   292B   https://support.tangerangkab.go.id/vendor/composer/LICENSE
+403   292B   https://support.tangerangkab.go.id/vendor/composer/autoload_real.php
+403   292B   https://support.tangerangkab.go.id/vendor/phpunit/src/Util/PHP/eval-stdin.php
+403   292B   https://support.tangerangkab.go.id/vendor/autoload.php

@@ -1,0 +1,40 @@
+# Dirsearch started Wed Mar 27 04:06:22 2024 as: /usr/lib/python3/dist-packages/dirsearch/dirsearch.py -u bappeda.tangerangkab.go.id -o bappeda.txt
+
+200     6KB  https://bappeda.tangerangkab.go.id/.DS_Store
+200    16B   https://bappeda.tangerangkab.go.id/.gitignore
+200   603B   https://bappeda.tangerangkab.go.id/.htaccess
+405  1005B   https://bappeda.tangerangkab.go.id/_ignition/execute-solution
+403   564B   https://bappeda.tangerangkab.go.id/_thumbs/
+200     9KB  https://bappeda.tangerangkab.go.id/admin/login
+302   430B   https://bappeda.tangerangkab.go.id/dashboard    -> REDIRECTS TO: https://bappeda.tangerangkab.go.id/admin/login
+302   430B   https://bappeda.tangerangkab.go.id/dashboard/    -> REDIRECTS TO: https://bappeda.tangerangkab.go.id/admin/login
+301   178B   https://bappeda.tangerangkab.go.id/documents    -> REDIRECTS TO: https://bappeda.tangerangkab.go.id/documents/
+200     0B   https://bappeda.tangerangkab.go.id/favicon.ico
+403   564B   https://bappeda.tangerangkab.go.id/images/
+301   178B   https://bappeda.tangerangkab.go.id/images    -> REDIRECTS TO: https://bappeda.tangerangkab.go.id/images/
+404     3KB  https://bappeda.tangerangkab.go.id/index.php.
+404     3KB  https://bappeda.tangerangkab.go.id/index.php.bak
+404     3KB  https://bappeda.tangerangkab.go.id/index.php-bak
+404     3KB  https://bappeda.tangerangkab.go.id/index.php5
+404     3KB  https://bappeda.tangerangkab.go.id/index.php3
+404     3KB  https://bappeda.tangerangkab.go.id/index.php::$DATA
+404     3KB  https://bappeda.tangerangkab.go.id/index.php~
+404     3KB  https://bappeda.tangerangkab.go.id/index.php4
+404     3KB  https://bappeda.tangerangkab.go.id/index.php/login/
+200    63KB  https://bappeda.tangerangkab.go.id/index.php
+302   430B   https://bappeda.tangerangkab.go.id/menu    -> REDIRECTS TO: https://bappeda.tangerangkab.go.id/admin/login
+200   118B   https://bappeda.tangerangkab.go.id/nginx_status
+200    24B   https://bappeda.tangerangkab.go.id/robots.txt
+403   564B   https://bappeda.tangerangkab.go.id/storage/
+301   178B   https://bappeda.tangerangkab.go.id/storage    -> REDIRECTS TO: https://bappeda.tangerangkab.go.id/storage/
+301   178B   https://bappeda.tangerangkab.go.id/theme    -> REDIRECTS TO: https://bappeda.tangerangkab.go.id/theme/
+302   430B   https://bappeda.tangerangkab.go.id/users/login.aspx    -> REDIRECTS TO: https://bappeda.tangerangkab.go.id/admin/login
+302   430B   https://bappeda.tangerangkab.go.id/users    -> REDIRECTS TO: https://bappeda.tangerangkab.go.id/admin/login
+302   430B   https://bappeda.tangerangkab.go.id/users/admin    -> REDIRECTS TO: https://bappeda.tangerangkab.go.id/admin/login
+302   430B   https://bappeda.tangerangkab.go.id/users/login.js    -> REDIRECTS TO: https://bappeda.tangerangkab.go.id/admin/login
+302   430B   https://bappeda.tangerangkab.go.id/users/login.html    -> REDIRECTS TO: https://bappeda.tangerangkab.go.id/admin/login
+302   430B   https://bappeda.tangerangkab.go.id/users/login    -> REDIRECTS TO: https://bappeda.tangerangkab.go.id/admin/login
+302   430B   https://bappeda.tangerangkab.go.id/users/    -> REDIRECTS TO: https://bappeda.tangerangkab.go.id/admin/login
+403   564B   https://bappeda.tangerangkab.go.id/vendor/
+302   430B   https://bappeda.tangerangkab.go.id/users/login.jsp    -> REDIRECTS TO: https://bappeda.tangerangkab.go.id/admin/login
+302   430B   https://bappeda.tangerangkab.go.id/video    -> REDIRECTS TO: https://bappeda.tangerangkab.go.id/admin/login

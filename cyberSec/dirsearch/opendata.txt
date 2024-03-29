@@ -1,0 +1,736 @@
+# Dirsearch started Wed Mar 27 11:11:41 2024 as: /usr/lib/python3/dist-packages/dirsearch/dirsearch.py -u opendata.tangerangkab.go.id -o opendata.txt
+
+403   293B   https://opendata.tangerangkab.go.id/%2e%2e;/test
+404   290B   https://opendata.tangerangkab.go.id/php.txt
+404   290B   https://opendata.tangerangkab.go.id/jsp.txt
+404   291B   https://opendata.tangerangkab.go.id/aspx.txt
+404   291B   https://opendata.tangerangkab.go.id/html.txt
+404   289B   https://opendata.tangerangkab.go.id/js.txt
+404   309B   https://opendata.tangerangkab.go.id/.well-known/dnt-policy.txt
+404   306B   https://opendata.tangerangkab.go.id/.well-known/keybase.txt
+404   307B   https://opendata.tangerangkab.go.id/.well-known/security.txt
+403   293B   https://opendata.tangerangkab.go.id/1.sql
+301     0B   https://opendata.tangerangkab.go.id/0    -> REDIRECTS TO: https://opendata.tangerangkab.go.id/
+404   288B   https://opendata.tangerangkab.go.id/1.txt
+404   290B   https://opendata.tangerangkab.go.id/123.txt
+403   293B   https://opendata.tangerangkab.go.id/2.sql
+404   288B   https://opendata.tangerangkab.go.id/2.txt
+403   293B   https://opendata.tangerangkab.go.id/2010.sql
+403   293B   https://opendata.tangerangkab.go.id/2011.sql
+403   293B   https://opendata.tangerangkab.go.id/2012.sql
+403   293B   https://opendata.tangerangkab.go.id/2013.sql
+403   293B   https://opendata.tangerangkab.go.id/2014.sql
+403   293B   https://opendata.tangerangkab.go.id/2015.sql
+403   293B   https://opendata.tangerangkab.go.id/2017.sql
+403   293B   https://opendata.tangerangkab.go.id/2016.sql
+403   293B   https://opendata.tangerangkab.go.id/2018.sql
+403   293B   https://opendata.tangerangkab.go.id/2019.sql
+403   293B   https://opendata.tangerangkab.go.id/2020.sql
+403   293B   https://opendata.tangerangkab.go.id/_config.inc
+404   302B   https://opendata.tangerangkab.go.id/_docs.en/readme.txt
+404   306B   https://opendata.tangerangkab.go.id/_mem_bin/autoconfig.asp
+404   306B   https://opendata.tangerangkab.go.id/_mem_bin/formslogin.asp
+404   312B   https://opendata.tangerangkab.go.id/_mmServerScripts/MMHTTPDB.asp
+404   295B   https://opendata.tangerangkab.go.id/_pkginfo.txt
+404   310B   https://opendata.tangerangkab.go.id/_vti_bin/shtml.exe?_vti_rpc
+404   310B   https://opendata.tangerangkab.go.id/_vti_bin/_vti_adm/admin.dll
+404   312B   https://opendata.tangerangkab.go.id/_vti_bin/_vti_aut/fp30reg.dll
+404   311B   https://opendata.tangerangkab.go.id/_vti_bin/_vti_aut/author.dll
+404   311B   https://opendata.tangerangkab.go.id/_vti_bin/_vti_aut/dvwssr.dll
+404   301B   https://opendata.tangerangkab.go.id/_vti_bin/shtml.dll
+404   301B   https://opendata.tangerangkab.go.id/_vti_pvt/shtml.exe
+301     0B   https://opendata.tangerangkab.go.id/About    -> REDIRECTS TO: https://opendata.tangerangkab.go.id/about
+200     8KB  https://opendata.tangerangkab.go.id/about
+404   293B   https://opendata.tangerangkab.go.id/access.txt
+404   294B   https://opendata.tangerangkab.go.id/accounts.pl
+404   295B   https://opendata.tangerangkab.go.id/accounts.cgi
+403   293B   https://opendata.tangerangkab.go.id/accounts.sql
+404   295B   https://opendata.tangerangkab.go.id/accounts.txt
+404   290B   https://opendata.tangerangkab.go.id/adm.cgi
+404   289B   https://opendata.tangerangkab.go.id/adm.pl
+404   302B   https://opendata.tangerangkab.go.id/adm/style/admin.css
+302     0B   https://opendata.tangerangkab.go.id/ADMIN    -> REDIRECTS TO: https://opendata.tangerangkab.go.id/user/login?destination=ADMIN
+302     0B   https://opendata.tangerangkab.go.id/Admin    -> REDIRECTS TO: https://opendata.tangerangkab.go.id/user/login?destination=Admin
+302     0B   https://opendata.tangerangkab.go.id/admin    -> REDIRECTS TO: https://opendata.tangerangkab.go.id/user/login?destination=admin
+404   292B   https://opendata.tangerangkab.go.id/admin.asp
+404   292B   https://opendata.tangerangkab.go.id/admin.cgi
+404   292B   https://opendata.tangerangkab.go.id/admin.dll
+404   292B   https://opendata.tangerangkab.go.id/admin.exe
+302     0B   https://opendata.tangerangkab.go.id/admin/%3bindex/    -> REDIRECTS TO: https://opendata.tangerangkab.go.id/user/login?destination=admin/%3Bindex
+403   293B   https://opendata.tangerangkab.go.id/admin/.config
+404   291B   https://opendata.tangerangkab.go.id/admin.pl
+302     0B   https://opendata.tangerangkab.go.id/admin/_logs/access_log    -> REDIRECTS TO: https://opendata.tangerangkab.go.id/user/login?destination=admin/_logs/access_log
+302     0B   https://opendata.tangerangkab.go.id/admin/    -> REDIRECTS TO: https://opendata.tangerangkab.go.id/user/login?destination=admin
+302     0B   https://opendata.tangerangkab.go.id/admin/_logs/access-log    -> REDIRECTS TO: https://opendata.tangerangkab.go.id/user/login?destination=admin/_logs/access-log
+302     0B   https://opendata.tangerangkab.go.id/admin/_logs/error.log    -> REDIRECTS TO: https://opendata.tangerangkab.go.id/user/login?destination=admin/_logs/error.log
+302     0B   https://opendata.tangerangkab.go.id/admin/_logs/err.log    -> REDIRECTS TO: https://opendata.tangerangkab.go.id/user/login?destination=admin/_logs/err.log
+302     0B   https://opendata.tangerangkab.go.id/admin/_logs/error-log    -> REDIRECTS TO: https://opendata.tangerangkab.go.id/user/login?destination=admin/_logs/error-log
+302     0B   https://opendata.tangerangkab.go.id/admin/_logs/access.log    -> REDIRECTS TO: https://opendata.tangerangkab.go.id/user/login?destination=admin/_logs/access.log
+302     0B   https://opendata.tangerangkab.go.id/admin/account.php    -> REDIRECTS TO: https://opendata.tangerangkab.go.id/user/login?destination=admin/account.php
+302     0B   https://opendata.tangerangkab.go.id/admin/access.txt    -> REDIRECTS TO: https://opendata.tangerangkab.go.id/user/login?destination=admin/access.txt
+302     0B   https://opendata.tangerangkab.go.id/admin/_logs/login.txt    -> REDIRECTS TO: https://opendata.tangerangkab.go.id/user/login?destination=admin/_logs/login.txt
+302     0B   https://opendata.tangerangkab.go.id/admin/access_log    -> REDIRECTS TO: https://opendata.tangerangkab.go.id/user/login?destination=admin/access_log
+302     0B   https://opendata.tangerangkab.go.id/admin/access.log    -> REDIRECTS TO: https://opendata.tangerangkab.go.id/user/login?destination=admin/access.log
+302     0B   https://opendata.tangerangkab.go.id/admin/account.aspx    -> REDIRECTS TO: https://opendata.tangerangkab.go.id/user/login?destination=admin/account.aspx
+302     0B   https://opendata.tangerangkab.go.id/admin/admin    -> REDIRECTS TO: https://opendata.tangerangkab.go.id/user/login?destination=admin/admin
+302     0B   https://opendata.tangerangkab.go.id/admin/account    -> REDIRECTS TO: https://opendata.tangerangkab.go.id/user/login?destination=admin/account
+302     0B   https://opendata.tangerangkab.go.id/admin/admin-login.aspx    -> REDIRECTS TO: https://opendata.tangerangkab.go.id/user/login?destination=admin/admin-login.aspx
+302     0B   https://opendata.tangerangkab.go.id/admin/_logs/error_log    -> REDIRECTS TO: https://opendata.tangerangkab.go.id/user/login?destination=admin/_logs/error_log
+302     0B   https://opendata.tangerangkab.go.id/admin/admin-login.jsp    -> REDIRECTS TO: https://opendata.tangerangkab.go.id/user/login?destination=admin/admin-login.jsp
+302     0B   https://opendata.tangerangkab.go.id/admin/admin-login    -> REDIRECTS TO: https://opendata.tangerangkab.go.id/user/login?destination=admin/admin-login
+302     0B   https://opendata.tangerangkab.go.id/admin/admin-login.html    -> REDIRECTS TO: https://opendata.tangerangkab.go.id/user/login?destination=admin/admin-login.html
+302     0B   https://opendata.tangerangkab.go.id/admin/account.js    -> REDIRECTS TO: https://opendata.tangerangkab.go.id/user/login?destination=admin/account.js
+302     0B   https://opendata.tangerangkab.go.id/admin/admin.aspx    -> REDIRECTS TO: https://opendata.tangerangkab.go.id/user/login?destination=admin/admin.aspx
+302     0B   https://opendata.tangerangkab.go.id/admin/admin-login.js    -> REDIRECTS TO: https://opendata.tangerangkab.go.id/user/login?destination=admin/admin-login.js
+302     0B   https://opendata.tangerangkab.go.id/admin/account.html    -> REDIRECTS TO: https://opendata.tangerangkab.go.id/user/login?destination=admin/account.html
+302     0B   https://opendata.tangerangkab.go.id/admin/admin.html    -> REDIRECTS TO: https://opendata.tangerangkab.go.id/user/login?destination=admin/admin.html
+302     0B   https://opendata.tangerangkab.go.id/admin/account.jsp    -> REDIRECTS TO: https://opendata.tangerangkab.go.id/user/login?destination=admin/account.jsp
+302     0B   https://opendata.tangerangkab.go.id/admin/admin-login.php    -> REDIRECTS TO: https://opendata.tangerangkab.go.id/user/login?destination=admin/admin-login.php
+302     0B   https://opendata.tangerangkab.go.id/admin/admin.jsp    -> REDIRECTS TO: https://opendata.tangerangkab.go.id/user/login?destination=admin/admin.jsp
+302     0B   https://opendata.tangerangkab.go.id/admin/admin.php    -> REDIRECTS TO: https://opendata.tangerangkab.go.id/user/login?destination=admin/admin.php
+302     0B   https://opendata.tangerangkab.go.id/admin/admin.js    -> REDIRECTS TO: https://opendata.tangerangkab.go.id/user/login?destination=admin/admin.js
+302     0B   https://opendata.tangerangkab.go.id/admin/adminLogin.aspx    -> REDIRECTS TO: https://opendata.tangerangkab.go.id/user/login?destination=admin/adminLogin.aspx
+302     0B   https://opendata.tangerangkab.go.id/admin/admin_login.jsp    -> REDIRECTS TO: https://opendata.tangerangkab.go.id/user/login?destination=admin/admin_login.jsp
+302     0B   https://opendata.tangerangkab.go.id/admin/admin_login.js    -> REDIRECTS TO: https://opendata.tangerangkab.go.id/user/login?destination=admin/admin_login.js
+302     0B   https://opendata.tangerangkab.go.id/admin/adminer.php    -> REDIRECTS TO: https://opendata.tangerangkab.go.id/user/login?destination=admin/adminer.php
+302     0B   https://opendata.tangerangkab.go.id/admin/adminLogin.php    -> REDIRECTS TO: https://opendata.tangerangkab.go.id/user/login?destination=admin/adminLogin.php
+302     0B   https://opendata.tangerangkab.go.id/admin/admin_login.aspx    -> REDIRECTS TO: https://opendata.tangerangkab.go.id/user/login?destination=admin/admin_login.aspx
+302     0B   https://opendata.tangerangkab.go.id/admin/adminLogin.html    -> REDIRECTS TO: https://opendata.tangerangkab.go.id/user/login?destination=admin/adminLogin.html
+302     0B   https://opendata.tangerangkab.go.id/admin/adminLogin.js    -> REDIRECTS TO: https://opendata.tangerangkab.go.id/user/login?destination=admin/adminLogin.js
+302     0B   https://opendata.tangerangkab.go.id/admin/admin_login.html    -> REDIRECTS TO: https://opendata.tangerangkab.go.id/user/login?destination=admin/admin_login.html
+302     0B   https://opendata.tangerangkab.go.id/admin/admin/login    -> REDIRECTS TO: https://opendata.tangerangkab.go.id/user/login?destination=admin/admin/login
+302     0B   https://opendata.tangerangkab.go.id/admin/adminLogin    -> REDIRECTS TO: https://opendata.tangerangkab.go.id/user/login?destination=admin/adminLogin
+302     0B   https://opendata.tangerangkab.go.id/admin/backup/    -> REDIRECTS TO: https://opendata.tangerangkab.go.id/user/login?destination=admin/backup
+302     0B   https://opendata.tangerangkab.go.id/admin/backups/    -> REDIRECTS TO: https://opendata.tangerangkab.go.id/user/login?destination=admin/backups
+302     0B   https://opendata.tangerangkab.go.id/admin/config.php    -> REDIRECTS TO: https://opendata.tangerangkab.go.id/user/login?destination=admin/config.php
+302     0B   https://opendata.tangerangkab.go.id/admin/controlpanel.aspx    -> REDIRECTS TO: https://opendata.tangerangkab.go.id/user/login?destination=admin/controlpanel.aspx
+302     0B   https://opendata.tangerangkab.go.id/admin/admin_login    -> REDIRECTS TO: https://opendata.tangerangkab.go.id/user/login?destination=admin/admin_login
+302     0B   https://opendata.tangerangkab.go.id/admin/cp.php    -> REDIRECTS TO: https://opendata.tangerangkab.go.id/user/login?destination=admin/cp.php
+302     0B   https://opendata.tangerangkab.go.id/admin/admin_login.php    -> REDIRECTS TO: https://opendata.tangerangkab.go.id/user/login?destination=admin/admin_login.php
+302     0B   https://opendata.tangerangkab.go.id/admin/controlpanel.php    -> REDIRECTS TO: https://opendata.tangerangkab.go.id/user/login?destination=admin/controlpanel.php
+302     0B   https://opendata.tangerangkab.go.id/admin/adminLogin.jsp    -> REDIRECTS TO: https://opendata.tangerangkab.go.id/user/login?destination=admin/adminLogin.jsp
+302     0B   https://opendata.tangerangkab.go.id/admin/controlpanel.html    -> REDIRECTS TO: https://opendata.tangerangkab.go.id/user/login?destination=admin/controlpanel.html
+302     0B   https://opendata.tangerangkab.go.id/admin/controlpanel    -> REDIRECTS TO: https://opendata.tangerangkab.go.id/user/login?destination=admin/controlpanel
+302     0B   https://opendata.tangerangkab.go.id/admin/controlpanel.jsp    -> REDIRECTS TO: https://opendata.tangerangkab.go.id/user/login?destination=admin/controlpanel.jsp
+302     0B   https://opendata.tangerangkab.go.id/admin/cp.html    -> REDIRECTS TO: https://opendata.tangerangkab.go.id/user/login?destination=admin/cp.html
+302     0B   https://opendata.tangerangkab.go.id/admin/cp.js    -> REDIRECTS TO: https://opendata.tangerangkab.go.id/user/login?destination=admin/cp.js
+302     0B   https://opendata.tangerangkab.go.id/admin/data/autosuggest    -> REDIRECTS TO: https://opendata.tangerangkab.go.id/user/login?destination=admin/data/autosuggest
+302     0B   https://opendata.tangerangkab.go.id/admin/cp    -> REDIRECTS TO: https://opendata.tangerangkab.go.id/user/login?destination=admin/cp
+302     0B   https://opendata.tangerangkab.go.id/admin/download.php    -> REDIRECTS TO: https://opendata.tangerangkab.go.id/user/login?destination=admin/download.php
+302     0B   https://opendata.tangerangkab.go.id/admin/default/login.asp    -> REDIRECTS TO: https://opendata.tangerangkab.go.id/user/login?destination=admin/default/login.asp
+302     0B   https://opendata.tangerangkab.go.id/admin/controlpanel.js    -> REDIRECTS TO: https://opendata.tangerangkab.go.id/user/login?destination=admin/controlpanel.js
+302     0B   https://opendata.tangerangkab.go.id/admin/cp.aspx    -> REDIRECTS TO: https://opendata.tangerangkab.go.id/user/login?destination=admin/cp.aspx
+302     0B   https://opendata.tangerangkab.go.id/admin/dumper/    -> REDIRECTS TO: https://opendata.tangerangkab.go.id/user/login?destination=admin/dumper
+302     0B   https://opendata.tangerangkab.go.id/admin/error.log    -> REDIRECTS TO: https://opendata.tangerangkab.go.id/user/login?destination=admin/error.log
+302     0B   https://opendata.tangerangkab.go.id/admin/default.asp    -> REDIRECTS TO: https://opendata.tangerangkab.go.id/user/login?destination=admin/default.asp
+302     0B   https://opendata.tangerangkab.go.id/admin/error_log    -> REDIRECTS TO: https://opendata.tangerangkab.go.id/user/login?destination=admin/error_log
+302     0B   https://opendata.tangerangkab.go.id/admin/export.php    -> REDIRECTS TO: https://opendata.tangerangkab.go.id/user/login?destination=admin/export.php
+302     0B   https://opendata.tangerangkab.go.id/admin/error.txt    -> REDIRECTS TO: https://opendata.tangerangkab.go.id/user/login?destination=admin/error.txt
+302     0B   https://opendata.tangerangkab.go.id/admin/errors.log    -> REDIRECTS TO: https://opendata.tangerangkab.go.id/user/login?destination=admin/errors.log
+302     0B   https://opendata.tangerangkab.go.id/admin/fckeditor/editor/filemanager/browser/default/connectors/asp/connector.asp    -> REDIRECTS TO: https://opendata.tangerangkab.go.id/user/login?destination=admin/fckeditor/editor/filemanager/browser/default/connectors/asp/connector.asp
+302     0B   https://opendata.tangerangkab.go.id/admin/FCKeditor    -> REDIRECTS TO: https://opendata.tangerangkab.go.id/user/login?destination=admin/FCKeditor
+302     0B   https://opendata.tangerangkab.go.id/admin/default/admin.asp    -> REDIRECTS TO: https://opendata.tangerangkab.go.id/user/login?destination=admin/default/admin.asp
+302     0B   https://opendata.tangerangkab.go.id/admin/fckeditor/editor/filemanager/connectors/asp/connector.asp    -> REDIRECTS TO: https://opendata.tangerangkab.go.id/user/login?destination=admin/fckeditor/editor/filemanager/connectors/asp/connector.asp
+302     0B   https://opendata.tangerangkab.go.id/admin/fckeditor/editor/filemanager/connectors/asp/upload.asp    -> REDIRECTS TO: https://opendata.tangerangkab.go.id/user/login?destination=admin/fckeditor/editor/filemanager/connectors/asp/upload.asp
+302     0B   https://opendata.tangerangkab.go.id/admin/fckeditor/editor/filemanager/upload/aspx/upload.aspx    -> REDIRECTS TO: https://opendata.tangerangkab.go.id/user/login?destination=admin/fckeditor/editor/filemanager/upload/aspx/upload.aspx
+302     0B   https://opendata.tangerangkab.go.id/admin/fckeditor/editor/filemanager/connectors/php/connector.php    -> REDIRECTS TO: https://opendata.tangerangkab.go.id/user/login?destination=admin/fckeditor/editor/filemanager/connectors/php/connector.php
+302     0B   https://opendata.tangerangkab.go.id/admin/db/    -> REDIRECTS TO: https://opendata.tangerangkab.go.id/user/login?destination=admin/db
+302     0B   https://opendata.tangerangkab.go.id/admin/cp.jsp    -> REDIRECTS TO: https://opendata.tangerangkab.go.id/user/login?destination=admin/cp.jsp
+302     0B   https://opendata.tangerangkab.go.id/admin/fckeditor/editor/filemanager/browser/default/connectors/aspx/connector.aspx    -> REDIRECTS TO: https://opendata.tangerangkab.go.id/user/login?destination=admin/fckeditor/editor/filemanager/browser/default/connectors/aspx/connector.aspx
+302     0B   https://opendata.tangerangkab.go.id/admin/fckeditor/editor/filemanager/browser/default/connectors/php/connector.php    -> REDIRECTS TO: https://opendata.tangerangkab.go.id/user/login?destination=admin/fckeditor/editor/filemanager/browser/default/connectors/php/connector.php
+302     0B   https://opendata.tangerangkab.go.id/admin/fckeditor/editor/filemanager/connectors/php/upload.php    -> REDIRECTS TO: https://opendata.tangerangkab.go.id/user/login?destination=admin/fckeditor/editor/filemanager/connectors/php/upload.php
+302     0B   https://opendata.tangerangkab.go.id/admin/fckeditor/editor/filemanager/connectors/aspx/upload.aspx    -> REDIRECTS TO: https://opendata.tangerangkab.go.id/user/login?destination=admin/fckeditor/editor/filemanager/connectors/aspx/upload.aspx
+302     0B   https://opendata.tangerangkab.go.id/admin/fckeditor/editor/filemanager/upload/asp/upload.asp    -> REDIRECTS TO: https://opendata.tangerangkab.go.id/user/login?destination=admin/fckeditor/editor/filemanager/upload/asp/upload.asp
+302     0B   https://opendata.tangerangkab.go.id/admin/file.php    -> REDIRECTS TO: https://opendata.tangerangkab.go.id/user/login?destination=admin/file.php
+302     0B   https://opendata.tangerangkab.go.id/admin/fckeditor/editor/filemanager/upload/php/upload.php    -> REDIRECTS TO: https://opendata.tangerangkab.go.id/user/login?destination=admin/fckeditor/editor/filemanager/upload/php/upload.php
+302     0B   https://opendata.tangerangkab.go.id/admin/default    -> REDIRECTS TO: https://opendata.tangerangkab.go.id/user/login?destination=admin/default
+302     0B   https://opendata.tangerangkab.go.id/admin/fckeditor/editor/filemanager/connectors/aspx/connector.aspx    -> REDIRECTS TO: https://opendata.tangerangkab.go.id/user/login?destination=admin/fckeditor/editor/filemanager/connectors/aspx/connector.aspx
+302     0B   https://opendata.tangerangkab.go.id/admin/heapdump    -> REDIRECTS TO: https://opendata.tangerangkab.go.id/user/login?destination=admin/heapdump
+302     0B   https://opendata.tangerangkab.go.id/admin/home    -> REDIRECTS TO: https://opendata.tangerangkab.go.id/user/login?destination=admin/home
+302     0B   https://opendata.tangerangkab.go.id/admin/home.php    -> REDIRECTS TO: https://opendata.tangerangkab.go.id/user/login?destination=admin/home.php
+302     0B   https://opendata.tangerangkab.go.id/admin/home.jsp    -> REDIRECTS TO: https://opendata.tangerangkab.go.id/user/login?destination=admin/home.jsp
+302     0B   https://opendata.tangerangkab.go.id/admin/home.html    -> REDIRECTS TO: https://opendata.tangerangkab.go.id/user/login?destination=admin/home.html
+302     0B   https://opendata.tangerangkab.go.id/admin/home.aspx    -> REDIRECTS TO: https://opendata.tangerangkab.go.id/user/login?destination=admin/home.aspx
+302     0B   https://opendata.tangerangkab.go.id/admin/index.php    -> REDIRECTS TO: https://opendata.tangerangkab.go.id/user/login?destination=admin/index.php
+302     0B   https://opendata.tangerangkab.go.id/admin/home.js    -> REDIRECTS TO: https://opendata.tangerangkab.go.id/user/login?destination=admin/home.js
+302     0B   https://opendata.tangerangkab.go.id/admin/index    -> REDIRECTS TO: https://opendata.tangerangkab.go.id/user/login?destination=admin/index
+302     0B   https://opendata.tangerangkab.go.id/admin/js/tinymce    -> REDIRECTS TO: https://opendata.tangerangkab.go.id/user/login?destination=admin/js/tinymce
+302     0B   https://opendata.tangerangkab.go.id/admin/index.html    -> REDIRECTS TO: https://opendata.tangerangkab.go.id/user/login?destination=admin/index.html
+302     0B   https://opendata.tangerangkab.go.id/admin/files.php    -> REDIRECTS TO: https://opendata.tangerangkab.go.id/user/login?destination=admin/files.php
+302     0B   https://opendata.tangerangkab.go.id/admin/includes/configure.php~    -> REDIRECTS TO: https://opendata.tangerangkab.go.id/user/login?destination=admin/includes/configure.php~
+302     0B   https://opendata.tangerangkab.go.id/Admin/knowledge/dsmgr/users/GroupManager.asp    -> REDIRECTS TO: https://opendata.tangerangkab.go.id/user/login?destination=Admin/knowledge/dsmgr/users/GroupManager.asp
+302     0B   https://opendata.tangerangkab.go.id/admin/index.aspx    -> REDIRECTS TO: https://opendata.tangerangkab.go.id/user/login?destination=admin/index.aspx
+302     0B   https://opendata.tangerangkab.go.id/admin/js/tiny_mce/    -> REDIRECTS TO: https://opendata.tangerangkab.go.id/user/login?destination=admin/js/tiny_mce
+302     0B   https://opendata.tangerangkab.go.id/Admin/knowledge/dsmgr/users/UserManager.asp    -> REDIRECTS TO: https://opendata.tangerangkab.go.id/user/login?destination=Admin/knowledge/dsmgr/users/UserManager.asp
+302     0B   https://opendata.tangerangkab.go.id/admin/js/tiny_mce    -> REDIRECTS TO: https://opendata.tangerangkab.go.id/user/login?destination=admin/js/tiny_mce
+302     0B   https://opendata.tangerangkab.go.id/admin/login.jsp    -> REDIRECTS TO: https://opendata.tangerangkab.go.id/user/login?destination=admin/login.jsp
+302     0B   https://opendata.tangerangkab.go.id/admin/log/error.log    -> REDIRECTS TO: https://opendata.tangerangkab.go.id/user/login?destination=admin/log/error.log
+302     0B   https://opendata.tangerangkab.go.id/admin/js/tinymce/    -> REDIRECTS TO: https://opendata.tangerangkab.go.id/user/login?destination=admin/js/tinymce
+302     0B   https://opendata.tangerangkab.go.id/admin/login.php    -> REDIRECTS TO: https://opendata.tangerangkab.go.id/user/login?destination=admin/login.php
+302     0B   https://opendata.tangerangkab.go.id/admin/login.aspx    -> REDIRECTS TO: https://opendata.tangerangkab.go.id/user/login?destination=admin/login.aspx
+302     0B   https://opendata.tangerangkab.go.id/admin/login.html    -> REDIRECTS TO: https://opendata.tangerangkab.go.id/user/login?destination=admin/login.html
+302     0B   https://opendata.tangerangkab.go.id/admin/login.js    -> REDIRECTS TO: https://opendata.tangerangkab.go.id/user/login?destination=admin/login.js
+302     0B   https://opendata.tangerangkab.go.id/admin/login.asp    -> REDIRECTS TO: https://opendata.tangerangkab.go.id/user/login?destination=admin/login.asp
+302     0B   https://opendata.tangerangkab.go.id/admin/index.js    -> REDIRECTS TO: https://opendata.tangerangkab.go.id/user/login?destination=admin/index.js
+302     0B   https://opendata.tangerangkab.go.id/admin/index.jsp    -> REDIRECTS TO: https://opendata.tangerangkab.go.id/user/login?destination=admin/index.jsp
+302     0B   https://opendata.tangerangkab.go.id/admin/login.do    -> REDIRECTS TO: https://opendata.tangerangkab.go.id/user/login?destination=admin/login.do
+302     0B   https://opendata.tangerangkab.go.id/admin/login.htm    -> REDIRECTS TO: https://opendata.tangerangkab.go.id/user/login?destination=admin/login.htm
+302     0B   https://opendata.tangerangkab.go.id/admin/login.py    -> REDIRECTS TO: https://opendata.tangerangkab.go.id/user/login?destination=admin/login.py
+302     0B   https://opendata.tangerangkab.go.id/admin/logs/access.log    -> REDIRECTS TO: https://opendata.tangerangkab.go.id/user/login?destination=admin/logs/access.log
+302     0B   https://opendata.tangerangkab.go.id/admin/logs/access-log    -> REDIRECTS TO: https://opendata.tangerangkab.go.id/user/login?destination=admin/logs/access-log
+302     0B   https://opendata.tangerangkab.go.id/admin/login.rb    -> REDIRECTS TO: https://opendata.tangerangkab.go.id/user/login?destination=admin/login.rb
+302     0B   https://opendata.tangerangkab.go.id/admin/logon.jsp    -> REDIRECTS TO: https://opendata.tangerangkab.go.id/user/login?destination=admin/logon.jsp
+302     0B   https://opendata.tangerangkab.go.id/admin/logs/err.log    -> REDIRECTS TO: https://opendata.tangerangkab.go.id/user/login?destination=admin/logs/err.log
+302     0B   https://opendata.tangerangkab.go.id/admin/logs/error-log    -> REDIRECTS TO: https://opendata.tangerangkab.go.id/user/login?destination=admin/logs/error-log
+302     0B   https://opendata.tangerangkab.go.id/admin/logs/access_log    -> REDIRECTS TO: https://opendata.tangerangkab.go.id/user/login?destination=admin/logs/access_log
+302     0B   https://opendata.tangerangkab.go.id/admin/login    -> REDIRECTS TO: https://opendata.tangerangkab.go.id/user/login?destination=admin/login
+302     0B   https://opendata.tangerangkab.go.id/admin/logs/errors.log    -> REDIRECTS TO: https://opendata.tangerangkab.go.id/user/login?destination=admin/logs/errors.log
+302     0B   https://opendata.tangerangkab.go.id/admin/manage.asp    -> REDIRECTS TO: https://opendata.tangerangkab.go.id/user/login?destination=admin/manage.asp
+302     0B   https://opendata.tangerangkab.go.id/admin/manage    -> REDIRECTS TO: https://opendata.tangerangkab.go.id/user/login?destination=admin/manage
+302     0B   https://opendata.tangerangkab.go.id/admin/log    -> REDIRECTS TO: https://opendata.tangerangkab.go.id/user/login?destination=admin/log
+302     0B   https://opendata.tangerangkab.go.id/admin/logs/login.txt    -> REDIRECTS TO: https://opendata.tangerangkab.go.id/user/login?destination=admin/logs/login.txt
+302     0B   https://opendata.tangerangkab.go.id/admin/manage/admin.asp    -> REDIRECTS TO: https://opendata.tangerangkab.go.id/user/login?destination=admin/manage/admin.asp
+302     0B   https://opendata.tangerangkab.go.id/admin/mysql/index.php    -> REDIRECTS TO: https://opendata.tangerangkab.go.id/user/login?destination=admin/mysql/index.php
+302     0B   https://opendata.tangerangkab.go.id/admin/manage/login.asp    -> REDIRECTS TO: https://opendata.tangerangkab.go.id/user/login?destination=admin/manage/login.asp
+302     0B   https://opendata.tangerangkab.go.id/admin/logs/    -> REDIRECTS TO: https://opendata.tangerangkab.go.id/user/login?destination=admin/logs
+302     0B   https://opendata.tangerangkab.go.id/admin/logs/error.log    -> REDIRECTS TO: https://opendata.tangerangkab.go.id/user/login?destination=admin/logs/error.log
+302     0B   https://opendata.tangerangkab.go.id/admin/logs/error_log    -> REDIRECTS TO: https://opendata.tangerangkab.go.id/user/login?destination=admin/logs/error_log
+302     0B   https://opendata.tangerangkab.go.id/admin/mysql2/index.php    -> REDIRECTS TO: https://opendata.tangerangkab.go.id/user/login?destination=admin/mysql2/index.php
+302     0B   https://opendata.tangerangkab.go.id/admin/mysql/    -> REDIRECTS TO: https://opendata.tangerangkab.go.id/user/login?destination=admin/mysql
+302     0B   https://opendata.tangerangkab.go.id/admin/phpMyAdmin    -> REDIRECTS TO: https://opendata.tangerangkab.go.id/user/login?destination=admin/phpMyAdmin
+302     0B   https://opendata.tangerangkab.go.id/admin/phpmyadmin/index.php    -> REDIRECTS TO: https://opendata.tangerangkab.go.id/user/login?destination=admin/phpmyadmin/index.php
+302     0B   https://opendata.tangerangkab.go.id/admin/phpmyadmin/    -> REDIRECTS TO: https://opendata.tangerangkab.go.id/user/login?destination=admin/phpmyadmin
+302     0B   https://opendata.tangerangkab.go.id/admin/phpmyadmin2/index.php    -> REDIRECTS TO: https://opendata.tangerangkab.go.id/user/login?destination=admin/phpmyadmin2/index.php
+302     0B   https://opendata.tangerangkab.go.id/admin/pMA/    -> REDIRECTS TO: https://opendata.tangerangkab.go.id/user/login?destination=admin/pMA
+302     0B   https://opendata.tangerangkab.go.id/admin/pma/    -> REDIRECTS TO: https://opendata.tangerangkab.go.id/user/login?destination=admin/pma
+302     0B   https://opendata.tangerangkab.go.id/admin/phpMyAdmin/index.php    -> REDIRECTS TO: https://opendata.tangerangkab.go.id/user/login?destination=admin/phpMyAdmin/index.php
+302     0B   https://opendata.tangerangkab.go.id/admin/PMA/index.php    -> REDIRECTS TO: https://opendata.tangerangkab.go.id/user/login?destination=admin/PMA/index.php
+302     0B   https://opendata.tangerangkab.go.id/admin/pma/index.php    -> REDIRECTS TO: https://opendata.tangerangkab.go.id/user/login?destination=admin/pma/index.php
+302     0B   https://opendata.tangerangkab.go.id/admin/signin    -> REDIRECTS TO: https://opendata.tangerangkab.go.id/user/login?destination=admin/signin
+302     0B   https://opendata.tangerangkab.go.id/admin/sqladmin/    -> REDIRECTS TO: https://opendata.tangerangkab.go.id/user/login?destination=admin/sqladmin
+302     0B   https://opendata.tangerangkab.go.id/admin/release    -> REDIRECTS TO: https://opendata.tangerangkab.go.id/user/login?destination=admin/release
+302     0B   https://opendata.tangerangkab.go.id/admin/scripts/fckeditor    -> REDIRECTS TO: https://opendata.tangerangkab.go.id/user/login?destination=admin/scripts/fckeditor
+302     0B   https://opendata.tangerangkab.go.id/admin/phpMyAdmin/    -> REDIRECTS TO: https://opendata.tangerangkab.go.id/user/login?destination=admin/phpMyAdmin
+302     0B   https://opendata.tangerangkab.go.id/admin/secure/logon.jsp    -> REDIRECTS TO: https://opendata.tangerangkab.go.id/user/login?destination=admin/secure/logon.jsp
+302     0B   https://opendata.tangerangkab.go.id/admin/sxd/    -> REDIRECTS TO: https://opendata.tangerangkab.go.id/user/login?destination=admin/sxd
+302     0B   https://opendata.tangerangkab.go.id/admin/pol_log.txt    -> REDIRECTS TO: https://opendata.tangerangkab.go.id/user/login?destination=admin/pol_log.txt
+302     0B   https://opendata.tangerangkab.go.id/admin/portalcollect.php?f=http://xxx&t=js    -> REDIRECTS TO: https://opendata.tangerangkab.go.id/user/login?destination=admin/portalcollect.php%3Ff%3Dhttp%253A//xxx%26t%3Djs
+302     0B   https://opendata.tangerangkab.go.id/admin/sysadmin/    -> REDIRECTS TO: https://opendata.tangerangkab.go.id/user/login?destination=admin/sysadmin
+302     0B   https://opendata.tangerangkab.go.id/admin/tiny_mce    -> REDIRECTS TO: https://opendata.tangerangkab.go.id/user/login?destination=admin/tiny_mce
+302     0B   https://opendata.tangerangkab.go.id/admin/private/logs    -> REDIRECTS TO: https://opendata.tangerangkab.go.id/user/login?destination=admin/private/logs
+302     0B   https://opendata.tangerangkab.go.id/admin/upload.php    -> REDIRECTS TO: https://opendata.tangerangkab.go.id/user/login?destination=admin/upload.php
+302     0B   https://opendata.tangerangkab.go.id/admin/uploads.php    -> REDIRECTS TO: https://opendata.tangerangkab.go.id/user/login?destination=admin/uploads.php
+302     0B   https://opendata.tangerangkab.go.id/admin/user_count.txt    -> REDIRECTS TO: https://opendata.tangerangkab.go.id/user/login?destination=admin/user_count.txt
+200    43B   https://opendata.tangerangkab.go.id/admin/views/ajax/autocomplete/user/a
+302     0B   https://opendata.tangerangkab.go.id/admin/web/    -> REDIRECTS TO: https://opendata.tangerangkab.go.id/user/login?destination=admin/web
+302     0B   https://opendata.tangerangkab.go.id/admin/tinymce    -> REDIRECTS TO: https://opendata.tangerangkab.go.id/user/login?destination=admin/tinymce
+404   304B   https://opendata.tangerangkab.go.id/admin_login/login.asp
+404   304B   https://opendata.tangerangkab.go.id/admin_login/admin.asp
+404   297B   https://opendata.tangerangkab.go.id/admin_main.txt
+404   302B   https://opendata.tangerangkab.go.id/admin_my_avatar.png
+404   300B   https://opendata.tangerangkab.go.id/admincp/login.asp
+404   306B   https://opendata.tangerangkab.go.id/administrator/admin.asp
+404   297B   https://opendata.tangerangkab.go.id/admins/log.txt
+403   293B   https://opendata.tangerangkab.go.id/admpar/.ftppass
+403   293B   https://opendata.tangerangkab.go.id/adovbs.inc
+403   293B   https://opendata.tangerangkab.go.id/admrev/.ftppass
+404   318B   https://opendata.tangerangkab.go.id/AdvWorks/equipment/catalog_type.asp
+403   293B   https://opendata.tangerangkab.go.id/affiliates.sql
+404   370B   https://opendata.tangerangkab.go.id/all/modules/ogdi_field/plugins/dataTables/extras/TableTools/media/swf/ZeroClipboard.swf
+404   348B   https://opendata.tangerangkab.go.id/analytics/saw.dll?getPreviewImage&previewFilePath=/etc/passwd
+404   301B   https://opendata.tangerangkab.go.id/app/unschedule.bat
+404   292B   https://opendata.tangerangkab.go.id/apply.cgi
+403   293B   https://opendata.tangerangkab.go.id/archive.sql
+404   306B   https://opendata.tangerangkab.go.id/article/admin/admin.asp
+404   326B   https://opendata.tangerangkab.go.id/ASPSamp/AdvWorks/equipment/catalog_type.asp
+404   295B   https://opendata.tangerangkab.go.id/AT-admin.cgi
+404   291B   https://opendata.tangerangkab.go.id/auth.cgi
+403   293B   https://opendata.tangerangkab.go.id/auth.inc
+404   301B   https://opendata.tangerangkab.go.id/auth_user_file.txt
+404   290B   https://opendata.tangerangkab.go.id/auth.pl
+404   293B   https://opendata.tangerangkab.go.id/author.exe
+404   293B   https://opendata.tangerangkab.go.id/author.dll
+403     3KB  https://opendata.tangerangkab.go.id/authorize.php
+404   293B   https://opendata.tangerangkab.go.id/awstats.pl
+403   293B   https://opendata.tangerangkab.go.id/back.sql
+403   293B   https://opendata.tangerangkab.go.id/backup.inc
+403   293B   https://opendata.tangerangkab.go.id/backup.sql
+403   293B   https://opendata.tangerangkab.go.id/backups.inc
+403   293B   https://opendata.tangerangkab.go.id/backups.sql
+404   293B   https://opendata.tangerangkab.go.id/banner.swf
+404   302B   https://opendata.tangerangkab.go.id/bbs/admin_index.asp
+403   293B   https://opendata.tangerangkab.go.id/bitrix/.settings
+403   293B   https://opendata.tangerangkab.go.id/bitrix/.settings.bak
+403   293B   https://opendata.tangerangkab.go.id/bitrix/.settings.php
+403   293B   https://opendata.tangerangkab.go.id/bitrix/.settings.php.bak
+404   298B   https://opendata.tangerangkab.go.id/bookContent.swf
+404   290B   https://opendata.tangerangkab.go.id/bot.txt
+403   293B   https://opendata.tangerangkab.go.id/buck.sql
+403   293B   https://opendata.tangerangkab.go.id/build.sh
+404   292B   https://opendata.tangerangkab.go.id/Build.bat
+404   307B   https://opendata.tangerangkab.go.id/bundles/kibana.style.css
+404   309B   https://opendata.tangerangkab.go.id/cache/sql_error_latest.cgi
+404   295B   https://opendata.tangerangkab.go.id/cachemgr.cgi
+404   328B   https://opendata.tangerangkab.go.id/cbx-portal/js/zeroclipboard/ZeroClipboard.swf
+404   296B   https://opendata.tangerangkab.go.id/cc-errors.txt
+404   293B   https://opendata.tangerangkab.go.id/cc-log.txt
+404   301B   https://opendata.tangerangkab.go.id/cgi-bin/awstats.pl
+404   306B   https://opendata.tangerangkab.go.id/cgi-bin/htimage.exe?2,2
+404   307B   https://opendata.tangerangkab.go.id/cgi-bin/imagemap.exe?2,2
+404   309B   https://opendata.tangerangkab.go.id/cgi-bin/a1stats/a1disp.cgi
+404   297B   https://opendata.tangerangkab.go.id/cgi-bin/mt.cgi
+404   307B   https://opendata.tangerangkab.go.id/cgi-bin/mt/mt-xmlrpc.cgi
+404   304B   https://opendata.tangerangkab.go.id/cgi-bin/mt-xmlrpc.cgi
+404   300B   https://opendata.tangerangkab.go.id/cgi-bin/mt/mt.cgi
+404   308B   https://opendata.tangerangkab.go.id/cgi-bin/mt7/mt-xmlrpc.cgi
+404   300B   https://opendata.tangerangkab.go.id/cgi-bin/login.cgi
+404   301B   https://opendata.tangerangkab.go.id/cgi-bin/mt7/mt.cgi
+404   302B   https://opendata.tangerangkab.go.id/cgi-bin/ViewLog.asp
+404   299B   https://opendata.tangerangkab.go.id/cgi-bin/test.cgi
+404   305B   https://opendata.tangerangkab.go.id/cgi-sys/realsignup.cgi
+404   302B   https://opendata.tangerangkab.go.id/cgi-bin/printenv.pl
+404   294B   https://opendata.tangerangkab.go.id/Cgishell.pl
+404   297B   https://opendata.tangerangkab.go.id/cgi/common.cgi
+404   296B   https://opendata.tangerangkab.go.id/Changelog.txt
+404   296B   https://opendata.tangerangkab.go.id/ChangeLog.txt
+404   296B   https://opendata.tangerangkab.go.id/changelog.txt
+404   296B   https://opendata.tangerangkab.go.id/CHANGELOG.TXT
+404   294B   https://opendata.tangerangkab.go.id/changes.txt
+404   303B   https://opendata.tangerangkab.go.id/checked_accounts.txt
+404   291B   https://opendata.tangerangkab.go.id/cidr.txt
+404   333B   https://opendata.tangerangkab.go.id/ckeditor/ckfinder/core/connector/asp/connector.asp
+404   301B   https://opendata.tangerangkab.go.id/classes/cookie.txt
+404   309B   https://opendata.tangerangkab.go.id/classes/gladius/README.TXT
+403   293B   https://opendata.tangerangkab.go.id/clients.sql
+404   299B   https://opendata.tangerangkab.go.id/cloud-config.txt
+404   297B   https://opendata.tangerangkab.go.id/CMakeCache.txt
+404   297B   https://opendata.tangerangkab.go.id/CMakeLists.txt
+404   293B   https://opendata.tangerangkab.go.id/cmdasp.asp
+404   298B   https://opendata.tangerangkab.go.id/cmd-asp-5.1.asp
+404   332B   https://opendata.tangerangkab.go.id/cms/themes/cp_themes/default/images/swfupload.swf
+404   335B   https://opendata.tangerangkab.go.id/cms/themes/cp_themes/default/images/swfupload_f9.swf
+200    52KB  https://opendata.tangerangkab.go.id/CHANGELOG.txt
+403   293B   https://opendata.tangerangkab.go.id/common.inc
+403   293B   https://opendata.tangerangkab.go.id/composer.json
+403   293B   https://opendata.tangerangkab.go.id/composer.lock
+404   315B   https://opendata.tangerangkab.go.id/concrete/config/banned_words.txt
+403   293B   https://opendata.tangerangkab.go.id/conf.inc.php~
+403   293B   https://opendata.tangerangkab.go.id/conf.php.bak
+403   293B   https://opendata.tangerangkab.go.id/conf.php.swp
+403   293B   https://opendata.tangerangkab.go.id/config.inc
+403   293B   https://opendata.tangerangkab.go.id/config.inc.bak
+403   293B   https://opendata.tangerangkab.go.id/config.inc.php~
+404   301B   https://opendata.tangerangkab.go.id/config.inc.php.txt
+404   297B   https://opendata.tangerangkab.go.id/config.inc.txt
+403   293B   https://opendata.tangerangkab.go.id/config.inc~
+404   297B   https://opendata.tangerangkab.go.id/config.ini.txt
+403   293B   https://opendata.tangerangkab.go.id/config.php.inc~
+403   293B   https://opendata.tangerangkab.go.id/config.php.inc
+403   293B   https://opendata.tangerangkab.go.id/config.php.bak
+403   293B   https://opendata.tangerangkab.go.id/config.php~
+403   293B   https://opendata.tangerangkab.go.id/config.php.swp
+403   293B   https://opendata.tangerangkab.go.id/config.sql
+404   293B   https://opendata.tangerangkab.go.id/config.txt
+404   297B   https://opendata.tangerangkab.go.id/config.php.txt
+403   293B   https://opendata.tangerangkab.go.id/config.local.php~
+404   306B   https://opendata.tangerangkab.go.id/config/banned_words.txt
+403   293B   https://opendata.tangerangkab.go.id/configuration.inc.php~
+403   293B   https://opendata.tangerangkab.go.id/configuration.php.bak
+403   293B   https://opendata.tangerangkab.go.id/configuration.php.swp
+403   293B   https://opendata.tangerangkab.go.id/configuration.php~
+404   304B   https://opendata.tangerangkab.go.id/configuration.php.txt
+403   293B   https://opendata.tangerangkab.go.id/configure.php.bak
+404   291B   https://opendata.tangerangkab.go.id/conn.asp
+403   293B   https://opendata.tangerangkab.go.id/connect.inc
+404   299B   https://opendata.tangerangkab.go.id/contributors.txt
+200  1001B   https://opendata.tangerangkab.go.id/COPYRIGHT.txt
+404   298B   https://opendata.tangerangkab.go.id/credentials.txt
+302     0B   https://opendata.tangerangkab.go.id/cron.php    -> REDIRECTS TO: https://opendata.tangerangkab.go.id/user/login?destination=node/37
+403   293B   https://opendata.tangerangkab.go.id/cron.sh
+404   294B   https://opendata.tangerangkab.go.id/cronlog.txt
+404   296B   https://opendata.tangerangkab.go.id/culeadora.txt
+403   293B   https://opendata.tangerangkab.go.id/customers.sql
+404   296B   https://opendata.tangerangkab.go.id/customers.txt
+403   293B   https://opendata.tangerangkab.go.id/data.sql
+403   293B   https://opendata.tangerangkab.go.id/database.inc
+403   293B   https://opendata.tangerangkab.go.id/database.sql
+403   293B   https://opendata.tangerangkab.go.id/database.yml.pgsql
+404   291B   https://opendata.tangerangkab.go.id/data.txt
+404   295B   https://opendata.tangerangkab.go.id/database.txt
+403   293B   https://opendata.tangerangkab.go.id/database_credentials.inc
+403   293B   https://opendata.tangerangkab.go.id/db-full.mysql
+403   293B   https://opendata.tangerangkab.go.id/db.inc
+403   293B   https://opendata.tangerangkab.go.id/db.sql
+403   293B   https://opendata.tangerangkab.go.id/db_backup.sql
+403   293B   https://opendata.tangerangkab.go.id/dbase.sql
+403   293B   https://opendata.tangerangkab.go.id/dbdump.sql
+404   294B   https://opendata.tangerangkab.go.id/dcadmin.cgi
+403   293B   https://opendata.tangerangkab.go.id/debug.inc
+404   292B   https://opendata.tangerangkab.go.id/debug.cgi
+404   299B   https://opendata.tangerangkab.go.id/debug-output.txt
+404   292B   https://opendata.tangerangkab.go.id/debug.txt
+404   299B   https://opendata.tangerangkab.go.id/denglu/admin.asp
+403   293B   https://opendata.tangerangkab.go.id/df_main.sql
+404   301B   https://opendata.tangerangkab.go.id/docs/changelog.txt
+404   303B   https://opendata.tangerangkab.go.id/docs/maintenance.txt
+404   300B   https://opendata.tangerangkab.go.id/docs/updating.txt
+403   293B   https://opendata.tangerangkab.go.id/dump.inc
+403   293B   https://opendata.tangerangkab.go.id/dump.sql
+403   293B   https://opendata.tangerangkab.go.id/dump.sh
+404   291B   https://opendata.tangerangkab.go.id/dump.txt
+404   325B   https://opendata.tangerangkab.go.id/engine/classes/swfupload//swfupload_f9.swf
+404   324B   https://opendata.tangerangkab.go.id/engine/classes/swfupload/swfupload_f9.swf
+404   322B   https://opendata.tangerangkab.go.id/engine/classes/swfupload//swfupload.swf
+404   297B   https://opendata.tangerangkab.go.id/engine/log.txt
+404   321B   https://opendata.tangerangkab.go.id/engine/classes/swfupload/swfupload.swf
+404   296B   https://opendata.tangerangkab.go.id/error-log.txt
+404   290B   https://opendata.tangerangkab.go.id/err.txt
+404   292B   https://opendata.tangerangkab.go.id/error.asp
+404   292B   https://opendata.tangerangkab.go.id/error.txt
+403   293B   https://opendata.tangerangkab.go.id/error1.tpl
+403   293B   https://opendata.tangerangkab.go.id/error.tpl
+404   296B   https://opendata.tangerangkab.go.id/error_log.txt
+403   293B   https://opendata.tangerangkab.go.id/errors.tpl
+404   293B   https://opendata.tangerangkab.go.id/errors.asp
+404   293B   https://opendata.tangerangkab.go.id/errors.txt
+404   291B   https://opendata.tangerangkab.go.id/eula.txt
+404   294B   https://opendata.tangerangkab.go.id/eula_en.txt
+403   293B   https://opendata.tangerangkab.go.id/ext/.deps
+404   301B   https://opendata.tangerangkab.go.id/expressInstall.swf
+404   310B   https://opendata.tangerangkab.go.id/extjs/resources//charts.swf
+404   307B   https://opendata.tangerangkab.go.id/fantastico_fileslist.txt
+404   294B   https://opendata.tangerangkab.go.id/favicon.ico
+404   300B   https://opendata.tangerangkab.go.id/fcgi-bin/echo.exe
+404   356B   https://opendata.tangerangkab.go.id/fckeditor/editor/filemanager/browser/default/connectors/asp/connector.asp
+404   337B   https://opendata.tangerangkab.go.id/fckeditor/editor/filemanager/connectors/asp/upload.asp
+404   333B   https://opendata.tangerangkab.go.id/fckeditor/editor/filemanager/upload/asp/upload.asp
+404   340B   https://opendata.tangerangkab.go.id/fckeditor/editor/filemanager/connectors/asp/connector.asp
+404   298B   https://opendata.tangerangkab.go.id/file_upload.asp
+404   321B   https://opendata.tangerangkab.go.id/filemanager/views/js/ZeroClipboard.swf
+404   291B   https://opendata.tangerangkab.go.id/flag.txt
+404   306B   https://opendata.tangerangkab.go.id/flash/ZeroClipboard.swf
+403   293B   https://opendata.tangerangkab.go.id/forum.sql
+404   290B   https://opendata.tangerangkab.go.id/ftp.txt
+404   292B   https://opendata.tangerangkab.go.id/gbpass.pl
+404   308B   https://opendata.tangerangkab.go.id/github-recovery-codes.txt
+404   301B   https://opendata.tangerangkab.go.id/gladius/README.TXT
+403   293B   https://opendata.tangerangkab.go.id/globals.inc
+404   322B   https://opendata.tangerangkab.go.id/gotoURL.asp?url=google.com&id=43569
+404   299B   https://opendata.tangerangkab.go.id/guanli/admin.asp
+404   294B   https://opendata.tangerangkab.go.id/history.txt
+404   294B   https://opendata.tangerangkab.go.id/HISTORY.txt
+404   297B   https://opendata.tangerangkab.go.id/hndUnblock.cgi
+404   299B   https://opendata.tangerangkab.go.id/houtai/admin.asp
+404   295B   https://opendata.tangerangkab.go.id/htaccess.txt
+404   320B   https://opendata.tangerangkab.go.id/html/js/misc/swfupload//swfupload.swf
+404   322B   https://opendata.tangerangkab.go.id/html/js/misc/swfupload/swfupload_f9.swf
+404   319B   https://opendata.tangerangkab.go.id/html/js/misc/swfupload/swfupload.swf
+500     4KB  https://opendata.tangerangkab.go.id/httpd.conf
+500     4KB  https://opendata.tangerangkab.go.id/httpd.conf.backup
+404   293B   https://opendata.tangerangkab.go.id/humans.txt
+404   326B   https://opendata.tangerangkab.go.id/IdentityGuardSelfService/images/favicon.ico
+404   319B   https://opendata.tangerangkab.go.id/iissamples/exair/howitworks/Code.asp
+404   311B   https://opendata.tangerangkab.go.id/iishelp/iis/misc/default.asp
+404   323B   https://opendata.tangerangkab.go.id/iissamples/exair/howitworks/Codebrw1.asp
+404   323B   https://opendata.tangerangkab.go.id/iissamples/exair/howitworks/Codebrws.asp
+404   319B   https://opendata.tangerangkab.go.id/iissamples/sdk/asp/docs/codebrw2.asp
+404   319B   https://opendata.tangerangkab.go.id/iissamples/sdk/asp/docs/CodeBrws.asp
+404   319B   https://opendata.tangerangkab.go.id/iissamples/sdk/asp/docs/codebrws.asp
+301   347B   https://opendata.tangerangkab.go.id/includes    -> REDIRECTS TO: https://opendata.tangerangkab.go.id/includes/
+403   293B   https://opendata.tangerangkab.go.id/includes/
+403   293B   https://opendata.tangerangkab.go.id/includes/adovbs.inc
+403   293B   https://opendata.tangerangkab.go.id/includes/bootstrap.inc
+404   349B   https://opendata.tangerangkab.go.id/includes/fckeditor/editor/filemanager/connectors/asp/connector.asp
+403   293B   https://opendata.tangerangkab.go.id/includes/configure.php~
+404   346B   https://opendata.tangerangkab.go.id/includes/fckeditor/editor/filemanager/connectors/asp/upload.asp
+404   365B   https://opendata.tangerangkab.go.id/includes/fckeditor/editor/filemanager/browser/default/connectors/asp/connector.asp
+404   342B   https://opendata.tangerangkab.go.id/includes/fckeditor/editor/filemanager/upload/asp/upload.asp
+404   318B   https://opendata.tangerangkab.go.id/includes/swfupload/swfupload_f9.swf
+404   315B   https://opendata.tangerangkab.go.id/includes/swfupload/swfupload.swf
+301     0B   https://opendata.tangerangkab.go.id/index.php    -> REDIRECTS TO: https://opendata.tangerangkab.go.id/
+403   293B   https://opendata.tangerangkab.go.id/index.inc
+403   293B   https://opendata.tangerangkab.go.id/index.php.bak
+403   293B   https://opendata.tangerangkab.go.id/index.php~
+404   291B   https://opendata.tangerangkab.go.id/info.txt
+404   298B   https://opendata.tangerangkab.go.id/install-log.txt
+404   294B   https://opendata.tangerangkab.go.id/install.asp
+403   293B   https://opendata.tangerangkab.go.id/install.inc
+403   293B   https://opendata.tangerangkab.go.id/INSTALL.mysql
+403   293B   https://opendata.tangerangkab.go.id/INSTALL.pgsql
+200     1KB  https://opendata.tangerangkab.go.id/INSTALL.mysql.txt
+403   293B   https://opendata.tangerangkab.go.id/install.pgsql
+403   293B   https://opendata.tangerangkab.go.id/install.sql
+404   300B   https://opendata.tangerangkab.go.id/install.mysql.txt
+200     1KB  https://opendata.tangerangkab.go.id/INSTALL.pgsql.txt
+404   300B   https://opendata.tangerangkab.go.id/install.pgsql.txt
+403   293B   https://opendata.tangerangkab.go.id/install.mysql
+403   293B   https://opendata.tangerangkab.go.id/install.tpl
+404   294B   https://opendata.tangerangkab.go.id/Install.txt
+404   294B   https://opendata.tangerangkab.go.id/install.txt
+404   294B   https://opendata.tangerangkab.go.id/INSTALL.TXT
+404   309B   https://opendata.tangerangkab.go.id/Install_dotCMS_Release.txt
+404   303B   https://opendata.tangerangkab.go.id/install_manifest.txt
+200     9KB  https://opendata.tangerangkab.go.id/INSTALL.txt
+404   300B   https://opendata.tangerangkab.go.id/installer-log.txt
+404   289B   https://opendata.tangerangkab.go.id/io.swf
+404   289B   https://opendata.tangerangkab.go.id/ip.txt
+200     1KB  https://opendata.tangerangkab.go.id/install.php
+200     1KB  https://opendata.tangerangkab.go.id/install.php?profile=default
+404   309B   https://opendata.tangerangkab.go.id/js/swfupload/swfupload.swf
+404   312B   https://opendata.tangerangkab.go.id/js/swfupload/swfupload_f9.swf
+404   318B   https://opendata.tangerangkab.go.id/js/yui/uploader/assets/uploader.swf
+404   303B   https://opendata.tangerangkab.go.id/js/ZeroClipboard.swf
+404   305B   https://opendata.tangerangkab.go.id/js/ZeroClipboard10.swf
+404   291B   https://opendata.tangerangkab.go.id/l0gs.txt
+403   293B   https://opendata.tangerangkab.go.id/lib/flex/uploader/.flexProperties
+403   293B   https://opendata.tangerangkab.go.id/lib/flex/uploader/.project
+403   293B   https://opendata.tangerangkab.go.id/lib/flex/uploader/.actionScriptProperties
+403   293B   https://opendata.tangerangkab.go.id/lib/flex/varien/.actionScriptProperties
+403   293B   https://opendata.tangerangkab.go.id/lib/flex/uploader/.settings
+403   293B   https://opendata.tangerangkab.go.id/lib/flex/varien/.flexLibProperties
+403   293B   https://opendata.tangerangkab.go.id/lib/flex/varien/.project
+403   293B   https://opendata.tangerangkab.go.id/lib/flex/varien/.settings
+404   294B   https://opendata.tangerangkab.go.id/license.txt
+200    10KB  https://opendata.tangerangkab.go.id/LICENSE.txt
+404   299B   https://opendata.tangerangkab.go.id/local_bd_old.txt
+403   293B   https://opendata.tangerangkab.go.id/local_conf.php.bak
+404   299B   https://opendata.tangerangkab.go.id/local_bd_new.txt
+403   293B   https://opendata.tangerangkab.go.id/localhost.sql
+403   293B   https://opendata.tangerangkab.go.id/localsettings.php.bak
+403   293B   https://opendata.tangerangkab.go.id/localsettings.php.swp
+404   304B   https://opendata.tangerangkab.go.id/localsettings.php.txt
+403   293B   https://opendata.tangerangkab.go.id/localsettings.php~
+404   290B   https://opendata.tangerangkab.go.id/log.txt
+404   294B   https://opendata.tangerangkab.go.id/log/log.txt
+404   292B   https://opendata.tangerangkab.go.id/log_1.txt
+404   297B   https://opendata.tangerangkab.go.id/log_errors.txt
+404   296B   https://opendata.tangerangkab.go.id/logexpcus.txt
+404   294B   https://opendata.tangerangkab.go.id/logfile.txt
+404   291B   https://opendata.tangerangkab.go.id/login.pl
+404   292B   https://opendata.tangerangkab.go.id/login.asp
+404   292B   https://opendata.tangerangkab.go.id/login.cgi
+404   304B   https://opendata.tangerangkab.go.id/login/admin/admin.asp
+404   293B   https://opendata.tangerangkab.go.id/logins.txt
+404   291B   https://opendata.tangerangkab.go.id/logo.gif
+404   297B   https://opendata.tangerangkab.go.id/logon/logon.pl
+404   293B   https://opendata.tangerangkab.go.id/logout.asp
+404   290B   https://opendata.tangerangkab.go.id/logs.pl
+404   291B   https://opendata.tangerangkab.go.id/logs.txt
+403   293B   https://opendata.tangerangkab.go.id/ltmain.sh
+403   293B   https://opendata.tangerangkab.go.id/mailer/.env
+404   308B   https://opendata.tangerangkab.go.id/Mail/smtp/Admin/smadv.asp
+200     3KB  https://opendata.tangerangkab.go.id/MAINTAINERS.txt
+404   298B   https://opendata.tangerangkab.go.id/maintainers.txt
+404   299B   https://opendata.tangerangkab.go.id/manage/admin.asp
+404   299B   https://opendata.tangerangkab.go.id/manage/login.asp
+404   300B   https://opendata.tangerangkab.go.id/manager/admin.asp
+404   300B   https://opendata.tangerangkab.go.id/manager/login.asp
+404   299B   https://opendata.tangerangkab.go.id/member/admin.asp
+404   299B   https://opendata.tangerangkab.go.id/member/login.asp
+403   293B   https://opendata.tangerangkab.go.id/members.sql
+404   294B   https://opendata.tangerangkab.go.id/members.cgi
+404   293B   https://opendata.tangerangkab.go.id/members.pl
+404   294B   https://opendata.tangerangkab.go.id/members.txt
+301   343B   https://opendata.tangerangkab.go.id/misc    -> REDIRECTS TO: https://opendata.tangerangkab.go.id/misc/
+301   346B   https://opendata.tangerangkab.go.id/modules    -> REDIRECTS TO: https://opendata.tangerangkab.go.id/modules/
+403   293B   https://opendata.tangerangkab.go.id/modules/
+403   293B   https://opendata.tangerangkab.go.id/modules/web.config
+404   304B   https://opendata.tangerangkab.go.id/msdac/root.exe?/c+dir
+404   318B   https://opendata.tangerangkab.go.id/msadc/Samples/selector/showcode.asp
+404   296B   https://opendata.tangerangkab.go.id/mt-xmlrpc.cgi
+404   295B   https://opendata.tangerangkab.go.id/mt-check.cgi
+404   289B   https://opendata.tangerangkab.go.id/mt.cgi
+404   299B   https://opendata.tangerangkab.go.id/mt/mt-xmlrpc.cgi
+404   293B   https://opendata.tangerangkab.go.id/mt7/mt.cgi
+404   300B   https://opendata.tangerangkab.go.id/mt7/mt-xmlrpc.cgi
+404   292B   https://opendata.tangerangkab.go.id/mt/mt.cgi
+403   293B   https://opendata.tangerangkab.go.id/mysql.sql
+403   293B   https://opendata.tangerangkab.go.id/mysql_debug.sql
+403   293B   https://opendata.tangerangkab.go.id/mysqldump.sql
+200     7KB  https://opendata.tangerangkab.go.id/node
+404   316B   https://opendata.tangerangkab.go.id/open-flash-chart.swf?get-data=xss
+404   292B   https://opendata.tangerangkab.go.id/order.txt
+404   300B   https://opendata.tangerangkab.go.id/order_add_log.txt
+403   293B   https://opendata.tangerangkab.go.id/orders.sql
+404   293B   https://opendata.tangerangkab.go.id/orders.txt
+404   290B   https://opendata.tangerangkab.go.id/out.cgi
+404   299B   https://opendata.tangerangkab.go.id/output-build.txt
+404   290B   https://opendata.tangerangkab.go.id/out.txt
+404   291B   https://opendata.tangerangkab.go.id/pass.txt
+404   295B   https://opendata.tangerangkab.go.id/passlist.txt
+404   293B   https://opendata.tangerangkab.go.id/passwd.txt
+404   293B   https://opendata.tangerangkab.go.id/passes.txt
+404   299B   https://opendata.tangerangkab.go.id/passwordlist.txt
+404   295B   https://opendata.tangerangkab.go.id/password.txt
+404   296B   https://opendata.tangerangkab.go.id/passwords.txt
+404   344B   https://opendata.tangerangkab.go.id/path/dataTables/extras/TableTools/media/swf/ZeroClipboard.swf
+404   304B   https://opendata.tangerangkab.go.id/pbserver/pbserver.dll
+404   304B   https://opendata.tangerangkab.go.id/perl-reverse-shell.pl
+404   294B   https://opendata.tangerangkab.go.id/perlcmd.cgi
+404   296B   https://opendata.tangerangkab.go.id/php-error.txt
+404   297B   https://opendata.tangerangkab.go.id/php-errors.txt
+404   299B   https://opendata.tangerangkab.go.id/php.ini-orig.txt
+404   294B   https://opendata.tangerangkab.go.id/php/php.cgi
+404   294B   https://opendata.tangerangkab.go.id/pip-log.txt
+404   312B   https://opendata.tangerangkab.go.id/pip-delete-this-directory.txt
+404   343B   https://opendata.tangerangkab.go.id/piwigo/extensions/UserCollections/template/ZeroClipboard.swf
+404   293B   https://opendata.tangerangkab.go.id/player.swf
+404   351B   https://opendata.tangerangkab.go.id/plugins/sfSWFUploadPlugin/web/sfSWFUploadPlugin/swf/swfupload_f9.swf
+404   348B   https://opendata.tangerangkab.go.id/plugins/sfSWFUploadPlugin/web/sfSWFUploadPlugin/swf/swfupload.swf
+301   347B   https://opendata.tangerangkab.go.id/profiles    -> REDIRECTS TO: https://opendata.tangerangkab.go.id/profiles/
+403   293B   https://opendata.tangerangkab.go.id/profiles/standard/standard.info
+403   293B   https://opendata.tangerangkab.go.id/profiles/testing/testing.info
+403   293B   https://opendata.tangerangkab.go.id/profiles/minimal/minimal.info
+404   295B   https://opendata.tangerangkab.go.id/ps_admin.cgi
+404   305B   https://opendata.tangerangkab.go.id/public_html/robots.txt
+404   290B   https://opendata.tangerangkab.go.id/pws.txt
+404   289B   https://opendata.tangerangkab.go.id/pw.txt
+404   296B   https://opendata.tangerangkab.go.id/Read%20Me.txt
+404   294B   https://opendata.tangerangkab.go.id/Read_Me.txt
+404   293B   https://opendata.tangerangkab.go.id/README.TXT
+404   293B   https://opendata.tangerangkab.go.id/readme.txt
+404   293B   https://opendata.tangerangkab.go.id/ReadMe.txt
+404   293B   https://opendata.tangerangkab.go.id/Readme.txt
+200     2KB  https://opendata.tangerangkab.go.id/README.md
+200     3KB  https://opendata.tangerangkab.go.id/README.txt
+404   300B   https://opendata.tangerangkab.go.id/RELEASE_NOTES.txt
+404   292B   https://opendata.tangerangkab.go.id/rerun.txt
+404   299B   https://opendata.tangerangkab.go.id/requirements.txt
+403   293B   https://opendata.tangerangkab.go.id/resources/.arch-internal-preview.css
+403   293B   https://opendata.tangerangkab.go.id/resources/sass/.sass-cache/
+403   293B   https://opendata.tangerangkab.go.id/revision.inc
+404   295B   https://opendata.tangerangkab.go.id/revision.txt
+200   960B   https://opendata.tangerangkab.go.id/robots.txt
+404   292B   https://opendata.tangerangkab.go.id/robot.txt
+403   293B   https://opendata.tangerangkab.go.id/run.sh
+403   293B   https://opendata.tangerangkab.go.id/sales.sql
+404   292B   https://opendata.tangerangkab.go.id/sales.txt
+404   293B   https://opendata.tangerangkab.go.id/sample.txt
+403   293B   https://opendata.tangerangkab.go.id/schema.sql
+301   346B   https://opendata.tangerangkab.go.id/scripts    -> REDIRECTS TO: https://opendata.tangerangkab.go.id/scripts/
+403   293B   https://opendata.tangerangkab.go.id/scripts/
+404   360B   https://opendata.tangerangkab.go.id/script/jqueryplugins/dataTables/extras/TableTools/media/swf/ZeroClipboard.swf
+404   302B   https://opendata.tangerangkab.go.id/scripts/cgimail.exe
+404   341B   https://opendata.tangerangkab.go.id/scripts/ckeditor/ckfinder/core/connector/asp/connector.asp
+404   302B   https://opendata.tangerangkab.go.id/scripts/fpcount.exe
+404   302B   https://opendata.tangerangkab.go.id/scripts/counter.exe
+404   306B   https://opendata.tangerangkab.go.id/scripts/no-such-file.pl
+404   316B   https://opendata.tangerangkab.go.id/scripts/iisadmin/ism.dll?http/dir
+404   306B   https://opendata.tangerangkab.go.id/scripts/root.exe?/c+dir
+404   317B   https://opendata.tangerangkab.go.id/scripts/samples/search/webhits.exe
+404   308B   https://opendata.tangerangkab.go.id/scripts/tools/getdrvs.exe
+404   307B   https://opendata.tangerangkab.go.id/scripts/tools/newdsn.exe
+404   295B   https://opendata.tangerangkab.go.id/security.txt
+403   293B   https://opendata.tangerangkab.go.id/server-status
+403   293B   https://opendata.tangerangkab.go.id/server-status/
+200    17KB  https://opendata.tangerangkab.go.id/search
+200    17KB  https://opendata.tangerangkab.go.id/Search
+403   293B   https://opendata.tangerangkab.go.id/settings.php.bak
+403   293B   https://opendata.tangerangkab.go.id/settings.php.swp
+403   293B   https://opendata.tangerangkab.go.id/settings.php~
+404   299B   https://opendata.tangerangkab.go.id/settings.php.txt
+403   293B   https://opendata.tangerangkab.go.id/setup.sql
+403   293B   https://opendata.tangerangkab.go.id/shell.sh
+404   295B   https://opendata.tangerangkab.go.id/showcode.asp
+404   292B   https://opendata.tangerangkab.go.id/shtml.exe
+404   292B   https://opendata.tangerangkab.go.id/signin.pl
+404   293B   https://opendata.tangerangkab.go.id/signin.cgi
+403   293B   https://opendata.tangerangkab.go.id/site.sql
+404   291B   https://opendata.tangerangkab.go.id/site.txt
+301   344B   https://opendata.tangerangkab.go.id/sites    -> REDIRECTS TO: https://opendata.tangerangkab.go.id/sites/
+200   151B   https://opendata.tangerangkab.go.id/sites/all/libraries/README.txt
+200     0B   https://opendata.tangerangkab.go.id/sites/example.sites.php
+404   311B   https://opendata.tangerangkab.go.id/sites/all/modules/README.txt
+404   331B   https://opendata.tangerangkab.go.id/Sites/Knowledge/Membership/Inspired/ViewCode.asp
+404   339B   https://opendata.tangerangkab.go.id/Sites/Knowledge/Membership/Inspiredtutorial/Viewcode.asp
+200   703B   https://opendata.tangerangkab.go.id/sites/all/themes/README.txt
+200   582B   https://opendata.tangerangkab.go.id/sites/README.txt
+404   339B   https://opendata.tangerangkab.go.id/Sites/Samples/Knowledge/Membership/Inspired/ViewCode.asp
+404   317B   https://opendata.tangerangkab.go.id/siteserver/publishing/viewcode.asp
+404   327B   https://opendata.tangerangkab.go.id/SiteServer/Admin/knowledge/dsmgr/default.asp
+404   347B   https://opendata.tangerangkab.go.id/Sites/Samples/Knowledge/Membership/Inspiredtutorial/ViewCode.asp
+404   327B   https://opendata.tangerangkab.go.id/SiteServer/Admin/commerce/foundation/DSN.asp
+404   324B   https://opendata.tangerangkab.go.id/Sites/Samples/Knowledge/Push/ViewCode.asp
+404   330B   https://opendata.tangerangkab.go.id/SiteServer/Admin/commerce/foundation/driver.asp
+404   326B   https://opendata.tangerangkab.go.id/Sites/Samples/Knowledge/Search/ViewCode.asp
+404   315B   https://opendata.tangerangkab.go.id/SiteServer/admin/findvserver.asp
+404   298B   https://opendata.tangerangkab.go.id/skin1_admin.css
+404   300B   https://opendata.tangerangkab.go.id/spec/examples.txt
+403   293B   https://opendata.tangerangkab.go.id/sql.sql
+403   293B   https://opendata.tangerangkab.go.id/sql.inc
+404   290B   https://opendata.tangerangkab.go.id/sql.txt
+403   293B   https://opendata.tangerangkab.go.id/sqldump.sql
+403   293B   https://opendata.tangerangkab.go.id/start.sh
+403   293B   https://opendata.tangerangkab.go.id/startup.sh
+404   293B   https://opendata.tangerangkab.go.id/STATUS.txt
+200     9KB  https://opendata.tangerangkab.go.id/stories
+404   343B   https://opendata.tangerangkab.go.id/surgemail/mtemp/surgeweb/tpl/shared/modules/swfupload_f9.swf
+404   340B   https://opendata.tangerangkab.go.id/surgemail/mtemp/surgeweb/tpl/shared/modules/swfupload.swf
+404   296B   https://opendata.tangerangkab.go.id/swfupload.swf
+404   294B   https://opendata.tangerangkab.go.id/sysinfo.txt
+404   303B   https://opendata.tangerangkab.go.id/system/cron/cron.txt
+404   299B   https://opendata.tangerangkab.go.id/system/error.txt
+404   295B   https://opendata.tangerangkab.go.id/technico.txt
+404   305B   https://opendata.tangerangkab.go.id/teknoportal/readme.txt
+403   293B   https://opendata.tangerangkab.go.id/temp.sql
+404   291B   https://opendata.tangerangkab.go.id/test.asp
+404   291B   https://opendata.tangerangkab.go.id/test.cgi
+404   291B   https://opendata.tangerangkab.go.id/test.txt
+301   345B   https://opendata.tangerangkab.go.id/themes    -> REDIRECTS TO: https://opendata.tangerangkab.go.id/themes/
+403   293B   https://opendata.tangerangkab.go.id/themes/
+404   328B   https://opendata.tangerangkab.go.id/themes/default/htdocs/flash/ZeroClipboard.swf
+404   293B   https://opendata.tangerangkab.go.id/tmp/cgi.pl
+404   298B   https://opendata.tangerangkab.go.id/tmp/Cgishell.pl
+404   297B   https://opendata.tangerangkab.go.id/tmp/domaine.pl
+404   291B   https://opendata.tangerangkab.go.id/todo.txt
+403   293B   https://opendata.tangerangkab.go.id/translate.sql
+302     0B   https://opendata.tangerangkab.go.id/topics    -> REDIRECTS TO: https://opendata.tangerangkab.go.id/search/field_topics
+403   293B   https://opendata.tangerangkab.go.id/twitter/.env
+404   295B   https://opendata.tangerangkab.go.id/unattend.txt
+403     5KB  https://opendata.tangerangkab.go.id/update.php
+404   293B   https://opendata.tangerangkab.go.id/UPDATE.txt
+404   294B   https://opendata.tangerangkab.go.id/Updates.txt
+404   294B   https://opendata.tangerangkab.go.id/upgrade.txt
+404   301B   https://opendata.tangerangkab.go.id/UPGRADE_README.txt
+404   293B   https://opendata.tangerangkab.go.id/upload.asp
+404   298B   https://opendata.tangerangkab.go.id/upload/test.txt
+404   297B   https://opendata.tangerangkab.go.id/uploadfile.asp
+200     4KB  https://opendata.tangerangkab.go.id/UPGRADE.txt
+301     0B   https://opendata.tangerangkab.go.id/user/1    -> REDIRECTS TO: https://opendata.tangerangkab.go.id/users/datamaster
+404   291B   https://opendata.tangerangkab.go.id/user.txt
+302     0B   https://opendata.tangerangkab.go.id/user/0    -> REDIRECTS TO: https://opendata.tangerangkab.go.id/user/login?destination=user/0
+404   291B   https://opendata.tangerangkab.go.id/user.asp
+404   296B   https://opendata.tangerangkab.go.id/user-data.txt
+301     0B   https://opendata.tangerangkab.go.id/user/3    -> REDIRECTS TO: https://opendata.tangerangkab.go.id/users/statistik
+200     7KB  https://opendata.tangerangkab.go.id/user
+404   296B   https://opendata.tangerangkab.go.id/usernames.txt
+403   293B   https://opendata.tangerangkab.go.id/users.sql
+404   292B   https://opendata.tangerangkab.go.id/users.txt
+404   322B   https://opendata.tangerangkab.go.id/var/lib/cloud/instance/cloud-config.txt
+404   321B   https://opendata.tangerangkab.go.id/var/lib/cloud/instance/vendor-data.txt
+404   319B   https://opendata.tangerangkab.go.id/var/lib/cloud/instance/user-data.txt
+403   293B   https://opendata.tangerangkab.go.id/vb.sql
+404   298B   https://opendata.tangerangkab.go.id/vendor-data.txt
+404   294B   https://opendata.tangerangkab.go.id/VERSION.txt
+404   294B   https://opendata.tangerangkab.go.id/version.txt
+404   295B   https://opendata.tangerangkab.go.id/VERSIONS.txt
+404   295B   https://opendata.tangerangkab.go.id/video-js.swf
+200   183B   https://opendata.tangerangkab.go.id/views/ajax/autocomplete/user/a
+403   293B   https://opendata.tangerangkab.go.id/web.config
+404   297B   https://opendata.tangerangkab.go.id/web.config.txt
+403   293B   https://opendata.tangerangkab.go.id/web.sql
+404   295B   https://opendata.tangerangkab.go.id/WebShell.cgi
+403   293B   https://opendata.tangerangkab.go.id/wp-config.inc
+403   293B   https://opendata.tangerangkab.go.id/wp-config.php.bak
+403   293B   https://opendata.tangerangkab.go.id/wp-config.php.inc
+403   293B   https://opendata.tangerangkab.go.id/wp-config.php.swo
+403   293B   https://opendata.tangerangkab.go.id/wp-config.php.swp
+404   300B   https://opendata.tangerangkab.go.id/wp-config.php.txt
+403   293B   https://opendata.tangerangkab.go.id/wp-config.php~
+404   322B   https://opendata.tangerangkab.go.id/wp-content/uploads/file-manager/log.txt
+403   293B   https://opendata.tangerangkab.go.id/www.sql
+404   302B   https://opendata.tangerangkab.go.id/wwwboard/passwd.txt
+403   293B   https://opendata.tangerangkab.go.id/wwwroot.sql
+200    42B   https://opendata.tangerangkab.go.id/xmlrpc.php
+404   300B   https://opendata.tangerangkab.go.id/zeroclipboard.swf
+200   165KB  https://opendata.tangerangkab.go.id/report.html

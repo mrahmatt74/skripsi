@@ -1,0 +1,335 @@
+# Dirsearch started Thu Mar 28 12:57:20 2024 as: /usr/lib/python3/dist-packages/dirsearch/dirsearch.py -u https://sikat.tangerangkab.go.id -o sikat.txt
+
+400     1KB  https://sikat.tangerangkab.go.id/!.gitignore
+400     1KB  https://sikat.tangerangkab.go.id/!.htpasswd
+400     1KB  https://sikat.tangerangkab.go.id/+CSCOE+/logon.html
+400     1KB  https://sikat.tangerangkab.go.id/+CSCOE+/session_password.html
+400     1KB  https://sikat.tangerangkab.go.id/+CSCOT+/translation
+400     1KB  https://sikat.tangerangkab.go.id/.config/psi+/profiles/default/accounts.xml
+400     1KB  https://sikat.tangerangkab.go.id/!.htaccess
+404   196B   https://sikat.tangerangkab.go.id/.htaccess/
+200   255B   https://sikat.tangerangkab.go.id/.htaccess
+400     1KB  https://sikat.tangerangkab.go.id/.idea/workspace(2).xml
+400     1KB  https://sikat.tangerangkab.go.id/.idea/workspace(3).xml
+400     1KB  https://sikat.tangerangkab.go.id/.idea/workspace(5).xml
+400     1KB  https://sikat.tangerangkab.go.id/+CSCOT+/oem
+400     1KB  https://sikat.tangerangkab.go.id/+CSCOT+/translation-table?type=mst&textdomain=/%2bCSCOE%2b/portal_inc.lua&default-language&lang=../
+403   199B   https://sikat.tangerangkab.go.id/.php
+403   199B   https://sikat.tangerangkab.go.id/.php-version
+403   199B   https://sikat.tangerangkab.go.id/.php-ini
+403   199B   https://sikat.tangerangkab.go.id/.php_cs.cache
+403   199B   https://sikat.tangerangkab.go.id/.php3
+403   199B   https://sikat.tangerangkab.go.id/.php_cs
+403   199B   https://sikat.tangerangkab.go.id/.php_cs.dist
+403   199B   https://sikat.tangerangkab.go.id/.php_history
+403   199B   https://sikat.tangerangkab.go.id/.phpcs.xml
+403   199B   https://sikat.tangerangkab.go.id/.phpintel
+403   199B   https://sikat.tangerangkab.go.id/.phpstorm.meta.php
+403   199B   https://sikat.tangerangkab.go.id/.phptidy-cache
+403   199B   https://sikat.tangerangkab.go.id/.phpunit.result.cache
+403   199B   https://sikat.tangerangkab.go.id/.phpversion
+403   199B   https://sikat.tangerangkab.go.id/.phpspec.yml
+400     1KB  https://sikat.tangerangkab.go.id/.idea/workspace(7).xml
+404   196B   https://sikat.tangerangkab.go.id/.txt
+400     1KB  https://sikat.tangerangkab.go.id/.idea/workspace(4).xml
+400     1KB  https://sikat.tangerangkab.go.id/.idea/workspace(6).xml
+400     1KB  https://sikat.tangerangkab.go.id/;/json
+400     1KB  https://sikat.tangerangkab.go.id/;/login
+400     1KB  https://sikat.tangerangkab.go.id/;admin/
+400     1KB  https://sikat.tangerangkab.go.id/;json/
+400     1KB  https://sikat.tangerangkab.go.id/;/admin
+400     1KB  https://sikat.tangerangkab.go.id/@
+400     1KB  https://sikat.tangerangkab.go.id/;login/
+400     1KB  https://sikat.tangerangkab.go.id/actuator/;/auditevents
+400     1KB  https://sikat.tangerangkab.go.id/actuator/;/beans
+400     1KB  https://sikat.tangerangkab.go.id/actuator/;/conditions
+400     1KB  https://sikat.tangerangkab.go.id/actuator/;/configprops
+400     1KB  https://sikat.tangerangkab.go.id/actuator/;/dump
+400     1KB  https://sikat.tangerangkab.go.id/actuator/;/env
+400     1KB  https://sikat.tangerangkab.go.id/actuator/;/events
+400     1KB  https://sikat.tangerangkab.go.id/actuator/;/jolokia
+400     1KB  https://sikat.tangerangkab.go.id/actuator/;/integrationgraph
+400     1KB  https://sikat.tangerangkab.go.id/actuator/;/loggers
+400     1KB  https://sikat.tangerangkab.go.id/actuator/;/health
+400     1KB  https://sikat.tangerangkab.go.id/actuator/;/prometheus
+400     1KB  https://sikat.tangerangkab.go.id/actuator/;/heapdump
+400     1KB  https://sikat.tangerangkab.go.id/actuator/;/registeredServices
+400     1KB  https://sikat.tangerangkab.go.id/actuator/;/auditLog
+400     1KB  https://sikat.tangerangkab.go.id/actuator/;/httptrace
+400     1KB  https://sikat.tangerangkab.go.id/actuator/;/loggingConfig
+400     1KB  https://sikat.tangerangkab.go.id/actuator/;/caches
+400     1KB  https://sikat.tangerangkab.go.id/actuator/;/info
+400     1KB  https://sikat.tangerangkab.go.id/actuator/;/configurationMetadata
+400     1KB  https://sikat.tangerangkab.go.id/actuator/;/shutdown
+400     1KB  https://sikat.tangerangkab.go.id/actuator/;/exportRegisteredServices
+400     1KB  https://sikat.tangerangkab.go.id/actuator/;/features
+400     1KB  https://sikat.tangerangkab.go.id/actuator/;/flyway
+400     1KB  https://sikat.tangerangkab.go.id/actuator/;/sessions
+400     1KB  https://sikat.tangerangkab.go.id/actuator/;/healthcheck
+400     1KB  https://sikat.tangerangkab.go.id/actuator/;/trace
+400     1KB  https://sikat.tangerangkab.go.id/actuator/;/logfile
+400     1KB  https://sikat.tangerangkab.go.id/actuator/;/metrics
+400     1KB  https://sikat.tangerangkab.go.id/actuator/;/liquibase
+400     1KB  https://sikat.tangerangkab.go.id/actuator/;/resolveAttributes
+400     1KB  https://sikat.tangerangkab.go.id/actuator/;/springWebflow
+400     1KB  https://sikat.tangerangkab.go.id/actuator/;/sso
+400     1KB  https://sikat.tangerangkab.go.id/actuator/;/ssoSessions
+400     1KB  https://sikat.tangerangkab.go.id/actuator/;/threaddump
+400     1KB  https://sikat.tangerangkab.go.id/actuator/;/statistics
+400     1KB  https://sikat.tangerangkab.go.id/actuator/;/scheduledtasks
+400     1KB  https://sikat.tangerangkab.go.id/actuator/;/status
+400     1KB  https://sikat.tangerangkab.go.id/actuator/;/releaseAttributes
+400     1KB  https://sikat.tangerangkab.go.id/actuator/;/refresh
+400     1KB  https://sikat.tangerangkab.go.id/actuator/;/mappings
+403   199B   https://sikat.tangerangkab.go.id/admin%20/
+400     1KB  https://sikat.tangerangkab.go.id/Admin;/
+400     1KB  https://sikat.tangerangkab.go.id/admin;/
+301   245B   https://sikat.tangerangkab.go.id/api    -> REDIRECTS TO: https://sikat.tangerangkab.go.id/api/
+200   350B   https://sikat.tangerangkab.go.id/api/error_log
+200     1KB  https://sikat.tangerangkab.go.id/api/
+301   248B   https://sikat.tangerangkab.go.id/api/v1    -> REDIRECTS TO: https://sikat.tangerangkab.go.id/api/v1/
+404     1KB  https://sikat.tangerangkab.go.id/api/v1/swagger.yaml
+404     1KB  https://sikat.tangerangkab.go.id/api/v1/swagger.json
+200     1KB  https://sikat.tangerangkab.go.id/api/vendor/phpunit/phpunit/phpunit
+200     3KB  https://sikat.tangerangkab.go.id/api/v1/
+301   253B   https://sikat.tangerangkab.go.id/application    -> REDIRECTS TO: https://sikat.tangerangkab.go.id/application/
+200   393B   https://sikat.tangerangkab.go.id/application/
+200   356B   https://sikat.tangerangkab.go.id/application/logs/
+301   248B   https://sikat.tangerangkab.go.id/assets    -> REDIRECTS TO: https://sikat.tangerangkab.go.id/assets/
+200   658B   https://sikat.tangerangkab.go.id/assets/
+404     1KB  https://sikat.tangerangkab.go.id/assets/npm-debug.log
+404     1KB  https://sikat.tangerangkab.go.id/assets/file
+404     1KB  https://sikat.tangerangkab.go.id/assets/js/fckeditor
+404     1KB  https://sikat.tangerangkab.go.id/assets/fckeditor
+404     1KB  https://sikat.tangerangkab.go.id/assets/pubspec.yaml
+200    56MB  https://sikat.tangerangkab.go.id/archive.tgz
+200   594B   https://sikat.tangerangkab.go.id/composer.json
+302     0B   https://sikat.tangerangkab.go.id/dashboard/    -> REDIRECTS TO: https://sikat.tangerangkab.go.id/
+302     0B   https://sikat.tangerangkab.go.id/dashboard    -> REDIRECTS TO: https://sikat.tangerangkab.go.id/
+404   196B   https://sikat.tangerangkab.go.id/index.php-bak
+404   196B   https://sikat.tangerangkab.go.id/index.php.bak
+404   196B   https://sikat.tangerangkab.go.id/index.php.
+404   196B   https://sikat.tangerangkab.go.id/index.php5
+404   196B   https://sikat.tangerangkab.go.id/index.php4
+404   196B   https://sikat.tangerangkab.go.id/index.php::$DATA
+404   196B   https://sikat.tangerangkab.go.id/index.php~
+404   196B   https://sikat.tangerangkab.go.id/index.php3
+400     1KB  https://sikat.tangerangkab.go.id/jkstatus;
+400     1KB  https://sikat.tangerangkab.go.id/jolokia/exec/com.sun.management:type=DiagnosticCommand/compilerDirectivesAdd/!/etc!/passwd
+400     1KB  https://sikat.tangerangkab.go.id/jolokia/exec/com.sun.management:type=DiagnosticCommand/jvmtiAgentLoad/!/etc!/passwd
+400     1KB  https://sikat.tangerangkab.go.id/jolokia/exec/com.sun.management:type=DiagnosticCommand/vmLog/disable
+400     1KB  https://sikat.tangerangkab.go.id/jolokia/exec/com.sun.management:type=DiagnosticCommand/vmLog/output=!/tmp!/pwned
+400     1KB  https://sikat.tangerangkab.go.id/jolokia/exec/java.lang:type=Memory/gc
+400     1KB  https://sikat.tangerangkab.go.id/jolokia/search/*:j2eeType=J2EEServer,*
+400     1KB  https://sikat.tangerangkab.go.id/jolokia/read/java.lang:type=Memory/HeapMemoryUsage/used
+400     1KB  https://sikat.tangerangkab.go.id/jolokia/write/java.lang:type=Memory/Verbose/true
+400     1KB  https://sikat.tangerangkab.go.id/jolokia/exec/com.sun.management:type=DiagnosticCommand/vmSystemProperties
+400     1KB  https://sikat.tangerangkab.go.id/jolokia/exec/com.sun.management:type=DiagnosticCommand/help/*
+400     1KB  https://sikat.tangerangkab.go.id/jolokia/exec/com.sun.management:type=DiagnosticCommand/jfrStart/filename=!/tmp!/foo
+400     1KB  https://sikat.tangerangkab.go.id/jolokia/read/java.lang:type=*/HeapMemoryUsage
+403   199B   https://sikat.tangerangkab.go.id/login.wdm%20
+200   456B   https://sikat.tangerangkab.go.id/logs/
+301   246B   https://sikat.tangerangkab.go.id/logs    -> REDIRECTS TO: https://sikat.tangerangkab.go.id/logs/
+200   139B   https://sikat.tangerangkab.go.id/nbproject/project.properties
+200   194B   https://sikat.tangerangkab.go.id/nbproject/private/private.xml
+200   463B   https://sikat.tangerangkab.go.id/nbproject/
+200    61B   https://sikat.tangerangkab.go.id/nbproject/private/private.properties
+403   199B   https://sikat.tangerangkab.go.id/New%20Folder
+200   195B   https://sikat.tangerangkab.go.id/nbproject/project.xml
+403   199B   https://sikat.tangerangkab.go.id/New%20folder%20(2)
+403   199B   https://sikat.tangerangkab.go.id/phpliteadmin%202.php
+400     1KB  https://sikat.tangerangkab.go.id/phpmyadmin!!
+200    25KB  https://sikat.tangerangkab.go.id/phpinfo.php
+404   196B   https://sikat.tangerangkab.go.id/public.php
+404   196B   https://sikat.tangerangkab.go.id/public.jsp
+404   196B   https://sikat.tangerangkab.go.id/public/system
+404   196B   https://sikat.tangerangkab.go.id/public/storage
+404   196B   https://sikat.tangerangkab.go.id/public.aspx
+404   196B   https://sikat.tangerangkab.go.id/public
+404   196B   https://sikat.tangerangkab.go.id/public.html
+404   196B   https://sikat.tangerangkab.go.id/public/adminer.php
+404   196B   https://sikat.tangerangkab.go.id/public/
+404   196B   https://sikat.tangerangkab.go.id/public/hot
+404   196B   https://sikat.tangerangkab.go.id/public_html
+404   196B   https://sikat.tangerangkab.go.id/publication_list.xml
+404   196B   https://sikat.tangerangkab.go.id/publications
+301   247B   https://sikat.tangerangkab.go.id/query    -> REDIRECTS TO: https://sikat.tangerangkab.go.id/query/
+404   196B   https://sikat.tangerangkab.go.id/public_html/robots.txt
+404   196B   https://sikat.tangerangkab.go.id/publicadminer.php
+404   196B   https://sikat.tangerangkab.go.id/public.js
+403   199B   https://sikat.tangerangkab.go.id/Read%20Me.txt
+301   248B   https://sikat.tangerangkab.go.id/report    -> REDIRECTS TO: https://sikat.tangerangkab.go.id/report/
+400     1KB  https://sikat.tangerangkab.go.id/secure/ConfigurePortalPages!default.jspa?view=popular
+400     1KB  https://sikat.tangerangkab.go.id/secure/ContactAdministrators!default.jspa
+400     1KB  https://sikat.tangerangkab.go.id/secure/QueryComponent!Default.jspa
+403   199B   https://sikat.tangerangkab.go.id/server-status
+403   199B   https://sikat.tangerangkab.go.id/server-status/
+403   199B   https://sikat.tangerangkab.go.id/system/
+403   199B   https://sikat.tangerangkab.go.id/system/cron/cron.txt
+403   199B   https://sikat.tangerangkab.go.id/system/log/
+403   199B   https://sikat.tangerangkab.go.id/system/storage/
+403   199B   https://sikat.tangerangkab.go.id/system
+403   199B   https://sikat.tangerangkab.go.id/system/expressionengine/config/config.php
+403   199B   https://sikat.tangerangkab.go.id/system/expressionengine/config/database.php
+403   199B   https://sikat.tangerangkab.go.id/system/cache/
+403   199B   https://sikat.tangerangkab.go.id/system/logs/
+403   199B   https://sikat.tangerangkab.go.id/system/error.txt
+301   245B   https://sikat.tangerangkab.go.id/tmp    -> REDIRECTS TO: https://sikat.tangerangkab.go.id/tmp/
+200     2KB  https://sikat.tangerangkab.go.id/tmp/
+400     1KB  https://sikat.tangerangkab.go.id/Trace.axd::$DATA
+400     1KB  https://sikat.tangerangkab.go.id/typo3conf/ext/static_info_tables/ext_tables_static+adt.sql
+400     1KB  https://sikat.tangerangkab.go.id/typo3conf/ext/static_info_tables/ext_tables_static+adt-orig.sql
+200     0B   https://sikat.tangerangkab.go.id/vendor/autoload.php
+200     0B   https://sikat.tangerangkab.go.id/vendor/composer/autoload_classmap.php
+200     0B   https://sikat.tangerangkab.go.id/vendor/composer/autoload_real.php
+200     0B   https://sikat.tangerangkab.go.id/vendor/composer/autoload_static.php
+200     1KB  https://sikat.tangerangkab.go.id/vendor/phpunit/phpunit/phpunit
+200     0B   https://sikat.tangerangkab.go.id/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+200     0B   https://sikat.tangerangkab.go.id/vendor/composer/autoload_psr4.php
+200   668B   https://sikat.tangerangkab.go.id/vendor/
+200     0B   https://sikat.tangerangkab.go.id/vendor/composer/autoload_files.php
+200     0B   https://sikat.tangerangkab.go.id/vendor/composer/autoload_namespaces.php
+200     0B   https://sikat.tangerangkab.go.id/vendor/composer/ClassLoader.php
+200     1KB  https://sikat.tangerangkab.go.id/vendor/composer/LICENSE
+200    60KB  https://sikat.tangerangkab.go.id/vendor/composer/installed.json
+400     1KB  https://sikat.tangerangkab.go.id/web.config::$DATA
+400     1KB  https://sikat.tangerangkab.go.id/wp-content/plugins/boldgrid-backup/=
+400     1KB  https://sikat.tangerangkab.go.id/wps/contenthandler/!ut/p/digest!8skKFbWr_TwcZcvoc9Dn3g/?uri=http://www.redbooks.ibm.com/Redbooks.nsf/RedbookAbstracts/sg247798.html?Logout&RedirectTo=http://example.com
+
+-----------------
+DIRB v2.22    
+By The Dark Raver
+-----------------
+
+OUTPUT_FILE: sikat.txt
+START_TIME: Thu Mar 28 14:17:23 2024
+URL_BASE: https://sikat.tangerangkab.go.id/
+WORDLIST_FILES: /usr/share/dirb/wordlists/common.txt
+
+-----------------
+
+GENERATED WORDS: 4612
+
+---- Scanning URL: https://sikat.tangerangkab.go.id/ ----
++ https://sikat.tangerangkab.go.id/.htaccess (CODE:200|SIZE:255)
++ https://sikat.tangerangkab.go.id/@ (CODE:400|SIZE:1179)
++ https://sikat.tangerangkab.go.id/0 (CODE:200|SIZE:9708)
+==> DIRECTORY: https://sikat.tangerangkab.go.id/api/
+==> DIRECTORY: https://sikat.tangerangkab.go.id/application/
+==> DIRECTORY: https://sikat.tangerangkab.go.id/assets/
++ https://sikat.tangerangkab.go.id/dashboard (CODE:302|SIZE:0)
+==> DIRECTORY: https://sikat.tangerangkab.go.id/document/
+==> DIRECTORY: https://sikat.tangerangkab.go.id/grafik/
++ https://sikat.tangerangkab.go.id/index.php (CODE:200|SIZE:9708)
++ https://sikat.tangerangkab.go.id/login (CODE:200|SIZE:9708)
+==> DIRECTORY: https://sikat.tangerangkab.go.id/logs/
++ https://sikat.tangerangkab.go.id/lost+found (CODE:400|SIZE:1179)
++ https://sikat.tangerangkab.go.id/phpinfo.php (CODE:200|SIZE:96487)
+==> DIRECTORY: https://sikat.tangerangkab.go.id/query/
+==> DIRECTORY: https://sikat.tangerangkab.go.id/report/
++ https://sikat.tangerangkab.go.id/server-status (CODE:403|SIZE:199)
++ https://sikat.tangerangkab.go.id/system (CODE:403|SIZE:199)
+==> DIRECTORY: https://sikat.tangerangkab.go.id/tmp/
+==> DIRECTORY: https://sikat.tangerangkab.go.id/vendor/
+
+---- Entering directory: https://sikat.tangerangkab.go.id/api/ ----
++ https://sikat.tangerangkab.go.id/api/.htaccess (CODE:200|SIZE:16)
++ https://sikat.tangerangkab.go.id/api/@ (CODE:400|SIZE:1179)
++ https://sikat.tangerangkab.go.id/api/application (CODE:403|SIZE:199)
++ https://sikat.tangerangkab.go.id/api/error_log (CODE:200|SIZE:350)
++ https://sikat.tangerangkab.go.id/api/index.php (CODE:200|SIZE:3786)
++ https://sikat.tangerangkab.go.id/api/lost+found (CODE:400|SIZE:1179)
++ https://sikat.tangerangkab.go.id/api/system (CODE:403|SIZE:199)
+==> DIRECTORY: https://sikat.tangerangkab.go.id/api/v1/
+==> DIRECTORY: https://sikat.tangerangkab.go.id/api/vendor/
+
+---- Entering directory: https://sikat.tangerangkab.go.id/application/ ----
+(!) WARNING: Directory IS LISTABLE. No need to scan it.
+    (Use mode '-w' if you want to scan it anyway)
+
+---- Entering directory: https://sikat.tangerangkab.go.id/assets/ ----
+(!) WARNING: Directory IS LISTABLE. No need to scan it.
+    (Use mode '-w' if you want to scan it anyway)
+
+---- Entering directory: https://sikat.tangerangkab.go.id/document/ ----
+(!) WARNING: Directory IS LISTABLE. No need to scan it.
+    (Use mode '-w' if you want to scan it anyway)
+
+---- Entering directory: https://sikat.tangerangkab.go.id/grafik/ ----
++ https://sikat.tangerangkab.go.id/grafik/@ (CODE:400|SIZE:1179)
++ https://sikat.tangerangkab.go.id/grafik/application (CODE:403|SIZE:199)
+==> DIRECTORY: https://sikat.tangerangkab.go.id/grafik/assets/
++ https://sikat.tangerangkab.go.id/grafik/index.php (CODE:500|SIZE:1734)
++ https://sikat.tangerangkab.go.id/grafik/lost+found (CODE:400|SIZE:1179)
++ https://sikat.tangerangkab.go.id/grafik/system (CODE:403|SIZE:199)
+
+---- Entering directory: https://sikat.tangerangkab.go.id/logs/ ----
+(!) WARNING: Directory IS LISTABLE. No need to scan it.
+    (Use mode '-w' if you want to scan it anyway)
+
+---- Entering directory: https://sikat.tangerangkab.go.id/query/ ----
+(!) WARNING: Directory IS LISTABLE. No need to scan it.
+    (Use mode '-w' if you want to scan it anyway)
+
+---- Entering directory: https://sikat.tangerangkab.go.id/report/ ----
+(!) WARNING: Directory IS LISTABLE. No need to scan it.
+    (Use mode '-w' if you want to scan it anyway)
+
+---- Entering directory: https://sikat.tangerangkab.go.id/tmp/ ----
+(!) WARNING: Directory IS LISTABLE. No need to scan it.
+    (Use mode '-w' if you want to scan it anyway)
+
+---- Entering directory: https://sikat.tangerangkab.go.id/vendor/ ----
+(!) WARNING: Directory IS LISTABLE. No need to scan it.
+    (Use mode '-w' if you want to scan it anyway)
+
+---- Entering directory: https://sikat.tangerangkab.go.id/api/v1/ ----
++ https://sikat.tangerangkab.go.id/api/v1/.htaccess (CODE:200|SIZE:271)
++ https://sikat.tangerangkab.go.id/api/v1/@ (CODE:400|SIZE:1134)
++ https://sikat.tangerangkab.go.id/api/v1/application (CODE:403|SIZE:199)
++ https://sikat.tangerangkab.go.id/api/v1/auth (CODE:200|SIZE:83)
++ https://sikat.tangerangkab.go.id/api/v1/error_log (CODE:200|SIZE:350)
++ https://sikat.tangerangkab.go.id/api/v1/index.php (CODE:200|SIZE:33915)
++ https://sikat.tangerangkab.go.id/api/v1/lost+found (CODE:400|SIZE:1134)
++ https://sikat.tangerangkab.go.id/api/v1/ref (CODE:200|SIZE:68)
++ https://sikat.tangerangkab.go.id/api/v1/system (CODE:403|SIZE:199)
+==> DIRECTORY: https://sikat.tangerangkab.go.id/api/v1/vendor/
++ https://sikat.tangerangkab.go.id/api/v1/welcome (CODE:200|SIZE:33915)
+
+---- Entering directory: https://sikat.tangerangkab.go.id/api/vendor/ ----
++ https://sikat.tangerangkab.go.id/api/vendor/@ (CODE:400|SIZE:1179)
+==> DIRECTORY: https://sikat.tangerangkab.go.id/api/vendor/bin/
+==> DIRECTORY: https://sikat.tangerangkab.go.id/api/vendor/composer/
++ https://sikat.tangerangkab.go.id/api/vendor/lost+found (CODE:400|SIZE:1179)
+
+---- Entering directory: https://sikat.tangerangkab.go.id/grafik/assets/ ----
+(!) WARNING: Directory IS LISTABLE. No need to scan it.
+    (Use mode '-w' if you want to scan it anyway)
+
+---- Entering directory: https://sikat.tangerangkab.go.id/api/v1/vendor/ ----
++ https://sikat.tangerangkab.go.id/api/v1/vendor/@ (CODE:400|SIZE:1134)
+==> DIRECTORY: https://sikat.tangerangkab.go.id/api/v1/vendor/bin/
+==> DIRECTORY: https://sikat.tangerangkab.go.id/api/v1/vendor/composer/
++ https://sikat.tangerangkab.go.id/api/v1/vendor/lost+found (CODE:400|SIZE:1134)
+
+---- Entering directory: https://sikat.tangerangkab.go.id/api/vendor/bin/ ----
++ https://sikat.tangerangkab.go.id/api/vendor/bin/@ (CODE:400|SIZE:1179)
++ https://sikat.tangerangkab.go.id/api/vendor/bin/lost+found (CODE:400|SIZE:1179)
+
+---- Entering directory: https://sikat.tangerangkab.go.id/api/vendor/composer/ ----
++ https://sikat.tangerangkab.go.id/api/vendor/composer/@ (CODE:400|SIZE:1179)
++ https://sikat.tangerangkab.go.id/api/vendor/composer/LICENSE (CODE:200|SIZE:1070)
++ https://sikat.tangerangkab.go.id/api/vendor/composer/lost+found (CODE:400|SIZE:1179)
+
+---- Entering directory: https://sikat.tangerangkab.go.id/api/v1/vendor/bin/ ----
++ https://sikat.tangerangkab.go.id/api/v1/vendor/bin/@ (CODE:400|SIZE:1134)
++ https://sikat.tangerangkab.go.id/api/v1/vendor/bin/lost+found (CODE:400|SIZE:1134)
+
+---- Entering directory: https://sikat.tangerangkab.go.id/api/v1/vendor/composer/ ----
++ https://sikat.tangerangkab.go.id/api/v1/vendor/composer/@ (CODE:400|SIZE:1134)
++ https://sikat.tangerangkab.go.id/api/v1/vendor/composer/LICENSE (CODE:200|SIZE:1070)
++ https://sikat.tangerangkab.go.id/api/v1/vendor/composer/lost+found (CODE:400|SIZE:1134)
+
+-----------------
+END_TIME: Thu Mar 28 14:40:01 2024
+DOWNLOADED: 46120 - FOUND: 46
