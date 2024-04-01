@@ -29,8 +29,6 @@ jdih.tangerangkab.go.id
 lapor.tangerangkab.go.id
 latinostgemilang.tangerangkab.go.id
 layanantik.tangerangkab.go.id
-link.tangerangkab.go.id
-login.tangerangkab.go.id
 lpse.tangerangkab.go.id
 monic.tangerangkab.go.id
 openapi.tangerangkab.go.id
@@ -43,7 +41,6 @@ siapkerja.tangerangkab.go.id
 api.siapkerja.tangerangkab.go.id
 sibamas.tangerangkab.go.id
 sigelis.tangerangkab.go.id
-api.sigelis.tangerangkab.go.id
 sikat.tangerangkab.go.id
 simapan.tangerangkab.go.id
 simpatik.tangerangkab.go.id
