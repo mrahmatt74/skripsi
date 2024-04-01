@@ -1,0 +1,23 @@
+
+-----------------
+DIRB v2.22    
+By The Dark Raver
+-----------------
+
+OUTPUT_FILE: latinostgemilang2.txt
+START_TIME: Sun Mar 31 17:49:59 2024
+URL_BASE: https://latinostgemilang.tangerangkab.go.id/
+WORDLIST_FILES: /usr/share/dirb/wordlists/common.txt
+
+-----------------
+
+GENERATED WORDS: 4612
+
+---- Scanning URL: https://latinostgemilang.tangerangkab.go.id/ ----
+
+(!) FATAL: Too many errors connecting to host
+    (Possible cause: SSL CONNECT ERROR)
+
+-----------------
+END_TIME: Sun Mar 31 17:50:00 2024
+DOWNLOADED: 0 - FOUND: 0

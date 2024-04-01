@@ -1,0 +1,220 @@
+
+-----------------
+DIRB v2.22    
+By The Dark Raver
+-----------------
+
+OUTPUT_FILE: inidataku.txt
+START_TIME: Sun Mar 31 08:46:52 2024
+URL_BASE: https://inidataku.tangerangkab.go.id/
+WORDLIST_FILES: /usr/share/dirb/wordlists/common.txt
+
+-----------------
+
+GENERATED WORDS: 4612
+
+---- Scanning URL: https://inidataku.tangerangkab.go.id/ ----
+==> DIRECTORY: https://inidataku.tangerangkab.go.id/admin/
+==> DIRECTORY: https://inidataku.tangerangkab.go.id/assets/
+==> DIRECTORY: https://inidataku.tangerangkab.go.id/backend/
+==> DIRECTORY: https://inidataku.tangerangkab.go.id/cgi-bin/
++ https://inidataku.tangerangkab.go.id/cgi-bin/ (CODE:403|SIZE:564)
+==> DIRECTORY: https://inidataku.tangerangkab.go.id/common/
+==> DIRECTORY: https://inidataku.tangerangkab.go.id/console/
+==> DIRECTORY: https://inidataku.tangerangkab.go.id/css/
++ https://inidataku.tangerangkab.go.id/event (CODE:500|SIZE:66442)
++ https://inidataku.tangerangkab.go.id/favicon.ico (CODE:200|SIZE:318)
+==> DIRECTORY: https://inidataku.tangerangkab.go.id/frontend/
++ https://inidataku.tangerangkab.go.id/gallery (CODE:200|SIZE:8439)
+==> DIRECTORY: https://inidataku.tangerangkab.go.id/images/
++ https://inidataku.tangerangkab.go.id/index.php (CODE:200|SIZE:4350451)
++ https://inidataku.tangerangkab.go.id/init (CODE:200|SIZE:8829)
+==> DIRECTORY: https://inidataku.tangerangkab.go.id/js/
+==> DIRECTORY: https://inidataku.tangerangkab.go.id/map/
+==> DIRECTORY: https://inidataku.tangerangkab.go.id/media/
++ https://inidataku.tangerangkab.go.id/post (CODE:302|SIZE:0)
++ https://inidataku.tangerangkab.go.id/profile (CODE:500|SIZE:65910)
++ https://inidataku.tangerangkab.go.id/robots.txt (CODE:200|SIZE:0)
++ https://inidataku.tangerangkab.go.id/site (CODE:200|SIZE:4350451)
++ https://inidataku.tangerangkab.go.id/testimonial (CODE:500|SIZE:65915)
+==> DIRECTORY: https://inidataku.tangerangkab.go.id/themes/
+==> DIRECTORY: https://inidataku.tangerangkab.go.id/vendor/
+
+---- Entering directory: https://inidataku.tangerangkab.go.id/admin/ ----
++ https://inidataku.tangerangkab.go.id/admin/article (CODE:302|SIZE:0)
+==> DIRECTORY: https://inidataku.tangerangkab.go.id/admin/assets/
+==> DIRECTORY: https://inidataku.tangerangkab.go.id/admin/components/
+==> DIRECTORY: https://inidataku.tangerangkab.go.id/admin/config/
+==> DIRECTORY: https://inidataku.tangerangkab.go.id/admin/controllers/
++ https://inidataku.tangerangkab.go.id/admin/gallery (CODE:302|SIZE:0)
++ https://inidataku.tangerangkab.go.id/admin/index.php (CODE:200|SIZE:2711)
++ https://inidataku.tangerangkab.go.id/admin/language (CODE:302|SIZE:0)
++ https://inidataku.tangerangkab.go.id/admin/link (CODE:302|SIZE:0)
++ https://inidataku.tangerangkab.go.id/admin/media (CODE:302|SIZE:0)
++ https://inidataku.tangerangkab.go.id/admin/menu (CODE:302|SIZE:0)
+==> DIRECTORY: https://inidataku.tangerangkab.go.id/admin/models/
++ https://inidataku.tangerangkab.go.id/admin/profile (CODE:302|SIZE:0)
++ https://inidataku.tangerangkab.go.id/admin/program (CODE:302|SIZE:0)
++ https://inidataku.tangerangkab.go.id/admin/setting (CODE:302|SIZE:0)
++ https://inidataku.tangerangkab.go.id/admin/site (CODE:302|SIZE:0)
++ https://inidataku.tangerangkab.go.id/admin/testimonial (CODE:302|SIZE:0)
+==> DIRECTORY: https://inidataku.tangerangkab.go.id/admin/tests/
++ https://inidataku.tangerangkab.go.id/admin/user (CODE:302|SIZE:0)
+==> DIRECTORY: https://inidataku.tangerangkab.go.id/admin/views/
+==> DIRECTORY: https://inidataku.tangerangkab.go.id/admin/web/
+
+---- Entering directory: https://inidataku.tangerangkab.go.id/assets/ ----
+
+---- Entering directory: https://inidataku.tangerangkab.go.id/backend/ ----
+==> DIRECTORY: https://inidataku.tangerangkab.go.id/backend/assets/
+==> DIRECTORY: https://inidataku.tangerangkab.go.id/backend/components/
+==> DIRECTORY: https://inidataku.tangerangkab.go.id/backend/config/
+==> DIRECTORY: https://inidataku.tangerangkab.go.id/backend/controllers/
++ https://inidataku.tangerangkab.go.id/backend/index.php (CODE:200|SIZE:2713)
+==> DIRECTORY: https://inidataku.tangerangkab.go.id/backend/models/
+==> DIRECTORY: https://inidataku.tangerangkab.go.id/backend/tests/
+==> DIRECTORY: https://inidataku.tangerangkab.go.id/backend/views/
+==> DIRECTORY: https://inidataku.tangerangkab.go.id/backend/web/
+
+---- Entering directory: https://inidataku.tangerangkab.go.id/cgi-bin/ ----
+
+---- Entering directory: https://inidataku.tangerangkab.go.id/common/ ----
+==> DIRECTORY: https://inidataku.tangerangkab.go.id/common/components/
+==> DIRECTORY: https://inidataku.tangerangkab.go.id/common/config/
+==> DIRECTORY: https://inidataku.tangerangkab.go.id/common/mail/
+==> DIRECTORY: https://inidataku.tangerangkab.go.id/common/messages/
+==> DIRECTORY: https://inidataku.tangerangkab.go.id/common/models/
+==> DIRECTORY: https://inidataku.tangerangkab.go.id/common/tests/
+==> DIRECTORY: https://inidataku.tangerangkab.go.id/common/widgets/
+
+---- Entering directory: https://inidataku.tangerangkab.go.id/console/ ----
+==> DIRECTORY: https://inidataku.tangerangkab.go.id/console/config/
+==> DIRECTORY: https://inidataku.tangerangkab.go.id/console/controllers/
+==> DIRECTORY: https://inidataku.tangerangkab.go.id/console/models/
+
+---- Entering directory: https://inidataku.tangerangkab.go.id/css/ ----
+
+---- Entering directory: https://inidataku.tangerangkab.go.id/frontend/ ----
+==> DIRECTORY: https://inidataku.tangerangkab.go.id/frontend/assets/
+==> DIRECTORY: https://inidataku.tangerangkab.go.id/frontend/config/
+==> DIRECTORY: https://inidataku.tangerangkab.go.id/frontend/controllers/
++ https://inidataku.tangerangkab.go.id/frontend/index.php (CODE:302|SIZE:0)
+==> DIRECTORY: https://inidataku.tangerangkab.go.id/frontend/models/
+==> DIRECTORY: https://inidataku.tangerangkab.go.id/frontend/tests/
+==> DIRECTORY: https://inidataku.tangerangkab.go.id/frontend/views/
+==> DIRECTORY: https://inidataku.tangerangkab.go.id/frontend/web/
+
+---- Entering directory: https://inidataku.tangerangkab.go.id/images/ ----
++ https://inidataku.tangerangkab.go.id/images/favicon.ico (CODE:200|SIZE:1150)
+
+---- Entering directory: https://inidataku.tangerangkab.go.id/js/ ----
+
+---- Entering directory: https://inidataku.tangerangkab.go.id/map/ ----
++ https://inidataku.tangerangkab.go.id/map/index.html (CODE:200|SIZE:2306)
+
+---- Entering directory: https://inidataku.tangerangkab.go.id/media/ ----
+==> DIRECTORY: https://inidataku.tangerangkab.go.id/media/chart/
+==> DIRECTORY: https://inidataku.tangerangkab.go.id/media/language/
+==> DIRECTORY: https://inidataku.tangerangkab.go.id/media/media/
+==> DIRECTORY: https://inidataku.tangerangkab.go.id/media/setting/
+==> DIRECTORY: https://inidataku.tangerangkab.go.id/media/temp/
+
+---- Entering directory: https://inidataku.tangerangkab.go.id/themes/ ----
+
+---- Entering directory: https://inidataku.tangerangkab.go.id/vendor/ ----
+==> DIRECTORY: https://inidataku.tangerangkab.go.id/vendor/bin/
+==> DIRECTORY: https://inidataku.tangerangkab.go.id/vendor/ckeditor/
+==> DIRECTORY: https://inidataku.tangerangkab.go.id/vendor/composer/
+
+---- Entering directory: https://inidataku.tangerangkab.go.id/admin/assets/ ----
+
+---- Entering directory: https://inidataku.tangerangkab.go.id/admin/components/ ----
+
+---- Entering directory: https://inidataku.tangerangkab.go.id/admin/config/ ----
+
+---- Entering directory: https://inidataku.tangerangkab.go.id/admin/controllers/ ----
+
+---- Entering directory: https://inidataku.tangerangkab.go.id/admin/models/ ----
+
+---- Entering directory: https://inidataku.tangerangkab.go.id/admin/tests/ ----
+==> DIRECTORY: https://inidataku.tangerangkab.go.id/admin/tests/_data/
+
+---- Entering directory: https://inidataku.tangerangkab.go.id/admin/views/ ----
+==> DIRECTORY: https://inidataku.tangerangkab.go.id/admin/views/article/
+==> DIRECTORY: https://inidataku.tangerangkab.go.id/admin/views/gallery/
+==> DIRECTORY: https://inidataku.tangerangkab.go.id/admin/views/language/
+==> DIRECTORY: https://inidataku.tangerangkab.go.id/admin/views/layouts/
+==> DIRECTORY: https://inidataku.tangerangkab.go.id/admin/views/media/
+==> DIRECTORY: https://inidataku.tangerangkab.go.id/admin/views/menu/
+==> DIRECTORY: https://inidataku.tangerangkab.go.id/admin/views/program/
+==> DIRECTORY: https://inidataku.tangerangkab.go.id/admin/views/setting/
+==> DIRECTORY: https://inidataku.tangerangkab.go.id/admin/views/site/
+==> DIRECTORY: https://inidataku.tangerangkab.go.id/admin/views/user/
+
+---- Entering directory: https://inidataku.tangerangkab.go.id/admin/web/ ----
+==> DIRECTORY: https://inidataku.tangerangkab.go.id/admin/web/assets/
+==> DIRECTORY: https://inidataku.tangerangkab.go.id/admin/web/css/
++ https://inidataku.tangerangkab.go.id/admin/web/favicon.ico (CODE:200|SIZE:318)
++ https://inidataku.tangerangkab.go.id/admin/web/index.php (CODE:200|SIZE:2715)
++ https://inidataku.tangerangkab.go.id/admin/web/robots.txt (CODE:200|SIZE:25)
+
+---- Entering directory: https://inidataku.tangerangkab.go.id/backend/assets/ ----
+
+---- Entering directory: https://inidataku.tangerangkab.go.id/backend/components/ ----
+
+---- Entering directory: https://inidataku.tangerangkab.go.id/backend/config/ ----
+
+---- Entering directory: https://inidataku.tangerangkab.go.id/backend/controllers/ ----
+
+---- Entering directory: https://inidataku.tangerangkab.go.id/backend/models/ ----
+
+---- Entering directory: https://inidataku.tangerangkab.go.id/backend/tests/ ----
+==> DIRECTORY: https://inidataku.tangerangkab.go.id/backend/tests/_data/
+
+---- Entering directory: https://inidataku.tangerangkab.go.id/backend/views/ ----
+==> DIRECTORY: https://inidataku.tangerangkab.go.id/backend/views/article/
+==> DIRECTORY: https://inidataku.tangerangkab.go.id/backend/views/gallery/
+==> DIRECTORY: https://inidataku.tangerangkab.go.id/backend/views/language/
+==> DIRECTORY: https://inidataku.tangerangkab.go.id/backend/views/layouts/
+==> DIRECTORY: https://inidataku.tangerangkab.go.id/backend/views/media/
+==> DIRECTORY: https://inidataku.tangerangkab.go.id/backend/views/menu/
+==> DIRECTORY: https://inidataku.tangerangkab.go.id/backend/views/program/
+==> DIRECTORY: https://inidataku.tangerangkab.go.id/backend/views/setting/
+==> DIRECTORY: https://inidataku.tangerangkab.go.id/backend/views/site/
+==> DIRECTORY: https://inidataku.tangerangkab.go.id/backend/views/user/
+
+---- Entering directory: https://inidataku.tangerangkab.go.id/backend/web/ ----
+==> DIRECTORY: https://inidataku.tangerangkab.go.id/backend/web/assets/
+==> DIRECTORY: https://inidataku.tangerangkab.go.id/backend/web/css/
++ https://inidataku.tangerangkab.go.id/backend/web/favicon.ico (CODE:200|SIZE:318)
++ https://inidataku.tangerangkab.go.id/backend/web/index.php (CODE:200|SIZE:2717)
++ https://inidataku.tangerangkab.go.id/backend/web/robots.txt (CODE:200|SIZE:25)
+
+---- Entering directory: https://inidataku.tangerangkab.go.id/common/components/ ----
+
+---- Entering directory: https://inidataku.tangerangkab.go.id/common/config/ ----
+
+---- Entering directory: https://inidataku.tangerangkab.go.id/common/mail/ ----
+==> DIRECTORY: https://inidataku.tangerangkab.go.id/common/mail/layouts/
+
+---- Entering directory: https://inidataku.tangerangkab.go.id/common/messages/ ----
+
+---- Entering directory: https://inidataku.tangerangkab.go.id/common/models/ ----
+
+---- Entering directory: https://inidataku.tangerangkab.go.id/common/tests/ ----
+==> DIRECTORY: https://inidataku.tangerangkab.go.id/common/tests/_data/
+
+---- Entering directory: https://inidataku.tangerangkab.go.id/common/widgets/ ----
+
+---- Entering directory: https://inidataku.tangerangkab.go.id/console/config/ ----
+
+---- Entering directory: https://inidataku.tangerangkab.go.id/console/controllers/ ----
+
+---- Entering directory: https://inidataku.tangerangkab.go.id/console/models/ ----
+
+(!) FATAL: Too many errors connecting to host
+    (Possible cause: OPERATION TIMEOUT)
+
+-----------------
+END_TIME: Sun Mar 31 13:40:22 2024
+DOWNLOADED: 188419 - FOUND: 34

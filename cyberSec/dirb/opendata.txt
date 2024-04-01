@@ -1,0 +1,194 @@
+
+-----------------
+DIRB v2.22    
+By The Dark Raver
+-----------------
+
+OUTPUT_FILE: opendata.txt
+START_TIME: Sat Mar 30 15:06:29 2024
+URL_BASE: https://opendata.tangerangkab.go.id/
+WORDLIST_FILES: /usr/share/dirb/wordlists/common.txt
+
+-----------------
+
+GENERATED WORDS: 4612
+
+---- Scanning URL: https://opendata.tangerangkab.go.id/ ----
++ https://opendata.tangerangkab.go.id/0 (CODE:301|SIZE:0)
++ https://opendata.tangerangkab.go.id/about (CODE:200|SIZE:23292)
++ https://opendata.tangerangkab.go.id/About (CODE:301|SIZE:0)
++ https://opendata.tangerangkab.go.id/admin (CODE:302|SIZE:0)
++ https://opendata.tangerangkab.go.id/Admin (CODE:302|SIZE:0)
++ https://opendata.tangerangkab.go.id/ADMIN (CODE:302|SIZE:0)
++ https://opendata.tangerangkab.go.id/batch (CODE:302|SIZE:0)
++ https://opendata.tangerangkab.go.id/cgi-bin/ (CODE:301|SIZE:0)
++ https://opendata.tangerangkab.go.id/format (CODE:200|SIZE:18348)
+
+(!) FATAL: Too many errors connecting to host
+    (Possible cause: OPERATION TIMEOUT)
+
+-----------------
+END_TIME: Sat Mar 30 17:11:13 2024
+DOWNLOADED: 1715 - FOUND: 9
+
+-----------------
+DIRB v2.22    
+By The Dark Raver
+-----------------
+
+OUTPUT_FILE: opendata.txt
+START_TIME: Sun Mar 31 17:49:10 2024
+URL_BASE: https://opendata.tangerangkab.go.id/
+WORDLIST_FILES: /usr/share/dirb/wordlists/common.txt
+
+-----------------
+
+GENERATED WORDS: 4612
+
+---- Scanning URL: https://opendata.tangerangkab.go.id/ ----
++ https://opendata.tangerangkab.go.id/0 (CODE:301|SIZE:0)
++ https://opendata.tangerangkab.go.id/about (CODE:200|SIZE:23292)
++ https://opendata.tangerangkab.go.id/About (CODE:301|SIZE:0)
++ https://opendata.tangerangkab.go.id/admin (CODE:302|SIZE:0)
++ https://opendata.tangerangkab.go.id/Admin (CODE:302|SIZE:0)
++ https://opendata.tangerangkab.go.id/ADMIN (CODE:302|SIZE:0)
++ https://opendata.tangerangkab.go.id/batch (CODE:302|SIZE:0)
++ https://opendata.tangerangkab.go.id/cgi-bin/ (CODE:301|SIZE:0)
++ https://opendata.tangerangkab.go.id/format (CODE:200|SIZE:18348)
++ https://opendata.tangerangkab.go.id/groups (CODE:200|SIZE:26415)
+==> DIRECTORY: https://opendata.tangerangkab.go.id/includes/
++ https://opendata.tangerangkab.go.id/index.php (CODE:301|SIZE:0)
++ https://opendata.tangerangkab.go.id/install.mysql (CODE:403|SIZE:293)
++ https://opendata.tangerangkab.go.id/install.pgsql (CODE:403|SIZE:293)
+==> DIRECTORY: https://opendata.tangerangkab.go.id/misc/
+==> DIRECTORY: https://opendata.tangerangkab.go.id/modules/
++ https://opendata.tangerangkab.go.id/node (CODE:200|SIZE:17933)
++ https://opendata.tangerangkab.go.id/popular (CODE:200|SIZE:29464)
+==> DIRECTORY: https://opendata.tangerangkab.go.id/profiles/
++ https://opendata.tangerangkab.go.id/robots.txt (CODE:200|SIZE:2189)
++ https://opendata.tangerangkab.go.id/Root (CODE:403|SIZE:293)
+==> DIRECTORY: https://opendata.tangerangkab.go.id/scripts/
++ https://opendata.tangerangkab.go.id/search (CODE:200|SIZE:73847)
++ https://opendata.tangerangkab.go.id/Search (CODE:200|SIZE:73847)
++ https://opendata.tangerangkab.go.id/server-status (CODE:403|SIZE:293)
+==> DIRECTORY: https://opendata.tangerangkab.go.id/sites/
++ https://opendata.tangerangkab.go.id/stories (CODE:200|SIZE:23967)
+==> DIRECTORY: https://opendata.tangerangkab.go.id/themes/
++ https://opendata.tangerangkab.go.id/topics (CODE:302|SIZE:0)
++ https://opendata.tangerangkab.go.id/user (CODE:200|SIZE:19352)
++ https://opendata.tangerangkab.go.id/web.config (CODE:403|SIZE:293)
++ https://opendata.tangerangkab.go.id/welcome (CODE:301|SIZE:0)
++ https://opendata.tangerangkab.go.id/xmlrpc.php (CODE:200|SIZE:42)
+
+---- Entering directory: https://opendata.tangerangkab.go.id/includes/ ----
++ https://opendata.tangerangkab.go.id/includes/cgi-bin/ (CODE:301|SIZE:0)
+==> DIRECTORY: https://opendata.tangerangkab.go.id/includes/database/
++ https://opendata.tangerangkab.go.id/includes/install.mysql (CODE:403|SIZE:293)
++ https://opendata.tangerangkab.go.id/includes/install.pgsql (CODE:403|SIZE:293)
++ https://opendata.tangerangkab.go.id/includes/Root (CODE:403|SIZE:293)
++ https://opendata.tangerangkab.go.id/includes/web.config (CODE:403|SIZE:293)
+
+---- Entering directory: https://opendata.tangerangkab.go.id/misc/ ----
++ https://opendata.tangerangkab.go.id/misc/cgi-bin/ (CODE:301|SIZE:0)
++ https://opendata.tangerangkab.go.id/misc/favicon.ico (CODE:200|SIZE:5430)
++ https://opendata.tangerangkab.go.id/misc/install.mysql (CODE:403|SIZE:293)
++ https://opendata.tangerangkab.go.id/misc/install.pgsql (CODE:403|SIZE:293)
++ https://opendata.tangerangkab.go.id/misc/Root (CODE:403|SIZE:293)
+==> DIRECTORY: https://opendata.tangerangkab.go.id/misc/typo3/
+==> DIRECTORY: https://opendata.tangerangkab.go.id/misc/ui/
++ https://opendata.tangerangkab.go.id/misc/web.config (CODE:403|SIZE:293)
+
+---- Entering directory: https://opendata.tangerangkab.go.id/modules/ ----
+==> DIRECTORY: https://opendata.tangerangkab.go.id/modules/aggregator/
+==> DIRECTORY: https://opendata.tangerangkab.go.id/modules/block/
+==> DIRECTORY: https://opendata.tangerangkab.go.id/modules/blog/
+==> DIRECTORY: https://opendata.tangerangkab.go.id/modules/book/
++ https://opendata.tangerangkab.go.id/modules/cgi-bin/ (CODE:301|SIZE:0)
+==> DIRECTORY: https://opendata.tangerangkab.go.id/modules/comment/
+==> DIRECTORY: https://opendata.tangerangkab.go.id/modules/contact/
+==> DIRECTORY: https://opendata.tangerangkab.go.id/modules/dashboard/
+==> DIRECTORY: https://opendata.tangerangkab.go.id/modules/field/
+==> DIRECTORY: https://opendata.tangerangkab.go.id/modules/file/
+==> DIRECTORY: https://opendata.tangerangkab.go.id/modules/filter/
+==> DIRECTORY: https://opendata.tangerangkab.go.id/modules/forum/
+==> DIRECTORY: https://opendata.tangerangkab.go.id/modules/help/
+==> DIRECTORY: https://opendata.tangerangkab.go.id/modules/image/
++ https://opendata.tangerangkab.go.id/modules/install.mysql (CODE:403|SIZE:293)
++ https://opendata.tangerangkab.go.id/modules/install.pgsql (CODE:403|SIZE:293)
+==> DIRECTORY: https://opendata.tangerangkab.go.id/modules/locale/
+==> DIRECTORY: https://opendata.tangerangkab.go.id/modules/menu/
+==> DIRECTORY: https://opendata.tangerangkab.go.id/modules/node/
+==> DIRECTORY: https://opendata.tangerangkab.go.id/modules/path/
+==> DIRECTORY: https://opendata.tangerangkab.go.id/modules/php/
+==> DIRECTORY: https://opendata.tangerangkab.go.id/modules/poll/
+==> DIRECTORY: https://opendata.tangerangkab.go.id/modules/profile/
+==> DIRECTORY: https://opendata.tangerangkab.go.id/modules/rdf/
++ https://opendata.tangerangkab.go.id/modules/Root (CODE:403|SIZE:293)
+==> DIRECTORY: https://opendata.tangerangkab.go.id/modules/search/
+==> DIRECTORY: https://opendata.tangerangkab.go.id/modules/statistics/
+==> DIRECTORY: https://opendata.tangerangkab.go.id/modules/system/
+==> DIRECTORY: https://opendata.tangerangkab.go.id/modules/taxonomy/
+==> DIRECTORY: https://opendata.tangerangkab.go.id/modules/toolbar/
+==> DIRECTORY: https://opendata.tangerangkab.go.id/modules/tracker/
+==> DIRECTORY: https://opendata.tangerangkab.go.id/modules/update/
+==> DIRECTORY: https://opendata.tangerangkab.go.id/modules/user/
++ https://opendata.tangerangkab.go.id/modules/web.config (CODE:403|SIZE:293)
+
+---- Entering directory: https://opendata.tangerangkab.go.id/profiles/ ----
++ https://opendata.tangerangkab.go.id/profiles/cgi-bin/ (CODE:301|SIZE:0)
++ https://opendata.tangerangkab.go.id/profiles/install.mysql (CODE:403|SIZE:293)
++ https://opendata.tangerangkab.go.id/profiles/install.pgsql (CODE:403|SIZE:293)
++ https://opendata.tangerangkab.go.id/profiles/Root (CODE:403|SIZE:293)
+==> DIRECTORY: https://opendata.tangerangkab.go.id/profiles/standard/
+==> DIRECTORY: https://opendata.tangerangkab.go.id/profiles/testing/
++ https://opendata.tangerangkab.go.id/profiles/web.config (CODE:403|SIZE:293)
+
+---- Entering directory: https://opendata.tangerangkab.go.id/scripts/ ----
++ https://opendata.tangerangkab.go.id/scripts/cgi-bin/ (CODE:301|SIZE:0)
++ https://opendata.tangerangkab.go.id/scripts/install.mysql (CODE:403|SIZE:293)
++ https://opendata.tangerangkab.go.id/scripts/install.pgsql (CODE:403|SIZE:293)
++ https://opendata.tangerangkab.go.id/scripts/Root (CODE:403|SIZE:293)
++ https://opendata.tangerangkab.go.id/scripts/web.config (CODE:403|SIZE:293)
+
+---- Entering directory: https://opendata.tangerangkab.go.id/sites/ ----
+==> DIRECTORY: https://opendata.tangerangkab.go.id/sites/all/
++ https://opendata.tangerangkab.go.id/sites/cgi-bin/ (CODE:301|SIZE:0)
+==> DIRECTORY: https://opendata.tangerangkab.go.id/sites/default/
++ https://opendata.tangerangkab.go.id/sites/install.mysql (CODE:403|SIZE:293)
++ https://opendata.tangerangkab.go.id/sites/install.pgsql (CODE:403|SIZE:293)
++ https://opendata.tangerangkab.go.id/sites/Root (CODE:403|SIZE:293)
++ https://opendata.tangerangkab.go.id/sites/web.config (CODE:403|SIZE:293)
+
+---- Entering directory: https://opendata.tangerangkab.go.id/themes/ ----
++ https://opendata.tangerangkab.go.id/themes/cgi-bin/ (CODE:301|SIZE:0)
+==> DIRECTORY: https://opendata.tangerangkab.go.id/themes/engines/
++ https://opendata.tangerangkab.go.id/themes/install.mysql (CODE:403|SIZE:293)
++ https://opendata.tangerangkab.go.id/themes/install.pgsql (CODE:403|SIZE:293)
++ https://opendata.tangerangkab.go.id/themes/Root (CODE:403|SIZE:293)
++ https://opendata.tangerangkab.go.id/themes/web.config (CODE:403|SIZE:293)
+
+---- Entering directory: https://opendata.tangerangkab.go.id/includes/database/ ----
++ https://opendata.tangerangkab.go.id/includes/database/cgi-bin/ (CODE:301|SIZE:0)
++ https://opendata.tangerangkab.go.id/includes/database/install.mysql (CODE:403|SIZE:293)
++ https://opendata.tangerangkab.go.id/includes/database/install.pgsql (CODE:403|SIZE:293)
+==> DIRECTORY: https://opendata.tangerangkab.go.id/includes/database/mysql/
+==> DIRECTORY: https://opendata.tangerangkab.go.id/includes/database/pgsql/
++ https://opendata.tangerangkab.go.id/includes/database/Root (CODE:403|SIZE:293)
++ https://opendata.tangerangkab.go.id/includes/database/web.config (CODE:403|SIZE:293)
+
+---- Entering directory: https://opendata.tangerangkab.go.id/misc/typo3/ ----
++ https://opendata.tangerangkab.go.id/misc/typo3/cgi-bin/ (CODE:301|SIZE:0)
++ https://opendata.tangerangkab.go.id/misc/typo3/install.mysql (CODE:403|SIZE:293)
++ https://opendata.tangerangkab.go.id/misc/typo3/install.pgsql (CODE:403|SIZE:293)
++ https://opendata.tangerangkab.go.id/misc/typo3/Root (CODE:403|SIZE:293)
++ https://opendata.tangerangkab.go.id/misc/typo3/web.config (CODE:403|SIZE:293)
+
+---- Entering directory: https://opendata.tangerangkab.go.id/misc/ui/ ----
++ https://opendata.tangerangkab.go.id/misc/ui/cgi-bin/ (CODE:301|SIZE:0)
+==> DIRECTORY: https://opendata.tangerangkab.go.id/misc/ui/images/
++ https://opendata.tangerangkab.go.id/misc/ui/install.mysql (CODE:403|SIZE:293)
++ https://opendata.tangerangkab.go.id/misc/ui/install.pgsql (CODE:403|SIZE:293)
++ https://opendata.tangerangkab.go.id/misc/ui/Root (CODE:403|SIZE:293)
++ https://opendata.tangerangkab.go.id/misc/ui/web.config (CODE:403|SIZE:293)
+
+---- Entering directory: https://opendata.tangerangkab.go.id/modules/aggregator/ ----

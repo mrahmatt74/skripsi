@@ -1,0 +1,92 @@
+
+-----------------
+DIRB v2.22    
+By The Dark Raver
+-----------------
+
+OUTPUT_FILE: dpmptsp.txt
+START_TIME: Sat Mar 30 12:29:24 2024
+URL_BASE: https://dpmptsp.tangerangkab.go.id/
+WORDLIST_FILES: /usr/share/dirb/wordlists/common.txt
+
+-----------------
+
+GENERATED WORDS: 4612
+
+---- Scanning URL: https://dpmptsp.tangerangkab.go.id/ ----
++ https://dpmptsp.tangerangkab.go.id/.git/HEAD (CODE:500|SIZE:39130)
++ https://dpmptsp.tangerangkab.go.id/.htaccess (CODE:500|SIZE:39130)
++ https://dpmptsp.tangerangkab.go.id/.htpasswd (CODE:500|SIZE:39130)
++ https://dpmptsp.tangerangkab.go.id/.svn/entries (CODE:500|SIZE:39133)
++ https://dpmptsp.tangerangkab.go.id/aux (CODE:500|SIZE:39124)
++ https://dpmptsp.tangerangkab.go.id/com1 (CODE:500|SIZE:39125)
++ https://dpmptsp.tangerangkab.go.id/com2 (CODE:500|SIZE:39125)
++ https://dpmptsp.tangerangkab.go.id/com3 (CODE:500|SIZE:39125)
++ https://dpmptsp.tangerangkab.go.id/CVS/Entries (CODE:500|SIZE:39132)
++ https://dpmptsp.tangerangkab.go.id/dashboard (CODE:302|SIZE:430)
+==> DIRECTORY: https://dpmptsp.tangerangkab.go.id/documents/
++ https://dpmptsp.tangerangkab.go.id/favicon.ico (CODE:200|SIZE:0)
++ https://dpmptsp.tangerangkab.go.id/global.asa (CODE:500|SIZE:20154)
+==> DIRECTORY: https://dpmptsp.tangerangkab.go.id/images/
++ https://dpmptsp.tangerangkab.go.id/index.php (CODE:200|SIZE:73383)
++ https://dpmptsp.tangerangkab.go.id/lpt1 (CODE:500|SIZE:39125)
++ https://dpmptsp.tangerangkab.go.id/lpt2 (CODE:500|SIZE:39125)
++ https://dpmptsp.tangerangkab.go.id/menu (CODE:302|SIZE:430)
++ https://dpmptsp.tangerangkab.go.id/prn (CODE:500|SIZE:39124)
++ https://dpmptsp.tangerangkab.go.id/readfile (CODE:500|SIZE:39129)
++ https://dpmptsp.tangerangkab.go.id/robots.txt (CODE:200|SIZE:24)
++ https://dpmptsp.tangerangkab.go.id/statistik (CODE:302|SIZE:430)
+==> DIRECTORY: https://dpmptsp.tangerangkab.go.id/storage/
+==> DIRECTORY: https://dpmptsp.tangerangkab.go.id/theme/
++ https://dpmptsp.tangerangkab.go.id/users (CODE:302|SIZE:430)
+==> DIRECTORY: https://dpmptsp.tangerangkab.go.id/vendor/
++ https://dpmptsp.tangerangkab.go.id/video (CODE:302|SIZE:430)
++ https://dpmptsp.tangerangkab.go.id/videos (CODE:200|SIZE:305518)
++ https://dpmptsp.tangerangkab.go.id/WS_FTP.LOG (CODE:500|SIZE:39131)
+
+---- Entering directory: https://dpmptsp.tangerangkab.go.id/documents/ ----
++ https://dpmptsp.tangerangkab.go.id/documents/.git/HEAD (CODE:500|SIZE:39140)
++ https://dpmptsp.tangerangkab.go.id/documents/.htaccess (CODE:500|SIZE:39140)
++ https://dpmptsp.tangerangkab.go.id/documents/.htpasswd (CODE:500|SIZE:39140)
++ https://dpmptsp.tangerangkab.go.id/documents/.svn/entries (CODE:500|SIZE:39143)
++ https://dpmptsp.tangerangkab.go.id/documents/com1 (CODE:500|SIZE:39135)
++ https://dpmptsp.tangerangkab.go.id/documents/com2 (CODE:500|SIZE:39135)
++ https://dpmptsp.tangerangkab.go.id/documents/com3 (CODE:500|SIZE:39135)
++ https://dpmptsp.tangerangkab.go.id/documents/CVS/Entries (CODE:500|SIZE:39142)
++ https://dpmptsp.tangerangkab.go.id/documents/global.asa (CODE:500|SIZE:39141)
++ https://dpmptsp.tangerangkab.go.id/documents/lpt1 (CODE:500|SIZE:39135)
++ https://dpmptsp.tangerangkab.go.id/documents/lpt2 (CODE:500|SIZE:39135)
++ https://dpmptsp.tangerangkab.go.id/documents/readfile (CODE:500|SIZE:39139)
++ https://dpmptsp.tangerangkab.go.id/documents/WS_FTP.LOG (CODE:500|SIZE:39141)
+
+---- Entering directory: https://dpmptsp.tangerangkab.go.id/images/ ----
++ https://dpmptsp.tangerangkab.go.id/images/.git/HEAD (CODE:500|SIZE:39137)
++ https://dpmptsp.tangerangkab.go.id/images/.htaccess (CODE:500|SIZE:39137)
++ https://dpmptsp.tangerangkab.go.id/images/.htpasswd (CODE:500|SIZE:39137)
++ https://dpmptsp.tangerangkab.go.id/images/.svn/entries (CODE:500|SIZE:39140)
++ https://dpmptsp.tangerangkab.go.id/images/com1 (CODE:500|SIZE:39132)
++ https://dpmptsp.tangerangkab.go.id/images/com2 (CODE:500|SIZE:39132)
++ https://dpmptsp.tangerangkab.go.id/images/com3 (CODE:500|SIZE:39132)
++ https://dpmptsp.tangerangkab.go.id/images/CVS/Entries (CODE:500|SIZE:39139)
++ https://dpmptsp.tangerangkab.go.id/images/global.asa (CODE:500|SIZE:39138)
++ https://dpmptsp.tangerangkab.go.id/images/lpt1 (CODE:500|SIZE:39132)
++ https://dpmptsp.tangerangkab.go.id/images/lpt2 (CODE:500|SIZE:39132)
++ https://dpmptsp.tangerangkab.go.id/images/readfile (CODE:500|SIZE:39136)
++ https://dpmptsp.tangerangkab.go.id/images/WS_FTP.LOG (CODE:500|SIZE:39138)
+
+---- Entering directory: https://dpmptsp.tangerangkab.go.id/storage/ ----
++ https://dpmptsp.tangerangkab.go.id/storage/.git/HEAD (CODE:500|SIZE:39138)
++ https://dpmptsp.tangerangkab.go.id/storage/.htaccess (CODE:500|SIZE:39138)
++ https://dpmptsp.tangerangkab.go.id/storage/.htpasswd (CODE:500|SIZE:39138)
++ https://dpmptsp.tangerangkab.go.id/storage/.svn/entries (CODE:500|SIZE:39141)
++ https://dpmptsp.tangerangkab.go.id/storage/com1 (CODE:500|SIZE:39133)
++ https://dpmptsp.tangerangkab.go.id/storage/com2 (CODE:500|SIZE:39133)
++ https://dpmptsp.tangerangkab.go.id/storage/com3 (CODE:500|SIZE:39133)
++ https://dpmptsp.tangerangkab.go.id/storage/CVS/Entries (CODE:500|SIZE:39140)
+
+(!) FATAL: Too many errors connecting to host
+    (Possible cause: SSL CONNECT ERROR)
+
+-----------------
+END_TIME: Sat Mar 30 13:00:29 2024
+DOWNLOADED: 15170 - FOUND: 58

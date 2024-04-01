@@ -1,0 +1,36 @@
+
+-----------------
+DIRB v2.22    
+By The Dark Raver
+-----------------
+
+OUTPUT_FILE: simpatik.txt
+START_TIME: Mon Apr  1 09:54:42 2024
+URL_BASE: https://simpatik.tangerangkab.go.id/
+WORDLIST_FILES: /usr/share/dirb/wordlists/common.txt
+
+-----------------
+
+GENERATED WORDS: 4612
+
+---- Scanning URL: https://simpatik.tangerangkab.go.id/ ----
+==> DIRECTORY: https://simpatik.tangerangkab.go.id/css/
++ https://simpatik.tangerangkab.go.id/favicon.ico (CODE:200|SIZE:15406)
+==> DIRECTORY: https://simpatik.tangerangkab.go.id/fonts/
+==> DIRECTORY: https://simpatik.tangerangkab.go.id/images/
+==> DIRECTORY: https://simpatik.tangerangkab.go.id/img/
+==> DIRECTORY: https://simpatik.tangerangkab.go.id/js/
+
+---- Entering directory: https://simpatik.tangerangkab.go.id/css/ ----
+
+---- Entering directory: https://simpatik.tangerangkab.go.id/fonts/ ----
+
+---- Entering directory: https://simpatik.tangerangkab.go.id/images/ ----
+
+---- Entering directory: https://simpatik.tangerangkab.go.id/img/ ----
+
+---- Entering directory: https://simpatik.tangerangkab.go.id/js/ ----
+
+-----------------
+END_TIME: Mon Apr  1 10:00:48 2024
+DOWNLOADED: 27672 - FOUND: 1

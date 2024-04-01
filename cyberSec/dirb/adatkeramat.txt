@@ -1,0 +1,36 @@
+
+-----------------
+DIRB v2.22    
+By The Dark Raver
+-----------------
+
+OUTPUT_FILE: adatkeramat.txt
+START_TIME: Sat Mar 30 01:29:17 2024
+URL_BASE: https://adatkeramat.tangerangkab.go.id/
+WORDLIST_FILES: /usr/share/dirb/wordlists/common.txt
+
+-----------------
+
+GENERATED WORDS: 4612
+
+---- Scanning URL: https://adatkeramat.tangerangkab.go.id/ ----
+==> DIRECTORY: https://adatkeramat.tangerangkab.go.id/css/
++ https://adatkeramat.tangerangkab.go.id/favicon.ico (CODE:200|SIZE:15406)
+==> DIRECTORY: https://adatkeramat.tangerangkab.go.id/fonts/
+==> DIRECTORY: https://adatkeramat.tangerangkab.go.id/images/
+==> DIRECTORY: https://adatkeramat.tangerangkab.go.id/img/
+==> DIRECTORY: https://adatkeramat.tangerangkab.go.id/js/
+
+---- Entering directory: https://adatkeramat.tangerangkab.go.id/css/ ----
+
+---- Entering directory: https://adatkeramat.tangerangkab.go.id/fonts/ ----
+
+---- Entering directory: https://adatkeramat.tangerangkab.go.id/images/ ----
+
+---- Entering directory: https://adatkeramat.tangerangkab.go.id/img/ ----
+
+---- Entering directory: https://adatkeramat.tangerangkab.go.id/js/ ----
+
+-----------------
+END_TIME: Sat Mar 30 01:46:14 2024
+DOWNLOADED: 27672 - FOUND: 1

@@ -1,0 +1,162 @@
+
+-----------------
+DIRB v2.22    
+By The Dark Raver
+-----------------
+
+OUTPUT_FILE: sipinter.txt
+START_TIME: Mon Apr  1 09:57:24 2024
+URL_BASE: https://sipinter.tangerangkab.go.id/
+WORDLIST_FILES: /usr/share/dirb/wordlists/common.txt
+
+-----------------
+
+GENERATED WORDS: 4612
+
+---- Scanning URL: https://sipinter.tangerangkab.go.id/ ----
++ https://sipinter.tangerangkab.go.id/admin (CODE:307|SIZE:0)
++ https://sipinter.tangerangkab.go.id/Admin (CODE:307|SIZE:0)
++ https://sipinter.tangerangkab.go.id/application (CODE:403|SIZE:213)
+==> DIRECTORY: https://sipinter.tangerangkab.go.id/assets/
+==> DIRECTORY: https://sipinter.tangerangkab.go.id/banner/
++ https://sipinter.tangerangkab.go.id/composer (CODE:200|SIZE:594)
++ https://sipinter.tangerangkab.go.id/draft (CODE:200|SIZE:0)
++ https://sipinter.tangerangkab.go.id/favicon.ico (CODE:200|SIZE:1150)
+==> DIRECTORY: https://sipinter.tangerangkab.go.id/images/
+==> DIRECTORY: https://sipinter.tangerangkab.go.id/include/
++ https://sipinter.tangerangkab.go.id/index.php (CODE:307|SIZE:0)
+==> DIRECTORY: https://sipinter.tangerangkab.go.id/javascript/
++ https://sipinter.tangerangkab.go.id/license (CODE:200|SIZE:1114)
++ https://sipinter.tangerangkab.go.id/login (CODE:200|SIZE:3574)
++ https://sipinter.tangerangkab.go.id/Login (CODE:200|SIZE:3574)
++ https://sipinter.tangerangkab.go.id/logout (CODE:307|SIZE:0)
++ https://sipinter.tangerangkab.go.id/lost+found (CODE:400|SIZE:1134)
+==> DIRECTORY: https://sipinter.tangerangkab.go.id/phpmailer/
++ https://sipinter.tangerangkab.go.id/privacypolicy (CODE:200|SIZE:7724)
++ https://sipinter.tangerangkab.go.id/report (CODE:307|SIZE:0)
++ https://sipinter.tangerangkab.go.id/robot (CODE:200|SIZE:27)
++ https://sipinter.tangerangkab.go.id/server-status (CODE:403|SIZE:215)
++ https://sipinter.tangerangkab.go.id/signed (CODE:200|SIZE:36)
+==> DIRECTORY: https://sipinter.tangerangkab.go.id/storage/
++ https://sipinter.tangerangkab.go.id/system (CODE:403|SIZE:208)
+==> DIRECTORY: https://sipinter.tangerangkab.go.id/test/
+==> DIRECTORY: https://sipinter.tangerangkab.go.id/tests/
+==> DIRECTORY: https://sipinter.tangerangkab.go.id/var/
+
+---- Entering directory: https://sipinter.tangerangkab.go.id/assets/ ----
+==> DIRECTORY: https://sipinter.tangerangkab.go.id/assets/css/
+==> DIRECTORY: https://sipinter.tangerangkab.go.id/assets/fonts/
+==> DIRECTORY: https://sipinter.tangerangkab.go.id/assets/images/
++ https://sipinter.tangerangkab.go.id/assets/index.php (CODE:200|SIZE:0)
+==> DIRECTORY: https://sipinter.tangerangkab.go.id/assets/js/
++ https://sipinter.tangerangkab.go.id/assets/lost+found (CODE:400|SIZE:1134)
+==> DIRECTORY: https://sipinter.tangerangkab.go.id/assets/pages/
+==> DIRECTORY: https://sipinter.tangerangkab.go.id/assets/plugins/
+==> DIRECTORY: https://sipinter.tangerangkab.go.id/assets/themes/
+
+---- Entering directory: https://sipinter.tangerangkab.go.id/banner/ ----
++ https://sipinter.tangerangkab.go.id/banner/lost+found (CODE:400|SIZE:1134)
+
+---- Entering directory: https://sipinter.tangerangkab.go.id/images/ ----
++ https://sipinter.tangerangkab.go.id/images/lost+found (CODE:400|SIZE:1134)
++ https://sipinter.tangerangkab.go.id/images/Thumbs.db (CODE:200|SIZE:274432)
+
+---- Entering directory: https://sipinter.tangerangkab.go.id/include/ ----
++ https://sipinter.tangerangkab.go.id/include/index.php (CODE:200|SIZE:0)
++ https://sipinter.tangerangkab.go.id/include/lost+found (CODE:400|SIZE:1134)
+
+---- Entering directory: https://sipinter.tangerangkab.go.id/javascript/ ----
+==> DIRECTORY: https://sipinter.tangerangkab.go.id/javascript/jquery/
+
+---- Entering directory: https://sipinter.tangerangkab.go.id/phpmailer/ ----
+==> DIRECTORY: https://sipinter.tangerangkab.go.id/phpmailer/language/
++ https://sipinter.tangerangkab.go.id/phpmailer/LICENSE (CODE:200|SIZE:26529)
++ https://sipinter.tangerangkab.go.id/phpmailer/lost+found (CODE:400|SIZE:1134)
+==> DIRECTORY: https://sipinter.tangerangkab.go.id/phpmailer/src/
+
+---- Entering directory: https://sipinter.tangerangkab.go.id/storage/ ----
++ https://sipinter.tangerangkab.go.id/storage/index.php (CODE:200|SIZE:0)
++ https://sipinter.tangerangkab.go.id/storage/lost+found (CODE:403|SIZE:220)
+
+---- Entering directory: https://sipinter.tangerangkab.go.id/test/ ----
++ https://sipinter.tangerangkab.go.id/test/lost+found (CODE:400|SIZE:1134)
+
+---- Entering directory: https://sipinter.tangerangkab.go.id/tests/ ----
++ https://sipinter.tangerangkab.go.id/tests/index.php (CODE:200|SIZE:0)
++ https://sipinter.tangerangkab.go.id/tests/lost+found (CODE:400|SIZE:1134)
+
+---- Entering directory: https://sipinter.tangerangkab.go.id/var/ ----
++ https://sipinter.tangerangkab.go.id/var/lost+found (CODE:400|SIZE:1134)
+==> DIRECTORY: https://sipinter.tangerangkab.go.id/var/www/
+
+---- Entering directory: https://sipinter.tangerangkab.go.id/assets/css/ ----
++ https://sipinter.tangerangkab.go.id/assets/css/lost+found (CODE:400|SIZE:1134)
+
+---- Entering directory: https://sipinter.tangerangkab.go.id/assets/fonts/ ----
++ https://sipinter.tangerangkab.go.id/assets/fonts/lost+found (CODE:400|SIZE:1134)
+
+---- Entering directory: https://sipinter.tangerangkab.go.id/assets/images/ ----
+==> DIRECTORY: https://sipinter.tangerangkab.go.id/assets/images/big/
+==> DIRECTORY: https://sipinter.tangerangkab.go.id/assets/images/brand/
+==> DIRECTORY: https://sipinter.tangerangkab.go.id/assets/images/email/
++ https://sipinter.tangerangkab.go.id/assets/images/favicon.ico (CODE:200|SIZE:5430)
+==> DIRECTORY: https://sipinter.tangerangkab.go.id/assets/images/gallery/
++ https://sipinter.tangerangkab.go.id/assets/images/lost+found (CODE:400|SIZE:1134)
+==> DIRECTORY: https://sipinter.tangerangkab.go.id/assets/images/products/
+==> DIRECTORY: https://sipinter.tangerangkab.go.id/assets/images/small/
+==> DIRECTORY: https://sipinter.tangerangkab.go.id/assets/images/users/
+
+---- Entering directory: https://sipinter.tangerangkab.go.id/assets/js/ ----
++ https://sipinter.tangerangkab.go.id/assets/js/lost+found (CODE:400|SIZE:1134)
+
+---- Entering directory: https://sipinter.tangerangkab.go.id/assets/pages/ ----
++ https://sipinter.tangerangkab.go.id/assets/pages/lost+found (CODE:400|SIZE:1134)
+
+---- Entering directory: https://sipinter.tangerangkab.go.id/assets/plugins/ ----
+==> DIRECTORY: https://sipinter.tangerangkab.go.id/assets/plugins/fileuploads/
++ https://sipinter.tangerangkab.go.id/assets/plugins/lost+found (CODE:400|SIZE:1134)
+==> DIRECTORY: https://sipinter.tangerangkab.go.id/assets/plugins/tinymce/
+
+---- Entering directory: https://sipinter.tangerangkab.go.id/assets/themes/ ----
+==> DIRECTORY: https://sipinter.tangerangkab.go.id/assets/themes/4/
++ https://sipinter.tangerangkab.go.id/assets/themes/lost+found (CODE:400|SIZE:1134)
+
+---- Entering directory: https://sipinter.tangerangkab.go.id/javascript/jquery/ ----
++ https://sipinter.tangerangkab.go.id/javascript/jquery/jquery (CODE:200|SIZE:252879)
++ https://sipinter.tangerangkab.go.id/javascript/jquery/version (CODE:200|SIZE:5)
+
+---- Entering directory: https://sipinter.tangerangkab.go.id/phpmailer/language/ ----
++ https://sipinter.tangerangkab.go.id/phpmailer/language/lost+found (CODE:400|SIZE:1134)
+
+---- Entering directory: https://sipinter.tangerangkab.go.id/phpmailer/src/ ----
++ https://sipinter.tangerangkab.go.id/phpmailer/src/lost+found (CODE:400|SIZE:1134)
+
+---- Entering directory: https://sipinter.tangerangkab.go.id/var/www/ ----
+==> DIRECTORY: https://sipinter.tangerangkab.go.id/var/www/html/
++ https://sipinter.tangerangkab.go.id/var/www/lost+found (CODE:400|SIZE:1134)
+
+---- Entering directory: https://sipinter.tangerangkab.go.id/assets/images/big/ ----
++ https://sipinter.tangerangkab.go.id/assets/images/big/lost+found (CODE:400|SIZE:1134)
+
+---- Entering directory: https://sipinter.tangerangkab.go.id/assets/images/brand/ ----
++ https://sipinter.tangerangkab.go.id/assets/images/brand/lost+found (CODE:400|SIZE:1134)
+
+---- Entering directory: https://sipinter.tangerangkab.go.id/assets/images/email/ ----
++ https://sipinter.tangerangkab.go.id/assets/images/email/lost+found (CODE:400|SIZE:1134)
+
+---- Entering directory: https://sipinter.tangerangkab.go.id/assets/images/gallery/ ----
++ https://sipinter.tangerangkab.go.id/assets/images/gallery/lost+found (CODE:400|SIZE:1134)
+
+---- Entering directory: https://sipinter.tangerangkab.go.id/assets/images/products/ ----
+==> DIRECTORY: https://sipinter.tangerangkab.go.id/assets/images/products/big/
++ https://sipinter.tangerangkab.go.id/assets/images/products/lost+found (CODE:400|SIZE:1134)
+
+---- Entering directory: https://sipinter.tangerangkab.go.id/assets/images/small/ ----
++ https://sipinter.tangerangkab.go.id/assets/images/small/lost+found (CODE:400|SIZE:1134)
+
+(!) FATAL: Too many errors connecting to host
+    (Possible cause: SSL CONNECT ERROR)
+
+-----------------
+END_TIME: Mon Apr  1 10:27:26 2024
+DOWNLOADED: 128608 - FOUND: 52

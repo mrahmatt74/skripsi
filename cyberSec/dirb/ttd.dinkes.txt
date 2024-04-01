@@ -1,0 +1,92 @@
+
+-----------------
+DIRB v2.22    
+By The Dark Raver
+-----------------
+
+OUTPUT_FILE: ttd.dinkes.txt
+START_TIME: Sat Mar 30 11:48:37 2024
+URL_BASE: https://ttd.dinkes.tangerangkab.go.id/
+WORDLIST_FILES: /usr/share/dirb/wordlists/common.txt
+
+-----------------
+
+GENERATED WORDS: 4612
+
+---- Scanning URL: https://ttd.dinkes.tangerangkab.go.id/ ----
+==> DIRECTORY: https://ttd.dinkes.tangerangkab.go.id/assets/
++ https://ttd.dinkes.tangerangkab.go.id/dashboard (CODE:302|SIZE:418)
++ https://ttd.dinkes.tangerangkab.go.id/favicon.ico (CODE:200|SIZE:0)
++ https://ttd.dinkes.tangerangkab.go.id/index.php (CODE:302|SIZE:474)
++ https://ttd.dinkes.tangerangkab.go.id/login (CODE:200|SIZE:6292)
++ https://ttd.dinkes.tangerangkab.go.id/logout (CODE:405|SIZE:835)
++ https://ttd.dinkes.tangerangkab.go.id/robots.txt (CODE:200|SIZE:24)
++ https://ttd.dinkes.tangerangkab.go.id/users (CODE:302|SIZE:418)
+
+---- Entering directory: https://ttd.dinkes.tangerangkab.go.id/assets/ ----
+==> DIRECTORY: https://ttd.dinkes.tangerangkab.go.id/assets/css/
+==> DIRECTORY: https://ttd.dinkes.tangerangkab.go.id/assets/fonts/
+==> DIRECTORY: https://ttd.dinkes.tangerangkab.go.id/assets/frontend/
+==> DIRECTORY: https://ttd.dinkes.tangerangkab.go.id/assets/images/
+==> DIRECTORY: https://ttd.dinkes.tangerangkab.go.id/assets/js/
+==> DIRECTORY: https://ttd.dinkes.tangerangkab.go.id/assets/vendors/
+
+---- Entering directory: https://ttd.dinkes.tangerangkab.go.id/assets/css/ ----
+
+---- Entering directory: https://ttd.dinkes.tangerangkab.go.id/assets/fonts/ ----
+
+---- Entering directory: https://ttd.dinkes.tangerangkab.go.id/assets/frontend/ ----
+==> DIRECTORY: https://ttd.dinkes.tangerangkab.go.id/assets/frontend/css/
++ https://ttd.dinkes.tangerangkab.go.id/assets/frontend/favicon.ico (CODE:200|SIZE:15406)
+==> DIRECTORY: https://ttd.dinkes.tangerangkab.go.id/assets/frontend/image/
+==> DIRECTORY: https://ttd.dinkes.tangerangkab.go.id/assets/frontend/js/
+
+---- Entering directory: https://ttd.dinkes.tangerangkab.go.id/assets/images/ ----
+==> DIRECTORY: https://ttd.dinkes.tangerangkab.go.id/assets/images/auth/
+==> DIRECTORY: https://ttd.dinkes.tangerangkab.go.id/assets/images/chat/
+==> DIRECTORY: https://ttd.dinkes.tangerangkab.go.id/assets/images/dashboard/
+==> DIRECTORY: https://ttd.dinkes.tangerangkab.go.id/assets/images/email/
+==> DIRECTORY: https://ttd.dinkes.tangerangkab.go.id/assets/images/faces/
++ https://ttd.dinkes.tangerangkab.go.id/assets/images/favicon.ico (CODE:200|SIZE:93062)
+==> DIRECTORY: https://ttd.dinkes.tangerangkab.go.id/assets/images/lightbox/
+==> DIRECTORY: https://ttd.dinkes.tangerangkab.go.id/assets/images/product_images/
+==> DIRECTORY: https://ttd.dinkes.tangerangkab.go.id/assets/images/samples/
+==> DIRECTORY: https://ttd.dinkes.tangerangkab.go.id/assets/images/screenshots/
+
+---- Entering directory: https://ttd.dinkes.tangerangkab.go.id/assets/js/ ----
+
+---- Entering directory: https://ttd.dinkes.tangerangkab.go.id/assets/vendors/ ----
+==> DIRECTORY: https://ttd.dinkes.tangerangkab.go.id/assets/vendors/css/
+==> DIRECTORY: https://ttd.dinkes.tangerangkab.go.id/assets/vendors/js/
+
+---- Entering directory: https://ttd.dinkes.tangerangkab.go.id/assets/frontend/css/ ----
+
+---- Entering directory: https://ttd.dinkes.tangerangkab.go.id/assets/frontend/image/ ----
+
+---- Entering directory: https://ttd.dinkes.tangerangkab.go.id/assets/frontend/js/ ----
+
+---- Entering directory: https://ttd.dinkes.tangerangkab.go.id/assets/images/auth/ ----
+
+---- Entering directory: https://ttd.dinkes.tangerangkab.go.id/assets/images/chat/ ----
+
+---- Entering directory: https://ttd.dinkes.tangerangkab.go.id/assets/images/dashboard/ ----
+==> DIRECTORY: https://ttd.dinkes.tangerangkab.go.id/assets/images/dashboard/ecommerce/
+==> DIRECTORY: https://ttd.dinkes.tangerangkab.go.id/assets/images/dashboard/hr/
+
+---- Entering directory: https://ttd.dinkes.tangerangkab.go.id/assets/images/email/ ----
+
+---- Entering directory: https://ttd.dinkes.tangerangkab.go.id/assets/images/faces/ ----
+
+---- Entering directory: https://ttd.dinkes.tangerangkab.go.id/assets/images/lightbox/ ----
+
+---- Entering directory: https://ttd.dinkes.tangerangkab.go.id/assets/images/product_images/ ----
+
+---- Entering directory: https://ttd.dinkes.tangerangkab.go.id/assets/images/samples/ ----
+
+---- Entering directory: https://ttd.dinkes.tangerangkab.go.id/assets/images/screenshots/ ----
+
+---- Entering directory: https://ttd.dinkes.tangerangkab.go.id/assets/vendors/css/ ----
+
+---- Entering directory: https://ttd.dinkes.tangerangkab.go.id/assets/vendors/js/ ----
+
+---- Entering directory: https://ttd.dinkes.tangerangkab.go.id/assets/images/dashboard/ecommerce/ ----

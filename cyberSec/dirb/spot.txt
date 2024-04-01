@@ -1,0 +1,127 @@
+
+-----------------
+DIRB v2.22    
+By The Dark Raver
+-----------------
+
+OUTPUT_FILE: spot.txt
+START_TIME: Mon Apr  1 09:57:45 2024
+URL_BASE: https://spot.tangerangkab.go.id/
+WORDLIST_FILES: /usr/share/dirb/wordlists/common.txt
+
+-----------------
+
+GENERATED WORDS: 4612
+
+---- Scanning URL: https://spot.tangerangkab.go.id/ ----
++ https://spot.tangerangkab.go.id/@ (CODE:400|SIZE:1179)
++ https://spot.tangerangkab.go.id/0 (CODE:200|SIZE:5028)
++ https://spot.tangerangkab.go.id/application (CODE:403|SIZE:199)
+==> DIRECTORY: https://spot.tangerangkab.go.id/assets/
++ https://spot.tangerangkab.go.id/composer (CODE:200|SIZE:709)
+==> DIRECTORY: https://spot.tangerangkab.go.id/foto/
++ https://spot.tangerangkab.go.id/home (CODE:302|SIZE:0)
++ https://spot.tangerangkab.go.id/index.php (CODE:200|SIZE:5028)
++ https://spot.tangerangkab.go.id/license (CODE:200|SIZE:1134)
++ https://spot.tangerangkab.go.id/lost+found (CODE:400|SIZE:1179)
++ https://spot.tangerangkab.go.id/main (CODE:200|SIZE:5028)
++ https://spot.tangerangkab.go.id/server-status (CODE:403|SIZE:199)
++ https://spot.tangerangkab.go.id/system (CODE:403|SIZE:199)
+
+---- Entering directory: https://spot.tangerangkab.go.id/assets/ ----
++ https://spot.tangerangkab.go.id/assets/@ (CODE:400|SIZE:1179)
+==> DIRECTORY: https://spot.tangerangkab.go.id/assets/avatars/
+==> DIRECTORY: https://spot.tangerangkab.go.id/assets/css/
+==> DIRECTORY: https://spot.tangerangkab.go.id/assets/fonts/
+==> DIRECTORY: https://spot.tangerangkab.go.id/assets/images/
+==> DIRECTORY: https://spot.tangerangkab.go.id/assets/img/
+==> DIRECTORY: https://spot.tangerangkab.go.id/assets/js/
++ https://spot.tangerangkab.go.id/assets/lost+found (CODE:400|SIZE:1179)
+
+---- Entering directory: https://spot.tangerangkab.go.id/foto/ ----
+(!) WARNING: All responses for this directory seem to be CODE = 403.
+    (Use mode '-w' if you want to scan it anyway)
+
+---- Entering directory: https://spot.tangerangkab.go.id/assets/avatars/ ----
++ https://spot.tangerangkab.go.id/assets/avatars/@ (CODE:400|SIZE:1179)
++ https://spot.tangerangkab.go.id/assets/avatars/avatar (CODE:200|SIZE:3348)
++ https://spot.tangerangkab.go.id/assets/avatars/lost+found (CODE:400|SIZE:1179)
++ https://spot.tangerangkab.go.id/assets/avatars/user (CODE:200|SIZE:1191)
+
+---- Entering directory: https://spot.tangerangkab.go.id/assets/css/ ----
++ https://spot.tangerangkab.go.id/assets/css/@ (CODE:400|SIZE:1179)
++ https://spot.tangerangkab.go.id/assets/css/agenda (CODE:200|SIZE:7997)
++ https://spot.tangerangkab.go.id/assets/css/blog (CODE:200|SIZE:8941)
++ https://spot.tangerangkab.go.id/assets/css/calendar (CODE:200|SIZE:2972)
++ https://spot.tangerangkab.go.id/assets/css/custom (CODE:200|SIZE:7614)
+==> DIRECTORY: https://spot.tangerangkab.go.id/assets/css/images/
+==> DIRECTORY: https://spot.tangerangkab.go.id/assets/css/img/
++ https://spot.tangerangkab.go.id/assets/css/lost+found (CODE:400|SIZE:1179)
+==> DIRECTORY: https://spot.tangerangkab.go.id/assets/css/plugins/
++ https://spot.tangerangkab.go.id/assets/css/styles (CODE:200|SIZE:92385)
+
+---- Entering directory: https://spot.tangerangkab.go.id/assets/fonts/ ----
++ https://spot.tangerangkab.go.id/assets/fonts/@ (CODE:400|SIZE:1179)
++ https://spot.tangerangkab.go.id/assets/fonts/lost+found (CODE:400|SIZE:1179)
++ https://spot.tangerangkab.go.id/assets/fonts/readme (CODE:200|SIZE:128)
+
+---- Entering directory: https://spot.tangerangkab.go.id/assets/images/ ----
++ https://spot.tangerangkab.go.id/assets/images/@ (CODE:400|SIZE:1179)
++ https://spot.tangerangkab.go.id/assets/images/arrow (CODE:200|SIZE:1105)
++ https://spot.tangerangkab.go.id/assets/images/lost+found (CODE:400|SIZE:1179)
+
+---- Entering directory: https://spot.tangerangkab.go.id/assets/img/ ----
++ https://spot.tangerangkab.go.id/assets/img/@ (CODE:400|SIZE:1179)
++ https://spot.tangerangkab.go.id/assets/img/clear (CODE:200|SIZE:509)
++ https://spot.tangerangkab.go.id/assets/img/loading (CODE:200|SIZE:8130)
++ https://spot.tangerangkab.go.id/assets/img/lost+found (CODE:400|SIZE:1179)
++ https://spot.tangerangkab.go.id/assets/img/m1 (CODE:200|SIZE:3003)
+==> DIRECTORY: https://spot.tangerangkab.go.id/assets/img/plugins/
++ https://spot.tangerangkab.go.id/assets/img/trans (CODE:200|SIZE:2978)
+
+---- Entering directory: https://spot.tangerangkab.go.id/assets/js/ ----
++ https://spot.tangerangkab.go.id/assets/js/@ (CODE:400|SIZE:1179)
++ https://spot.tangerangkab.go.id/assets/js/agenda (CODE:200|SIZE:19843)
++ https://spot.tangerangkab.go.id/assets/js/calendar (CODE:200|SIZE:11647)
++ https://spot.tangerangkab.go.id/assets/js/custom (CODE:200|SIZE:28246)
++ https://spot.tangerangkab.go.id/assets/js/jquery (CODE:200|SIZE:256541)
++ https://spot.tangerangkab.go.id/assets/js/lost+found (CODE:400|SIZE:1179)
+==> DIRECTORY: https://spot.tangerangkab.go.id/assets/js/plugins/
++ https://spot.tangerangkab.go.id/assets/js/respond (CODE:200|SIZE:8759)
+
+---- Entering directory: https://spot.tangerangkab.go.id/assets/css/images/ ----
++ https://spot.tangerangkab.go.id/assets/css/images/@ (CODE:400|SIZE:1179)
++ https://spot.tangerangkab.go.id/assets/css/images/controls (CODE:200|SIZE:1261)
++ https://spot.tangerangkab.go.id/assets/css/images/loading (CODE:200|SIZE:8685)
++ https://spot.tangerangkab.go.id/assets/css/images/lost+found (CODE:400|SIZE:1179)
+
+---- Entering directory: https://spot.tangerangkab.go.id/assets/css/img/ ----
++ https://spot.tangerangkab.go.id/assets/css/img/@ (CODE:400|SIZE:1179)
++ https://spot.tangerangkab.go.id/assets/css/img/alpha (CODE:200|SIZE:3271)
++ https://spot.tangerangkab.go.id/assets/css/img/lost+found (CODE:400|SIZE:1179)
+
+---- Entering directory: https://spot.tangerangkab.go.id/assets/css/plugins/ ----
++ https://spot.tangerangkab.go.id/assets/css/plugins/@ (CODE:400|SIZE:1179)
++ https://spot.tangerangkab.go.id/assets/css/plugins/lost+found (CODE:400|SIZE:1179)
+
+---- Entering directory: https://spot.tangerangkab.go.id/assets/img/plugins/ ----
++ https://spot.tangerangkab.go.id/assets/img/plugins/@ (CODE:400|SIZE:1179)
++ https://spot.tangerangkab.go.id/assets/img/plugins/lost+found (CODE:400|SIZE:1179)
+
+---- Entering directory: https://spot.tangerangkab.go.id/assets/js/plugins/ ----
++ https://spot.tangerangkab.go.id/assets/js/plugins/@ (CODE:400|SIZE:1179)
+==> DIRECTORY: https://spot.tangerangkab.go.id/assets/js/plugins/fileupload/
++ https://spot.tangerangkab.go.id/assets/js/plugins/lost+found (CODE:400|SIZE:1179)
+==> DIRECTORY: https://spot.tangerangkab.go.id/assets/js/plugins/validation/
+
+---- Entering directory: https://spot.tangerangkab.go.id/assets/js/plugins/fileupload/ ----
++ https://spot.tangerangkab.go.id/assets/js/plugins/fileupload/@ (CODE:400|SIZE:1179)
++ https://spot.tangerangkab.go.id/assets/js/plugins/fileupload/lost+found (CODE:400|SIZE:1179)
+
+---- Entering directory: https://spot.tangerangkab.go.id/assets/js/plugins/validation/ ----
++ https://spot.tangerangkab.go.id/assets/js/plugins/validation/@ (CODE:400|SIZE:1179)
++ https://spot.tangerangkab.go.id/assets/js/plugins/validation/lost+found (CODE:400|SIZE:1179)
+
+-----------------
+END_TIME: Mon Apr  1 10:14:14 2024
+DOWNLOADED: 69280 - FOUND: 60

@@ -1,0 +1,37 @@
+
+-----------------
+DIRB v2.22    
+By The Dark Raver
+-----------------
+
+OUTPUT_FILE: lpse.txt
+START_TIME: Sun Mar 31 17:45:45 2024
+URL_BASE: https://lpse.tangerangkab.go.id/
+WORDLIST_FILES: /usr/share/dirb/wordlists/common.txt
+
+-----------------
+
+GENERATED WORDS: 4612
+
+---- Scanning URL: https://lpse.tangerangkab.go.id/ ----
++ https://lpse.tangerangkab.go.id/.bash_history (CODE:403|SIZE:4514)
++ https://lpse.tangerangkab.go.id/.bashrc (CODE:403|SIZE:4514)
++ https://lpse.tangerangkab.go.id/.cvs (CODE:403|SIZE:4514)
++ https://lpse.tangerangkab.go.id/.history (CODE:403|SIZE:4514)
++ https://lpse.tangerangkab.go.id/.htaccess (CODE:403|SIZE:4514)
++ https://lpse.tangerangkab.go.id/.htpasswd (CODE:403|SIZE:4514)
++ https://lpse.tangerangkab.go.id/.mysql_history (CODE:403|SIZE:4514)
++ https://lpse.tangerangkab.go.id/.passwd (CODE:403|SIZE:4514)
++ https://lpse.tangerangkab.go.id/.profile (CODE:403|SIZE:4514)
++ https://lpse.tangerangkab.go.id/.ssh (CODE:403|SIZE:4514)
++ https://lpse.tangerangkab.go.id/.svn (CODE:403|SIZE:4514)
++ https://lpse.tangerangkab.go.id/access_log (CODE:403|SIZE:4514)
++ https://lpse.tangerangkab.go.id/authorized_keys (CODE:403|SIZE:4514)
++ https://lpse.tangerangkab.go.id/error_log (CODE:403|SIZE:4514)
++ https://lpse.tangerangkab.go.id/id_rsa (CODE:403|SIZE:4514)
++ https://lpse.tangerangkab.go.id/phpinfo.php (CODE:403|SIZE:4514)
++ https://lpse.tangerangkab.go.id/ping (CODE:200|SIZE:3)
+
+-----------------
+END_TIME: Sun Mar 31 17:51:51 2024
+DOWNLOADED: 4612 - FOUND: 17

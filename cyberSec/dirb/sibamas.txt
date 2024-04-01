@@ -1,0 +1,32 @@
+
+-----------------
+DIRB v2.22    
+By The Dark Raver
+-----------------
+
+OUTPUT_FILE: sibamas.txt
+START_TIME: Mon Apr  1 09:49:58 2024
+URL_BASE: https://sibamas.tangerangkab.go.id/
+WORDLIST_FILES: /usr/share/dirb/wordlists/common.txt
+
+-----------------
+
+GENERATED WORDS: 4612
+
+---- Scanning URL: https://sibamas.tangerangkab.go.id/ ----
++ https://sibamas.tangerangkab.go.id/admin (CODE:302|SIZE:430)
++ https://sibamas.tangerangkab.go.id/captcha (CODE:200|SIZE:7066)
++ https://sibamas.tangerangkab.go.id/dashboard (CODE:302|SIZE:406)
++ https://sibamas.tangerangkab.go.id/faq (CODE:200|SIZE:9544)
++ https://sibamas.tangerangkab.go.id/favicon.ico (CODE:200|SIZE:0)
++ https://sibamas.tangerangkab.go.id/index.php (CODE:200|SIZE:21071)
++ https://sibamas.tangerangkab.go.id/login (CODE:200|SIZE:8405)
++ https://sibamas.tangerangkab.go.id/logout (CODE:302|SIZE:406)
++ https://sibamas.tangerangkab.go.id/logs (CODE:302|SIZE:406)
++ https://sibamas.tangerangkab.go.id/robots.txt (CODE:200|SIZE:24)
++ https://sibamas.tangerangkab.go.id/user (CODE:302|SIZE:406)
++ https://sibamas.tangerangkab.go.id/web.config (CODE:200|SIZE:1194)
+
+-----------------
+END_TIME: Mon Apr  1 09:54:47 2024
+DOWNLOADED: 4612 - FOUND: 12

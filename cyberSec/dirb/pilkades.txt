@@ -1,0 +1,36 @@
+
+-----------------
+DIRB v2.22    
+By The Dark Raver
+-----------------
+
+OUTPUT_FILE: pilkades.txt
+START_TIME: Sun Mar 31 17:57:35 2024
+URL_BASE: https://pilkades.tangerangkab.go.id/
+WORDLIST_FILES: /usr/share/dirb/wordlists/common.txt
+
+-----------------
+
+GENERATED WORDS: 4612
+
+---- Scanning URL: https://pilkades.tangerangkab.go.id/ ----
+==> DIRECTORY: https://pilkades.tangerangkab.go.id/css/
++ https://pilkades.tangerangkab.go.id/favicon.ico (CODE:200|SIZE:15406)
+==> DIRECTORY: https://pilkades.tangerangkab.go.id/fonts/
+==> DIRECTORY: https://pilkades.tangerangkab.go.id/images/
+==> DIRECTORY: https://pilkades.tangerangkab.go.id/img/
+==> DIRECTORY: https://pilkades.tangerangkab.go.id/js/
+
+---- Entering directory: https://pilkades.tangerangkab.go.id/css/ ----
+
+---- Entering directory: https://pilkades.tangerangkab.go.id/fonts/ ----
+
+---- Entering directory: https://pilkades.tangerangkab.go.id/images/ ----
+
+---- Entering directory: https://pilkades.tangerangkab.go.id/img/ ----
+
+---- Entering directory: https://pilkades.tangerangkab.go.id/js/ ----
+
+-----------------
+END_TIME: Sun Mar 31 18:04:38 2024
+DOWNLOADED: 27672 - FOUND: 1

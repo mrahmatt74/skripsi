@@ -1,0 +1,36 @@
+
+-----------------
+DIRB v2.22    
+By The Dark Raver
+-----------------
+
+OUTPUT_FILE: siamanda.txt
+START_TIME: Sun Mar 31 18:06:14 2024
+URL_BASE: https://siamanda.tangerangkab.go.id/
+WORDLIST_FILES: /usr/share/dirb/wordlists/common.txt
+
+-----------------
+
+GENERATED WORDS: 4612
+
+---- Scanning URL: https://siamanda.tangerangkab.go.id/ ----
+==> DIRECTORY: https://siamanda.tangerangkab.go.id/css/
++ https://siamanda.tangerangkab.go.id/favicon.ico (CODE:200|SIZE:15406)
+==> DIRECTORY: https://siamanda.tangerangkab.go.id/fonts/
+==> DIRECTORY: https://siamanda.tangerangkab.go.id/images/
+==> DIRECTORY: https://siamanda.tangerangkab.go.id/img/
+==> DIRECTORY: https://siamanda.tangerangkab.go.id/js/
+
+---- Entering directory: https://siamanda.tangerangkab.go.id/css/ ----
+
+---- Entering directory: https://siamanda.tangerangkab.go.id/fonts/ ----
+
+---- Entering directory: https://siamanda.tangerangkab.go.id/images/ ----
+
+---- Entering directory: https://siamanda.tangerangkab.go.id/img/ ----
+
+---- Entering directory: https://siamanda.tangerangkab.go.id/js/ ----
+
+-----------------
+END_TIME: Sun Mar 31 18:12:13 2024
+DOWNLOADED: 27672 - FOUND: 1

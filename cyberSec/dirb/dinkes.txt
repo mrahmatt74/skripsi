@@ -1,0 +1,51 @@
+
+-----------------
+DIRB v2.22    
+By The Dark Raver
+-----------------
+
+OUTPUT_FILE: dinkes.txt
+START_TIME: Sat Mar 30 02:53:49 2024
+URL_BASE: https://dinkes.tangerangkab.go.id/
+WORDLIST_FILES: /usr/share/dirb/wordlists/common.txt
+
+-----------------
+
+GENERATED WORDS: 4612
+
+---- Scanning URL: https://dinkes.tangerangkab.go.id/ ----
++ https://dinkes.tangerangkab.go.id/.git/HEAD (CODE:500|SIZE:39127)
++ https://dinkes.tangerangkab.go.id/.htaccess (CODE:500|SIZE:39127)
++ https://dinkes.tangerangkab.go.id/.htpasswd (CODE:500|SIZE:39127)
++ https://dinkes.tangerangkab.go.id/.svn/entries (CODE:500|SIZE:39130)
++ https://dinkes.tangerangkab.go.id/aux (CODE:500|SIZE:39121)
++ https://dinkes.tangerangkab.go.id/com1 (CODE:500|SIZE:39122)
++ https://dinkes.tangerangkab.go.id/com2 (CODE:500|SIZE:39122)
++ https://dinkes.tangerangkab.go.id/com3 (CODE:500|SIZE:39122)
++ https://dinkes.tangerangkab.go.id/CVS/Entries (CODE:500|SIZE:39129)
++ https://dinkes.tangerangkab.go.id/dashboard (CODE:302|SIZE:426)
+==> DIRECTORY: https://dinkes.tangerangkab.go.id/documents/
++ https://dinkes.tangerangkab.go.id/favicon.ico (CODE:200|SIZE:0)
++ https://dinkes.tangerangkab.go.id/global.asa (CODE:500|SIZE:39128)
+==> DIRECTORY: https://dinkes.tangerangkab.go.id/images/
++ https://dinkes.tangerangkab.go.id/index.php (CODE:200|SIZE:63906)
++ https://dinkes.tangerangkab.go.id/lpt1 (CODE:500|SIZE:39122)
++ https://dinkes.tangerangkab.go.id/lpt2 (CODE:500|SIZE:39122)
++ https://dinkes.tangerangkab.go.id/menu (CODE:302|SIZE:426)
++ https://dinkes.tangerangkab.go.id/prn (CODE:500|SIZE:39121)
++ https://dinkes.tangerangkab.go.id/readfile (CODE:500|SIZE:39126)
++ https://dinkes.tangerangkab.go.id/robots.txt (CODE:200|SIZE:24)
++ https://dinkes.tangerangkab.go.id/statistik (CODE:302|SIZE:426)
+==> DIRECTORY: https://dinkes.tangerangkab.go.id/storage/
+==> DIRECTORY: https://dinkes.tangerangkab.go.id/theme/
++ https://dinkes.tangerangkab.go.id/users (CODE:302|SIZE:426)
+==> DIRECTORY: https://dinkes.tangerangkab.go.id/vendor/
++ https://dinkes.tangerangkab.go.id/video (CODE:302|SIZE:426)
++ https://dinkes.tangerangkab.go.id/videos (CODE:200|SIZE:305101)
+
+(!) FATAL: Too many errors connecting to host
+    (Possible cause: RECV ERROR)
+
+-----------------
+END_TIME: Sat Mar 30 03:04:02 2024
+DOWNLOADED: 4486 - FOUND: 23

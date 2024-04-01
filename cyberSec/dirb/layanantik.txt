@@ -1,0 +1,23 @@
+
+-----------------
+DIRB v2.22    
+By The Dark Raver
+-----------------
+
+OUTPUT_FILE: layanantik.txt
+START_TIME: Sun Mar 31 17:45:18 2024
+URL_BASE: https://layanantik.tangerangkab.go.id/
+WORDLIST_FILES: /usr/share/dirb/wordlists/common.txt
+
+-----------------
+
+GENERATED WORDS: 4612
+
+---- Scanning URL: https://layanantik.tangerangkab.go.id/ ----
+
+(!) FATAL: Too many errors connecting to host
+    (Possible cause: SSL CONNECT ERROR)
+
+-----------------
+END_TIME: Sun Mar 31 17:46:15 2024
+DOWNLOADED: 0 - FOUND: 0

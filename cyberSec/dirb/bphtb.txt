@@ -1,0 +1,61 @@
+
+-----------------
+DIRB v2.22    
+By The Dark Raver
+-----------------
+
+OUTPUT_FILE: bphtb.txt
+START_TIME: Sat Mar 30 02:34:55 2024
+URL_BASE: https://bphtb.tangerangkab.go.id/
+WORDLIST_FILES: /usr/share/dirb/wordlists/common.txt
+
+-----------------
+
+GENERATED WORDS: 4612
+
+---- Scanning URL: https://bphtb.tangerangkab.go.id/ ----
++ https://bphtb.tangerangkab.go.id/0 (CODE:302|SIZE:0)
++ https://bphtb.tangerangkab.go.id/admin (CODE:302|SIZE:0)
+==> DIRECTORY: https://bphtb.tangerangkab.go.id/api/
+==> DIRECTORY: https://bphtb.tangerangkab.go.id/assets/
++ https://bphtb.tangerangkab.go.id/cgi-bin/ (CODE:403|SIZE:199)
++ https://bphtb.tangerangkab.go.id/index.php (CODE:302|SIZE:0)
+==> DIRECTORY: https://bphtb.tangerangkab.go.id/javascript/
++ https://bphtb.tangerangkab.go.id/login (CODE:200|SIZE:7624)
++ https://bphtb.tangerangkab.go.id/logout (CODE:302|SIZE:0)
++ https://bphtb.tangerangkab.go.id/lost+found (CODE:400|SIZE:1239)
++ https://bphtb.tangerangkab.go.id/robots.txt (CODE:200|SIZE:26)
++ https://bphtb.tangerangkab.go.id/root (CODE:302|SIZE:0)
++ https://bphtb.tangerangkab.go.id/server-status (CODE:403|SIZE:199)
++ https://bphtb.tangerangkab.go.id/welcome (CODE:500|SIZE:1245)
+
+---- Entering directory: https://bphtb.tangerangkab.go.id/api/ ----
++ https://bphtb.tangerangkab.go.id/api/lost+found (CODE:400|SIZE:1239)
+
+---- Entering directory: https://bphtb.tangerangkab.go.id/assets/ ----
+==> DIRECTORY: https://bphtb.tangerangkab.go.id/assets/css/
+==> DIRECTORY: https://bphtb.tangerangkab.go.id/assets/img/
+==> DIRECTORY: https://bphtb.tangerangkab.go.id/assets/js/
++ https://bphtb.tangerangkab.go.id/assets/lost+found (CODE:400|SIZE:1239)
+==> DIRECTORY: https://bphtb.tangerangkab.go.id/assets/maintenance/
+==> DIRECTORY: https://bphtb.tangerangkab.go.id/assets/pad/
+
+---- Entering directory: https://bphtb.tangerangkab.go.id/javascript/ ----
+==> DIRECTORY: https://bphtb.tangerangkab.go.id/javascript/jquery/
+
+---- Entering directory: https://bphtb.tangerangkab.go.id/assets/css/ ----
++ https://bphtb.tangerangkab.go.id/assets/css/lost+found (CODE:400|SIZE:1239)
+
+---- Entering directory: https://bphtb.tangerangkab.go.id/assets/img/ ----
+==> DIRECTORY: https://bphtb.tangerangkab.go.id/assets/img/app/
++ https://bphtb.tangerangkab.go.id/assets/img/favicon.ico (CODE:200|SIZE:1150)
++ https://bphtb.tangerangkab.go.id/assets/img/lost+found (CODE:400|SIZE:1239)
+
+---- Entering directory: https://bphtb.tangerangkab.go.id/assets/js/ ----
+
+(!) FATAL: Too many errors connecting to host
+    (Possible cause: SSL CONNECT ERROR)
+
+-----------------
+END_TIME: Sat Mar 30 03:04:58 2024
+DOWNLOADED: 29360 - FOUND: 16

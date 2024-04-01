@@ -1,0 +1,36 @@
+
+-----------------
+DIRB v2.22    
+By The Dark Raver
+-----------------
+
+OUTPUT_FILE: geodata.txt
+START_TIME: Sun Mar 31 08:43:46 2024
+URL_BASE: https://geodata.tangerangkab.go.id/
+WORDLIST_FILES: /usr/share/dirb/wordlists/common.txt
+
+-----------------
+
+GENERATED WORDS: 4612
+
+---- Scanning URL: https://geodata.tangerangkab.go.id/ ----
++ https://geodata.tangerangkab.go.id/about (CODE:301|SIZE:0)
++ https://geodata.tangerangkab.go.id/activity (CODE:301|SIZE:0)
++ https://geodata.tangerangkab.go.id/admin (CODE:302|SIZE:0)
++ https://geodata.tangerangkab.go.id/announcements (CODE:301|SIZE:0)
++ https://geodata.tangerangkab.go.id/api (CODE:301|SIZE:0)
++ https://geodata.tangerangkab.go.id/catalogue (CODE:301|SIZE:0)
++ https://geodata.tangerangkab.go.id/developer (CODE:301|SIZE:0)
++ https://geodata.tangerangkab.go.id/download (CODE:301|SIZE:0)
++ https://geodata.tangerangkab.go.id/groups (CODE:301|SIZE:0)
++ https://geodata.tangerangkab.go.id/help (CODE:301|SIZE:0)
++ https://geodata.tangerangkab.go.id/monitoring (CODE:301|SIZE:0)
++ https://geodata.tangerangkab.go.id/people (CODE:301|SIZE:0)
++ https://geodata.tangerangkab.go.id/proxy (CODE:301|SIZE:0)
++ https://geodata.tangerangkab.go.id/robots.txt (CODE:200|SIZE:91)
++ https://geodata.tangerangkab.go.id/services (CODE:301|SIZE:0)
++ https://geodata.tangerangkab.go.id/upload (CODE:301|SIZE:0)
+
+-----------------
+END_TIME: Sun Mar 31 09:28:03 2024
+DOWNLOADED: 4612 - FOUND: 16

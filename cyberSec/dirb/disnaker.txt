@@ -1,0 +1,174 @@
+
+-----------------
+DIRB v2.22    
+By The Dark Raver
+-----------------
+
+OUTPUT_FILE: disnaker.txt
+START_TIME: Sat Mar 30 11:49:48 2024
+URL_BASE: https://disnaker.tangerangkab.go.id/
+WORDLIST_FILES: /usr/share/dirb/wordlists/common.txt
+
+-----------------
+
+GENERATED WORDS: 4612
+
+---- Scanning URL: https://disnaker.tangerangkab.go.id/ ----
++ https://disnaker.tangerangkab.go.id/.git/HEAD (CODE:500|SIZE:39131)
++ https://disnaker.tangerangkab.go.id/.htaccess (CODE:500|SIZE:39131)
++ https://disnaker.tangerangkab.go.id/.htpasswd (CODE:500|SIZE:39131)
++ https://disnaker.tangerangkab.go.id/.svn/entries (CODE:500|SIZE:39134)
++ https://disnaker.tangerangkab.go.id/aux (CODE:500|SIZE:39125)
++ https://disnaker.tangerangkab.go.id/com1 (CODE:500|SIZE:39126)
++ https://disnaker.tangerangkab.go.id/com2 (CODE:500|SIZE:39126)
++ https://disnaker.tangerangkab.go.id/com3 (CODE:500|SIZE:39126)
++ https://disnaker.tangerangkab.go.id/CVS/Entries (CODE:500|SIZE:39133)
++ https://disnaker.tangerangkab.go.id/dashboard (CODE:302|SIZE:434)
+==> DIRECTORY: https://disnaker.tangerangkab.go.id/documents/
++ https://disnaker.tangerangkab.go.id/favicon.ico (CODE:200|SIZE:0)
++ https://disnaker.tangerangkab.go.id/global.asa (CODE:500|SIZE:39132)
+==> DIRECTORY: https://disnaker.tangerangkab.go.id/images/
++ https://disnaker.tangerangkab.go.id/index.php (CODE:200|SIZE:58491)
++ https://disnaker.tangerangkab.go.id/lpt1 (CODE:500|SIZE:39126)
++ https://disnaker.tangerangkab.go.id/lpt2 (CODE:500|SIZE:39126)
++ https://disnaker.tangerangkab.go.id/menu (CODE:302|SIZE:434)
++ https://disnaker.tangerangkab.go.id/prn (CODE:500|SIZE:39125)
++ https://disnaker.tangerangkab.go.id/readfile (CODE:500|SIZE:39130)
++ https://disnaker.tangerangkab.go.id/robots.txt (CODE:200|SIZE:24)
++ https://disnaker.tangerangkab.go.id/statistik (CODE:302|SIZE:434)
+==> DIRECTORY: https://disnaker.tangerangkab.go.id/storage/
+==> DIRECTORY: https://disnaker.tangerangkab.go.id/theme/
++ https://disnaker.tangerangkab.go.id/users (CODE:302|SIZE:434)
+==> DIRECTORY: https://disnaker.tangerangkab.go.id/vendor/
++ https://disnaker.tangerangkab.go.id/video (CODE:302|SIZE:434)
++ https://disnaker.tangerangkab.go.id/videos (CODE:200|SIZE:305935)
++ https://disnaker.tangerangkab.go.id/WS_FTP.LOG (CODE:500|SIZE:39132)
+
+---- Entering directory: https://disnaker.tangerangkab.go.id/documents/ ----
++ https://disnaker.tangerangkab.go.id/documents/.git/HEAD (CODE:500|SIZE:39141)
++ https://disnaker.tangerangkab.go.id/documents/.htaccess (CODE:500|SIZE:39141)
++ https://disnaker.tangerangkab.go.id/documents/.htpasswd (CODE:500|SIZE:39141)
++ https://disnaker.tangerangkab.go.id/documents/.svn/entries (CODE:500|SIZE:39144)
++ https://disnaker.tangerangkab.go.id/documents/com1 (CODE:500|SIZE:39136)
++ https://disnaker.tangerangkab.go.id/documents/com2 (CODE:500|SIZE:39136)
++ https://disnaker.tangerangkab.go.id/documents/com3 (CODE:500|SIZE:39136)
++ https://disnaker.tangerangkab.go.id/documents/CVS/Entries (CODE:500|SIZE:39143)
++ https://disnaker.tangerangkab.go.id/documents/global.asa (CODE:500|SIZE:39142)
++ https://disnaker.tangerangkab.go.id/documents/lpt1 (CODE:500|SIZE:39136)
++ https://disnaker.tangerangkab.go.id/documents/lpt2 (CODE:500|SIZE:39136)
++ https://disnaker.tangerangkab.go.id/documents/readfile (CODE:500|SIZE:39140)
++ https://disnaker.tangerangkab.go.id/documents/WS_FTP.LOG (CODE:500|SIZE:39142)
+
+---- Entering directory: https://disnaker.tangerangkab.go.id/images/ ----
++ https://disnaker.tangerangkab.go.id/images/.git/HEAD (CODE:500|SIZE:39138)
++ https://disnaker.tangerangkab.go.id/images/.htaccess (CODE:500|SIZE:39138)
++ https://disnaker.tangerangkab.go.id/images/.htpasswd (CODE:500|SIZE:39138)
++ https://disnaker.tangerangkab.go.id/images/.svn/entries (CODE:500|SIZE:39141)
++ https://disnaker.tangerangkab.go.id/images/com1 (CODE:500|SIZE:39133)
++ https://disnaker.tangerangkab.go.id/images/com2 (CODE:500|SIZE:39133)
++ https://disnaker.tangerangkab.go.id/images/com3 (CODE:500|SIZE:39133)
++ https://disnaker.tangerangkab.go.id/images/CVS/Entries (CODE:500|SIZE:39140)
++ https://disnaker.tangerangkab.go.id/images/global.asa (CODE:500|SIZE:39139)
++ https://disnaker.tangerangkab.go.id/images/lpt1 (CODE:500|SIZE:39133)
++ https://disnaker.tangerangkab.go.id/images/lpt2 (CODE:500|SIZE:39133)
++ https://disnaker.tangerangkab.go.id/images/readfile (CODE:500|SIZE:39137)
++ https://disnaker.tangerangkab.go.id/images/WS_FTP.LOG (CODE:500|SIZE:39139)
+
+---- Entering directory: https://disnaker.tangerangkab.go.id/storage/ ----
++ https://disnaker.tangerangkab.go.id/storage/.git/HEAD (CODE:500|SIZE:39139)
++ https://disnaker.tangerangkab.go.id/storage/.htaccess (CODE:500|SIZE:39139)
++ https://disnaker.tangerangkab.go.id/storage/.htpasswd (CODE:500|SIZE:39139)
++ https://disnaker.tangerangkab.go.id/storage/.svn/entries (CODE:500|SIZE:39142)
++ https://disnaker.tangerangkab.go.id/storage/com1 (CODE:500|SIZE:39134)
++ https://disnaker.tangerangkab.go.id/storage/com2 (CODE:500|SIZE:39134)
++ https://disnaker.tangerangkab.go.id/storage/com3 (CODE:500|SIZE:39134)
++ https://disnaker.tangerangkab.go.id/storage/CVS/Entries (CODE:500|SIZE:39141)
+==> DIRECTORY: https://disnaker.tangerangkab.go.id/storage/files/
++ https://disnaker.tangerangkab.go.id/storage/global.asa (CODE:500|SIZE:39140)
++ https://disnaker.tangerangkab.go.id/storage/lpt1 (CODE:500|SIZE:39134)
++ https://disnaker.tangerangkab.go.id/storage/lpt2 (CODE:500|SIZE:39134)
+==> DIRECTORY: https://disnaker.tangerangkab.go.id/storage/photos/
++ https://disnaker.tangerangkab.go.id/storage/readfile (CODE:500|SIZE:39138)
++ https://disnaker.tangerangkab.go.id/storage/WS_FTP.LOG (CODE:500|SIZE:39140)
+
+---- Entering directory: https://disnaker.tangerangkab.go.id/theme/ ----
++ https://disnaker.tangerangkab.go.id/theme/.git/HEAD (CODE:500|SIZE:39137)
++ https://disnaker.tangerangkab.go.id/theme/.htaccess (CODE:500|SIZE:39137)
++ https://disnaker.tangerangkab.go.id/theme/.htpasswd (CODE:500|SIZE:39137)
++ https://disnaker.tangerangkab.go.id/theme/.svn/entries (CODE:500|SIZE:39140)
+==> DIRECTORY: https://disnaker.tangerangkab.go.id/theme/backend/
++ https://disnaker.tangerangkab.go.id/theme/com1 (CODE:500|SIZE:39132)
++ https://disnaker.tangerangkab.go.id/theme/com2 (CODE:500|SIZE:39132)
++ https://disnaker.tangerangkab.go.id/theme/com3 (CODE:500|SIZE:39132)
++ https://disnaker.tangerangkab.go.id/theme/CVS/Entries (CODE:500|SIZE:39139)
+==> DIRECTORY: https://disnaker.tangerangkab.go.id/theme/frontend/
++ https://disnaker.tangerangkab.go.id/theme/global.asa (CODE:500|SIZE:39138)
++ https://disnaker.tangerangkab.go.id/theme/lpt1 (CODE:500|SIZE:39132)
++ https://disnaker.tangerangkab.go.id/theme/lpt2 (CODE:500|SIZE:39132)
+==> DIRECTORY: https://disnaker.tangerangkab.go.id/theme/others/
++ https://disnaker.tangerangkab.go.id/theme/readfile (CODE:500|SIZE:39136)
++ https://disnaker.tangerangkab.go.id/theme/WS_FTP.LOG (CODE:500|SIZE:39138)
+
+---- Entering directory: https://disnaker.tangerangkab.go.id/vendor/ ----
++ https://disnaker.tangerangkab.go.id/vendor/.git/HEAD (CODE:500|SIZE:39138)
++ https://disnaker.tangerangkab.go.id/vendor/.htaccess (CODE:500|SIZE:39138)
++ https://disnaker.tangerangkab.go.id/vendor/.htpasswd (CODE:500|SIZE:39138)
++ https://disnaker.tangerangkab.go.id/vendor/.svn/entries (CODE:500|SIZE:39141)
++ https://disnaker.tangerangkab.go.id/vendor/com1 (CODE:500|SIZE:39133)
++ https://disnaker.tangerangkab.go.id/vendor/com2 (CODE:500|SIZE:39133)
++ https://disnaker.tangerangkab.go.id/vendor/com3 (CODE:500|SIZE:39133)
++ https://disnaker.tangerangkab.go.id/vendor/CVS/Entries (CODE:500|SIZE:39140)
++ https://disnaker.tangerangkab.go.id/vendor/global.asa (CODE:500|SIZE:39139)
++ https://disnaker.tangerangkab.go.id/vendor/lpt1 (CODE:500|SIZE:39133)
++ https://disnaker.tangerangkab.go.id/vendor/lpt2 (CODE:500|SIZE:39133)
++ https://disnaker.tangerangkab.go.id/vendor/readfile (CODE:500|SIZE:39137)
++ https://disnaker.tangerangkab.go.id/vendor/WS_FTP.LOG (CODE:500|SIZE:39139)
+
+---- Entering directory: https://disnaker.tangerangkab.go.id/storage/files/ ----
++ https://disnaker.tangerangkab.go.id/storage/files/.git/HEAD (CODE:500|SIZE:39145)
++ https://disnaker.tangerangkab.go.id/storage/files/.htaccess (CODE:500|SIZE:39145)
++ https://disnaker.tangerangkab.go.id/storage/files/.htpasswd (CODE:500|SIZE:39145)
++ https://disnaker.tangerangkab.go.id/storage/files/.svn/entries (CODE:500|SIZE:39148)
+==> DIRECTORY: https://disnaker.tangerangkab.go.id/storage/files/10/
+==> DIRECTORY: https://disnaker.tangerangkab.go.id/storage/files/103/
+==> DIRECTORY: https://disnaker.tangerangkab.go.id/storage/files/64/
++ https://disnaker.tangerangkab.go.id/storage/files/com1 (CODE:500|SIZE:39140)
++ https://disnaker.tangerangkab.go.id/storage/files/com2 (CODE:500|SIZE:39140)
++ https://disnaker.tangerangkab.go.id/storage/files/com3 (CODE:500|SIZE:39140)
++ https://disnaker.tangerangkab.go.id/storage/files/CVS/Entries (CODE:500|SIZE:39147)
++ https://disnaker.tangerangkab.go.id/storage/files/global.asa (CODE:500|SIZE:39146)
++ https://disnaker.tangerangkab.go.id/storage/files/lpt1 (CODE:500|SIZE:39140)
++ https://disnaker.tangerangkab.go.id/storage/files/lpt2 (CODE:500|SIZE:39140)
++ https://disnaker.tangerangkab.go.id/storage/files/readfile (CODE:500|SIZE:39144)
+==> DIRECTORY: https://disnaker.tangerangkab.go.id/storage/files/shares/
++ https://disnaker.tangerangkab.go.id/storage/files/WS_FTP.LOG (CODE:500|SIZE:39146)
+
+---- Entering directory: https://disnaker.tangerangkab.go.id/storage/photos/ ----
++ https://disnaker.tangerangkab.go.id/storage/photos/.git/HEAD (CODE:500|SIZE:39146)
++ https://disnaker.tangerangkab.go.id/storage/photos/.htaccess (CODE:500|SIZE:39146)
++ https://disnaker.tangerangkab.go.id/storage/photos/.htpasswd (CODE:500|SIZE:39146)
++ https://disnaker.tangerangkab.go.id/storage/photos/.svn/entries (CODE:500|SIZE:39149)
+==> DIRECTORY: https://disnaker.tangerangkab.go.id/storage/photos/10/
+==> DIRECTORY: https://disnaker.tangerangkab.go.id/storage/photos/103/
+==> DIRECTORY: https://disnaker.tangerangkab.go.id/storage/photos/64/
++ https://disnaker.tangerangkab.go.id/storage/photos/com1 (CODE:500|SIZE:39141)
++ https://disnaker.tangerangkab.go.id/storage/photos/com2 (CODE:500|SIZE:39141)
++ https://disnaker.tangerangkab.go.id/storage/photos/com3 (CODE:500|SIZE:39141)
++ https://disnaker.tangerangkab.go.id/storage/photos/CVS/Entries (CODE:500|SIZE:39148)
++ https://disnaker.tangerangkab.go.id/storage/photos/global.asa (CODE:500|SIZE:39147)
++ https://disnaker.tangerangkab.go.id/storage/photos/lpt1 (CODE:500|SIZE:39141)
++ https://disnaker.tangerangkab.go.id/storage/photos/lpt2 (CODE:500|SIZE:39141)
++ https://disnaker.tangerangkab.go.id/storage/photos/readfile (CODE:500|SIZE:39145)
+==> DIRECTORY: https://disnaker.tangerangkab.go.id/storage/photos/shares/
++ https://disnaker.tangerangkab.go.id/storage/photos/WS_FTP.LOG (CODE:500|SIZE:39147)
+
+---- Entering directory: https://disnaker.tangerangkab.go.id/theme/backend/ ----
++ https://disnaker.tangerangkab.go.id/theme/backend/.git/HEAD (CODE:500|SIZE:39145)
++ https://disnaker.tangerangkab.go.id/theme/backend/.htaccess (CODE:500|SIZE:39145)
+
+(!) FATAL: Too many errors connecting to host
+    (Possible cause: SSL CONNECT ERROR)
+
+-----------------
+END_TIME: Sat Mar 30 13:00:29 2024
+DOWNLOADED: 36908 - FOUND: 117

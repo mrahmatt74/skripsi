@@ -1,0 +1,64 @@
+
+-----------------
+DIRB v2.22    
+By The Dark Raver
+-----------------
+
+OUTPUT_FILE: lapor.txt
+START_TIME: Sun Mar 31 17:43:52 2024
+URL_BASE: https://lapor.tangerangkab.go.id/
+WORDLIST_FILES: /usr/share/dirb/wordlists/common.txt
+
+-----------------
+
+GENERATED WORDS: 4612
+
+---- Scanning URL: https://lapor.tangerangkab.go.id/ ----
++ https://lapor.tangerangkab.go.id/.git/HEAD (CODE:500|SIZE:39128)
++ https://lapor.tangerangkab.go.id/.htaccess (CODE:500|SIZE:39128)
++ https://lapor.tangerangkab.go.id/.htpasswd (CODE:500|SIZE:39128)
++ https://lapor.tangerangkab.go.id/.svn (CODE:403|SIZE:1154)
++ https://lapor.tangerangkab.go.id/.svn/entries (CODE:500|SIZE:39131)
+==> DIRECTORY: https://lapor.tangerangkab.go.id/~adm/
+==> DIRECTORY: https://lapor.tangerangkab.go.id/~admin/
+==> DIRECTORY: https://lapor.tangerangkab.go.id/~administrator/
+==> DIRECTORY: https://lapor.tangerangkab.go.id/~amanda/
+==> DIRECTORY: https://lapor.tangerangkab.go.id/~apache/
+==> DIRECTORY: https://lapor.tangerangkab.go.id/~bin/
+==> DIRECTORY: https://lapor.tangerangkab.go.id/~ftp/
+==> DIRECTORY: https://lapor.tangerangkab.go.id/~guest/
+==> DIRECTORY: https://lapor.tangerangkab.go.id/~http/
+==> DIRECTORY: https://lapor.tangerangkab.go.id/~httpd/
+==> DIRECTORY: https://lapor.tangerangkab.go.id/~log/
+==> DIRECTORY: https://lapor.tangerangkab.go.id/~logs/
+==> DIRECTORY: https://lapor.tangerangkab.go.id/~lp/
+==> DIRECTORY: https://lapor.tangerangkab.go.id/~mail/
+==> DIRECTORY: https://lapor.tangerangkab.go.id/~nobody/
+==> DIRECTORY: https://lapor.tangerangkab.go.id/~operator/
+==> DIRECTORY: https://lapor.tangerangkab.go.id/~root/
+==> DIRECTORY: https://lapor.tangerangkab.go.id/~sys/
+==> DIRECTORY: https://lapor.tangerangkab.go.id/~sysadm/
+==> DIRECTORY: https://lapor.tangerangkab.go.id/~sysadmin/
+==> DIRECTORY: https://lapor.tangerangkab.go.id/~test/
+==> DIRECTORY: https://lapor.tangerangkab.go.id/~tmp/
+==> DIRECTORY: https://lapor.tangerangkab.go.id/~user/
+==> DIRECTORY: https://lapor.tangerangkab.go.id/~webmaster/
+==> DIRECTORY: https://lapor.tangerangkab.go.id/~www/
++ https://lapor.tangerangkab.go.id/aux (CODE:500|SIZE:39122)
+==> DIRECTORY: https://lapor.tangerangkab.go.id/bandwidth/
+==> DIRECTORY: https://lapor.tangerangkab.go.id/cgi-bin/
++ https://lapor.tangerangkab.go.id/cgi-bin/ (CODE:403|SIZE:1154)
+==> DIRECTORY: https://lapor.tangerangkab.go.id/cgi-sys/
++ https://lapor.tangerangkab.go.id/com1 (CODE:500|SIZE:39123)
++ https://lapor.tangerangkab.go.id/com2 (CODE:500|SIZE:39123)
++ https://lapor.tangerangkab.go.id/com3 (CODE:500|SIZE:39123)
++ https://lapor.tangerangkab.go.id/controlpanel (CODE:200|SIZE:34751)
++ https://lapor.tangerangkab.go.id/cpanel (CODE:200|SIZE:34751)
++ https://lapor.tangerangkab.go.id/CVS/Entries (CODE:500|SIZE:39130)
+
+(!) FATAL: Too many errors connecting to host
+    (Possible cause: SSL CONNECT ERROR)
+
+-----------------
+END_TIME: Sun Mar 31 17:44:05 2024
+DOWNLOADED: 1799 - FOUND: 13

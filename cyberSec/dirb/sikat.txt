@@ -1,0 +1,138 @@
+
+-----------------
+DIRB v2.22    
+By The Dark Raver
+-----------------
+
+OUTPUT_FILE: sikat.txt
+START_TIME: Sat Mar 30 11:46:16 2024
+URL_BASE: https://sikat.tangerangkab.go.id/
+WORDLIST_FILES: /usr/share/dirb/wordlists/common.txt
+
+-----------------
+
+GENERATED WORDS: 4612
+
+---- Scanning URL: https://sikat.tangerangkab.go.id/ ----
++ https://sikat.tangerangkab.go.id/.htaccess (CODE:200|SIZE:255)
++ https://sikat.tangerangkab.go.id/@ (CODE:400|SIZE:1179)
++ https://sikat.tangerangkab.go.id/0 (CODE:200|SIZE:9708)
+==> DIRECTORY: https://sikat.tangerangkab.go.id/api/
+==> DIRECTORY: https://sikat.tangerangkab.go.id/application/
+==> DIRECTORY: https://sikat.tangerangkab.go.id/assets/
++ https://sikat.tangerangkab.go.id/dashboard (CODE:302|SIZE:0)
+==> DIRECTORY: https://sikat.tangerangkab.go.id/document/
+==> DIRECTORY: https://sikat.tangerangkab.go.id/grafik/
++ https://sikat.tangerangkab.go.id/index.php (CODE:200|SIZE:9708)
++ https://sikat.tangerangkab.go.id/login (CODE:200|SIZE:9708)
+==> DIRECTORY: https://sikat.tangerangkab.go.id/logs/
++ https://sikat.tangerangkab.go.id/lost+found (CODE:400|SIZE:1179)
++ https://sikat.tangerangkab.go.id/phpinfo.php (CODE:200|SIZE:96482)
+==> DIRECTORY: https://sikat.tangerangkab.go.id/query/
+==> DIRECTORY: https://sikat.tangerangkab.go.id/report/
++ https://sikat.tangerangkab.go.id/server-status (CODE:403|SIZE:199)
++ https://sikat.tangerangkab.go.id/system (CODE:403|SIZE:199)
+==> DIRECTORY: https://sikat.tangerangkab.go.id/tmp/
+==> DIRECTORY: https://sikat.tangerangkab.go.id/vendor/
+
+---- Entering directory: https://sikat.tangerangkab.go.id/api/ ----
++ https://sikat.tangerangkab.go.id/api/.htaccess (CODE:200|SIZE:16)
++ https://sikat.tangerangkab.go.id/api/@ (CODE:400|SIZE:1179)
++ https://sikat.tangerangkab.go.id/api/application (CODE:403|SIZE:199)
++ https://sikat.tangerangkab.go.id/api/error_log (CODE:200|SIZE:350)
++ https://sikat.tangerangkab.go.id/api/index.php (CODE:200|SIZE:3786)
++ https://sikat.tangerangkab.go.id/api/lost+found (CODE:400|SIZE:1179)
++ https://sikat.tangerangkab.go.id/api/system (CODE:403|SIZE:199)
+==> DIRECTORY: https://sikat.tangerangkab.go.id/api/v1/
+==> DIRECTORY: https://sikat.tangerangkab.go.id/api/vendor/
+
+---- Entering directory: https://sikat.tangerangkab.go.id/application/ ----
+(!) WARNING: Directory IS LISTABLE. No need to scan it.
+    (Use mode '-w' if you want to scan it anyway)
+
+---- Entering directory: https://sikat.tangerangkab.go.id/assets/ ----
+(!) WARNING: Directory IS LISTABLE. No need to scan it.
+    (Use mode '-w' if you want to scan it anyway)
+
+---- Entering directory: https://sikat.tangerangkab.go.id/document/ ----
+(!) WARNING: Directory IS LISTABLE. No need to scan it.
+    (Use mode '-w' if you want to scan it anyway)
+
+---- Entering directory: https://sikat.tangerangkab.go.id/grafik/ ----
++ https://sikat.tangerangkab.go.id/grafik/@ (CODE:400|SIZE:1179)
++ https://sikat.tangerangkab.go.id/grafik/application (CODE:403|SIZE:199)
+==> DIRECTORY: https://sikat.tangerangkab.go.id/grafik/assets/
++ https://sikat.tangerangkab.go.id/grafik/index.php (CODE:500|SIZE:1734)
++ https://sikat.tangerangkab.go.id/grafik/lost+found (CODE:400|SIZE:1179)
++ https://sikat.tangerangkab.go.id/grafik/system (CODE:403|SIZE:199)
+
+---- Entering directory: https://sikat.tangerangkab.go.id/logs/ ----
+(!) WARNING: Directory IS LISTABLE. No need to scan it.
+    (Use mode '-w' if you want to scan it anyway)
+
+---- Entering directory: https://sikat.tangerangkab.go.id/query/ ----
+(!) WARNING: Directory IS LISTABLE. No need to scan it.
+    (Use mode '-w' if you want to scan it anyway)
+
+---- Entering directory: https://sikat.tangerangkab.go.id/report/ ----
+(!) WARNING: Directory IS LISTABLE. No need to scan it.
+    (Use mode '-w' if you want to scan it anyway)
+
+---- Entering directory: https://sikat.tangerangkab.go.id/tmp/ ----
+(!) WARNING: Directory IS LISTABLE. No need to scan it.
+    (Use mode '-w' if you want to scan it anyway)
+
+---- Entering directory: https://sikat.tangerangkab.go.id/vendor/ ----
+(!) WARNING: Directory IS LISTABLE. No need to scan it.
+    (Use mode '-w' if you want to scan it anyway)
+
+---- Entering directory: https://sikat.tangerangkab.go.id/api/v1/ ----
++ https://sikat.tangerangkab.go.id/api/v1/.htaccess (CODE:200|SIZE:271)
++ https://sikat.tangerangkab.go.id/api/v1/@ (CODE:400|SIZE:1134)
++ https://sikat.tangerangkab.go.id/api/v1/application (CODE:403|SIZE:199)
++ https://sikat.tangerangkab.go.id/api/v1/auth (CODE:200|SIZE:83)
++ https://sikat.tangerangkab.go.id/api/v1/error_log (CODE:200|SIZE:350)
++ https://sikat.tangerangkab.go.id/api/v1/index.php (CODE:200|SIZE:33915)
++ https://sikat.tangerangkab.go.id/api/v1/lost+found (CODE:400|SIZE:1134)
++ https://sikat.tangerangkab.go.id/api/v1/ref (CODE:200|SIZE:68)
++ https://sikat.tangerangkab.go.id/api/v1/system (CODE:403|SIZE:199)
+==> DIRECTORY: https://sikat.tangerangkab.go.id/api/v1/vendor/
++ https://sikat.tangerangkab.go.id/api/v1/welcome (CODE:200|SIZE:33915)
+
+---- Entering directory: https://sikat.tangerangkab.go.id/api/vendor/ ----
++ https://sikat.tangerangkab.go.id/api/vendor/@ (CODE:400|SIZE:1179)
+==> DIRECTORY: https://sikat.tangerangkab.go.id/api/vendor/bin/
+==> DIRECTORY: https://sikat.tangerangkab.go.id/api/vendor/composer/
++ https://sikat.tangerangkab.go.id/api/vendor/lost+found (CODE:400|SIZE:1179)
+
+---- Entering directory: https://sikat.tangerangkab.go.id/grafik/assets/ ----
+(!) WARNING: Directory IS LISTABLE. No need to scan it.
+    (Use mode '-w' if you want to scan it anyway)
+
+---- Entering directory: https://sikat.tangerangkab.go.id/api/v1/vendor/ ----
++ https://sikat.tangerangkab.go.id/api/v1/vendor/@ (CODE:400|SIZE:1134)
+==> DIRECTORY: https://sikat.tangerangkab.go.id/api/v1/vendor/bin/
+==> DIRECTORY: https://sikat.tangerangkab.go.id/api/v1/vendor/composer/
++ https://sikat.tangerangkab.go.id/api/v1/vendor/lost+found (CODE:400|SIZE:1134)
+
+---- Entering directory: https://sikat.tangerangkab.go.id/api/vendor/bin/ ----
++ https://sikat.tangerangkab.go.id/api/vendor/bin/@ (CODE:400|SIZE:1179)
++ https://sikat.tangerangkab.go.id/api/vendor/bin/lost+found (CODE:400|SIZE:1179)
+
+---- Entering directory: https://sikat.tangerangkab.go.id/api/vendor/composer/ ----
++ https://sikat.tangerangkab.go.id/api/vendor/composer/@ (CODE:400|SIZE:1179)
++ https://sikat.tangerangkab.go.id/api/vendor/composer/LICENSE (CODE:200|SIZE:1070)
++ https://sikat.tangerangkab.go.id/api/vendor/composer/lost+found (CODE:400|SIZE:1179)
+
+---- Entering directory: https://sikat.tangerangkab.go.id/api/v1/vendor/bin/ ----
++ https://sikat.tangerangkab.go.id/api/v1/vendor/bin/@ (CODE:400|SIZE:1134)
++ https://sikat.tangerangkab.go.id/api/v1/vendor/bin/lost+found (CODE:400|SIZE:1134)
+
+---- Entering directory: https://sikat.tangerangkab.go.id/api/v1/vendor/composer/ ----
++ https://sikat.tangerangkab.go.id/api/v1/vendor/composer/@ (CODE:400|SIZE:1134)
++ https://sikat.tangerangkab.go.id/api/v1/vendor/composer/LICENSE (CODE:200|SIZE:1070)
++ https://sikat.tangerangkab.go.id/api/v1/vendor/composer/lost+found (CODE:400|SIZE:1134)
+
+-----------------
+END_TIME: Sat Mar 30 12:27:13 2024
+DOWNLOADED: 46120 - FOUND: 46

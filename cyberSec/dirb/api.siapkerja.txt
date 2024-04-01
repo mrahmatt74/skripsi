@@ -1,0 +1,25 @@
+
+-----------------
+DIRB v2.22    
+By The Dark Raver
+-----------------
+
+OUTPUT_FILE: api.siapkerja.txt
+START_TIME: Mon Apr  1 09:49:34 2024
+URL_BASE: https://api.siapkerja.tangerangkab.go.id/
+WORDLIST_FILES: /usr/share/dirb/wordlists/common.txt
+
+-----------------
+
+GENERATED WORDS: 4612
+
+---- Scanning URL: https://api.siapkerja.tangerangkab.go.id/ ----
++ https://api.siapkerja.tangerangkab.go.id/css (CODE:301|SIZE:173)
++ https://api.siapkerja.tangerangkab.go.id/documents (CODE:301|SIZE:185)
++ https://api.siapkerja.tangerangkab.go.id/email (CODE:200|SIZE:1251)
++ https://api.siapkerja.tangerangkab.go.id/images (CODE:301|SIZE:179)
++ https://api.siapkerja.tangerangkab.go.id/uploads (CODE:301|SIZE:181)
+
+-----------------
+END_TIME: Mon Apr  1 09:50:17 2024
+DOWNLOADED: 4612 - FOUND: 5

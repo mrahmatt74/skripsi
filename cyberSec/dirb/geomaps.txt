@@ -1,0 +1,49 @@
+
+-----------------
+DIRB v2.22    
+By The Dark Raver
+-----------------
+
+OUTPUT_FILE: geomaps.txt
+START_TIME: Sun Mar 31 08:44:08 2024
+URL_BASE: https://geomaps.tangerangkab.go.id/
+WORDLIST_FILES: /usr/share/dirb/wordlists/common.txt
+
+-----------------
+
+GENERATED WORDS: 4612
+
+---- Scanning URL: https://geomaps.tangerangkab.go.id/ ----
++ https://geomaps.tangerangkab.go.id/.git/HEAD (CODE:500|SIZE:39128)
++ https://geomaps.tangerangkab.go.id/.htaccess (CODE:500|SIZE:39128)
++ https://geomaps.tangerangkab.go.id/.htpasswd (CODE:500|SIZE:39128)
++ https://geomaps.tangerangkab.go.id/.svn/entries (CODE:500|SIZE:39131)
++ https://geomaps.tangerangkab.go.id/about (CODE:301|SIZE:0)
++ https://geomaps.tangerangkab.go.id/activity (CODE:301|SIZE:0)
++ https://geomaps.tangerangkab.go.id/admin (CODE:302|SIZE:0)
++ https://geomaps.tangerangkab.go.id/announcements (CODE:301|SIZE:0)
++ https://geomaps.tangerangkab.go.id/api (CODE:301|SIZE:0)
++ https://geomaps.tangerangkab.go.id/aux (CODE:500|SIZE:39122)
++ https://geomaps.tangerangkab.go.id/catalogue (CODE:301|SIZE:0)
++ https://geomaps.tangerangkab.go.id/com1 (CODE:500|SIZE:39123)
++ https://geomaps.tangerangkab.go.id/com2 (CODE:500|SIZE:39123)
++ https://geomaps.tangerangkab.go.id/com3 (CODE:500|SIZE:39123)
++ https://geomaps.tangerangkab.go.id/CVS/Entries (CODE:500|SIZE:39130)
++ https://geomaps.tangerangkab.go.id/developer (CODE:301|SIZE:0)
++ https://geomaps.tangerangkab.go.id/download (CODE:301|SIZE:0)
++ https://geomaps.tangerangkab.go.id/global.asa (CODE:500|SIZE:39129)
++ https://geomaps.tangerangkab.go.id/groups (CODE:301|SIZE:0)
++ https://geomaps.tangerangkab.go.id/help (CODE:301|SIZE:0)
++ https://geomaps.tangerangkab.go.id/lpt1 (CODE:500|SIZE:39123)
++ https://geomaps.tangerangkab.go.id/lpt2 (CODE:500|SIZE:39123)
++ https://geomaps.tangerangkab.go.id/people (CODE:301|SIZE:0)
++ https://geomaps.tangerangkab.go.id/prn (CODE:500|SIZE:39122)
++ https://geomaps.tangerangkab.go.id/proxy (CODE:301|SIZE:0)
++ https://geomaps.tangerangkab.go.id/readfile (CODE:500|SIZE:39127)
++ https://geomaps.tangerangkab.go.id/robots.txt (CODE:200|SIZE:91)
++ https://geomaps.tangerangkab.go.id/services (CODE:301|SIZE:0)
++ https://geomaps.tangerangkab.go.id/WS_FTP.LOG (CODE:500|SIZE:39129)
+
+-----------------
+END_TIME: Sun Mar 31 09:13:01 2024
+DOWNLOADED: 4612 - FOUND: 29

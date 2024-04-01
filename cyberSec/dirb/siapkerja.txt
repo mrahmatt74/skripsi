@@ -1,0 +1,36 @@
+
+-----------------
+DIRB v2.22    
+By The Dark Raver
+-----------------
+
+OUTPUT_FILE: siapkerja.txt
+START_TIME: Mon Apr  1 09:48:50 2024
+URL_BASE: https://siapkerja.tangerangkab.go.id/
+WORDLIST_FILES: /usr/share/dirb/wordlists/common.txt
+
+-----------------
+
+GENERATED WORDS: 4612
+
+---- Scanning URL: https://siapkerja.tangerangkab.go.id/ ----
+==> DIRECTORY: https://siapkerja.tangerangkab.go.id/css/
++ https://siapkerja.tangerangkab.go.id/favicon.ico (CODE:200|SIZE:15406)
+==> DIRECTORY: https://siapkerja.tangerangkab.go.id/fonts/
+==> DIRECTORY: https://siapkerja.tangerangkab.go.id/images/
+==> DIRECTORY: https://siapkerja.tangerangkab.go.id/img/
+==> DIRECTORY: https://siapkerja.tangerangkab.go.id/js/
+
+---- Entering directory: https://siapkerja.tangerangkab.go.id/css/ ----
+
+---- Entering directory: https://siapkerja.tangerangkab.go.id/fonts/ ----
+
+---- Entering directory: https://siapkerja.tangerangkab.go.id/images/ ----
+
+---- Entering directory: https://siapkerja.tangerangkab.go.id/img/ ----
+
+---- Entering directory: https://siapkerja.tangerangkab.go.id/js/ ----
+
+-----------------
+END_TIME: Mon Apr  1 09:54:07 2024
+DOWNLOADED: 27672 - FOUND: 1

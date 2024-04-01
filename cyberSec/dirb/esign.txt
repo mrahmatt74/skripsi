@@ -1,0 +1,23 @@
+
+-----------------
+DIRB v2.22    
+By The Dark Raver
+-----------------
+
+OUTPUT_FILE: esign.txt
+START_TIME: Sun Mar 31 01:51:26 2024
+URL_BASE: https://esign.tangerangkab.go.id/
+WORDLIST_FILES: /usr/share/dirb/wordlists/common.txt
+
+-----------------
+
+GENERATED WORDS: 4612
+
+---- Scanning URL: https://esign.tangerangkab.go.id/ ----
+
+(!) FATAL: Too many errors connecting to host
+    (Possible cause: COULDNT RESOLVE HOST)
+
+-----------------
+END_TIME: Sun Mar 31 01:52:11 2024
+DOWNLOADED: 0 - FOUND: 0

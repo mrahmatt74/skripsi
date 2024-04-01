@@ -1,0 +1,138 @@
+
+-----------------
+DIRB v2.22    
+By The Dark Raver
+-----------------
+
+OUTPUT_FILE: antreanpuskesmas.txt
+START_TIME: Sat Mar 30 01:48:21 2024
+URL_BASE: https://antreanpuskesmas.tangerangkab.go.id/
+WORDLIST_FILES: /usr/share/dirb/wordlists/common.txt
+
+-----------------
+
+GENERATED WORDS: 4612
+
+---- Scanning URL: https://antreanpuskesmas.tangerangkab.go.id/ ----
++ https://antreanpuskesmas.tangerangkab.go.id/.htaccess (CODE:200|SIZE:255)
++ https://antreanpuskesmas.tangerangkab.go.id/@ (CODE:400|SIZE:1179)
++ https://antreanpuskesmas.tangerangkab.go.id/0 (CODE:200|SIZE:9873)
+==> DIRECTORY: https://antreanpuskesmas.tangerangkab.go.id/api/
+==> DIRECTORY: https://antreanpuskesmas.tangerangkab.go.id/application/
+==> DIRECTORY: https://antreanpuskesmas.tangerangkab.go.id/assets/
++ https://antreanpuskesmas.tangerangkab.go.id/dashboard (CODE:302|SIZE:0)
+==> DIRECTORY: https://antreanpuskesmas.tangerangkab.go.id/document/
+==> DIRECTORY: https://antreanpuskesmas.tangerangkab.go.id/grafik/
++ https://antreanpuskesmas.tangerangkab.go.id/index.php (CODE:200|SIZE:9873)
++ https://antreanpuskesmas.tangerangkab.go.id/login (CODE:200|SIZE:9873)
+==> DIRECTORY: https://antreanpuskesmas.tangerangkab.go.id/logs/
++ https://antreanpuskesmas.tangerangkab.go.id/lost+found (CODE:400|SIZE:1179)
++ https://antreanpuskesmas.tangerangkab.go.id/phpinfo.php (CODE:200|SIZE:96356)
+==> DIRECTORY: https://antreanpuskesmas.tangerangkab.go.id/query/
+==> DIRECTORY: https://antreanpuskesmas.tangerangkab.go.id/report/
++ https://antreanpuskesmas.tangerangkab.go.id/server-status (CODE:403|SIZE:199)
++ https://antreanpuskesmas.tangerangkab.go.id/system (CODE:403|SIZE:199)
+==> DIRECTORY: https://antreanpuskesmas.tangerangkab.go.id/tmp/
+==> DIRECTORY: https://antreanpuskesmas.tangerangkab.go.id/vendor/
+
+---- Entering directory: https://antreanpuskesmas.tangerangkab.go.id/api/ ----
++ https://antreanpuskesmas.tangerangkab.go.id/api/.htaccess (CODE:200|SIZE:16)
++ https://antreanpuskesmas.tangerangkab.go.id/api/@ (CODE:400|SIZE:1179)
++ https://antreanpuskesmas.tangerangkab.go.id/api/application (CODE:403|SIZE:199)
++ https://antreanpuskesmas.tangerangkab.go.id/api/error_log (CODE:200|SIZE:350)
++ https://antreanpuskesmas.tangerangkab.go.id/api/index.php (CODE:200|SIZE:3786)
++ https://antreanpuskesmas.tangerangkab.go.id/api/lost+found (CODE:400|SIZE:1179)
++ https://antreanpuskesmas.tangerangkab.go.id/api/system (CODE:403|SIZE:199)
+==> DIRECTORY: https://antreanpuskesmas.tangerangkab.go.id/api/v1/
+==> DIRECTORY: https://antreanpuskesmas.tangerangkab.go.id/api/vendor/
+
+---- Entering directory: https://antreanpuskesmas.tangerangkab.go.id/application/ ----
+(!) WARNING: Directory IS LISTABLE. No need to scan it.
+    (Use mode '-w' if you want to scan it anyway)
+
+---- Entering directory: https://antreanpuskesmas.tangerangkab.go.id/assets/ ----
+(!) WARNING: Directory IS LISTABLE. No need to scan it.
+    (Use mode '-w' if you want to scan it anyway)
+
+---- Entering directory: https://antreanpuskesmas.tangerangkab.go.id/document/ ----
+(!) WARNING: Directory IS LISTABLE. No need to scan it.
+    (Use mode '-w' if you want to scan it anyway)
+
+---- Entering directory: https://antreanpuskesmas.tangerangkab.go.id/grafik/ ----
++ https://antreanpuskesmas.tangerangkab.go.id/grafik/@ (CODE:400|SIZE:1179)
++ https://antreanpuskesmas.tangerangkab.go.id/grafik/application (CODE:403|SIZE:199)
+==> DIRECTORY: https://antreanpuskesmas.tangerangkab.go.id/grafik/assets/
++ https://antreanpuskesmas.tangerangkab.go.id/grafik/index.php (CODE:500|SIZE:1734)
++ https://antreanpuskesmas.tangerangkab.go.id/grafik/lost+found (CODE:400|SIZE:1179)
++ https://antreanpuskesmas.tangerangkab.go.id/grafik/system (CODE:403|SIZE:199)
+
+---- Entering directory: https://antreanpuskesmas.tangerangkab.go.id/logs/ ----
+(!) WARNING: Directory IS LISTABLE. No need to scan it.
+    (Use mode '-w' if you want to scan it anyway)
+
+---- Entering directory: https://antreanpuskesmas.tangerangkab.go.id/query/ ----
+(!) WARNING: Directory IS LISTABLE. No need to scan it.
+    (Use mode '-w' if you want to scan it anyway)
+
+---- Entering directory: https://antreanpuskesmas.tangerangkab.go.id/report/ ----
+(!) WARNING: Directory IS LISTABLE. No need to scan it.
+    (Use mode '-w' if you want to scan it anyway)
+
+---- Entering directory: https://antreanpuskesmas.tangerangkab.go.id/tmp/ ----
+(!) WARNING: Directory IS LISTABLE. No need to scan it.
+    (Use mode '-w' if you want to scan it anyway)
+
+---- Entering directory: https://antreanpuskesmas.tangerangkab.go.id/vendor/ ----
+(!) WARNING: Directory IS LISTABLE. No need to scan it.
+    (Use mode '-w' if you want to scan it anyway)
+
+---- Entering directory: https://antreanpuskesmas.tangerangkab.go.id/api/v1/ ----
++ https://antreanpuskesmas.tangerangkab.go.id/api/v1/.htaccess (CODE:200|SIZE:271)
++ https://antreanpuskesmas.tangerangkab.go.id/api/v1/@ (CODE:400|SIZE:1134)
++ https://antreanpuskesmas.tangerangkab.go.id/api/v1/application (CODE:403|SIZE:199)
++ https://antreanpuskesmas.tangerangkab.go.id/api/v1/auth (CODE:200|SIZE:83)
++ https://antreanpuskesmas.tangerangkab.go.id/api/v1/error_log (CODE:200|SIZE:350)
++ https://antreanpuskesmas.tangerangkab.go.id/api/v1/index.php (CODE:200|SIZE:33915)
++ https://antreanpuskesmas.tangerangkab.go.id/api/v1/lost+found (CODE:400|SIZE:1134)
++ https://antreanpuskesmas.tangerangkab.go.id/api/v1/ref (CODE:200|SIZE:68)
++ https://antreanpuskesmas.tangerangkab.go.id/api/v1/system (CODE:403|SIZE:199)
+==> DIRECTORY: https://antreanpuskesmas.tangerangkab.go.id/api/v1/vendor/
++ https://antreanpuskesmas.tangerangkab.go.id/api/v1/welcome (CODE:200|SIZE:33915)
+
+---- Entering directory: https://antreanpuskesmas.tangerangkab.go.id/api/vendor/ ----
++ https://antreanpuskesmas.tangerangkab.go.id/api/vendor/@ (CODE:400|SIZE:1179)
+==> DIRECTORY: https://antreanpuskesmas.tangerangkab.go.id/api/vendor/bin/
+==> DIRECTORY: https://antreanpuskesmas.tangerangkab.go.id/api/vendor/composer/
++ https://antreanpuskesmas.tangerangkab.go.id/api/vendor/lost+found (CODE:400|SIZE:1179)
+
+---- Entering directory: https://antreanpuskesmas.tangerangkab.go.id/grafik/assets/ ----
+(!) WARNING: Directory IS LISTABLE. No need to scan it.
+    (Use mode '-w' if you want to scan it anyway)
+
+---- Entering directory: https://antreanpuskesmas.tangerangkab.go.id/api/v1/vendor/ ----
++ https://antreanpuskesmas.tangerangkab.go.id/api/v1/vendor/@ (CODE:400|SIZE:1134)
+==> DIRECTORY: https://antreanpuskesmas.tangerangkab.go.id/api/v1/vendor/bin/
+==> DIRECTORY: https://antreanpuskesmas.tangerangkab.go.id/api/v1/vendor/composer/
++ https://antreanpuskesmas.tangerangkab.go.id/api/v1/vendor/lost+found (CODE:400|SIZE:1134)
+
+---- Entering directory: https://antreanpuskesmas.tangerangkab.go.id/api/vendor/bin/ ----
++ https://antreanpuskesmas.tangerangkab.go.id/api/vendor/bin/@ (CODE:400|SIZE:1179)
++ https://antreanpuskesmas.tangerangkab.go.id/api/vendor/bin/lost+found (CODE:400|SIZE:1179)
+
+---- Entering directory: https://antreanpuskesmas.tangerangkab.go.id/api/vendor/composer/ ----
++ https://antreanpuskesmas.tangerangkab.go.id/api/vendor/composer/@ (CODE:400|SIZE:1179)
++ https://antreanpuskesmas.tangerangkab.go.id/api/vendor/composer/LICENSE (CODE:200|SIZE:1070)
++ https://antreanpuskesmas.tangerangkab.go.id/api/vendor/composer/lost+found (CODE:400|SIZE:1179)
+
+---- Entering directory: https://antreanpuskesmas.tangerangkab.go.id/api/v1/vendor/bin/ ----
++ https://antreanpuskesmas.tangerangkab.go.id/api/v1/vendor/bin/@ (CODE:400|SIZE:1134)
++ https://antreanpuskesmas.tangerangkab.go.id/api/v1/vendor/bin/lost+found (CODE:400|SIZE:1134)
+
+---- Entering directory: https://antreanpuskesmas.tangerangkab.go.id/api/v1/vendor/composer/ ----
++ https://antreanpuskesmas.tangerangkab.go.id/api/v1/vendor/composer/@ (CODE:400|SIZE:1134)
++ https://antreanpuskesmas.tangerangkab.go.id/api/v1/vendor/composer/LICENSE (CODE:200|SIZE:1070)
++ https://antreanpuskesmas.tangerangkab.go.id/api/v1/vendor/composer/lost+found (CODE:400|SIZE:1134)
+
+-----------------
+END_TIME: Sat Mar 30 02:51:14 2024
+DOWNLOADED: 46120 - FOUND: 46

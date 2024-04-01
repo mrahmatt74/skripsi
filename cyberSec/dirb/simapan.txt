@@ -1,0 +1,158 @@
+
+-----------------
+DIRB v2.22    
+By The Dark Raver
+-----------------
+
+OUTPUT_FILE: simapan.txt
+START_TIME: Mon Apr  1 09:51:03 2024
+URL_BASE: https://simapan.tangerangkab.go.id/
+WORDLIST_FILES: /usr/share/dirb/wordlists/common.txt
+
+-----------------
+
+GENERATED WORDS: 4612
+
+---- Scanning URL: https://simapan.tangerangkab.go.id/ ----
++ https://simapan.tangerangkab.go.id/admin (CODE:302|SIZE:430)
++ https://simapan.tangerangkab.go.id/administrator (CODE:302|SIZE:406)
+==> DIRECTORY: https://simapan.tangerangkab.go.id/assets/
+==> DIRECTORY: https://simapan.tangerangkab.go.id/cards/
+==> DIRECTORY: https://simapan.tangerangkab.go.id/ckeditor/
++ https://simapan.tangerangkab.go.id/favicon.ico (CODE:200|SIZE:5077)
+==> DIRECTORY: https://simapan.tangerangkab.go.id/files/
+==> DIRECTORY: https://simapan.tangerangkab.go.id/front/
++ https://simapan.tangerangkab.go.id/frontend (CODE:200|SIZE:21296)
++ https://simapan.tangerangkab.go.id/home (CODE:200|SIZE:116705)
+==> DIRECTORY: https://simapan.tangerangkab.go.id/img/
++ https://simapan.tangerangkab.go.id/index.php (CODE:200|SIZE:21506)
+==> DIRECTORY: https://simapan.tangerangkab.go.id/js/
++ https://simapan.tangerangkab.go.id/login (CODE:302|SIZE:446)
++ https://simapan.tangerangkab.go.id/logout (CODE:302|SIZE:406)
+==> DIRECTORY: https://simapan.tangerangkab.go.id/maps/
+==> DIRECTORY: https://simapan.tangerangkab.go.id/packages/
+==> DIRECTORY: https://simapan.tangerangkab.go.id/photos/
+==> DIRECTORY: https://simapan.tangerangkab.go.id/portal/
++ https://simapan.tangerangkab.go.id/register (CODE:302|SIZE:406)
++ https://simapan.tangerangkab.go.id/robots.txt (CODE:200|SIZE:24)
+==> DIRECTORY: https://simapan.tangerangkab.go.id/storage/
+==> DIRECTORY: https://simapan.tangerangkab.go.id/theme/
+==> DIRECTORY: https://simapan.tangerangkab.go.id/tinymce/
+==> DIRECTORY: https://simapan.tangerangkab.go.id/vendor/
++ https://simapan.tangerangkab.go.id/web.config (CODE:200|SIZE:1194)
+
+---- Entering directory: https://simapan.tangerangkab.go.id/assets/ ----
+==> DIRECTORY: https://simapan.tangerangkab.go.id/assets/css/
+==> DIRECTORY: https://simapan.tangerangkab.go.id/assets/files/
++ https://simapan.tangerangkab.go.id/assets/index.php (CODE:302|SIZE:0)
+==> DIRECTORY: https://simapan.tangerangkab.go.id/assets/js/
+==> DIRECTORY: https://simapan.tangerangkab.go.id/assets/media/
+==> DIRECTORY: https://simapan.tangerangkab.go.id/assets/vendors/
+
+---- Entering directory: https://simapan.tangerangkab.go.id/cards/ ----
+==> DIRECTORY: https://simapan.tangerangkab.go.id/cards/css/
+==> DIRECTORY: https://simapan.tangerangkab.go.id/cards/images/
+
+---- Entering directory: https://simapan.tangerangkab.go.id/ckeditor/ ----
+==> DIRECTORY: https://simapan.tangerangkab.go.id/ckeditor/lang/
+==> DIRECTORY: https://simapan.tangerangkab.go.id/ckeditor/plugins/
+==> DIRECTORY: https://simapan.tangerangkab.go.id/ckeditor/samples/
+==> DIRECTORY: https://simapan.tangerangkab.go.id/ckeditor/skins/
+==> DIRECTORY: https://simapan.tangerangkab.go.id/ckeditor/vendor/
+
+---- Entering directory: https://simapan.tangerangkab.go.id/files/ ----
+
+---- Entering directory: https://simapan.tangerangkab.go.id/front/ ----
+==> DIRECTORY: https://simapan.tangerangkab.go.id/front/css/
+==> DIRECTORY: https://simapan.tangerangkab.go.id/front/fonts/
+==> DIRECTORY: https://simapan.tangerangkab.go.id/front/img/
+==> DIRECTORY: https://simapan.tangerangkab.go.id/front/js/
+==> DIRECTORY: https://simapan.tangerangkab.go.id/front/libraries/
+==> DIRECTORY: https://simapan.tangerangkab.go.id/front/video/
+
+---- Entering directory: https://simapan.tangerangkab.go.id/img/ ----
+
+---- Entering directory: https://simapan.tangerangkab.go.id/js/ ----
+
+---- Entering directory: https://simapan.tangerangkab.go.id/maps/ ----
+
+---- Entering directory: https://simapan.tangerangkab.go.id/packages/ ----
+==> DIRECTORY: https://simapan.tangerangkab.go.id/packages/ckeditor/
+==> DIRECTORY: https://simapan.tangerangkab.go.id/packages/tinymce/
+
+---- Entering directory: https://simapan.tangerangkab.go.id/photos/ ----
+==> DIRECTORY: https://simapan.tangerangkab.go.id/photos/1/
+
+---- Entering directory: https://simapan.tangerangkab.go.id/portal/ ----
+==> DIRECTORY: https://simapan.tangerangkab.go.id/portal/css/
+==> DIRECTORY: https://simapan.tangerangkab.go.id/portal/img/
+==> DIRECTORY: https://simapan.tangerangkab.go.id/portal/js/
+==> DIRECTORY: https://simapan.tangerangkab.go.id/portal/trash/
+
+---- Entering directory: https://simapan.tangerangkab.go.id/storage/ ----
+
+---- Entering directory: https://simapan.tangerangkab.go.id/theme/ ----
+==> DIRECTORY: https://simapan.tangerangkab.go.id/theme/css/
+==> DIRECTORY: https://simapan.tangerangkab.go.id/theme/fonts/
+==> DIRECTORY: https://simapan.tangerangkab.go.id/theme/images/
+==> DIRECTORY: https://simapan.tangerangkab.go.id/theme/js/
+
+---- Entering directory: https://simapan.tangerangkab.go.id/tinymce/ ----
+==> DIRECTORY: https://simapan.tangerangkab.go.id/tinymce/langs/
+==> DIRECTORY: https://simapan.tangerangkab.go.id/tinymce/plugins/
+==> DIRECTORY: https://simapan.tangerangkab.go.id/tinymce/skins/
+==> DIRECTORY: https://simapan.tangerangkab.go.id/tinymce/themes/
+
+---- Entering directory: https://simapan.tangerangkab.go.id/vendor/ ----
+
+---- Entering directory: https://simapan.tangerangkab.go.id/assets/css/ ----
++ https://simapan.tangerangkab.go.id/assets/css/index.php (CODE:302|SIZE:0)
+
+---- Entering directory: https://simapan.tangerangkab.go.id/assets/files/ ----
++ https://simapan.tangerangkab.go.id/assets/files/index.php (CODE:302|SIZE:0)
+
+---- Entering directory: https://simapan.tangerangkab.go.id/assets/js/ ----
++ https://simapan.tangerangkab.go.id/assets/js/index.php (CODE:302|SIZE:0)
+==> DIRECTORY: https://simapan.tangerangkab.go.id/assets/js/maps/
+
+---- Entering directory: https://simapan.tangerangkab.go.id/assets/media/ ----
+==> DIRECTORY: https://simapan.tangerangkab.go.id/assets/media/bg/
+==> DIRECTORY: https://simapan.tangerangkab.go.id/assets/media/blog/
+==> DIRECTORY: https://simapan.tangerangkab.go.id/assets/media/demos/
+==> DIRECTORY: https://simapan.tangerangkab.go.id/assets/media/error/
+==> DIRECTORY: https://simapan.tangerangkab.go.id/assets/media/files/
+==> DIRECTORY: https://simapan.tangerangkab.go.id/assets/media/flags/
+==> DIRECTORY: https://simapan.tangerangkab.go.id/assets/media/icons/
++ https://simapan.tangerangkab.go.id/assets/media/index.php (CODE:302|SIZE:0)
+==> DIRECTORY: https://simapan.tangerangkab.go.id/assets/media/logos/
+==> DIRECTORY: https://simapan.tangerangkab.go.id/assets/media/misc/
+==> DIRECTORY: https://simapan.tangerangkab.go.id/assets/media/products/
+==> DIRECTORY: https://simapan.tangerangkab.go.id/assets/media/users/
+==> DIRECTORY: https://simapan.tangerangkab.go.id/assets/media/vendors/
+
+---- Entering directory: https://simapan.tangerangkab.go.id/assets/vendors/ ----
+==> DIRECTORY: https://simapan.tangerangkab.go.id/assets/vendors/custom/
+==> DIRECTORY: https://simapan.tangerangkab.go.id/assets/vendors/general/
++ https://simapan.tangerangkab.go.id/assets/vendors/index.php (CODE:302|SIZE:0)
+
+---- Entering directory: https://simapan.tangerangkab.go.id/cards/css/ ----
+
+---- Entering directory: https://simapan.tangerangkab.go.id/cards/images/ ----
+
+---- Entering directory: https://simapan.tangerangkab.go.id/ckeditor/lang/ ----
+
+---- Entering directory: https://simapan.tangerangkab.go.id/ckeditor/plugins/ ----
+==> DIRECTORY: https://simapan.tangerangkab.go.id/ckeditor/plugins/about/
+==> DIRECTORY: https://simapan.tangerangkab.go.id/ckeditor/plugins/dialog/
+==> DIRECTORY: https://simapan.tangerangkab.go.id/ckeditor/plugins/find/
+==> DIRECTORY: https://simapan.tangerangkab.go.id/ckeditor/plugins/flash/
+==> DIRECTORY: https://simapan.tangerangkab.go.id/ckeditor/plugins/forms/
+==> DIRECTORY: https://simapan.tangerangkab.go.id/ckeditor/plugins/iframe/
+==> DIRECTORY: https://simapan.tangerangkab.go.id/ckeditor/plugins/image/
+==> DIRECTORY: https://simapan.tangerangkab.go.id/ckeditor/plugins/link/
+==> DIRECTORY: https://simapan.tangerangkab.go.id/ckeditor/plugins/preview/
+==> DIRECTORY: https://simapan.tangerangkab.go.id/ckeditor/plugins/table/
+==> DIRECTORY: https://simapan.tangerangkab.go.id/ckeditor/plugins/templates/
+==> DIRECTORY: https://simapan.tangerangkab.go.id/ckeditor/plugins/widget/
+
+---- Entering directory: https://simapan.tangerangkab.go.id/ckeditor/samples/ ----

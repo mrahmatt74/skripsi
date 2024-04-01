@@ -1,0 +1,126 @@
+
+-----------------
+DIRB v2.22    
+By The Dark Raver
+-----------------
+
+OUTPUT_FILE: perpusip.txt
+START_TIME: Sun Mar 31 17:51:15 2024
+URL_BASE: https://perpusip.tangerangkab.go.id/
+WORDLIST_FILES: /usr/share/dirb/wordlists/common.txt
+
+-----------------
+
+GENERATED WORDS: 4612
+
+---- Scanning URL: https://perpusip.tangerangkab.go.id/ ----
++ https://perpusip.tangerangkab.go.id/admin (CODE:302|SIZE:386)
++ https://perpusip.tangerangkab.go.id/auth (CODE:302|SIZE:1450)
++ https://perpusip.tangerangkab.go.id/captcha (CODE:200|SIZE:9865)
+==> DIRECTORY: https://perpusip.tangerangkab.go.id/cms/
+==> DIRECTORY: https://perpusip.tangerangkab.go.id/css/
++ https://perpusip.tangerangkab.go.id/favicon.ico (CODE:200|SIZE:0)
++ https://perpusip.tangerangkab.go.id/index.php (CODE:200|SIZE:13647)
+==> DIRECTORY: https://perpusip.tangerangkab.go.id/js/
++ https://perpusip.tangerangkab.go.id/logs (CODE:302|SIZE:386)
+==> DIRECTORY: https://perpusip.tangerangkab.go.id/media/
+==> DIRECTORY: https://perpusip.tangerangkab.go.id/plugins/
++ https://perpusip.tangerangkab.go.id/push (CODE:405|SIZE:1009)
++ https://perpusip.tangerangkab.go.id/robots.txt (CODE:200|SIZE:24)
+==> DIRECTORY: https://perpusip.tangerangkab.go.id/storage/
+==> DIRECTORY: https://perpusip.tangerangkab.go.id/vendor/
++ https://perpusip.tangerangkab.go.id/web.config (CODE:200|SIZE:1183)
+
+---- Entering directory: https://perpusip.tangerangkab.go.id/cms/ ----
+
+---- Entering directory: https://perpusip.tangerangkab.go.id/css/ ----
+
+---- Entering directory: https://perpusip.tangerangkab.go.id/js/ ----
+==> DIRECTORY: https://perpusip.tangerangkab.go.id/js/custom/
+
+---- Entering directory: https://perpusip.tangerangkab.go.id/media/ ----
+==> DIRECTORY: https://perpusip.tangerangkab.go.id/media/avatars/
+==> DIRECTORY: https://perpusip.tangerangkab.go.id/media/flags/
+==> DIRECTORY: https://perpusip.tangerangkab.go.id/media/icons/
+==> DIRECTORY: https://perpusip.tangerangkab.go.id/media/logos/
+==> DIRECTORY: https://perpusip.tangerangkab.go.id/media/misc/
+==> DIRECTORY: https://perpusip.tangerangkab.go.id/media/products/
+==> DIRECTORY: https://perpusip.tangerangkab.go.id/media/stock/
+
+---- Entering directory: https://perpusip.tangerangkab.go.id/plugins/ ----
+==> DIRECTORY: https://perpusip.tangerangkab.go.id/plugins/custom/
+==> DIRECTORY: https://perpusip.tangerangkab.go.id/plugins/global/
+
+---- Entering directory: https://perpusip.tangerangkab.go.id/storage/ ----
+==> DIRECTORY: https://perpusip.tangerangkab.go.id/storage/archive/
+==> DIRECTORY: https://perpusip.tangerangkab.go.id/storage/archives/
+==> DIRECTORY: https://perpusip.tangerangkab.go.id/storage/guide/
+==> DIRECTORY: https://perpusip.tangerangkab.go.id/storage/requests/
+
+---- Entering directory: https://perpusip.tangerangkab.go.id/vendor/ ----
+
+---- Entering directory: https://perpusip.tangerangkab.go.id/js/custom/ ----
+==> DIRECTORY: https://perpusip.tangerangkab.go.id/js/custom/authentication/
+==> DIRECTORY: https://perpusip.tangerangkab.go.id/js/custom/button/
+==> DIRECTORY: https://perpusip.tangerangkab.go.id/js/custom/chart/
+==> DIRECTORY: https://perpusip.tangerangkab.go.id/js/custom/documentation/
+==> DIRECTORY: https://perpusip.tangerangkab.go.id/js/custom/form/
+
+---- Entering directory: https://perpusip.tangerangkab.go.id/media/avatars/ ----
+
+---- Entering directory: https://perpusip.tangerangkab.go.id/media/flags/ ----
+
+---- Entering directory: https://perpusip.tangerangkab.go.id/media/icons/ ----
+
+---- Entering directory: https://perpusip.tangerangkab.go.id/media/logos/ ----
++ https://perpusip.tangerangkab.go.id/media/logos/favicon.ico (CODE:200|SIZE:18278)
+
+---- Entering directory: https://perpusip.tangerangkab.go.id/media/misc/ ----
+
+---- Entering directory: https://perpusip.tangerangkab.go.id/media/products/ ----
+
+---- Entering directory: https://perpusip.tangerangkab.go.id/media/stock/ ----
+
+---- Entering directory: https://perpusip.tangerangkab.go.id/plugins/custom/ ----
+
+---- Entering directory: https://perpusip.tangerangkab.go.id/plugins/global/ ----
+==> DIRECTORY: https://perpusip.tangerangkab.go.id/plugins/global/fonts/
+
+---- Entering directory: https://perpusip.tangerangkab.go.id/storage/archive/ ----
+
+---- Entering directory: https://perpusip.tangerangkab.go.id/storage/archives/ ----
+
+---- Entering directory: https://perpusip.tangerangkab.go.id/storage/guide/ ----
+
+---- Entering directory: https://perpusip.tangerangkab.go.id/storage/requests/ ----
+
+---- Entering directory: https://perpusip.tangerangkab.go.id/js/custom/authentication/ ----
+==> DIRECTORY: https://perpusip.tangerangkab.go.id/js/custom/authentication/sign-up/
+
+---- Entering directory: https://perpusip.tangerangkab.go.id/js/custom/button/ ----
+
+---- Entering directory: https://perpusip.tangerangkab.go.id/js/custom/chart/ ----
+
+---- Entering directory: https://perpusip.tangerangkab.go.id/js/custom/documentation/ ----
+==> DIRECTORY: https://perpusip.tangerangkab.go.id/js/custom/documentation/base/
+==> DIRECTORY: https://perpusip.tangerangkab.go.id/js/custom/documentation/charts/
+==> DIRECTORY: https://perpusip.tangerangkab.go.id/js/custom/documentation/forms/
+==> DIRECTORY: https://perpusip.tangerangkab.go.id/js/custom/documentation/general/
+
+---- Entering directory: https://perpusip.tangerangkab.go.id/js/custom/form/ ----
+
+---- Entering directory: https://perpusip.tangerangkab.go.id/plugins/global/fonts/ ----
+
+---- Entering directory: https://perpusip.tangerangkab.go.id/js/custom/authentication/sign-up/ ----
+
+---- Entering directory: https://perpusip.tangerangkab.go.id/js/custom/documentation/base/ ----
+
+---- Entering directory: https://perpusip.tangerangkab.go.id/js/custom/documentation/charts/ ----
+
+---- Entering directory: https://perpusip.tangerangkab.go.id/js/custom/documentation/forms/ ----
+
+---- Entering directory: https://perpusip.tangerangkab.go.id/js/custom/documentation/general/ ----
+
+-----------------
+END_TIME: Sun Mar 31 18:42:05 2024
+DOWNLOADED: 152196 - FOUND: 10

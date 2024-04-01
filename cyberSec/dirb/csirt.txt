@@ -1,0 +1,63 @@
+
+-----------------
+DIRB v2.22    
+By The Dark Raver
+-----------------
+
+OUTPUT_FILE: csirt.txt
+START_TIME: Sat Mar 30 02:37:01 2024
+URL_BASE: https://dinkes.tangerangkab.go.id/
+WORDLIST_FILES: /usr/share/dirb/wordlists/common.txt
+
+-----------------
+
+GENERATED WORDS: 4612
+
+---- Scanning URL: https://dinkes.tangerangkab.go.id/ ----
+
+-----------------
+DIRB v2.22    
+By The Dark Raver
+-----------------
+
+OUTPUT_FILE: csirt.txt
+START_TIME: Sat Mar 30 02:37:09 2024
+URL_BASE: https://csirt.tangerangkab.go.id/
+WORDLIST_FILES: /usr/share/dirb/wordlists/common.txt
+
+-----------------
+
+GENERATED WORDS: 4612
+
+---- Scanning URL: https://csirt.tangerangkab.go.id/ ----
++ https://csirt.tangerangkab.go.id/contact (CODE:200|SIZE:9121)
+==> DIRECTORY: https://csirt.tangerangkab.go.id/css/
++ https://csirt.tangerangkab.go.id/dashboard (CODE:302|SIZE:422)
++ https://csirt.tangerangkab.go.id/favicon.ico (CODE:200|SIZE:0)
++ https://csirt.tangerangkab.go.id/file (CODE:200|SIZE:8426)
+==> DIRECTORY: https://csirt.tangerangkab.go.id/img/
++ https://csirt.tangerangkab.go.id/index.php (CODE:200|SIZE:17804)
+==> DIRECTORY: https://csirt.tangerangkab.go.id/js/
++ https://csirt.tangerangkab.go.id/posts (CODE:200|SIZE:16360)
++ https://csirt.tangerangkab.go.id/profil (CODE:200|SIZE:9216)
++ https://csirt.tangerangkab.go.id/robots.txt (CODE:200|SIZE:24)
++ https://csirt.tangerangkab.go.id/service (CODE:200|SIZE:9359)
+==> DIRECTORY: https://csirt.tangerangkab.go.id/storage/
+
+---- Entering directory: https://csirt.tangerangkab.go.id/css/ ----
+
+---- Entering directory: https://csirt.tangerangkab.go.id/img/ ----
+
+---- Entering directory: https://csirt.tangerangkab.go.id/js/ ----
+
+---- Entering directory: https://csirt.tangerangkab.go.id/storage/ ----
+==> DIRECTORY: https://csirt.tangerangkab.go.id/storage/pics/
+==> DIRECTORY: https://csirt.tangerangkab.go.id/storage/uploads/
+
+---- Entering directory: https://csirt.tangerangkab.go.id/storage/pics/ ----
+
+---- Entering directory: https://csirt.tangerangkab.go.id/storage/uploads/ ----
+
+-----------------
+END_TIME: Sat Mar 30 03:10:05 2024
+DOWNLOADED: 32284 - FOUND: 9

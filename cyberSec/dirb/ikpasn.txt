@@ -1,0 +1,36 @@
+
+-----------------
+DIRB v2.22    
+By The Dark Raver
+-----------------
+
+OUTPUT_FILE: ikpasn.txt
+START_TIME: Sun Mar 31 08:44:31 2024
+URL_BASE: https://ikpasn.tangerangkab.go.id/
+WORDLIST_FILES: /usr/share/dirb/wordlists/common.txt
+
+-----------------
+
+GENERATED WORDS: 4612
+
+---- Scanning URL: https://ikpasn.tangerangkab.go.id/ ----
++ https://ikpasn.tangerangkab.go.id/.htaccess (CODE:200|SIZE:593)
++ https://ikpasn.tangerangkab.go.id/favicon.ico (CODE:200|SIZE:0)
+==> DIRECTORY: https://ikpasn.tangerangkab.go.id/fonts/
+==> DIRECTORY: https://ikpasn.tangerangkab.go.id/images/
++ https://ikpasn.tangerangkab.go.id/index.php (CODE:200|SIZE:1590)
++ https://ikpasn.tangerangkab.go.id/robots.txt (CODE:200|SIZE:24)
+==> DIRECTORY: https://ikpasn.tangerangkab.go.id/scripts/
+==> DIRECTORY: https://ikpasn.tangerangkab.go.id/styles/
+
+---- Entering directory: https://ikpasn.tangerangkab.go.id/fonts/ ----
+
+---- Entering directory: https://ikpasn.tangerangkab.go.id/images/ ----
+
+---- Entering directory: https://ikpasn.tangerangkab.go.id/scripts/ ----
+
+---- Entering directory: https://ikpasn.tangerangkab.go.id/styles/ ----
+
+-----------------
+END_TIME: Sun Mar 31 08:57:53 2024
+DOWNLOADED: 23060 - FOUND: 4

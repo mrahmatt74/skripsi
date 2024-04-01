@@ -1,0 +1,36 @@
+# Dirsearch started Fri Mar 29 08:55:43 2024 as: /usr/lib/python3/dist-packages/dirsearch/dirsearch.py -u https://itangkab.tangerangkab.go.id -o itangkab.txt
+
+500    38KB  https://itangkab.tangerangkab.go.id/!.htpasswd
+500    38KB  https://itangkab.tangerangkab.go.id/!.htaccess
+500    38KB  https://itangkab.tangerangkab.go.id/%2e%2e//google.com
+500    38KB  https://itangkab.tangerangkab.go.id/.%2e/%2e%2e/%2e%2e/%2e%2e/etc/passwd
+500    38KB  https://itangkab.tangerangkab.go.id/+CSCOT+/translation-table?type=mst&textdomain=/%2bCSCOE%2b/portal_inc.lua&default-language&lang=../
+500    38KB  https://itangkab.tangerangkab.go.id/.bzrignore
+500    38KB  https://itangkab.tangerangkab.go.id/.ds_store
+403     1KB  https://itangkab.tangerangkab.go.id/.git/branches/
+403     1KB  https://itangkab.tangerangkab.go.id/.git/COMMIT_EDITMSG
+403     1KB  https://itangkab.tangerangkab.go.id/.git/
+403     1KB  https://itangkab.tangerangkab.go.id/.git/description
+403     1KB  https://itangkab.tangerangkab.go.id/.git/FETCH_HEAD
+500    38KB  https://itangkab.tangerangkab.go.id/.git/HEAD
+403     1KB  https://itangkab.tangerangkab.go.id/.git/hooks/
+403     1KB  https://itangkab.tangerangkab.go.id/.git/hooks/pre-applypatch
+500    38KB  https://itangkab.tangerangkab.go.id/.git/head
+403     1KB  https://itangkab.tangerangkab.go.id/.git/hooks/post-update
+403     1KB  https://itangkab.tangerangkab.go.id/.git/hooks/pre-rebase
+403     1KB  https://itangkab.tangerangkab.go.id/.git/hooks/update
+403     1KB  https://itangkab.tangerangkab.go.id/.git/logs/
+403     1KB  https://itangkab.tangerangkab.go.id/.git/logs/refs/heads/master
+403     1KB  https://itangkab.tangerangkab.go.id/.git/logs/refs/remotes
+403     1KB  https://itangkab.tangerangkab.go.id/.git/logs/refs/remotes/origin/HEAD
+500    38KB  https://itangkab.tangerangkab.go.id/.git/config
+403     1KB  https://itangkab.tangerangkab.go.id/.git/objects/
+403     1KB  https://itangkab.tangerangkab.go.id/.git/objects/info/packs
+403     1KB  https://itangkab.tangerangkab.go.id/.git/refs/remotes
+403     1KB  https://itangkab.tangerangkab.go.id/.git/logs/refs/heads
+403     1KB  https://itangkab.tangerangkab.go.id/.git/packed-refs
+403     1KB  https://itangkab.tangerangkab.go.id/.git/logs/refs/remotes/origin/master
+403     1KB  https://itangkab.tangerangkab.go.id/.hg/branch
+403     1KB  https://itangkab.tangerangkab.go.id/.hg/requires
+500    38KB  https://itangkab.tangerangkab.go.id/.htaccess.bak1
+500    38KB  https://itangkab.tangerangkab.go.id/.gitignore.orig

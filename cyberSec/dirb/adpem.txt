@@ -1,0 +1,50 @@
+
+-----------------
+DIRB v2.22    
+By The Dark Raver
+-----------------
+
+OUTPUT_FILE: adpem.txt
+START_TIME: Sat Mar 30 01:31:38 2024
+URL_BASE: https://adpem.tangerangkab.go.id/
+WORDLIST_FILES: /usr/share/dirb/wordlists/common.txt
+
+-----------------
+
+GENERATED WORDS: 4612
+
+---- Scanning URL: https://adpem.tangerangkab.go.id/ ----
+==> DIRECTORY: https://adpem.tangerangkab.go.id/css/
++ https://adpem.tangerangkab.go.id/dashboard (CODE:302|SIZE:398)
++ https://adpem.tangerangkab.go.id/favicon.ico (CODE:200|SIZE:0)
+==> DIRECTORY: https://adpem.tangerangkab.go.id/frontend/
++ https://adpem.tangerangkab.go.id/index.php (CODE:200|SIZE:27766)
+==> DIRECTORY: https://adpem.tangerangkab.go.id/js/
++ https://adpem.tangerangkab.go.id/login (CODE:200|SIZE:4852)
++ https://adpem.tangerangkab.go.id/logout (CODE:405|SIZE:1009)
++ https://adpem.tangerangkab.go.id/logs (CODE:302|SIZE:398)
++ https://adpem.tangerangkab.go.id/profil (CODE:302|SIZE:398)
++ https://adpem.tangerangkab.go.id/robots.txt (CODE:200|SIZE:24)
+==> DIRECTORY: https://adpem.tangerangkab.go.id/storage/
+==> DIRECTORY: https://adpem.tangerangkab.go.id/theme/
++ https://adpem.tangerangkab.go.id/web.config (CODE:200|SIZE:1183)
+
+---- Entering directory: https://adpem.tangerangkab.go.id/css/ ----
+
+---- Entering directory: https://adpem.tangerangkab.go.id/frontend/ ----
+==> DIRECTORY: https://adpem.tangerangkab.go.id/frontend/css/
+==> DIRECTORY: https://adpem.tangerangkab.go.id/frontend/img/
+==> DIRECTORY: https://adpem.tangerangkab.go.id/frontend/js/
+==> DIRECTORY: https://adpem.tangerangkab.go.id/frontend/vendor/
+
+---- Entering directory: https://adpem.tangerangkab.go.id/js/ ----
+
+---- Entering directory: https://adpem.tangerangkab.go.id/storage/ ----
+==> DIRECTORY: https://adpem.tangerangkab.go.id/storage/cover/
+
+(!) FATAL: Too many errors connecting to host
+    (Possible cause: OPERATION TIMEOUT)
+
+-----------------
+END_TIME: Sat Mar 30 02:25:02 2024
+DOWNLOADED: 20713 - FOUND: 9

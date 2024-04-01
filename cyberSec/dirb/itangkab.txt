@@ -1,0 +1,65 @@
+
+-----------------
+DIRB v2.22    
+By The Dark Raver
+-----------------
+
+OUTPUT_FILE: itangkab.txt
+START_TIME: Sun Mar 31 09:14:52 2024
+URL_BASE: https://itangkab.tangerangkab.go.id/
+WORDLIST_FILES: /usr/share/dirb/wordlists/common.txt
+
+-----------------
+
+GENERATED WORDS: 4612
+
+---- Scanning URL: https://itangkab.tangerangkab.go.id/ ----
++ https://itangkab.tangerangkab.go.id/.git/HEAD (CODE:500|SIZE:39130)
++ https://itangkab.tangerangkab.go.id/.htaccess (CODE:500|SIZE:39130)
++ https://itangkab.tangerangkab.go.id/.htpasswd (CODE:500|SIZE:39130)
++ https://itangkab.tangerangkab.go.id/.svn (CODE:403|SIZE:1154)
++ https://itangkab.tangerangkab.go.id/.svn/entries (CODE:500|SIZE:39133)
+==> DIRECTORY: https://itangkab.tangerangkab.go.id/~adm/
+==> DIRECTORY: https://itangkab.tangerangkab.go.id/~admin/
+==> DIRECTORY: https://itangkab.tangerangkab.go.id/~administrator/
+==> DIRECTORY: https://itangkab.tangerangkab.go.id/~amanda/
+==> DIRECTORY: https://itangkab.tangerangkab.go.id/~apache/
+==> DIRECTORY: https://itangkab.tangerangkab.go.id/~bin/
+==> DIRECTORY: https://itangkab.tangerangkab.go.id/~ftp/
+==> DIRECTORY: https://itangkab.tangerangkab.go.id/~guest/
+==> DIRECTORY: https://itangkab.tangerangkab.go.id/~http/
+==> DIRECTORY: https://itangkab.tangerangkab.go.id/~httpd/
+==> DIRECTORY: https://itangkab.tangerangkab.go.id/~log/
+==> DIRECTORY: https://itangkab.tangerangkab.go.id/~logs/
+==> DIRECTORY: https://itangkab.tangerangkab.go.id/~lp/
+==> DIRECTORY: https://itangkab.tangerangkab.go.id/~mail/
+==> DIRECTORY: https://itangkab.tangerangkab.go.id/~nobody/
+==> DIRECTORY: https://itangkab.tangerangkab.go.id/~operator/
+==> DIRECTORY: https://itangkab.tangerangkab.go.id/~root/
+==> DIRECTORY: https://itangkab.tangerangkab.go.id/~sys/
+==> DIRECTORY: https://itangkab.tangerangkab.go.id/~sysadm/
+==> DIRECTORY: https://itangkab.tangerangkab.go.id/~sysadmin/
+==> DIRECTORY: https://itangkab.tangerangkab.go.id/~test/
+==> DIRECTORY: https://itangkab.tangerangkab.go.id/~tmp/
+==> DIRECTORY: https://itangkab.tangerangkab.go.id/~user/
+==> DIRECTORY: https://itangkab.tangerangkab.go.id/~webmaster/
+==> DIRECTORY: https://itangkab.tangerangkab.go.id/~www/
++ https://itangkab.tangerangkab.go.id/aux (CODE:500|SIZE:39124)
+==> DIRECTORY: https://itangkab.tangerangkab.go.id/bandwidth/
+==> DIRECTORY: https://itangkab.tangerangkab.go.id/cgi-bin/
++ https://itangkab.tangerangkab.go.id/cgi-bin/ (CODE:403|SIZE:1154)
+==> DIRECTORY: https://itangkab.tangerangkab.go.id/cgi-sys/
++ https://itangkab.tangerangkab.go.id/com1 (CODE:500|SIZE:39125)
++ https://itangkab.tangerangkab.go.id/com2 (CODE:500|SIZE:39125)
++ https://itangkab.tangerangkab.go.id/com3 (CODE:500|SIZE:39125)
++ https://itangkab.tangerangkab.go.id/controlpanel (CODE:200|SIZE:34784)
++ https://itangkab.tangerangkab.go.id/cpanel (CODE:200|SIZE:34784)
++ https://itangkab.tangerangkab.go.id/CVS/Entries (CODE:500|SIZE:39132)
+==> DIRECTORY: https://itangkab.tangerangkab.go.id/en/
+
+(!) FATAL: Too many errors connecting to host
+    (Possible cause: SSL CONNECT ERROR)
+
+-----------------
+END_TIME: Sun Mar 31 09:15:39 2024
+DOWNLOADED: 1799 - FOUND: 13

@@ -1,0 +1,386 @@
+
+-----------------
+DIRB v2.22    
+By The Dark Raver
+-----------------
+
+OUTPUT_FILE: latinostgemilang.txt
+START_TIME: Sun Mar 31 09:29:19 2024
+URL_BASE: https://latinostgemilang.tangerangkab.go.id/
+WORDLIST_FILES: /usr/share/dirb/wordlists/common.txt
+
+-----------------
+
+GENERATED WORDS: 4612
+
+---- Scanning URL: https://latinostgemilang.tangerangkab.go.id/ ----
++ https://latinostgemilang.tangerangkab.go.id/.git/HEAD (CODE:500|SIZE:39138)
++ https://latinostgemilang.tangerangkab.go.id/.htaccess (CODE:500|SIZE:39138)
++ https://latinostgemilang.tangerangkab.go.id/.htpasswd (CODE:500|SIZE:39138)
++ https://latinostgemilang.tangerangkab.go.id/.profile (CODE:403|SIZE:1154)
++ https://latinostgemilang.tangerangkab.go.id/.svn (CODE:403|SIZE:1154)
++ https://latinostgemilang.tangerangkab.go.id/.svn/entries (CODE:500|SIZE:39141)
+==> DIRECTORY: https://latinostgemilang.tangerangkab.go.id/~adm/
+==> DIRECTORY: https://latinostgemilang.tangerangkab.go.id/~admin/
+==> DIRECTORY: https://latinostgemilang.tangerangkab.go.id/~administrator/
+==> DIRECTORY: https://latinostgemilang.tangerangkab.go.id/~amanda/
+==> DIRECTORY: https://latinostgemilang.tangerangkab.go.id/~apache/
+==> DIRECTORY: https://latinostgemilang.tangerangkab.go.id/~bin/
+==> DIRECTORY: https://latinostgemilang.tangerangkab.go.id/~ftp/
+==> DIRECTORY: https://latinostgemilang.tangerangkab.go.id/~guest/
+==> DIRECTORY: https://latinostgemilang.tangerangkab.go.id/~http/
+==> DIRECTORY: https://latinostgemilang.tangerangkab.go.id/~httpd/
+==> DIRECTORY: https://latinostgemilang.tangerangkab.go.id/~log/
+==> DIRECTORY: https://latinostgemilang.tangerangkab.go.id/~logs/
+==> DIRECTORY: https://latinostgemilang.tangerangkab.go.id/~lp/
+==> DIRECTORY: https://latinostgemilang.tangerangkab.go.id/~mail/
+==> DIRECTORY: https://latinostgemilang.tangerangkab.go.id/~nobody/
+==> DIRECTORY: https://latinostgemilang.tangerangkab.go.id/~operator/
+==> DIRECTORY: https://latinostgemilang.tangerangkab.go.id/~root/
+==> DIRECTORY: https://latinostgemilang.tangerangkab.go.id/~sys/
+==> DIRECTORY: https://latinostgemilang.tangerangkab.go.id/~sysadm/
+==> DIRECTORY: https://latinostgemilang.tangerangkab.go.id/~sysadmin/
+==> DIRECTORY: https://latinostgemilang.tangerangkab.go.id/~test/
+==> DIRECTORY: https://latinostgemilang.tangerangkab.go.id/~tmp/
+==> DIRECTORY: https://latinostgemilang.tangerangkab.go.id/~user/
+==> DIRECTORY: https://latinostgemilang.tangerangkab.go.id/~webmaster/
+==> DIRECTORY: https://latinostgemilang.tangerangkab.go.id/~www/
++ https://latinostgemilang.tangerangkab.go.id/404 (CODE:500|SIZE:1191771)
++ https://latinostgemilang.tangerangkab.go.id/aux (CODE:500|SIZE:39132)
+==> DIRECTORY: https://latinostgemilang.tangerangkab.go.id/bandwidth/
+==> DIRECTORY: https://latinostgemilang.tangerangkab.go.id/build/
+==> DIRECTORY: https://latinostgemilang.tangerangkab.go.id/cgi-bin/
++ https://latinostgemilang.tangerangkab.go.id/cgi-bin/ (CODE:403|SIZE:1154)
+==> DIRECTORY: https://latinostgemilang.tangerangkab.go.id/cgi-sys/
++ https://latinostgemilang.tangerangkab.go.id/com1 (CODE:500|SIZE:39133)
++ https://latinostgemilang.tangerangkab.go.id/com2 (CODE:500|SIZE:39133)
++ https://latinostgemilang.tangerangkab.go.id/com3 (CODE:500|SIZE:39133)
++ https://latinostgemilang.tangerangkab.go.id/controlpanel (CODE:200|SIZE:34872)
++ https://latinostgemilang.tangerangkab.go.id/cpanel (CODE:200|SIZE:34872)
+==> DIRECTORY: https://latinostgemilang.tangerangkab.go.id/css/
++ https://latinostgemilang.tangerangkab.go.id/CVS/Entries (CODE:500|SIZE:39140)
++ https://latinostgemilang.tangerangkab.go.id/dashboard (CODE:302|SIZE:442)
++ https://latinostgemilang.tangerangkab.go.id/favicon.ico (CODE:200|SIZE:0)
++ https://latinostgemilang.tangerangkab.go.id/forgot-password (CODE:200|SIZE:3255)
++ https://latinostgemilang.tangerangkab.go.id/global.asa (CODE:500|SIZE:39139)
++ https://latinostgemilang.tangerangkab.go.id/index.php (CODE:200|SIZE:4244)
+==> DIRECTORY: https://latinostgemilang.tangerangkab.go.id/java-sys/
++ https://latinostgemilang.tangerangkab.go.id/login (CODE:200|SIZE:4234)
++ https://latinostgemilang.tangerangkab.go.id/logout (CODE:405|SIZE:1043701)
++ https://latinostgemilang.tangerangkab.go.id/lpt1 (CODE:500|SIZE:39133)
++ https://latinostgemilang.tangerangkab.go.id/lpt2 (CODE:500|SIZE:39133)
+==> DIRECTORY: https://latinostgemilang.tangerangkab.go.id/mailman/
++ https://latinostgemilang.tangerangkab.go.id/password (CODE:405|SIZE:1043803)
+==> DIRECTORY: https://latinostgemilang.tangerangkab.go.id/pipermail/
++ https://latinostgemilang.tangerangkab.go.id/prn (CODE:500|SIZE:39132)
++ https://latinostgemilang.tangerangkab.go.id/profile (CODE:302|SIZE:442)
++ https://latinostgemilang.tangerangkab.go.id/readfile (CODE:500|SIZE:39137)
++ https://latinostgemilang.tangerangkab.go.id/register (CODE:302|SIZE:442)
++ https://latinostgemilang.tangerangkab.go.id/robots.txt (CODE:200|SIZE:24)
++ https://latinostgemilang.tangerangkab.go.id/roles (CODE:302|SIZE:442)
+==> DIRECTORY: https://latinostgemilang.tangerangkab.go.id/storage/
++ https://latinostgemilang.tangerangkab.go.id/users (CODE:302|SIZE:442)
+==> DIRECTORY: https://latinostgemilang.tangerangkab.go.id/vendor/
++ https://latinostgemilang.tangerangkab.go.id/webmail (CODE:200|SIZE:34877)
++ https://latinostgemilang.tangerangkab.go.id/WS_FTP.LOG (CODE:500|SIZE:39139)
+
+---- Entering directory: https://latinostgemilang.tangerangkab.go.id/~adm/ ----
++ https://latinostgemilang.tangerangkab.go.id/~adm/.git/HEAD (CODE:500|SIZE:39143)
++ https://latinostgemilang.tangerangkab.go.id/~adm/.htaccess (CODE:500|SIZE:39143)
++ https://latinostgemilang.tangerangkab.go.id/~adm/.htpasswd (CODE:500|SIZE:39143)
++ https://latinostgemilang.tangerangkab.go.id/~adm/.svn (CODE:403|SIZE:1154)
++ https://latinostgemilang.tangerangkab.go.id/~adm/.svn/entries (CODE:500|SIZE:39146)
++ https://latinostgemilang.tangerangkab.go.id/~adm/cgi-bin/ (CODE:301|SIZE:707)
++ https://latinostgemilang.tangerangkab.go.id/~adm/com1 (CODE:500|SIZE:39138)
++ https://latinostgemilang.tangerangkab.go.id/~adm/com2 (CODE:500|SIZE:39138)
++ https://latinostgemilang.tangerangkab.go.id/~adm/com3 (CODE:500|SIZE:39138)
++ https://latinostgemilang.tangerangkab.go.id/~adm/CVS/Entries (CODE:500|SIZE:39145)
++ https://latinostgemilang.tangerangkab.go.id/~adm/global.asa (CODE:500|SIZE:39144)
++ https://latinostgemilang.tangerangkab.go.id/~adm/lpt1 (CODE:500|SIZE:39138)
++ https://latinostgemilang.tangerangkab.go.id/~adm/lpt2 (CODE:500|SIZE:39138)
++ https://latinostgemilang.tangerangkab.go.id/~adm/readfile (CODE:500|SIZE:39142)
++ https://latinostgemilang.tangerangkab.go.id/~adm/WS_FTP.LOG (CODE:500|SIZE:39144)
+
+---- Entering directory: https://latinostgemilang.tangerangkab.go.id/~admin/ ----
++ https://latinostgemilang.tangerangkab.go.id/~admin/.git/HEAD (CODE:500|SIZE:39145)
++ https://latinostgemilang.tangerangkab.go.id/~admin/.htaccess (CODE:500|SIZE:39145)
++ https://latinostgemilang.tangerangkab.go.id/~admin/.htpasswd (CODE:500|SIZE:39145)
++ https://latinostgemilang.tangerangkab.go.id/~admin/.svn (CODE:403|SIZE:1154)
++ https://latinostgemilang.tangerangkab.go.id/~admin/.svn/entries (CODE:500|SIZE:39148)
++ https://latinostgemilang.tangerangkab.go.id/~admin/cgi-bin/ (CODE:301|SIZE:707)
++ https://latinostgemilang.tangerangkab.go.id/~admin/com1 (CODE:500|SIZE:39140)
++ https://latinostgemilang.tangerangkab.go.id/~admin/com2 (CODE:500|SIZE:39140)
++ https://latinostgemilang.tangerangkab.go.id/~admin/com3 (CODE:500|SIZE:39140)
++ https://latinostgemilang.tangerangkab.go.id/~admin/CVS/Entries (CODE:500|SIZE:39147)
++ https://latinostgemilang.tangerangkab.go.id/~admin/global.asa (CODE:500|SIZE:39146)
++ https://latinostgemilang.tangerangkab.go.id/~admin/lpt1 (CODE:500|SIZE:39140)
++ https://latinostgemilang.tangerangkab.go.id/~admin/lpt2 (CODE:500|SIZE:39140)
++ https://latinostgemilang.tangerangkab.go.id/~admin/readfile (CODE:500|SIZE:39144)
++ https://latinostgemilang.tangerangkab.go.id/~admin/WS_FTP.LOG (CODE:500|SIZE:39146)
+
+---- Entering directory: https://latinostgemilang.tangerangkab.go.id/~administrator/ ----
++ https://latinostgemilang.tangerangkab.go.id/~administrator/.git/HEAD (CODE:500|SIZE:39153)
++ https://latinostgemilang.tangerangkab.go.id/~administrator/.htaccess (CODE:500|SIZE:39153)
++ https://latinostgemilang.tangerangkab.go.id/~administrator/.htpasswd (CODE:500|SIZE:39153)
++ https://latinostgemilang.tangerangkab.go.id/~administrator/.svn (CODE:403|SIZE:1154)
++ https://latinostgemilang.tangerangkab.go.id/~administrator/.svn/entries (CODE:500|SIZE:39156)
++ https://latinostgemilang.tangerangkab.go.id/~administrator/cgi-bin/ (CODE:301|SIZE:707)
++ https://latinostgemilang.tangerangkab.go.id/~administrator/com1 (CODE:500|SIZE:39148)
++ https://latinostgemilang.tangerangkab.go.id/~administrator/com2 (CODE:500|SIZE:39148)
++ https://latinostgemilang.tangerangkab.go.id/~administrator/com3 (CODE:500|SIZE:39148)
++ https://latinostgemilang.tangerangkab.go.id/~administrator/CVS/Entries (CODE:500|SIZE:39155)
++ https://latinostgemilang.tangerangkab.go.id/~administrator/global.asa (CODE:500|SIZE:39154)
++ https://latinostgemilang.tangerangkab.go.id/~administrator/lpt1 (CODE:500|SIZE:39148)
++ https://latinostgemilang.tangerangkab.go.id/~administrator/lpt2 (CODE:500|SIZE:39148)
++ https://latinostgemilang.tangerangkab.go.id/~administrator/readfile (CODE:500|SIZE:39152)
++ https://latinostgemilang.tangerangkab.go.id/~administrator/WS_FTP.LOG (CODE:500|SIZE:39154)
+
+---- Entering directory: https://latinostgemilang.tangerangkab.go.id/~amanda/ ----
++ https://latinostgemilang.tangerangkab.go.id/~amanda/.git/HEAD (CODE:500|SIZE:39146)
++ https://latinostgemilang.tangerangkab.go.id/~amanda/.htaccess (CODE:500|SIZE:39146)
++ https://latinostgemilang.tangerangkab.go.id/~amanda/.htpasswd (CODE:500|SIZE:39146)
++ https://latinostgemilang.tangerangkab.go.id/~amanda/.svn (CODE:403|SIZE:1154)
++ https://latinostgemilang.tangerangkab.go.id/~amanda/.svn/entries (CODE:500|SIZE:39149)
++ https://latinostgemilang.tangerangkab.go.id/~amanda/cgi-bin/ (CODE:301|SIZE:707)
++ https://latinostgemilang.tangerangkab.go.id/~amanda/com1 (CODE:500|SIZE:39141)
++ https://latinostgemilang.tangerangkab.go.id/~amanda/com2 (CODE:500|SIZE:39141)
++ https://latinostgemilang.tangerangkab.go.id/~amanda/com3 (CODE:500|SIZE:39141)
++ https://latinostgemilang.tangerangkab.go.id/~amanda/CVS/Entries (CODE:500|SIZE:39148)
++ https://latinostgemilang.tangerangkab.go.id/~amanda/global.asa (CODE:500|SIZE:39147)
++ https://latinostgemilang.tangerangkab.go.id/~amanda/lpt1 (CODE:500|SIZE:39141)
++ https://latinostgemilang.tangerangkab.go.id/~amanda/lpt2 (CODE:500|SIZE:39141)
++ https://latinostgemilang.tangerangkab.go.id/~amanda/readfile (CODE:500|SIZE:39145)
++ https://latinostgemilang.tangerangkab.go.id/~amanda/WS_FTP.LOG (CODE:500|SIZE:39147)
+
+---- Entering directory: https://latinostgemilang.tangerangkab.go.id/~apache/ ----
++ https://latinostgemilang.tangerangkab.go.id/~apache/.git/HEAD (CODE:500|SIZE:39146)
++ https://latinostgemilang.tangerangkab.go.id/~apache/.htaccess (CODE:500|SIZE:39146)
++ https://latinostgemilang.tangerangkab.go.id/~apache/.htpasswd (CODE:500|SIZE:39146)
++ https://latinostgemilang.tangerangkab.go.id/~apache/.svn (CODE:403|SIZE:1154)
++ https://latinostgemilang.tangerangkab.go.id/~apache/.svn/entries (CODE:500|SIZE:39149)
++ https://latinostgemilang.tangerangkab.go.id/~apache/cgi-bin/ (CODE:301|SIZE:707)
++ https://latinostgemilang.tangerangkab.go.id/~apache/com1 (CODE:500|SIZE:39141)
++ https://latinostgemilang.tangerangkab.go.id/~apache/com2 (CODE:500|SIZE:39141)
++ https://latinostgemilang.tangerangkab.go.id/~apache/com3 (CODE:500|SIZE:39141)
++ https://latinostgemilang.tangerangkab.go.id/~apache/CVS/Entries (CODE:500|SIZE:39148)
++ https://latinostgemilang.tangerangkab.go.id/~apache/global.asa (CODE:500|SIZE:39147)
++ https://latinostgemilang.tangerangkab.go.id/~apache/lpt1 (CODE:500|SIZE:39141)
++ https://latinostgemilang.tangerangkab.go.id/~apache/lpt2 (CODE:500|SIZE:39141)
++ https://latinostgemilang.tangerangkab.go.id/~apache/readfile (CODE:500|SIZE:39145)
++ https://latinostgemilang.tangerangkab.go.id/~apache/WS_FTP.LOG (CODE:500|SIZE:39148)
+
+---- Entering directory: https://latinostgemilang.tangerangkab.go.id/~bin/ ----
++ https://latinostgemilang.tangerangkab.go.id/~bin/.git/HEAD (CODE:500|SIZE:39144)
++ https://latinostgemilang.tangerangkab.go.id/~bin/.htaccess (CODE:500|SIZE:39144)
++ https://latinostgemilang.tangerangkab.go.id/~bin/.htpasswd (CODE:500|SIZE:39144)
++ https://latinostgemilang.tangerangkab.go.id/~bin/.svn (CODE:403|SIZE:1154)
++ https://latinostgemilang.tangerangkab.go.id/~bin/.svn/entries (CODE:500|SIZE:39147)
++ https://latinostgemilang.tangerangkab.go.id/~bin/cgi-bin/ (CODE:301|SIZE:707)
++ https://latinostgemilang.tangerangkab.go.id/~bin/com1 (CODE:500|SIZE:39139)
++ https://latinostgemilang.tangerangkab.go.id/~bin/com2 (CODE:500|SIZE:39139)
++ https://latinostgemilang.tangerangkab.go.id/~bin/com3 (CODE:500|SIZE:39139)
++ https://latinostgemilang.tangerangkab.go.id/~bin/CVS/Entries (CODE:500|SIZE:39146)
++ https://latinostgemilang.tangerangkab.go.id/~bin/global.asa (CODE:500|SIZE:39145)
++ https://latinostgemilang.tangerangkab.go.id/~bin/lpt1 (CODE:500|SIZE:39139)
++ https://latinostgemilang.tangerangkab.go.id/~bin/lpt2 (CODE:500|SIZE:39139)
++ https://latinostgemilang.tangerangkab.go.id/~bin/readfile (CODE:500|SIZE:39143)
++ https://latinostgemilang.tangerangkab.go.id/~bin/WS_FTP.LOG (CODE:500|SIZE:39145)
+
+---- Entering directory: https://latinostgemilang.tangerangkab.go.id/~ftp/ ----
++ https://latinostgemilang.tangerangkab.go.id/~ftp/.git/HEAD (CODE:500|SIZE:39144)
++ https://latinostgemilang.tangerangkab.go.id/~ftp/.htaccess (CODE:500|SIZE:39144)
++ https://latinostgemilang.tangerangkab.go.id/~ftp/.htpasswd (CODE:500|SIZE:39144)
++ https://latinostgemilang.tangerangkab.go.id/~ftp/.svn (CODE:403|SIZE:1154)
++ https://latinostgemilang.tangerangkab.go.id/~ftp/.svn/entries (CODE:500|SIZE:39147)
++ https://latinostgemilang.tangerangkab.go.id/~ftp/com1 (CODE:500|SIZE:39139)
++ https://latinostgemilang.tangerangkab.go.id/~ftp/com2 (CODE:500|SIZE:39139)
++ https://latinostgemilang.tangerangkab.go.id/~ftp/com3 (CODE:500|SIZE:39139)
++ https://latinostgemilang.tangerangkab.go.id/~ftp/CVS/Entries (CODE:500|SIZE:39146)
++ https://latinostgemilang.tangerangkab.go.id/~ftp/global.asa (CODE:500|SIZE:39145)
++ https://latinostgemilang.tangerangkab.go.id/~ftp/lpt1 (CODE:500|SIZE:39139)
++ https://latinostgemilang.tangerangkab.go.id/~ftp/lpt2 (CODE:500|SIZE:39139)
++ https://latinostgemilang.tangerangkab.go.id/~ftp/readfile (CODE:500|SIZE:39143)
++ https://latinostgemilang.tangerangkab.go.id/~ftp/WS_FTP.LOG (CODE:500|SIZE:39145)
+
+---- Entering directory: https://latinostgemilang.tangerangkab.go.id/~guest/ ----
++ https://latinostgemilang.tangerangkab.go.id/~guest/.git/HEAD (CODE:500|SIZE:39146)
++ https://latinostgemilang.tangerangkab.go.id/~guest/.htaccess (CODE:500|SIZE:39146)
++ https://latinostgemilang.tangerangkab.go.id/~guest/.htpasswd (CODE:500|SIZE:39146)
++ https://latinostgemilang.tangerangkab.go.id/~guest/.svn (CODE:403|SIZE:1154)
++ https://latinostgemilang.tangerangkab.go.id/~guest/.svn/entries (CODE:500|SIZE:39149)
++ https://latinostgemilang.tangerangkab.go.id/~guest/cgi-bin/ (CODE:301|SIZE:707)
++ https://latinostgemilang.tangerangkab.go.id/~guest/com1 (CODE:500|SIZE:39141)
++ https://latinostgemilang.tangerangkab.go.id/~guest/com2 (CODE:500|SIZE:39141)
++ https://latinostgemilang.tangerangkab.go.id/~guest/com3 (CODE:500|SIZE:39141)
++ https://latinostgemilang.tangerangkab.go.id/~guest/CVS/Entries (CODE:500|SIZE:39148)
++ https://latinostgemilang.tangerangkab.go.id/~guest/global.asa (CODE:500|SIZE:39147)
++ https://latinostgemilang.tangerangkab.go.id/~guest/lpt1 (CODE:500|SIZE:39141)
++ https://latinostgemilang.tangerangkab.go.id/~guest/lpt2 (CODE:500|SIZE:39141)
++ https://latinostgemilang.tangerangkab.go.id/~guest/readfile (CODE:500|SIZE:39145)
++ https://latinostgemilang.tangerangkab.go.id/~guest/WS_FTP.LOG (CODE:500|SIZE:39147)
+
+---- Entering directory: https://latinostgemilang.tangerangkab.go.id/~http/ ----
++ https://latinostgemilang.tangerangkab.go.id/~http/.git/HEAD (CODE:500|SIZE:39145)
++ https://latinostgemilang.tangerangkab.go.id/~http/.htaccess (CODE:500|SIZE:39145)
++ https://latinostgemilang.tangerangkab.go.id/~http/.htpasswd (CODE:500|SIZE:39145)
++ https://latinostgemilang.tangerangkab.go.id/~http/.svn (CODE:403|SIZE:1154)
++ https://latinostgemilang.tangerangkab.go.id/~http/.svn/entries (CODE:500|SIZE:39148)
++ https://latinostgemilang.tangerangkab.go.id/~http/cgi-bin/ (CODE:301|SIZE:707)
++ https://latinostgemilang.tangerangkab.go.id/~http/com1 (CODE:500|SIZE:39140)
++ https://latinostgemilang.tangerangkab.go.id/~http/com2 (CODE:500|SIZE:39140)
++ https://latinostgemilang.tangerangkab.go.id/~http/com3 (CODE:500|SIZE:39140)
++ https://latinostgemilang.tangerangkab.go.id/~http/CVS/Entries (CODE:500|SIZE:39147)
++ https://latinostgemilang.tangerangkab.go.id/~http/global.asa (CODE:500|SIZE:39146)
++ https://latinostgemilang.tangerangkab.go.id/~http/lpt1 (CODE:500|SIZE:39140)
++ https://latinostgemilang.tangerangkab.go.id/~http/lpt2 (CODE:500|SIZE:39140)
++ https://latinostgemilang.tangerangkab.go.id/~http/readfile (CODE:500|SIZE:39144)
++ https://latinostgemilang.tangerangkab.go.id/~http/WS_FTP.LOG (CODE:500|SIZE:39146)
+
+---- Entering directory: https://latinostgemilang.tangerangkab.go.id/~httpd/ ----
++ https://latinostgemilang.tangerangkab.go.id/~httpd/.git/HEAD (CODE:500|SIZE:39146)
++ https://latinostgemilang.tangerangkab.go.id/~httpd/.htaccess (CODE:500|SIZE:39146)
++ https://latinostgemilang.tangerangkab.go.id/~httpd/.htpasswd (CODE:500|SIZE:39146)
++ https://latinostgemilang.tangerangkab.go.id/~httpd/.svn (CODE:403|SIZE:1154)
++ https://latinostgemilang.tangerangkab.go.id/~httpd/.svn/entries (CODE:500|SIZE:39149)
++ https://latinostgemilang.tangerangkab.go.id/~httpd/cgi-bin/ (CODE:301|SIZE:707)
++ https://latinostgemilang.tangerangkab.go.id/~httpd/com1 (CODE:500|SIZE:39141)
++ https://latinostgemilang.tangerangkab.go.id/~httpd/com2 (CODE:500|SIZE:39141)
++ https://latinostgemilang.tangerangkab.go.id/~httpd/com3 (CODE:500|SIZE:39141)
++ https://latinostgemilang.tangerangkab.go.id/~httpd/CVS/Entries (CODE:500|SIZE:39148)
++ https://latinostgemilang.tangerangkab.go.id/~httpd/global.asa (CODE:500|SIZE:39147)
++ https://latinostgemilang.tangerangkab.go.id/~httpd/lpt1 (CODE:500|SIZE:39141)
++ https://latinostgemilang.tangerangkab.go.id/~httpd/lpt2 (CODE:500|SIZE:39141)
++ https://latinostgemilang.tangerangkab.go.id/~httpd/readfile (CODE:500|SIZE:39145)
++ https://latinostgemilang.tangerangkab.go.id/~httpd/WS_FTP.LOG (CODE:500|SIZE:39147)
+
+---- Entering directory: https://latinostgemilang.tangerangkab.go.id/~log/ ----
++ https://latinostgemilang.tangerangkab.go.id/~log/.git/HEAD (CODE:500|SIZE:39144)
++ https://latinostgemilang.tangerangkab.go.id/~log/.htaccess (CODE:500|SIZE:39144)
++ https://latinostgemilang.tangerangkab.go.id/~log/.htpasswd (CODE:500|SIZE:39144)
++ https://latinostgemilang.tangerangkab.go.id/~log/.svn (CODE:403|SIZE:1154)
++ https://latinostgemilang.tangerangkab.go.id/~log/.svn/entries (CODE:500|SIZE:39147)
++ https://latinostgemilang.tangerangkab.go.id/~log/cgi-bin/ (CODE:301|SIZE:707)
++ https://latinostgemilang.tangerangkab.go.id/~log/com1 (CODE:500|SIZE:39139)
++ https://latinostgemilang.tangerangkab.go.id/~log/com2 (CODE:500|SIZE:39139)
++ https://latinostgemilang.tangerangkab.go.id/~log/com3 (CODE:500|SIZE:39139)
++ https://latinostgemilang.tangerangkab.go.id/~log/CVS/Entries (CODE:500|SIZE:39146)
++ https://latinostgemilang.tangerangkab.go.id/~log/global.asa (CODE:500|SIZE:39145)
++ https://latinostgemilang.tangerangkab.go.id/~log/lpt1 (CODE:500|SIZE:39139)
++ https://latinostgemilang.tangerangkab.go.id/~log/lpt2 (CODE:500|SIZE:39139)
++ https://latinostgemilang.tangerangkab.go.id/~log/readfile (CODE:500|SIZE:39143)
++ https://latinostgemilang.tangerangkab.go.id/~log/WS_FTP.LOG (CODE:500|SIZE:39145)
+
+---- Entering directory: https://latinostgemilang.tangerangkab.go.id/~logs/ ----
++ https://latinostgemilang.tangerangkab.go.id/~logs/.git/HEAD (CODE:500|SIZE:39145)
++ https://latinostgemilang.tangerangkab.go.id/~logs/.htaccess (CODE:500|SIZE:39145)
++ https://latinostgemilang.tangerangkab.go.id/~logs/.htpasswd (CODE:500|SIZE:39145)
++ https://latinostgemilang.tangerangkab.go.id/~logs/.svn (CODE:403|SIZE:1154)
++ https://latinostgemilang.tangerangkab.go.id/~logs/.svn/entries (CODE:500|SIZE:39148)
++ https://latinostgemilang.tangerangkab.go.id/~logs/cgi-bin/ (CODE:301|SIZE:707)
++ https://latinostgemilang.tangerangkab.go.id/~logs/com1 (CODE:500|SIZE:39140)
++ https://latinostgemilang.tangerangkab.go.id/~logs/com2 (CODE:500|SIZE:39140)
++ https://latinostgemilang.tangerangkab.go.id/~logs/com3 (CODE:500|SIZE:39140)
++ https://latinostgemilang.tangerangkab.go.id/~logs/CVS/Entries (CODE:500|SIZE:39147)
++ https://latinostgemilang.tangerangkab.go.id/~logs/global.asa (CODE:500|SIZE:39146)
++ https://latinostgemilang.tangerangkab.go.id/~logs/lpt1 (CODE:500|SIZE:39140)
++ https://latinostgemilang.tangerangkab.go.id/~logs/lpt2 (CODE:500|SIZE:39140)
++ https://latinostgemilang.tangerangkab.go.id/~logs/readfile (CODE:500|SIZE:39144)
++ https://latinostgemilang.tangerangkab.go.id/~logs/WS_FTP.LOG (CODE:500|SIZE:39146)
+
+---- Entering directory: https://latinostgemilang.tangerangkab.go.id/~lp/ ----
++ https://latinostgemilang.tangerangkab.go.id/~lp/.git/HEAD (CODE:500|SIZE:39143)
++ https://latinostgemilang.tangerangkab.go.id/~lp/.htaccess (CODE:500|SIZE:39143)
++ https://latinostgemilang.tangerangkab.go.id/~lp/.htpasswd (CODE:500|SIZE:39143)
++ https://latinostgemilang.tangerangkab.go.id/~lp/.svn (CODE:403|SIZE:1154)
++ https://latinostgemilang.tangerangkab.go.id/~lp/.svn/entries (CODE:500|SIZE:39146)
++ https://latinostgemilang.tangerangkab.go.id/~lp/cgi-bin/ (CODE:301|SIZE:707)
++ https://latinostgemilang.tangerangkab.go.id/~lp/com1 (CODE:500|SIZE:39138)
++ https://latinostgemilang.tangerangkab.go.id/~lp/com2 (CODE:500|SIZE:39138)
++ https://latinostgemilang.tangerangkab.go.id/~lp/com3 (CODE:500|SIZE:39138)
++ https://latinostgemilang.tangerangkab.go.id/~lp/CVS/Entries (CODE:500|SIZE:39145)
++ https://latinostgemilang.tangerangkab.go.id/~lp/global.asa (CODE:500|SIZE:39144)
++ https://latinostgemilang.tangerangkab.go.id/~lp/lpt1 (CODE:500|SIZE:39138)
++ https://latinostgemilang.tangerangkab.go.id/~lp/lpt2 (CODE:500|SIZE:39138)
++ https://latinostgemilang.tangerangkab.go.id/~lp/readfile (CODE:500|SIZE:39142)
++ https://latinostgemilang.tangerangkab.go.id/~lp/WS_FTP.LOG (CODE:500|SIZE:39144)
+
+---- Entering directory: https://latinostgemilang.tangerangkab.go.id/~mail/ ----
++ https://latinostgemilang.tangerangkab.go.id/~mail/.git/HEAD (CODE:500|SIZE:39145)
++ https://latinostgemilang.tangerangkab.go.id/~mail/.htaccess (CODE:500|SIZE:39145)
++ https://latinostgemilang.tangerangkab.go.id/~mail/.htpasswd (CODE:500|SIZE:39145)
++ https://latinostgemilang.tangerangkab.go.id/~mail/.svn (CODE:403|SIZE:1154)
++ https://latinostgemilang.tangerangkab.go.id/~mail/.svn/entries (CODE:500|SIZE:39148)
++ https://latinostgemilang.tangerangkab.go.id/~mail/cgi-bin/ (CODE:301|SIZE:707)
++ https://latinostgemilang.tangerangkab.go.id/~mail/com1 (CODE:500|SIZE:39140)
++ https://latinostgemilang.tangerangkab.go.id/~mail/com2 (CODE:500|SIZE:39140)
++ https://latinostgemilang.tangerangkab.go.id/~mail/com3 (CODE:500|SIZE:39140)
++ https://latinostgemilang.tangerangkab.go.id/~mail/CVS/Entries (CODE:500|SIZE:39147)
++ https://latinostgemilang.tangerangkab.go.id/~mail/global.asa (CODE:500|SIZE:39146)
++ https://latinostgemilang.tangerangkab.go.id/~mail/lpt1 (CODE:500|SIZE:39140)
++ https://latinostgemilang.tangerangkab.go.id/~mail/lpt2 (CODE:500|SIZE:39140)
++ https://latinostgemilang.tangerangkab.go.id/~mail/readfile (CODE:500|SIZE:39144)
++ https://latinostgemilang.tangerangkab.go.id/~mail/WS_FTP.LOG (CODE:500|SIZE:39146)
+
+---- Entering directory: https://latinostgemilang.tangerangkab.go.id/~nobody/ ----
++ https://latinostgemilang.tangerangkab.go.id/~nobody/.git/HEAD (CODE:500|SIZE:39147)
++ https://latinostgemilang.tangerangkab.go.id/~nobody/.htaccess (CODE:500|SIZE:39147)
++ https://latinostgemilang.tangerangkab.go.id/~nobody/.htpasswd (CODE:500|SIZE:39147)
++ https://latinostgemilang.tangerangkab.go.id/~nobody/.svn (CODE:403|SIZE:1154)
++ https://latinostgemilang.tangerangkab.go.id/~nobody/.svn/entries (CODE:500|SIZE:39150)
++ https://latinostgemilang.tangerangkab.go.id/~nobody/com1 (CODE:500|SIZE:39142)
++ https://latinostgemilang.tangerangkab.go.id/~nobody/com2 (CODE:500|SIZE:39142)
++ https://latinostgemilang.tangerangkab.go.id/~nobody/com3 (CODE:500|SIZE:39142)
++ https://latinostgemilang.tangerangkab.go.id/~nobody/CVS/Entries (CODE:500|SIZE:39149)
+
+(!) FATAL: Too many errors connecting to host
+    (Possible cause: SSL CONNECT ERROR)
+
+-----------------
+END_TIME: Sun Mar 31 13:43:02 2024
+DOWNLOADED: 70979 - FOUND: 252
+
+-----------------
+DIRB v2.22    
+By The Dark Raver
+-----------------
+
+OUTPUT_FILE: latinostgemilang.txt
+START_TIME: Sun Mar 31 17:49:47 2024
+URL_BASE: https://latinostgemilang.tangerangkab.go.id/
+WORDLIST_FILES: /usr/share/dirb/wordlists/common.txt
+
+-----------------
+
+GENERATED WORDS: 4612
+
+---- Scanning URL: https://latinostgemilang.tangerangkab.go.id/ ----
+
+(!) FATAL: Too many errors connecting to host
+    (Possible cause: SSL CONNECT ERROR)
+
+-----------------
+END_TIME: Sun Mar 31 17:49:48 2024
+DOWNLOADED: 0 - FOUND: 0
+
+-----------------
+DIRB v2.22    
+By The Dark Raver
+-----------------
+
+OUTPUT_FILE: latinostgemilang.txt
+START_TIME: Sun Mar 31 17:49:52 2024
+URL_BASE: https://latinostgemilang.tangerangkab.go.id/
+WORDLIST_FILES: /usr/share/dirb/wordlists/common.txt
+
+-----------------
+
+GENERATED WORDS: 4612
+
+---- Scanning URL: https://latinostgemilang.tangerangkab.go.id/ ----
+
+(!) FATAL: Too many errors connecting to host
+    (Possible cause: SSL CONNECT ERROR)
+
+-----------------
+END_TIME: Sun Mar 31 17:49:53 2024
+DOWNLOADED: 0 - FOUND: 0

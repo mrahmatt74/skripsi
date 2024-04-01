@@ -1,0 +1,125 @@
+
+-----------------
+DIRB v2.22    
+By The Dark Raver
+-----------------
+
+OUTPUT_FILE: bappeda.txt
+START_TIME: Sat Mar 30 01:53:28 2024
+URL_BASE: https://bappeda.tangerangkab.go.id/
+WORDLIST_FILES: /usr/share/dirb/wordlists/common.txt
+
+-----------------
+
+GENERATED WORDS: 4612
+
+---- Scanning URL: https://bappeda.tangerangkab.go.id/ ----
++ https://bappeda.tangerangkab.go.id/.htaccess (CODE:200|SIZE:603)
++ https://bappeda.tangerangkab.go.id/aux (CODE:500|SIZE:39122)
++ https://bappeda.tangerangkab.go.id/com1 (CODE:500|SIZE:39123)
++ https://bappeda.tangerangkab.go.id/com2 (CODE:500|SIZE:39123)
++ https://bappeda.tangerangkab.go.id/com3 (CODE:500|SIZE:39123)
++ https://bappeda.tangerangkab.go.id/CVS/Entries (CODE:500|SIZE:39130)
++ https://bappeda.tangerangkab.go.id/dashboard (CODE:302|SIZE:430)
+==> DIRECTORY: https://bappeda.tangerangkab.go.id/documents/
++ https://bappeda.tangerangkab.go.id/favicon.ico (CODE:200|SIZE:0)
++ https://bappeda.tangerangkab.go.id/global.asa (CODE:500|SIZE:39129)
+==> DIRECTORY: https://bappeda.tangerangkab.go.id/images/
++ https://bappeda.tangerangkab.go.id/index.php (CODE:200|SIZE:64907)
++ https://bappeda.tangerangkab.go.id/lpt1 (CODE:500|SIZE:39123)
++ https://bappeda.tangerangkab.go.id/lpt2 (CODE:500|SIZE:39123)
++ https://bappeda.tangerangkab.go.id/menu (CODE:302|SIZE:430)
++ https://bappeda.tangerangkab.go.id/prn (CODE:500|SIZE:39122)
++ https://bappeda.tangerangkab.go.id/readfile (CODE:500|SIZE:39127)
++ https://bappeda.tangerangkab.go.id/robots.txt (CODE:200|SIZE:24)
++ https://bappeda.tangerangkab.go.id/statistik (CODE:302|SIZE:430)
+==> DIRECTORY: https://bappeda.tangerangkab.go.id/storage/
+==> DIRECTORY: https://bappeda.tangerangkab.go.id/theme/
++ https://bappeda.tangerangkab.go.id/users (CODE:302|SIZE:430)
+==> DIRECTORY: https://bappeda.tangerangkab.go.id/vendor/
++ https://bappeda.tangerangkab.go.id/video (CODE:302|SIZE:430)
++ https://bappeda.tangerangkab.go.id/videos (CODE:200|SIZE:305518)
++ https://bappeda.tangerangkab.go.id/WS_FTP.LOG (CODE:500|SIZE:39129)
+
+---- Entering directory: https://bappeda.tangerangkab.go.id/documents/ ----
++ https://bappeda.tangerangkab.go.id/documents/.git/HEAD (CODE:500|SIZE:39138)
++ https://bappeda.tangerangkab.go.id/documents/.htaccess (CODE:500|SIZE:39138)
++ https://bappeda.tangerangkab.go.id/documents/.htpasswd (CODE:500|SIZE:39138)
++ https://bappeda.tangerangkab.go.id/documents/.svn/entries (CODE:500|SIZE:39141)
++ https://bappeda.tangerangkab.go.id/documents/com1 (CODE:500|SIZE:39133)
++ https://bappeda.tangerangkab.go.id/documents/com2 (CODE:500|SIZE:39133)
++ https://bappeda.tangerangkab.go.id/documents/com3 (CODE:500|SIZE:39133)
++ https://bappeda.tangerangkab.go.id/documents/CVS/Entries (CODE:500|SIZE:39140)
++ https://bappeda.tangerangkab.go.id/documents/global.asa (CODE:500|SIZE:39139)
++ https://bappeda.tangerangkab.go.id/documents/lpt1 (CODE:500|SIZE:39133)
++ https://bappeda.tangerangkab.go.id/documents/lpt2 (CODE:500|SIZE:39133)
++ https://bappeda.tangerangkab.go.id/documents/readfile (CODE:500|SIZE:39137)
++ https://bappeda.tangerangkab.go.id/documents/WS_FTP.LOG (CODE:500|SIZE:39139)
+
+---- Entering directory: https://bappeda.tangerangkab.go.id/images/ ----
++ https://bappeda.tangerangkab.go.id/images/.git/HEAD (CODE:500|SIZE:39135)
++ https://bappeda.tangerangkab.go.id/images/.htaccess (CODE:500|SIZE:39135)
++ https://bappeda.tangerangkab.go.id/images/.htpasswd (CODE:500|SIZE:39135)
++ https://bappeda.tangerangkab.go.id/images/.svn/entries (CODE:500|SIZE:39138)
++ https://bappeda.tangerangkab.go.id/images/com1 (CODE:500|SIZE:39130)
++ https://bappeda.tangerangkab.go.id/images/com2 (CODE:500|SIZE:39130)
++ https://bappeda.tangerangkab.go.id/images/com3 (CODE:500|SIZE:39130)
++ https://bappeda.tangerangkab.go.id/images/CVS/Entries (CODE:500|SIZE:39137)
++ https://bappeda.tangerangkab.go.id/images/global.asa (CODE:500|SIZE:39136)
++ https://bappeda.tangerangkab.go.id/images/lpt1 (CODE:500|SIZE:39130)
++ https://bappeda.tangerangkab.go.id/images/lpt2 (CODE:500|SIZE:39130)
++ https://bappeda.tangerangkab.go.id/images/readfile (CODE:500|SIZE:39134)
++ https://bappeda.tangerangkab.go.id/images/WS_FTP.LOG (CODE:500|SIZE:39136)
+
+---- Entering directory: https://bappeda.tangerangkab.go.id/storage/ ----
++ https://bappeda.tangerangkab.go.id/storage/.git/HEAD (CODE:500|SIZE:39136)
++ https://bappeda.tangerangkab.go.id/storage/.htaccess (CODE:500|SIZE:39136)
++ https://bappeda.tangerangkab.go.id/storage/.htpasswd (CODE:500|SIZE:39136)
++ https://bappeda.tangerangkab.go.id/storage/.svn/entries (CODE:500|SIZE:39139)
++ https://bappeda.tangerangkab.go.id/storage/com1 (CODE:500|SIZE:39131)
++ https://bappeda.tangerangkab.go.id/storage/com2 (CODE:500|SIZE:39131)
++ https://bappeda.tangerangkab.go.id/storage/com3 (CODE:500|SIZE:39131)
++ https://bappeda.tangerangkab.go.id/storage/CVS/Entries (CODE:500|SIZE:39138)
+==> DIRECTORY: https://bappeda.tangerangkab.go.id/storage/files/
++ https://bappeda.tangerangkab.go.id/storage/global.asa (CODE:500|SIZE:39137)
++ https://bappeda.tangerangkab.go.id/storage/lpt1 (CODE:500|SIZE:39131)
++ https://bappeda.tangerangkab.go.id/storage/lpt2 (CODE:500|SIZE:39131)
+==> DIRECTORY: https://bappeda.tangerangkab.go.id/storage/photos/
++ https://bappeda.tangerangkab.go.id/storage/readfile (CODE:500|SIZE:39135)
++ https://bappeda.tangerangkab.go.id/storage/WS_FTP.LOG (CODE:500|SIZE:39137)
+
+---- Entering directory: https://bappeda.tangerangkab.go.id/theme/ ----
++ https://bappeda.tangerangkab.go.id/theme/.git/HEAD (CODE:500|SIZE:39134)
++ https://bappeda.tangerangkab.go.id/theme/.htaccess (CODE:500|SIZE:39134)
++ https://bappeda.tangerangkab.go.id/theme/.htpasswd (CODE:500|SIZE:39134)
++ https://bappeda.tangerangkab.go.id/theme/.svn/entries (CODE:500|SIZE:39137)
+==> DIRECTORY: https://bappeda.tangerangkab.go.id/theme/backend/
++ https://bappeda.tangerangkab.go.id/theme/com1 (CODE:500|SIZE:39129)
++ https://bappeda.tangerangkab.go.id/theme/com2 (CODE:500|SIZE:39129)
++ https://bappeda.tangerangkab.go.id/theme/com3 (CODE:500|SIZE:39129)
++ https://bappeda.tangerangkab.go.id/theme/CVS/Entries (CODE:500|SIZE:39136)
+==> DIRECTORY: https://bappeda.tangerangkab.go.id/theme/frontend/
++ https://bappeda.tangerangkab.go.id/theme/global.asa (CODE:500|SIZE:39135)
++ https://bappeda.tangerangkab.go.id/theme/lpt1 (CODE:500|SIZE:39129)
++ https://bappeda.tangerangkab.go.id/theme/lpt2 (CODE:500|SIZE:39129)
+==> DIRECTORY: https://bappeda.tangerangkab.go.id/theme/others/
++ https://bappeda.tangerangkab.go.id/theme/readfile (CODE:500|SIZE:39133)
++ https://bappeda.tangerangkab.go.id/theme/WS_FTP.LOG (CODE:500|SIZE:39135)
+
+---- Entering directory: https://bappeda.tangerangkab.go.id/vendor/ ----
++ https://bappeda.tangerangkab.go.id/vendor/.git/HEAD (CODE:500|SIZE:39135)
++ https://bappeda.tangerangkab.go.id/vendor/.htaccess (CODE:500|SIZE:39135)
++ https://bappeda.tangerangkab.go.id/vendor/.htpasswd (CODE:500|SIZE:39135)
++ https://bappeda.tangerangkab.go.id/vendor/.svn/entries (CODE:500|SIZE:39138)
++ https://bappeda.tangerangkab.go.id/vendor/com1 (CODE:500|SIZE:39130)
++ https://bappeda.tangerangkab.go.id/vendor/com2 (CODE:500|SIZE:39130)
++ https://bappeda.tangerangkab.go.id/vendor/com3 (CODE:500|SIZE:39130)
++ https://bappeda.tangerangkab.go.id/vendor/CVS/Entries (CODE:500|SIZE:39137)
++ https://bappeda.tangerangkab.go.id/vendor/global.asa (CODE:500|SIZE:39136)
+
+(!) FATAL: Too many errors connecting to host
+    (Possible cause: RECV ERROR)
+
+-----------------
+END_TIME: Sat Mar 30 03:04:02 2024
+DOWNLOADED: 25061 - FOUND: 82

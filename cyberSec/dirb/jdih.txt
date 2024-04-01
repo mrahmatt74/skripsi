@@ -1,0 +1,1080 @@
+
+-----------------
+DIRB v2.22    
+By The Dark Raver
+-----------------
+
+OUTPUT_FILE: jdih.txt
+START_TIME: Sun Mar 31 09:28:56 2024
+URL_BASE: https://jdih.tangerangkab.go.id/
+WORDLIST_FILES: /usr/share/dirb/wordlists/common.txt
+
+-----------------
+
+GENERATED WORDS: 4612
+
+---- Scanning URL: https://jdih.tangerangkab.go.id/ ----
++ https://jdih.tangerangkab.go.id/.config (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/.git/HEAD (CODE:200|SIZE:23)
++ https://jdih.tangerangkab.go.id/akeeba.backend.log (CODE:403|SIZE:289)
+==> DIRECTORY: https://jdih.tangerangkab.go.id/assets/
+==> DIRECTORY: https://jdih.tangerangkab.go.id/b/
+==> DIRECTORY: https://jdih.tangerangkab.go.id/backend/
+==> DIRECTORY: https://jdih.tangerangkab.go.id/common/
+==> DIRECTORY: https://jdih.tangerangkab.go.id/console/
++ https://jdih.tangerangkab.go.id/development.log (CODE:403|SIZE:289)
+==> DIRECTORY: https://jdih.tangerangkab.go.id/f/
++ https://jdih.tangerangkab.go.id/favicon.ico (CODE:200|SIZE:43633)
+==> DIRECTORY: https://jdih.tangerangkab.go.id/frontend/
+==> DIRECTORY: https://jdih.tangerangkab.go.id/html/
+==> DIRECTORY: https://jdih.tangerangkab.go.id/images/
+==> DIRECTORY: https://jdih.tangerangkab.go.id/img/
++ https://jdih.tangerangkab.go.id/index.php (CODE:200|SIZE:22879)
++ https://jdih.tangerangkab.go.id/init (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/php.ini (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/production.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/profile (CODE:200|SIZE:10902)
++ https://jdih.tangerangkab.go.id/robots.txt (CODE:200|SIZE:25)
++ https://jdih.tangerangkab.go.id/server-status (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/site (CODE:200|SIZE:22879)
++ https://jdih.tangerangkab.go.id/spamlog.log (CODE:403|SIZE:289)
+==> DIRECTORY: https://jdih.tangerangkab.go.id/vendor/
++ https://jdih.tangerangkab.go.id/web.config (CODE:403|SIZE:289)
+
+---- Entering directory: https://jdih.tangerangkab.go.id/assets/ ----
++ https://jdih.tangerangkab.go.id/assets/.config (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/assets/~adm (CODE:403|SIZE:351)
++ https://jdih.tangerangkab.go.id/assets/gallery (CODE:403|SIZE:351)
++ https://jdih.tangerangkab.go.id/assets/index.php (CODE:200|SIZE:4)
++ https://jdih.tangerangkab.go.id/assets/init (CODE:403|SIZE:289)
+==> DIRECTORY: https://jdih.tangerangkab.go.id/assets/system/
++ https://jdih.tangerangkab.go.id/assets/web.config (CODE:403|SIZE:289)
+
+---- Entering directory: https://jdih.tangerangkab.go.id/b/ ----
++ https://jdih.tangerangkab.go.id/b/.config (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/b/akeeba.backend.log (CODE:403|SIZE:289)
+==> DIRECTORY: https://jdih.tangerangkab.go.id/b/assets/
+==> DIRECTORY: https://jdih.tangerangkab.go.id/b/config/
+==> DIRECTORY: https://jdih.tangerangkab.go.id/b/controllers/
++ https://jdih.tangerangkab.go.id/b/development.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/b/favicon.ico (CODE:200|SIZE:318)
+==> DIRECTORY: https://jdih.tangerangkab.go.id/b/img/
++ https://jdih.tangerangkab.go.id/b/init (CODE:403|SIZE:289)
+==> DIRECTORY: https://jdih.tangerangkab.go.id/b/models/
++ https://jdih.tangerangkab.go.id/b/php.ini (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/b/production.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/b/spamlog.log (CODE:403|SIZE:289)
+==> DIRECTORY: https://jdih.tangerangkab.go.id/b/tests/
+==> DIRECTORY: https://jdih.tangerangkab.go.id/b/views/
++ https://jdih.tangerangkab.go.id/b/web.config (CODE:403|SIZE:289)
+
+---- Entering directory: https://jdih.tangerangkab.go.id/backend/ ----
++ https://jdih.tangerangkab.go.id/backend/.config (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/backend/admin (CODE:500|SIZE:96618)
++ https://jdih.tangerangkab.go.id/backend/akeeba.backend.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/backend/artikel (CODE:302|SIZE:0)
+==> DIRECTORY: https://jdih.tangerangkab.go.id/backend/assets/
+==> DIRECTORY: https://jdih.tangerangkab.go.id/backend/config/
+==> DIRECTORY: https://jdih.tangerangkab.go.id/backend/controllers/
++ https://jdih.tangerangkab.go.id/backend/development.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/backend/favicon.ico (CODE:200|SIZE:318)
+==> DIRECTORY: https://jdih.tangerangkab.go.id/backend/img/
++ https://jdih.tangerangkab.go.id/backend/index.php (CODE:302|SIZE:0)
++ https://jdih.tangerangkab.go.id/backend/init (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/backend/member (CODE:302|SIZE:0)
+==> DIRECTORY: https://jdih.tangerangkab.go.id/backend/models/
++ https://jdih.tangerangkab.go.id/backend/php.ini (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/backend/production.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/backend/program (CODE:302|SIZE:0)
++ https://jdih.tangerangkab.go.id/backend/robots.txt (CODE:200|SIZE:25)
++ https://jdih.tangerangkab.go.id/backend/site (CODE:302|SIZE:0)
++ https://jdih.tangerangkab.go.id/backend/spamlog.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/backend/status (CODE:302|SIZE:0)
+==> DIRECTORY: https://jdih.tangerangkab.go.id/backend/tests/
++ https://jdih.tangerangkab.go.id/backend/user (CODE:302|SIZE:0)
+==> DIRECTORY: https://jdih.tangerangkab.go.id/backend/views/
+==> DIRECTORY: https://jdih.tangerangkab.go.id/backend/web/
++ https://jdih.tangerangkab.go.id/backend/web.config (CODE:403|SIZE:289)
+
+---- Entering directory: https://jdih.tangerangkab.go.id/common/ ----
++ https://jdih.tangerangkab.go.id/common/.config (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/common/akeeba.backend.log (CODE:403|SIZE:289)
+==> DIRECTORY: https://jdih.tangerangkab.go.id/common/config/
++ https://jdih.tangerangkab.go.id/common/development.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/common/init (CODE:403|SIZE:289)
+==> DIRECTORY: https://jdih.tangerangkab.go.id/common/mail/
+==> DIRECTORY: https://jdih.tangerangkab.go.id/common/models/
+==> DIRECTORY: https://jdih.tangerangkab.go.id/common/page/
++ https://jdih.tangerangkab.go.id/common/php.ini (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/common/production.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/common/spamlog.log (CODE:403|SIZE:289)
+==> DIRECTORY: https://jdih.tangerangkab.go.id/common/tests/
++ https://jdih.tangerangkab.go.id/common/web.config (CODE:403|SIZE:289)
+==> DIRECTORY: https://jdih.tangerangkab.go.id/common/widgets/
+
+---- Entering directory: https://jdih.tangerangkab.go.id/console/ ----
++ https://jdih.tangerangkab.go.id/console/.config (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/console/akeeba.backend.log (CODE:403|SIZE:289)
+==> DIRECTORY: https://jdih.tangerangkab.go.id/console/config/
+==> DIRECTORY: https://jdih.tangerangkab.go.id/console/controllers/
++ https://jdih.tangerangkab.go.id/console/development.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/console/init (CODE:403|SIZE:289)
+==> DIRECTORY: https://jdih.tangerangkab.go.id/console/models/
++ https://jdih.tangerangkab.go.id/console/php.ini (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/console/production.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/console/spamlog.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/console/web.config (CODE:403|SIZE:289)
+
+---- Entering directory: https://jdih.tangerangkab.go.id/f/ ----
++ https://jdih.tangerangkab.go.id/f/.config (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/f/akeeba.backend.log (CODE:403|SIZE:289)
+==> DIRECTORY: https://jdih.tangerangkab.go.id/f/assets/
+==> DIRECTORY: https://jdih.tangerangkab.go.id/f/config/
+==> DIRECTORY: https://jdih.tangerangkab.go.id/f/controllers/
++ https://jdih.tangerangkab.go.id/f/development.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/f/init (CODE:403|SIZE:289)
+==> DIRECTORY: https://jdih.tangerangkab.go.id/f/models/
++ https://jdih.tangerangkab.go.id/f/php.ini (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/f/production.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/f/spamlog.log (CODE:403|SIZE:289)
+==> DIRECTORY: https://jdih.tangerangkab.go.id/f/tests/
+==> DIRECTORY: https://jdih.tangerangkab.go.id/f/views/
++ https://jdih.tangerangkab.go.id/f/web.config (CODE:403|SIZE:289)
+
+---- Entering directory: https://jdih.tangerangkab.go.id/frontend/ ----
++ https://jdih.tangerangkab.go.id/frontend/.config (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/frontend/akeeba.backend.log (CODE:403|SIZE:289)
+==> DIRECTORY: https://jdih.tangerangkab.go.id/frontend/assets/
+==> DIRECTORY: https://jdih.tangerangkab.go.id/frontend/config/
+==> DIRECTORY: https://jdih.tangerangkab.go.id/frontend/controllers/
++ https://jdih.tangerangkab.go.id/frontend/development.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/frontend/init (CODE:403|SIZE:289)
+==> DIRECTORY: https://jdih.tangerangkab.go.id/frontend/models/
++ https://jdih.tangerangkab.go.id/frontend/php.ini (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/frontend/production.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/frontend/spamlog.log (CODE:403|SIZE:289)
+==> DIRECTORY: https://jdih.tangerangkab.go.id/frontend/tests/
+==> DIRECTORY: https://jdih.tangerangkab.go.id/frontend/views/
++ https://jdih.tangerangkab.go.id/frontend/web.config (CODE:403|SIZE:289)
+
+---- Entering directory: https://jdih.tangerangkab.go.id/html/ ----
++ https://jdih.tangerangkab.go.id/html/.config (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/html/akeeba.backend.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/html/development.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/html/init (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/html/php.ini (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/html/production.log (CODE:403|SIZE:289)
+==> DIRECTORY: https://jdih.tangerangkab.go.id/html/public/
++ https://jdih.tangerangkab.go.id/html/spamlog.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/html/web.config (CODE:403|SIZE:289)
+
+---- Entering directory: https://jdih.tangerangkab.go.id/images/ ----
++ https://jdih.tangerangkab.go.id/images/.config (CODE:403|SIZE:289)
+==> DIRECTORY: https://jdih.tangerangkab.go.id/images/ads/
++ https://jdih.tangerangkab.go.id/images/akeeba.backend.log (CODE:403|SIZE:289)
+==> DIRECTORY: https://jdih.tangerangkab.go.id/images/bg/
++ https://jdih.tangerangkab.go.id/images/development.log (CODE:403|SIZE:289)
+==> DIRECTORY: https://jdih.tangerangkab.go.id/images/ico/
+==> DIRECTORY: https://jdih.tangerangkab.go.id/images/icon/
++ https://jdih.tangerangkab.go.id/images/init (CODE:403|SIZE:289)
+==> DIRECTORY: https://jdih.tangerangkab.go.id/images/job/
++ https://jdih.tangerangkab.go.id/images/php.ini (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/images/production.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/images/spamlog.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/images/web.config (CODE:403|SIZE:289)
+
+---- Entering directory: https://jdih.tangerangkab.go.id/img/ ----
++ https://jdih.tangerangkab.go.id/img/.config (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/img/akeeba.backend.log (CODE:403|SIZE:289)
+==> DIRECTORY: https://jdih.tangerangkab.go.id/img/banner/
++ https://jdih.tangerangkab.go.id/img/development.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/img/init (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/img/php.ini (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/img/production.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/img/spamlog.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/img/web.config (CODE:403|SIZE:289)
+
+---- Entering directory: https://jdih.tangerangkab.go.id/vendor/ ----
++ https://jdih.tangerangkab.go.id/vendor/.config (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/vendor/akeeba.backend.log (CODE:403|SIZE:289)
+==> DIRECTORY: https://jdih.tangerangkab.go.id/vendor/bin/
+==> DIRECTORY: https://jdih.tangerangkab.go.id/vendor/composer/
++ https://jdih.tangerangkab.go.id/vendor/development.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/vendor/init (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/vendor/php.ini (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/vendor/production.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/vendor/spamlog.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/vendor/web.config (CODE:403|SIZE:289)
+
+---- Entering directory: https://jdih.tangerangkab.go.id/assets/system/ ----
++ https://jdih.tangerangkab.go.id/assets/system/.config (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/assets/system/init (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/assets/system/web.config (CODE:403|SIZE:289)
+
+---- Entering directory: https://jdih.tangerangkab.go.id/b/assets/ ----
++ https://jdih.tangerangkab.go.id/b/assets/.config (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/b/assets/akeeba.backend.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/b/assets/development.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/b/assets/init (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/b/assets/php.ini (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/b/assets/production.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/b/assets/spamlog.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/b/assets/web.config (CODE:403|SIZE:289)
+
+---- Entering directory: https://jdih.tangerangkab.go.id/b/config/ ----
++ https://jdih.tangerangkab.go.id/b/config/.config (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/b/config/akeeba.backend.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/b/config/development.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/b/config/init (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/b/config/php.ini (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/b/config/production.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/b/config/spamlog.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/b/config/web.config (CODE:403|SIZE:289)
+
+---- Entering directory: https://jdih.tangerangkab.go.id/b/controllers/ ----
++ https://jdih.tangerangkab.go.id/b/controllers/.config (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/b/controllers/akeeba.backend.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/b/controllers/development.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/b/controllers/init (CODE:403|SIZE:289)
+==> DIRECTORY: https://jdih.tangerangkab.go.id/b/controllers/old/
++ https://jdih.tangerangkab.go.id/b/controllers/php.ini (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/b/controllers/production.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/b/controllers/spamlog.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/b/controllers/web.config (CODE:403|SIZE:289)
+
+---- Entering directory: https://jdih.tangerangkab.go.id/b/img/ ----
++ https://jdih.tangerangkab.go.id/b/img/.config (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/b/img/akeeba.backend.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/b/img/development.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/b/img/init (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/b/img/php.ini (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/b/img/production.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/b/img/spamlog.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/b/img/web.config (CODE:403|SIZE:289)
+
+---- Entering directory: https://jdih.tangerangkab.go.id/b/models/ ----
++ https://jdih.tangerangkab.go.id/b/models/.config (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/b/models/akeeba.backend.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/b/models/development.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/b/models/init (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/b/models/php.ini (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/b/models/production.log (CODE:403|SIZE:289)
+==> DIRECTORY: https://jdih.tangerangkab.go.id/b/models/search/
++ https://jdih.tangerangkab.go.id/b/models/spamlog.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/b/models/web.config (CODE:403|SIZE:289)
+
+---- Entering directory: https://jdih.tangerangkab.go.id/b/tests/ ----
++ https://jdih.tangerangkab.go.id/b/tests/.config (CODE:403|SIZE:289)
+==> DIRECTORY: https://jdih.tangerangkab.go.id/b/tests/_data/
++ https://jdih.tangerangkab.go.id/b/tests/akeeba.backend.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/b/tests/development.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/b/tests/init (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/b/tests/php.ini (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/b/tests/production.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/b/tests/spamlog.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/b/tests/web.config (CODE:403|SIZE:289)
+
+---- Entering directory: https://jdih.tangerangkab.go.id/b/views/ ----
++ https://jdih.tangerangkab.go.id/b/views/.config (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/b/views/akeeba.backend.log (CODE:403|SIZE:289)
+==> DIRECTORY: https://jdih.tangerangkab.go.id/b/views/artikel/
++ https://jdih.tangerangkab.go.id/b/views/development.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/b/views/init (CODE:403|SIZE:289)
+==> DIRECTORY: https://jdih.tangerangkab.go.id/b/views/layouts/
+==> DIRECTORY: https://jdih.tangerangkab.go.id/b/views/member/
+==> DIRECTORY: https://jdih.tangerangkab.go.id/b/views/old/
++ https://jdih.tangerangkab.go.id/b/views/php.ini (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/b/views/production.log (CODE:403|SIZE:289)
+==> DIRECTORY: https://jdih.tangerangkab.go.id/b/views/site/
++ https://jdih.tangerangkab.go.id/b/views/spamlog.log (CODE:403|SIZE:289)
+==> DIRECTORY: https://jdih.tangerangkab.go.id/b/views/user/
++ https://jdih.tangerangkab.go.id/b/views/web.config (CODE:403|SIZE:289)
+
+---- Entering directory: https://jdih.tangerangkab.go.id/backend/assets/ ----
+(!) WARNING: All responses for this directory seem to be CODE = 403.
+    (Use mode '-w' if you want to scan it anyway)
+
+---- Entering directory: https://jdih.tangerangkab.go.id/backend/config/ ----
++ https://jdih.tangerangkab.go.id/backend/config/.config (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/backend/config/akeeba.backend.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/backend/config/development.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/backend/config/init (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/backend/config/php.ini (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/backend/config/production.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/backend/config/spamlog.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/backend/config/web.config (CODE:403|SIZE:289)
+
+---- Entering directory: https://jdih.tangerangkab.go.id/backend/controllers/ ----
++ https://jdih.tangerangkab.go.id/backend/controllers/.config (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/backend/controllers/akeeba.backend.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/backend/controllers/development.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/backend/controllers/init (CODE:403|SIZE:289)
+==> DIRECTORY: https://jdih.tangerangkab.go.id/backend/controllers/old/
++ https://jdih.tangerangkab.go.id/backend/controllers/php.ini (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/backend/controllers/production.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/backend/controllers/spamlog.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/backend/controllers/web.config (CODE:403|SIZE:289)
+
+---- Entering directory: https://jdih.tangerangkab.go.id/backend/img/ ----
++ https://jdih.tangerangkab.go.id/backend/img/.config (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/backend/img/akeeba.backend.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/backend/img/development.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/backend/img/init (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/backend/img/php.ini (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/backend/img/production.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/backend/img/spamlog.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/backend/img/web.config (CODE:403|SIZE:289)
+
+---- Entering directory: https://jdih.tangerangkab.go.id/backend/models/ ----
++ https://jdih.tangerangkab.go.id/backend/models/.config (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/backend/models/akeeba.backend.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/backend/models/development.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/backend/models/init (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/backend/models/php.ini (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/backend/models/production.log (CODE:403|SIZE:289)
+==> DIRECTORY: https://jdih.tangerangkab.go.id/backend/models/search/
++ https://jdih.tangerangkab.go.id/backend/models/spamlog.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/backend/models/web.config (CODE:403|SIZE:289)
+
+---- Entering directory: https://jdih.tangerangkab.go.id/backend/tests/ ----
++ https://jdih.tangerangkab.go.id/backend/tests/.config (CODE:403|SIZE:289)
+==> DIRECTORY: https://jdih.tangerangkab.go.id/backend/tests/_data/
++ https://jdih.tangerangkab.go.id/backend/tests/akeeba.backend.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/backend/tests/development.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/backend/tests/init (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/backend/tests/php.ini (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/backend/tests/production.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/backend/tests/spamlog.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/backend/tests/web.config (CODE:403|SIZE:289)
+
+---- Entering directory: https://jdih.tangerangkab.go.id/backend/views/ ----
++ https://jdih.tangerangkab.go.id/backend/views/.config (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/backend/views/akeeba.backend.log (CODE:403|SIZE:289)
+==> DIRECTORY: https://jdih.tangerangkab.go.id/backend/views/artikel/
++ https://jdih.tangerangkab.go.id/backend/views/development.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/backend/views/init (CODE:403|SIZE:289)
+==> DIRECTORY: https://jdih.tangerangkab.go.id/backend/views/layouts/
+==> DIRECTORY: https://jdih.tangerangkab.go.id/backend/views/member/
+==> DIRECTORY: https://jdih.tangerangkab.go.id/backend/views/old/
++ https://jdih.tangerangkab.go.id/backend/views/php.ini (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/backend/views/production.log (CODE:403|SIZE:289)
+==> DIRECTORY: https://jdih.tangerangkab.go.id/backend/views/site/
++ https://jdih.tangerangkab.go.id/backend/views/spamlog.log (CODE:403|SIZE:289)
+==> DIRECTORY: https://jdih.tangerangkab.go.id/backend/views/user/
++ https://jdih.tangerangkab.go.id/backend/views/web.config (CODE:403|SIZE:289)
+
+---- Entering directory: https://jdih.tangerangkab.go.id/backend/web/ ----
++ https://jdih.tangerangkab.go.id/backend/web/.config (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/backend/web/akeeba.backend.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/backend/web/development.log (CODE:403|SIZE:289)
++ Remaining scan stats:
+Words: 3084 | Directories: 48
++ Remaining scan stats:
+Words: 3028 | Directories: 48
++ Remaining scan stats:
+Words: 2963 | Directories: 48
++ Remaining scan stats:
+Words: 2607 | Directories: 48
++ https://jdih.tangerangkab.go.id/backend/web/init (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/backend/web/php.ini (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/backend/web/production.log (CODE:403|SIZE:289)
++ Dumping session state and Quitting.
+
+-----------------
+END_TIME: Sun Mar 31 14:24:42 2024
+DOWNLOADED: 123323 - FOUND: 225
+
+-----------------
+DIRB v2.22    
+By The Dark Raver
+-----------------
+
+OUTPUT_FILE: jdih.txt
+START_TIME: Sun Mar 31 17:42:40 2024
+URL_BASE: https://jdih.tangerangkab.go.id/
+WORDLIST_FILES: /usr/share/dirb/wordlists/common.txt
+
+-----------------
+
+GENERATED WORDS: 4612
+
+---- Scanning URL: https://jdih.tangerangkab.go.id/ ----
++ https://jdih.tangerangkab.go.id/.config (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/.git/HEAD (CODE:200|SIZE:23)
++ https://jdih.tangerangkab.go.id/akeeba.backend.log (CODE:403|SIZE:289)
+==> DIRECTORY: https://jdih.tangerangkab.go.id/assets/
+==> DIRECTORY: https://jdih.tangerangkab.go.id/b/
+==> DIRECTORY: https://jdih.tangerangkab.go.id/backend/
+==> DIRECTORY: https://jdih.tangerangkab.go.id/common/
+==> DIRECTORY: https://jdih.tangerangkab.go.id/console/
++ https://jdih.tangerangkab.go.id/development.log (CODE:403|SIZE:289)
+==> DIRECTORY: https://jdih.tangerangkab.go.id/f/
++ https://jdih.tangerangkab.go.id/favicon.ico (CODE:200|SIZE:43633)
+==> DIRECTORY: https://jdih.tangerangkab.go.id/frontend/
+
+-----------------
+DIRB v2.22    
+By The Dark Raver
+-----------------
+
+(!) RESUMING...
+
+OUTPUT_FILE: jdih.txt
+START_TIME: Sun Mar 31 17:43:13 2024
+URL_BASE: https://jdih.tangerangkab.go.id/
+WORDLIST_FILES: /usr/share/dirb/wordlists/common.txt
+CURRENT_BASE: https://jdih.tangerangkab.go.id/
+CURRENT_WORD: globalnav
+
+-----------------
+
+
+---- Scanning URL: https://jdih.tangerangkab.go.id/ ----
+==> DIRECTORY: https://jdih.tangerangkab.go.id/html/
+==> DIRECTORY: https://jdih.tangerangkab.go.id/images/
+==> DIRECTORY: https://jdih.tangerangkab.go.id/img/
++ https://jdih.tangerangkab.go.id/index.php (CODE:200|SIZE:22879)
++ https://jdih.tangerangkab.go.id/init (CODE:403|SIZE:289)
+==> DIRECTORY: https://jdih.tangerangkab.go.id/html/
+==> DIRECTORY: https://jdih.tangerangkab.go.id/images/
+==> DIRECTORY: https://jdih.tangerangkab.go.id/img/
++ https://jdih.tangerangkab.go.id/index.php (CODE:200|SIZE:22879)
++ https://jdih.tangerangkab.go.id/init (CODE:403|SIZE:289)
++ Dumping session state and Quitting.
+
+-----------------
+END_TIME: Sun Mar 31 17:43:26 2024
+DOWNLOADED: 2541 - FOUND: 7
++ https://jdih.tangerangkab.go.id/php.ini (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/production.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/profile (CODE:200|SIZE:10902)
++ https://jdih.tangerangkab.go.id/robots.txt (CODE:200|SIZE:25)
++ https://jdih.tangerangkab.go.id/server-status (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/site (CODE:200|SIZE:22879)
++ https://jdih.tangerangkab.go.id/spamlog.log (CODE:403|SIZE:289)
+==> DIRECTORY: https://jdih.tangerangkab.go.id/vendor/
++ https://jdih.tangerangkab.go.id/web.config (CODE:403|SIZE:289)
+
+---- Entering directory: https://jdih.tangerangkab.go.id/assets/ ----
++ https://jdih.tangerangkab.go.id/assets/.config (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/assets/~adm (CODE:403|SIZE:351)
++ https://jdih.tangerangkab.go.id/assets/gallery (CODE:403|SIZE:351)
++ https://jdih.tangerangkab.go.id/assets/index.php (CODE:200|SIZE:4)
++ https://jdih.tangerangkab.go.id/assets/init (CODE:403|SIZE:289)
+==> DIRECTORY: https://jdih.tangerangkab.go.id/assets/system/
++ https://jdih.tangerangkab.go.id/assets/web.config (CODE:403|SIZE:289)
+
+---- Entering directory: https://jdih.tangerangkab.go.id/b/ ----
++ https://jdih.tangerangkab.go.id/b/.config (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/b/akeeba.backend.log (CODE:403|SIZE:289)
+==> DIRECTORY: https://jdih.tangerangkab.go.id/b/assets/
+==> DIRECTORY: https://jdih.tangerangkab.go.id/b/config/
+==> DIRECTORY: https://jdih.tangerangkab.go.id/b/controllers/
++ https://jdih.tangerangkab.go.id/b/development.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/b/favicon.ico (CODE:200|SIZE:318)
+==> DIRECTORY: https://jdih.tangerangkab.go.id/b/img/
++ https://jdih.tangerangkab.go.id/b/init (CODE:403|SIZE:289)
+==> DIRECTORY: https://jdih.tangerangkab.go.id/b/models/
++ https://jdih.tangerangkab.go.id/b/php.ini (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/b/production.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/b/spamlog.log (CODE:403|SIZE:289)
+==> DIRECTORY: https://jdih.tangerangkab.go.id/b/tests/
+==> DIRECTORY: https://jdih.tangerangkab.go.id/b/views/
++ https://jdih.tangerangkab.go.id/b/web.config (CODE:403|SIZE:289)
+
+---- Entering directory: https://jdih.tangerangkab.go.id/backend/ ----
++ https://jdih.tangerangkab.go.id/backend/.config (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/backend/admin (CODE:500|SIZE:96618)
++ https://jdih.tangerangkab.go.id/backend/akeeba.backend.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/backend/artikel (CODE:302|SIZE:0)
+==> DIRECTORY: https://jdih.tangerangkab.go.id/backend/assets/
+==> DIRECTORY: https://jdih.tangerangkab.go.id/backend/config/
+==> DIRECTORY: https://jdih.tangerangkab.go.id/backend/controllers/
++ https://jdih.tangerangkab.go.id/backend/development.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/backend/favicon.ico (CODE:200|SIZE:318)
+==> DIRECTORY: https://jdih.tangerangkab.go.id/backend/img/
++ https://jdih.tangerangkab.go.id/backend/index.php (CODE:302|SIZE:0)
++ https://jdih.tangerangkab.go.id/backend/init (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/backend/member (CODE:302|SIZE:0)
+==> DIRECTORY: https://jdih.tangerangkab.go.id/backend/models/
++ https://jdih.tangerangkab.go.id/backend/php.ini (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/backend/production.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/backend/program (CODE:302|SIZE:0)
++ https://jdih.tangerangkab.go.id/backend/robots.txt (CODE:200|SIZE:25)
++ https://jdih.tangerangkab.go.id/backend/site (CODE:302|SIZE:0)
++ https://jdih.tangerangkab.go.id/backend/spamlog.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/backend/status (CODE:302|SIZE:0)
+==> DIRECTORY: https://jdih.tangerangkab.go.id/backend/tests/
++ https://jdih.tangerangkab.go.id/backend/user (CODE:302|SIZE:0)
+==> DIRECTORY: https://jdih.tangerangkab.go.id/backend/views/
+==> DIRECTORY: https://jdih.tangerangkab.go.id/backend/web/
++ https://jdih.tangerangkab.go.id/backend/web.config (CODE:403|SIZE:289)
+
+---- Entering directory: https://jdih.tangerangkab.go.id/common/ ----
++ https://jdih.tangerangkab.go.id/common/.config (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/common/akeeba.backend.log (CODE:403|SIZE:289)
+==> DIRECTORY: https://jdih.tangerangkab.go.id/common/config/
++ https://jdih.tangerangkab.go.id/common/development.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/common/init (CODE:403|SIZE:289)
+==> DIRECTORY: https://jdih.tangerangkab.go.id/common/mail/
+==> DIRECTORY: https://jdih.tangerangkab.go.id/common/models/
+==> DIRECTORY: https://jdih.tangerangkab.go.id/common/page/
++ https://jdih.tangerangkab.go.id/common/php.ini (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/common/production.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/common/spamlog.log (CODE:403|SIZE:289)
+==> DIRECTORY: https://jdih.tangerangkab.go.id/common/tests/
++ https://jdih.tangerangkab.go.id/common/web.config (CODE:403|SIZE:289)
+==> DIRECTORY: https://jdih.tangerangkab.go.id/common/widgets/
+
+---- Entering directory: https://jdih.tangerangkab.go.id/console/ ----
++ https://jdih.tangerangkab.go.id/console/.config (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/console/akeeba.backend.log (CODE:403|SIZE:289)
+==> DIRECTORY: https://jdih.tangerangkab.go.id/console/config/
+==> DIRECTORY: https://jdih.tangerangkab.go.id/console/controllers/
++ https://jdih.tangerangkab.go.id/console/development.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/console/init (CODE:403|SIZE:289)
+==> DIRECTORY: https://jdih.tangerangkab.go.id/console/models/
++ https://jdih.tangerangkab.go.id/console/php.ini (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/console/production.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/console/spamlog.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/console/web.config (CODE:403|SIZE:289)
+
+---- Entering directory: https://jdih.tangerangkab.go.id/f/ ----
++ https://jdih.tangerangkab.go.id/f/.config (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/f/akeeba.backend.log (CODE:403|SIZE:289)
+==> DIRECTORY: https://jdih.tangerangkab.go.id/f/assets/
+==> DIRECTORY: https://jdih.tangerangkab.go.id/f/config/
+==> DIRECTORY: https://jdih.tangerangkab.go.id/f/controllers/
++ https://jdih.tangerangkab.go.id/f/development.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/f/init (CODE:403|SIZE:289)
+==> DIRECTORY: https://jdih.tangerangkab.go.id/f/models/
++ https://jdih.tangerangkab.go.id/f/php.ini (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/f/production.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/f/spamlog.log (CODE:403|SIZE:289)
+==> DIRECTORY: https://jdih.tangerangkab.go.id/f/tests/
+==> DIRECTORY: https://jdih.tangerangkab.go.id/f/views/
++ https://jdih.tangerangkab.go.id/f/web.config (CODE:403|SIZE:289)
+
+---- Entering directory: https://jdih.tangerangkab.go.id/frontend/ ----
++ https://jdih.tangerangkab.go.id/frontend/.config (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/frontend/akeeba.backend.log (CODE:403|SIZE:289)
+==> DIRECTORY: https://jdih.tangerangkab.go.id/frontend/assets/
+==> DIRECTORY: https://jdih.tangerangkab.go.id/frontend/config/
+==> DIRECTORY: https://jdih.tangerangkab.go.id/frontend/controllers/
++ https://jdih.tangerangkab.go.id/frontend/development.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/frontend/init (CODE:403|SIZE:289)
+==> DIRECTORY: https://jdih.tangerangkab.go.id/frontend/models/
++ https://jdih.tangerangkab.go.id/frontend/php.ini (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/frontend/production.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/frontend/spamlog.log (CODE:403|SIZE:289)
+==> DIRECTORY: https://jdih.tangerangkab.go.id/frontend/tests/
+==> DIRECTORY: https://jdih.tangerangkab.go.id/frontend/views/
++ https://jdih.tangerangkab.go.id/frontend/web.config (CODE:403|SIZE:289)
+
+---- Entering directory: https://jdih.tangerangkab.go.id/html/ ----
++ https://jdih.tangerangkab.go.id/html/.config (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/html/akeeba.backend.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/html/development.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/html/init (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/html/php.ini (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/html/production.log (CODE:403|SIZE:289)
+==> DIRECTORY: https://jdih.tangerangkab.go.id/html/public/
++ https://jdih.tangerangkab.go.id/html/spamlog.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/html/web.config (CODE:403|SIZE:289)
+
+---- Entering directory: https://jdih.tangerangkab.go.id/images/ ----
++ https://jdih.tangerangkab.go.id/images/.config (CODE:403|SIZE:289)
+==> DIRECTORY: https://jdih.tangerangkab.go.id/images/ads/
++ https://jdih.tangerangkab.go.id/images/akeeba.backend.log (CODE:403|SIZE:289)
+==> DIRECTORY: https://jdih.tangerangkab.go.id/images/bg/
++ https://jdih.tangerangkab.go.id/images/development.log (CODE:403|SIZE:289)
+==> DIRECTORY: https://jdih.tangerangkab.go.id/images/ico/
+==> DIRECTORY: https://jdih.tangerangkab.go.id/images/icon/
++ https://jdih.tangerangkab.go.id/images/init (CODE:403|SIZE:289)
+==> DIRECTORY: https://jdih.tangerangkab.go.id/images/job/
++ https://jdih.tangerangkab.go.id/images/php.ini (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/images/production.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/images/spamlog.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/images/web.config (CODE:403|SIZE:289)
+
+---- Entering directory: https://jdih.tangerangkab.go.id/img/ ----
++ https://jdih.tangerangkab.go.id/img/.config (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/img/akeeba.backend.log (CODE:403|SIZE:289)
+==> DIRECTORY: https://jdih.tangerangkab.go.id/img/banner/
++ https://jdih.tangerangkab.go.id/img/development.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/img/init (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/img/php.ini (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/img/production.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/img/spamlog.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/img/web.config (CODE:403|SIZE:289)
+
+---- Entering directory: https://jdih.tangerangkab.go.id/vendor/ ----
++ https://jdih.tangerangkab.go.id/vendor/.config (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/vendor/akeeba.backend.log (CODE:403|SIZE:289)
+==> DIRECTORY: https://jdih.tangerangkab.go.id/vendor/bin/
+==> DIRECTORY: https://jdih.tangerangkab.go.id/vendor/composer/
++ https://jdih.tangerangkab.go.id/vendor/development.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/vendor/init (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/vendor/php.ini (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/vendor/production.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/vendor/spamlog.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/vendor/web.config (CODE:403|SIZE:289)
+
+---- Entering directory: https://jdih.tangerangkab.go.id/assets/system/ ----
++ https://jdih.tangerangkab.go.id/assets/system/.config (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/assets/system/init (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/assets/system/web.config (CODE:403|SIZE:289)
+
+---- Entering directory: https://jdih.tangerangkab.go.id/b/assets/ ----
++ https://jdih.tangerangkab.go.id/b/assets/.config (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/b/assets/akeeba.backend.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/b/assets/development.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/b/assets/init (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/b/assets/php.ini (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/b/assets/production.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/b/assets/spamlog.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/b/assets/web.config (CODE:403|SIZE:289)
+
+---- Entering directory: https://jdih.tangerangkab.go.id/b/config/ ----
++ https://jdih.tangerangkab.go.id/b/config/.config (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/b/config/akeeba.backend.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/b/config/development.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/b/config/init (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/b/config/php.ini (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/b/config/production.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/b/config/spamlog.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/b/config/web.config (CODE:403|SIZE:289)
+
+---- Entering directory: https://jdih.tangerangkab.go.id/b/controllers/ ----
++ https://jdih.tangerangkab.go.id/b/controllers/.config (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/b/controllers/akeeba.backend.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/b/controllers/development.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/b/controllers/init (CODE:403|SIZE:289)
+==> DIRECTORY: https://jdih.tangerangkab.go.id/b/controllers/old/
++ https://jdih.tangerangkab.go.id/b/controllers/php.ini (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/b/controllers/production.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/b/controllers/spamlog.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/b/controllers/web.config (CODE:403|SIZE:289)
+
+---- Entering directory: https://jdih.tangerangkab.go.id/b/img/ ----
++ https://jdih.tangerangkab.go.id/b/img/.config (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/b/img/akeeba.backend.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/b/img/development.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/b/img/init (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/b/img/php.ini (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/b/img/production.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/b/img/spamlog.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/b/img/web.config (CODE:403|SIZE:289)
+
+---- Entering directory: https://jdih.tangerangkab.go.id/b/models/ ----
++ https://jdih.tangerangkab.go.id/b/models/.config (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/b/models/akeeba.backend.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/b/models/development.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/b/models/init (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/b/models/php.ini (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/b/models/production.log (CODE:403|SIZE:289)
+==> DIRECTORY: https://jdih.tangerangkab.go.id/b/models/search/
++ https://jdih.tangerangkab.go.id/b/models/spamlog.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/b/models/web.config (CODE:403|SIZE:289)
+
+---- Entering directory: https://jdih.tangerangkab.go.id/b/tests/ ----
++ https://jdih.tangerangkab.go.id/b/tests/.config (CODE:403|SIZE:289)
+==> DIRECTORY: https://jdih.tangerangkab.go.id/b/tests/_data/
++ https://jdih.tangerangkab.go.id/b/tests/akeeba.backend.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/b/tests/development.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/b/tests/init (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/b/tests/php.ini (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/b/tests/production.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/b/tests/spamlog.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/b/tests/web.config (CODE:403|SIZE:289)
+
+---- Entering directory: https://jdih.tangerangkab.go.id/b/views/ ----
++ https://jdih.tangerangkab.go.id/b/views/.config (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/b/views/akeeba.backend.log (CODE:403|SIZE:289)
+==> DIRECTORY: https://jdih.tangerangkab.go.id/b/views/artikel/
++ https://jdih.tangerangkab.go.id/b/views/development.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/b/views/init (CODE:403|SIZE:289)
+==> DIRECTORY: https://jdih.tangerangkab.go.id/b/views/layouts/
+==> DIRECTORY: https://jdih.tangerangkab.go.id/b/views/member/
+==> DIRECTORY: https://jdih.tangerangkab.go.id/b/views/old/
++ https://jdih.tangerangkab.go.id/b/views/php.ini (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/b/views/production.log (CODE:403|SIZE:289)
+==> DIRECTORY: https://jdih.tangerangkab.go.id/b/views/site/
++ https://jdih.tangerangkab.go.id/b/views/spamlog.log (CODE:403|SIZE:289)
+==> DIRECTORY: https://jdih.tangerangkab.go.id/b/views/user/
++ https://jdih.tangerangkab.go.id/b/views/web.config (CODE:403|SIZE:289)
+
+---- Entering directory: https://jdih.tangerangkab.go.id/backend/assets/ ----
+(!) WARNING: All responses for this directory seem to be CODE = 403.
+    (Use mode '-w' if you want to scan it anyway)
+
+---- Entering directory: https://jdih.tangerangkab.go.id/backend/config/ ----
++ https://jdih.tangerangkab.go.id/backend/config/.config (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/backend/config/akeeba.backend.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/backend/config/development.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/backend/config/init (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/backend/config/php.ini (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/backend/config/production.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/backend/config/spamlog.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/backend/config/web.config (CODE:403|SIZE:289)
+
+---- Entering directory: https://jdih.tangerangkab.go.id/backend/controllers/ ----
++ https://jdih.tangerangkab.go.id/backend/controllers/.config (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/backend/controllers/akeeba.backend.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/backend/controllers/development.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/backend/controllers/init (CODE:403|SIZE:289)
+==> DIRECTORY: https://jdih.tangerangkab.go.id/backend/controllers/old/
++ https://jdih.tangerangkab.go.id/backend/controllers/php.ini (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/backend/controllers/production.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/backend/controllers/spamlog.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/backend/controllers/web.config (CODE:403|SIZE:289)
+
+---- Entering directory: https://jdih.tangerangkab.go.id/backend/img/ ----
++ https://jdih.tangerangkab.go.id/backend/img/.config (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/backend/img/akeeba.backend.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/backend/img/development.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/backend/img/init (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/backend/img/php.ini (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/backend/img/production.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/backend/img/spamlog.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/backend/img/web.config (CODE:403|SIZE:289)
+
+---- Entering directory: https://jdih.tangerangkab.go.id/backend/models/ ----
++ https://jdih.tangerangkab.go.id/backend/models/.config (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/backend/models/akeeba.backend.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/backend/models/development.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/backend/models/init (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/backend/models/php.ini (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/backend/models/production.log (CODE:403|SIZE:289)
+==> DIRECTORY: https://jdih.tangerangkab.go.id/backend/models/search/
++ https://jdih.tangerangkab.go.id/backend/models/spamlog.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/backend/models/web.config (CODE:403|SIZE:289)
+
+---- Entering directory: https://jdih.tangerangkab.go.id/backend/tests/ ----
++ https://jdih.tangerangkab.go.id/backend/tests/.config (CODE:403|SIZE:289)
+==> DIRECTORY: https://jdih.tangerangkab.go.id/backend/tests/_data/
++ https://jdih.tangerangkab.go.id/backend/tests/akeeba.backend.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/backend/tests/development.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/backend/tests/init (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/backend/tests/php.ini (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/backend/tests/production.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/backend/tests/spamlog.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/backend/tests/web.config (CODE:403|SIZE:289)
+
+---- Entering directory: https://jdih.tangerangkab.go.id/backend/views/ ----
++ https://jdih.tangerangkab.go.id/backend/views/.config (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/backend/views/akeeba.backend.log (CODE:403|SIZE:289)
+==> DIRECTORY: https://jdih.tangerangkab.go.id/backend/views/artikel/
++ https://jdih.tangerangkab.go.id/backend/views/development.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/backend/views/init (CODE:403|SIZE:289)
+==> DIRECTORY: https://jdih.tangerangkab.go.id/backend/views/layouts/
+==> DIRECTORY: https://jdih.tangerangkab.go.id/backend/views/member/
+==> DIRECTORY: https://jdih.tangerangkab.go.id/backend/views/old/
++ https://jdih.tangerangkab.go.id/backend/views/php.ini (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/backend/views/production.log (CODE:403|SIZE:289)
+==> DIRECTORY: https://jdih.tangerangkab.go.id/backend/views/site/
++ https://jdih.tangerangkab.go.id/backend/views/spamlog.log (CODE:403|SIZE:289)
+==> DIRECTORY: https://jdih.tangerangkab.go.id/backend/views/user/
++ https://jdih.tangerangkab.go.id/backend/views/web.config (CODE:403|SIZE:289)
+
+---- Entering directory: https://jdih.tangerangkab.go.id/backend/web/ ----
++ https://jdih.tangerangkab.go.id/backend/web/.config (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/backend/web/akeeba.backend.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/backend/web/development.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/backend/web/init (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/backend/web/php.ini (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/backend/web/production.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/backend/web/spamlog.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/backend/web/web.config (CODE:403|SIZE:289)
+
+---- Entering directory: https://jdih.tangerangkab.go.id/common/config/ ----
++ https://jdih.tangerangkab.go.id/common/config/.config (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/common/config/init (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/common/config/web.config (CODE:403|SIZE:289)
+
+---- Entering directory: https://jdih.tangerangkab.go.id/common/mail/ ----
++ https://jdih.tangerangkab.go.id/common/mail/.config (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/common/mail/admin.php (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/common/mail/akeeba.backend.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/common/mail/development.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/common/mail/info.php (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/common/mail/init (CODE:403|SIZE:289)
+==> DIRECTORY: https://jdih.tangerangkab.go.id/common/mail/layouts/
++ https://jdih.tangerangkab.go.id/common/mail/php.ini (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/common/mail/phpinfo.php (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/common/mail/production.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/common/mail/spamlog.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/common/mail/web.config (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/common/mail/xmlrpc.php (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/common/mail/xmlrpc_server.php (CODE:403|SIZE:289)
+
+---- Entering directory: https://jdih.tangerangkab.go.id/common/models/ ----
++ https://jdih.tangerangkab.go.id/common/models/.config (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/common/models/admin.php (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/common/models/akeeba.backend.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/common/models/development.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/common/models/info.php (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/common/models/init (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/common/models/php.ini (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/common/models/phpinfo.php (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/common/models/production.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/common/models/spamlog.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/common/models/web.config (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/common/models/xmlrpc.php (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/common/models/xmlrpc_server.php (CODE:403|SIZE:289)
+
+---- Entering directory: https://jdih.tangerangkab.go.id/common/page/ ----
++ https://jdih.tangerangkab.go.id/common/page/.config (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/common/page/akeeba.backend.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/common/page/development.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/common/page/index.php (CODE:200|SIZE:4)
++ https://jdih.tangerangkab.go.id/common/page/init (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/common/page/php.ini (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/common/page/production.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/common/page/spamlog.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/common/page/web.config (CODE:403|SIZE:289)
+
+---- Entering directory: https://jdih.tangerangkab.go.id/common/tests/ ----
++ https://jdih.tangerangkab.go.id/common/tests/.config (CODE:403|SIZE:289)
+==> DIRECTORY: https://jdih.tangerangkab.go.id/common/tests/_data/
++ https://jdih.tangerangkab.go.id/common/tests/admin.php (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/common/tests/akeeba.backend.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/common/tests/development.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/common/tests/info.php (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/common/tests/init (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/common/tests/php.ini (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/common/tests/phpinfo.php (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/common/tests/production.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/common/tests/spamlog.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/common/tests/web.config (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/common/tests/xmlrpc.php (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/common/tests/xmlrpc_server.php (CODE:403|SIZE:289)
+
+---- Entering directory: https://jdih.tangerangkab.go.id/common/widgets/ ----
++ https://jdih.tangerangkab.go.id/common/widgets/.config (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/common/widgets/admin.php (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/common/widgets/akeeba.backend.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/common/widgets/development.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/common/widgets/info.php (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/common/widgets/init (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/common/widgets/php.ini (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/common/widgets/phpinfo.php (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/common/widgets/production.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/common/widgets/spamlog.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/common/widgets/web.config (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/common/widgets/xmlrpc.php (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/common/widgets/xmlrpc_server.php (CODE:403|SIZE:289)
+
+---- Entering directory: https://jdih.tangerangkab.go.id/console/config/ ----
++ https://jdih.tangerangkab.go.id/console/config/.config (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/console/config/akeeba.backend.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/console/config/development.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/console/config/init (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/console/config/php.ini (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/console/config/production.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/console/config/spamlog.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/console/config/web.config (CODE:403|SIZE:289)
+
+---- Entering directory: https://jdih.tangerangkab.go.id/console/controllers/ ----
++ https://jdih.tangerangkab.go.id/console/controllers/.config (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/console/controllers/akeeba.backend.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/console/controllers/development.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/console/controllers/init (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/console/controllers/php.ini (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/console/controllers/production.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/console/controllers/spamlog.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/console/controllers/web.config (CODE:403|SIZE:289)
+
+---- Entering directory: https://jdih.tangerangkab.go.id/console/models/ ----
++ https://jdih.tangerangkab.go.id/console/models/.config (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/console/models/akeeba.backend.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/console/models/development.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/console/models/init (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/console/models/php.ini (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/console/models/production.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/console/models/spamlog.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/console/models/web.config (CODE:403|SIZE:289)
+
+---- Entering directory: https://jdih.tangerangkab.go.id/f/assets/ ----
++ https://jdih.tangerangkab.go.id/f/assets/.config (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/f/assets/akeeba.backend.log (CODE:403|SIZE:289)
+==> DIRECTORY: https://jdih.tangerangkab.go.id/f/assets/css/
++ https://jdih.tangerangkab.go.id/f/assets/development.log (CODE:403|SIZE:289)
+==> DIRECTORY: https://jdih.tangerangkab.go.id/f/assets/fonts/
+==> DIRECTORY: https://jdih.tangerangkab.go.id/f/assets/img/
++ https://jdih.tangerangkab.go.id/f/assets/init (CODE:403|SIZE:289)
+==> DIRECTORY: https://jdih.tangerangkab.go.id/f/assets/js/
+==> DIRECTORY: https://jdih.tangerangkab.go.id/f/assets/old/
++ https://jdih.tangerangkab.go.id/f/assets/php.ini (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/f/assets/production.log (CODE:403|SIZE:289)
+==> DIRECTORY: https://jdih.tangerangkab.go.id/f/assets/search/
++ https://jdih.tangerangkab.go.id/f/assets/spamlog.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/f/assets/web.config (CODE:403|SIZE:289)
+
+---- Entering directory: https://jdih.tangerangkab.go.id/f/config/ ----
++ https://jdih.tangerangkab.go.id/f/config/.config (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/f/config/akeeba.backend.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/f/config/development.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/f/config/init (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/f/config/php.ini (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/f/config/production.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/f/config/spamlog.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/f/config/web.config (CODE:403|SIZE:289)
+
+---- Entering directory: https://jdih.tangerangkab.go.id/f/controllers/ ----
++ https://jdih.tangerangkab.go.id/f/controllers/.config (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/f/controllers/akeeba.backend.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/f/controllers/development.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/f/controllers/init (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/f/controllers/php.ini (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/f/controllers/production.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/f/controllers/spamlog.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/f/controllers/web.config (CODE:403|SIZE:289)
+
+---- Entering directory: https://jdih.tangerangkab.go.id/f/models/ ----
++ https://jdih.tangerangkab.go.id/f/models/.config (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/f/models/akeeba.backend.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/f/models/development.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/f/models/init (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/f/models/php.ini (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/f/models/production.log (CODE:403|SIZE:289)
+==> DIRECTORY: https://jdih.tangerangkab.go.id/f/models/search/
++ https://jdih.tangerangkab.go.id/f/models/spamlog.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/f/models/web.config (CODE:403|SIZE:289)
+
+---- Entering directory: https://jdih.tangerangkab.go.id/f/tests/ ----
++ https://jdih.tangerangkab.go.id/f/tests/.config (CODE:403|SIZE:289)
+==> DIRECTORY: https://jdih.tangerangkab.go.id/f/tests/_data/
++ https://jdih.tangerangkab.go.id/f/tests/akeeba.backend.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/f/tests/development.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/f/tests/init (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/f/tests/php.ini (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/f/tests/production.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/f/tests/spamlog.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/f/tests/web.config (CODE:403|SIZE:289)
+
+---- Entering directory: https://jdih.tangerangkab.go.id/f/views/ ----
++ https://jdih.tangerangkab.go.id/f/views/.config (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/f/views/akeeba.backend.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/f/views/development.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/f/views/init (CODE:403|SIZE:289)
+==> DIRECTORY: https://jdih.tangerangkab.go.id/f/views/layouts/
++ https://jdih.tangerangkab.go.id/f/views/php.ini (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/f/views/production.log (CODE:403|SIZE:289)
+==> DIRECTORY: https://jdih.tangerangkab.go.id/f/views/profile/
+==> DIRECTORY: https://jdih.tangerangkab.go.id/f/views/site/
++ https://jdih.tangerangkab.go.id/f/views/spamlog.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/f/views/web.config (CODE:403|SIZE:289)
+
+---- Entering directory: https://jdih.tangerangkab.go.id/frontend/assets/ ----
++ https://jdih.tangerangkab.go.id/frontend/assets/.config (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/frontend/assets/akeeba.backend.log (CODE:403|SIZE:289)
+==> DIRECTORY: https://jdih.tangerangkab.go.id/frontend/assets/css/
++ https://jdih.tangerangkab.go.id/frontend/assets/development.log (CODE:403|SIZE:289)
+==> DIRECTORY: https://jdih.tangerangkab.go.id/frontend/assets/fonts/
+==> DIRECTORY: https://jdih.tangerangkab.go.id/frontend/assets/img/
++ https://jdih.tangerangkab.go.id/frontend/assets/init (CODE:403|SIZE:289)
+==> DIRECTORY: https://jdih.tangerangkab.go.id/frontend/assets/js/
+==> DIRECTORY: https://jdih.tangerangkab.go.id/frontend/assets/old/
++ https://jdih.tangerangkab.go.id/frontend/assets/php.ini (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/frontend/assets/production.log (CODE:403|SIZE:289)
+==> DIRECTORY: https://jdih.tangerangkab.go.id/frontend/assets/search/
++ https://jdih.tangerangkab.go.id/frontend/assets/spamlog.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/frontend/assets/web.config (CODE:403|SIZE:289)
+
+---- Entering directory: https://jdih.tangerangkab.go.id/frontend/config/ ----
++ https://jdih.tangerangkab.go.id/frontend/config/.config (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/frontend/config/akeeba.backend.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/frontend/config/development.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/frontend/config/init (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/frontend/config/php.ini (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/frontend/config/production.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/frontend/config/spamlog.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/frontend/config/web.config (CODE:403|SIZE:289)
+
+---- Entering directory: https://jdih.tangerangkab.go.id/frontend/controllers/ ----
++ https://jdih.tangerangkab.go.id/frontend/controllers/.config (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/frontend/controllers/akeeba.backend.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/frontend/controllers/development.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/frontend/controllers/init (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/frontend/controllers/php.ini (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/frontend/controllers/production.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/frontend/controllers/spamlog.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/frontend/controllers/web.config (CODE:403|SIZE:289)
+
+---- Entering directory: https://jdih.tangerangkab.go.id/frontend/models/ ----
++ https://jdih.tangerangkab.go.id/frontend/models/.config (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/frontend/models/akeeba.backend.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/frontend/models/development.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/frontend/models/init (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/frontend/models/php.ini (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/frontend/models/production.log (CODE:403|SIZE:289)
+==> DIRECTORY: https://jdih.tangerangkab.go.id/frontend/models/search/
++ https://jdih.tangerangkab.go.id/frontend/models/spamlog.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/frontend/models/web.config (CODE:403|SIZE:289)
+
+---- Entering directory: https://jdih.tangerangkab.go.id/frontend/tests/ ----
++ https://jdih.tangerangkab.go.id/frontend/tests/.config (CODE:403|SIZE:289)
+==> DIRECTORY: https://jdih.tangerangkab.go.id/frontend/tests/_data/
++ https://jdih.tangerangkab.go.id/frontend/tests/akeeba.backend.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/frontend/tests/development.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/frontend/tests/init (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/frontend/tests/php.ini (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/frontend/tests/production.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/frontend/tests/spamlog.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/frontend/tests/web.config (CODE:403|SIZE:289)
+
+---- Entering directory: https://jdih.tangerangkab.go.id/frontend/views/ ----
++ https://jdih.tangerangkab.go.id/frontend/views/.config (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/frontend/views/akeeba.backend.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/frontend/views/development.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/frontend/views/init (CODE:403|SIZE:289)
+==> DIRECTORY: https://jdih.tangerangkab.go.id/frontend/views/layouts/
++ https://jdih.tangerangkab.go.id/frontend/views/php.ini (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/frontend/views/production.log (CODE:403|SIZE:289)
+==> DIRECTORY: https://jdih.tangerangkab.go.id/frontend/views/profile/
+==> DIRECTORY: https://jdih.tangerangkab.go.id/frontend/views/site/
++ https://jdih.tangerangkab.go.id/frontend/views/spamlog.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/frontend/views/web.config (CODE:403|SIZE:289)
+
+---- Entering directory: https://jdih.tangerangkab.go.id/html/public/ ----
++ https://jdih.tangerangkab.go.id/html/public/.config (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/html/public/.git/HEAD (CODE:200|SIZE:23)
+(!) WARNING: All responses for this directory seem to be CODE = 500.
+    (Use mode '-w' if you want to scan it anyway)
+
+---- Entering directory: https://jdih.tangerangkab.go.id/images/ads/ ----
++ https://jdih.tangerangkab.go.id/images/ads/.config (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/images/ads/akeeba.backend.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/images/ads/development.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/images/ads/init (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/images/ads/php.ini (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/images/ads/production.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/images/ads/spamlog.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/images/ads/web.config (CODE:403|SIZE:289)
+
+---- Entering directory: https://jdih.tangerangkab.go.id/images/bg/ ----
++ https://jdih.tangerangkab.go.id/images/bg/.config (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/images/bg/akeeba.backend.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/images/bg/development.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/images/bg/init (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/images/bg/php.ini (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/images/bg/production.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/images/bg/spamlog.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/images/bg/web.config (CODE:403|SIZE:289)
+
+---- Entering directory: https://jdih.tangerangkab.go.id/images/ico/ ----
++ https://jdih.tangerangkab.go.id/images/ico/.config (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/images/ico/akeeba.backend.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/images/ico/development.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/images/ico/favicon.ico (CODE:200|SIZE:1150)
++ https://jdih.tangerangkab.go.id/images/ico/init (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/images/ico/php.ini (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/images/ico/production.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/images/ico/spamlog.log (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/images/ico/web.config (CODE:403|SIZE:289)
+
+---- Entering directory: https://jdih.tangerangkab.go.id/images/icon/ ----
++ https://jdih.tangerangkab.go.id/images/icon/.config (CODE:403|SIZE:289)
++ https://jdih.tangerangkab.go.id/images/icon/akeeba.backend.log (CODE:403|SIZE:289)
+                                                                                  

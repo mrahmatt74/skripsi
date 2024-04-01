@@ -1,0 +1,305 @@
+
+-----------------
+DIRB v2.22    
+By The Dark Raver
+-----------------
+
+OUTPUT_FILE: drive.txt
+START_TIME: Sat Mar 30 12:34:57 2024
+URL_BASE: https://drive.tangerangkab.go.id/
+WORDLIST_FILES: /usr/share/dirb/wordlists/common.txt
+
+-----------------
+
+GENERATED WORDS: 4612
+
+---- Scanning URL: https://drive.tangerangkab.go.id/ ----
+==> DIRECTORY: https://drive.tangerangkab.go.id/apps/
++ https://drive.tangerangkab.go.id/avatar (CODE:405|SIZE:0)
+==> DIRECTORY: https://drive.tangerangkab.go.id/core/
+==> DIRECTORY: https://drive.tangerangkab.go.id/dist/
++ https://drive.tangerangkab.go.id/index.html (CODE:200|SIZE:156)
++ https://drive.tangerangkab.go.id/index.php (CODE:302|SIZE:0)
++ https://drive.tangerangkab.go.id/login (CODE:200|SIZE:16865)
++ https://drive.tangerangkab.go.id/logout (CODE:401|SIZE:43)
++ https://drive.tangerangkab.go.id/remote (CODE:301|SIZE:162)
++ https://drive.tangerangkab.go.id/remotetracer (CODE:301|SIZE:162)
+==> DIRECTORY: https://drive.tangerangkab.go.id/resources/
++ https://drive.tangerangkab.go.id/robots.txt (CODE:200|SIZE:26)
+==> DIRECTORY: https://drive.tangerangkab.go.id/themes/
+==> DIRECTORY: https://drive.tangerangkab.go.id/updater/
+
+---- Entering directory: https://drive.tangerangkab.go.id/apps/ ----
+==> DIRECTORY: https://drive.tangerangkab.go.id/apps/activity/
+==> DIRECTORY: https://drive.tangerangkab.go.id/apps/calendar/
++ https://drive.tangerangkab.go.id/apps/ChangeLog (CODE:502|SIZE:552)
++ https://drive.tangerangkab.go.id/apps/changepassword (CODE:502|SIZE:552)
++ https://drive.tangerangkab.go.id/apps/changepw (CODE:502|SIZE:552)
++ https://drive.tangerangkab.go.id/apps/changepwd (CODE:502|SIZE:552)
++ https://drive.tangerangkab.go.id/apps/changes (CODE:502|SIZE:552)
++ https://drive.tangerangkab.go.id/apps/channel (CODE:502|SIZE:552)
++ https://drive.tangerangkab.go.id/apps/charge (CODE:502|SIZE:552)
++ https://drive.tangerangkab.go.id/apps/charges (CODE:502|SIZE:552)
++ https://drive.tangerangkab.go.id/apps/chart (CODE:502|SIZE:552)
++ https://drive.tangerangkab.go.id/apps/charts (CODE:502|SIZE:552)
+==> DIRECTORY: https://drive.tangerangkab.go.id/apps/comments/
+==> DIRECTORY: https://drive.tangerangkab.go.id/apps/contacts/
+==> DIRECTORY: https://drive.tangerangkab.go.id/apps/dashboard/
+==> DIRECTORY: https://drive.tangerangkab.go.id/apps/dav/
+==> DIRECTORY: https://drive.tangerangkab.go.id/apps/encryption/
+==> DIRECTORY: https://drive.tangerangkab.go.id/apps/files/
+==> DIRECTORY: https://drive.tangerangkab.go.id/apps/mail/
+==> DIRECTORY: https://drive.tangerangkab.go.id/apps/notes/
+==> DIRECTORY: https://drive.tangerangkab.go.id/apps/notifications/
+==> DIRECTORY: https://drive.tangerangkab.go.id/apps/photos/
+==> DIRECTORY: https://drive.tangerangkab.go.id/apps/privacy/
+==> DIRECTORY: https://drive.tangerangkab.go.id/apps/settings/
+==> DIRECTORY: https://drive.tangerangkab.go.id/apps/support/
+==> DIRECTORY: https://drive.tangerangkab.go.id/apps/text/
+==> DIRECTORY: https://drive.tangerangkab.go.id/apps/viewer/
+
+---- Entering directory: https://drive.tangerangkab.go.id/core/ ----
+==> DIRECTORY: https://drive.tangerangkab.go.id/core/ajax/
+==> DIRECTORY: https://drive.tangerangkab.go.id/core/css/
+==> DIRECTORY: https://drive.tangerangkab.go.id/core/doc/
+==> DIRECTORY: https://drive.tangerangkab.go.id/core/Events/
+==> DIRECTORY: https://drive.tangerangkab.go.id/core/fonts/
+==> DIRECTORY: https://drive.tangerangkab.go.id/core/img/
+==> DIRECTORY: https://drive.tangerangkab.go.id/core/js/
++ https://drive.tangerangkab.go.id/core/preview (CODE:401|SIZE:43)
++ https://drive.tangerangkab.go.id/core/search (CODE:401|SIZE:43)
+==> DIRECTORY: https://drive.tangerangkab.go.id/core/templates/
+==> DIRECTORY: https://drive.tangerangkab.go.id/core/vendor/
+
+---- Entering directory: https://drive.tangerangkab.go.id/dist/ ----
+
+---- Entering directory: https://drive.tangerangkab.go.id/resources/ ----
+==> DIRECTORY: https://drive.tangerangkab.go.id/resources/config/
+
+---- Entering directory: https://drive.tangerangkab.go.id/themes/ ----
+==> DIRECTORY: https://drive.tangerangkab.go.id/themes/example/
++ https://drive.tangerangkab.go.id/themes/README (CODE:200|SIZE:899)
+
+---- Entering directory: https://drive.tangerangkab.go.id/updater/ ----
++ https://drive.tangerangkab.go.id/updater/index.php (CODE:200|SIZE:8979)
+
+---- Entering directory: https://drive.tangerangkab.go.id/apps/activity/ ----
+==> DIRECTORY: https://drive.tangerangkab.go.id/apps/activity/css/
+==> DIRECTORY: https://drive.tangerangkab.go.id/apps/activity/docs/
+==> DIRECTORY: https://drive.tangerangkab.go.id/apps/activity/img/
+==> DIRECTORY: https://drive.tangerangkab.go.id/apps/activity/js/
+==> DIRECTORY: https://drive.tangerangkab.go.id/apps/activity/lib/
++ https://drive.tangerangkab.go.id/apps/activity/settings (CODE:405|SIZE:0)
+==> DIRECTORY: https://drive.tangerangkab.go.id/apps/activity/templates/
+
+---- Entering directory: https://drive.tangerangkab.go.id/apps/calendar/ ----
+==> DIRECTORY: https://drive.tangerangkab.go.id/apps/calendar/composer/
+==> DIRECTORY: https://drive.tangerangkab.go.id/apps/calendar/css/
+==> DIRECTORY: https://drive.tangerangkab.go.id/apps/calendar/img/
+==> DIRECTORY: https://drive.tangerangkab.go.id/apps/calendar/js/
+==> DIRECTORY: https://drive.tangerangkab.go.id/apps/calendar/lib/
++ https://drive.tangerangkab.go.id/apps/calendar/new (CODE:401|SIZE:43)
+==> DIRECTORY: https://drive.tangerangkab.go.id/apps/calendar/templates/
+==> DIRECTORY: https://drive.tangerangkab.go.id/apps/calendar/vendor/
+
+---- Entering directory: https://drive.tangerangkab.go.id/apps/comments/ ----
+==> DIRECTORY: https://drive.tangerangkab.go.id/apps/comments/composer/
+==> DIRECTORY: https://drive.tangerangkab.go.id/apps/comments/img/
+==> DIRECTORY: https://drive.tangerangkab.go.id/apps/comments/lib/
+
+---- Entering directory: https://drive.tangerangkab.go.id/apps/contacts/ ----
+(!) WARNING: All responses for this directory seem to be CODE = 401.
+    (Use mode '-w' if you want to scan it anyway)
+
+---- Entering directory: https://drive.tangerangkab.go.id/apps/dashboard/ ----
+==> DIRECTORY: https://drive.tangerangkab.go.id/apps/dashboard/composer/
+==> DIRECTORY: https://drive.tangerangkab.go.id/apps/dashboard/css/
+==> DIRECTORY: https://drive.tangerangkab.go.id/apps/dashboard/img/
++ https://drive.tangerangkab.go.id/apps/dashboard/layout (CODE:405|SIZE:0)
+==> DIRECTORY: https://drive.tangerangkab.go.id/apps/dashboard/lib/
+==> DIRECTORY: https://drive.tangerangkab.go.id/apps/dashboard/templates/
+
+---- Entering directory: https://drive.tangerangkab.go.id/apps/dav/ ----
+==> DIRECTORY: https://drive.tangerangkab.go.id/apps/dav/composer/
+==> DIRECTORY: https://drive.tangerangkab.go.id/apps/dav/css/
+==> DIRECTORY: https://drive.tangerangkab.go.id/apps/dav/img/
+==> DIRECTORY: https://drive.tangerangkab.go.id/apps/dav/lib/
+==> DIRECTORY: https://drive.tangerangkab.go.id/apps/dav/templates/
+
+---- Entering directory: https://drive.tangerangkab.go.id/apps/encryption/ ----
++ https://drive.tangerangkab.go.id/apps/encryption/cas (CODE:502|SIZE:552)
++ https://drive.tangerangkab.go.id/apps/encryption/cases (CODE:502|SIZE:552)
++ https://drive.tangerangkab.go.id/apps/encryption/casestudies (CODE:502|SIZE:552)
++ https://drive.tangerangkab.go.id/apps/encryption/cash (CODE:502|SIZE:552)
++ https://drive.tangerangkab.go.id/apps/encryption/cat (CODE:502|SIZE:552)
++ https://drive.tangerangkab.go.id/apps/encryption/catalog (CODE:502|SIZE:552)
+==> DIRECTORY: https://drive.tangerangkab.go.id/apps/encryption/composer/
+==> DIRECTORY: https://drive.tangerangkab.go.id/apps/encryption/css/
+==> DIRECTORY: https://drive.tangerangkab.go.id/apps/encryption/img/
+==> DIRECTORY: https://drive.tangerangkab.go.id/apps/encryption/js/
+==> DIRECTORY: https://drive.tangerangkab.go.id/apps/encryption/lib/
+==> DIRECTORY: https://drive.tangerangkab.go.id/apps/encryption/templates/
+
+---- Entering directory: https://drive.tangerangkab.go.id/apps/files/ ----
+(!) WARNING: All responses for this directory seem to be CODE = 401.
+    (Use mode '-w' if you want to scan it anyway)
+
+---- Entering directory: https://drive.tangerangkab.go.id/apps/mail/ ----
++ https://drive.tangerangkab.go.id/apps/mail/compose (CODE:401|SIZE:43)
+==> DIRECTORY: https://drive.tangerangkab.go.id/apps/mail/composer/
+==> DIRECTORY: https://drive.tangerangkab.go.id/apps/mail/css/
+==> DIRECTORY: https://drive.tangerangkab.go.id/apps/mail/doc/
+==> DIRECTORY: https://drive.tangerangkab.go.id/apps/mail/img/
+==> DIRECTORY: https://drive.tangerangkab.go.id/apps/mail/js/
+==> DIRECTORY: https://drive.tangerangkab.go.id/apps/mail/lib/
++ https://drive.tangerangkab.go.id/apps/mail/mailto (CODE:401|SIZE:43)
++ https://drive.tangerangkab.go.id/apps/mail/proxy (CODE:401|SIZE:43)
++ https://drive.tangerangkab.go.id/apps/mail/redirect (CODE:401|SIZE:43)
++ https://drive.tangerangkab.go.id/apps/mail/setup (CODE:401|SIZE:43)
+==> DIRECTORY: https://drive.tangerangkab.go.id/apps/mail/templates/
+==> DIRECTORY: https://drive.tangerangkab.go.id/apps/mail/vendor/
+
+---- Entering directory: https://drive.tangerangkab.go.id/apps/notes/ ----
++ https://drive.tangerangkab.go.id/apps/notes/api (CODE:401|SIZE:43)
+==> DIRECTORY: https://drive.tangerangkab.go.id/apps/notes/css/
+==> DIRECTORY: https://drive.tangerangkab.go.id/apps/notes/img/
+==> DIRECTORY: https://drive.tangerangkab.go.id/apps/notes/js/
+==> DIRECTORY: https://drive.tangerangkab.go.id/apps/notes/lib/
++ https://drive.tangerangkab.go.id/apps/notes/new (CODE:401|SIZE:43)
++ https://drive.tangerangkab.go.id/apps/notes/notes (CODE:500|SIZE:3890)
++ https://drive.tangerangkab.go.id/apps/notes/settings (CODE:401|SIZE:43)
+==> DIRECTORY: https://drive.tangerangkab.go.id/apps/notes/templates/
++ https://drive.tangerangkab.go.id/apps/notes/welcome (CODE:401|SIZE:43)
+
+---- Entering directory: https://drive.tangerangkab.go.id/apps/notifications/ ----
+==> DIRECTORY: https://drive.tangerangkab.go.id/apps/notifications/docs/
+==> DIRECTORY: https://drive.tangerangkab.go.id/apps/notifications/img/
+==> DIRECTORY: https://drive.tangerangkab.go.id/apps/notifications/js/
+==> DIRECTORY: https://drive.tangerangkab.go.id/apps/notifications/lib/
+==> DIRECTORY: https://drive.tangerangkab.go.id/apps/notifications/templates/
+
+---- Entering directory: https://drive.tangerangkab.go.id/apps/photos/ ----
++ https://drive.tangerangkab.go.id/apps/photos/albums (CODE:401|SIZE:43)
++ https://drive.tangerangkab.go.id/apps/photos/categories (CODE:401|SIZE:43)
+==> DIRECTORY: https://drive.tangerangkab.go.id/apps/photos/composer/
++ https://drive.tangerangkab.go.id/apps/photos/faces (CODE:401|SIZE:43)
++ https://drive.tangerangkab.go.id/apps/photos/favorites (CODE:401|SIZE:43)
++ https://drive.tangerangkab.go.id/apps/photos/folders (CODE:401|SIZE:43)
+==> DIRECTORY: https://drive.tangerangkab.go.id/apps/photos/img/
+==> DIRECTORY: https://drive.tangerangkab.go.id/apps/photos/js/
+==> DIRECTORY: https://drive.tangerangkab.go.id/apps/photos/lib/
++ https://drive.tangerangkab.go.id/apps/photos/places (CODE:401|SIZE:43)
++ https://drive.tangerangkab.go.id/apps/photos/public (CODE:200|SIZE:20477)
+==> DIRECTORY: https://drive.tangerangkab.go.id/apps/photos/screenshots/
++ https://drive.tangerangkab.go.id/apps/photos/shared (CODE:401|SIZE:43)
++ https://drive.tangerangkab.go.id/apps/photos/tags (CODE:401|SIZE:43)
+==> DIRECTORY: https://drive.tangerangkab.go.id/apps/photos/templates/
+==> DIRECTORY: https://drive.tangerangkab.go.id/apps/photos/vendor/
++ https://drive.tangerangkab.go.id/apps/photos/videos (CODE:401|SIZE:43)
+
+---- Entering directory: https://drive.tangerangkab.go.id/apps/privacy/ ----
+==> DIRECTORY: https://drive.tangerangkab.go.id/apps/privacy/img/
+==> DIRECTORY: https://drive.tangerangkab.go.id/apps/privacy/js/
+==> DIRECTORY: https://drive.tangerangkab.go.id/apps/privacy/lib/
+==> DIRECTORY: https://drive.tangerangkab.go.id/apps/privacy/templates/
+
+---- Entering directory: https://drive.tangerangkab.go.id/apps/settings/ ----
++ https://drive.tangerangkab.go.id/apps/settings/64 (CODE:502|SIZE:552)
++ https://drive.tangerangkab.go.id/apps/settings/7 (CODE:502|SIZE:552)
++ https://drive.tangerangkab.go.id/apps/settings/7z (CODE:502|SIZE:552)
++ https://drive.tangerangkab.go.id/apps/settings/8 (CODE:502|SIZE:552)
++ https://drive.tangerangkab.go.id/apps/settings/9 (CODE:502|SIZE:552)
++ https://drive.tangerangkab.go.id/apps/settings/96 (CODE:502|SIZE:552)
++ https://drive.tangerangkab.go.id/apps/settings/a (CODE:502|SIZE:552)
++ https://drive.tangerangkab.go.id/apps/settings/A (CODE:502|SIZE:552)
++ https://drive.tangerangkab.go.id/apps/settings/aa (CODE:502|SIZE:552)
++ https://drive.tangerangkab.go.id/apps/settings/aaa (CODE:502|SIZE:552)
+==> DIRECTORY: https://drive.tangerangkab.go.id/apps/settings/composer/
+==> DIRECTORY: https://drive.tangerangkab.go.id/apps/settings/css/
+==> DIRECTORY: https://drive.tangerangkab.go.id/apps/settings/data/
+==> DIRECTORY: https://drive.tangerangkab.go.id/apps/settings/img/
+==> DIRECTORY: https://drive.tangerangkab.go.id/apps/settings/js/
+==> DIRECTORY: https://drive.tangerangkab.go.id/apps/settings/lib/
+==> DIRECTORY: https://drive.tangerangkab.go.id/apps/settings/templates/
+
+---- Entering directory: https://drive.tangerangkab.go.id/apps/support/ ----
+==> DIRECTORY: https://drive.tangerangkab.go.id/apps/support/css/
+==> DIRECTORY: https://drive.tangerangkab.go.id/apps/support/img/
+==> DIRECTORY: https://drive.tangerangkab.go.id/apps/support/js/
+==> DIRECTORY: https://drive.tangerangkab.go.id/apps/support/lib/
+==> DIRECTORY: https://drive.tangerangkab.go.id/apps/support/resources/
+==> DIRECTORY: https://drive.tangerangkab.go.id/apps/support/templates/
+
+---- Entering directory: https://drive.tangerangkab.go.id/apps/text/ ----
+==> DIRECTORY: https://drive.tangerangkab.go.id/apps/text/composer/
+==> DIRECTORY: https://drive.tangerangkab.go.id/apps/text/css/
++ https://drive.tangerangkab.go.id/apps/text/image (CODE:500|SIZE:3890)
+==> DIRECTORY: https://drive.tangerangkab.go.id/apps/text/img/
++ https://drive.tangerangkab.go.id/apps/text/index.html (CODE:200|SIZE:1885)
+==> DIRECTORY: https://drive.tangerangkab.go.id/apps/text/js/
+==> DIRECTORY: https://drive.tangerangkab.go.id/apps/text/lib/
++ https://drive.tangerangkab.go.id/apps/text/media (CODE:500|SIZE:3890)
++ https://drive.tangerangkab.go.id/apps/text/settings (CODE:405|SIZE:0)
+==> DIRECTORY: https://drive.tangerangkab.go.id/apps/text/templates/
+
+---- Entering directory: https://drive.tangerangkab.go.id/apps/viewer/ ----
+==> DIRECTORY: https://drive.tangerangkab.go.id/apps/viewer/composer/
+==> DIRECTORY: https://drive.tangerangkab.go.id/apps/viewer/img/
+==> DIRECTORY: https://drive.tangerangkab.go.id/apps/viewer/js/
+==> DIRECTORY: https://drive.tangerangkab.go.id/apps/viewer/lib/
+
+---- Entering directory: https://drive.tangerangkab.go.id/core/ajax/ ----
+
+---- Entering directory: https://drive.tangerangkab.go.id/core/css/ ----
+==> DIRECTORY: https://drive.tangerangkab.go.id/core/css/login/
+
+---- Entering directory: https://drive.tangerangkab.go.id/core/doc/ ----
+==> DIRECTORY: https://drive.tangerangkab.go.id/core/doc/admin/
+==> DIRECTORY: https://drive.tangerangkab.go.id/core/doc/user/
+
+---- Entering directory: https://drive.tangerangkab.go.id/core/Events/ ----
++ https://drive.tangerangkab.go.id/core/Events/e (CODE:502|SIZE:552)
++ https://drive.tangerangkab.go.id/core/Events/E (CODE:502|SIZE:552)
++ https://drive.tangerangkab.go.id/core/Events/e107_admin (CODE:502|SIZE:552)
++ https://drive.tangerangkab.go.id/core/Events/e107_files (CODE:502|SIZE:552)
++ https://drive.tangerangkab.go.id/core/Events/e107_handlers (CODE:502|SIZE:552)
++ https://drive.tangerangkab.go.id/core/Events/e2fs (CODE:502|SIZE:552)
++ https://drive.tangerangkab.go.id/core/Events/ear (CODE:502|SIZE:552)
++ https://drive.tangerangkab.go.id/core/Events/easy (CODE:502|SIZE:552)
++ https://drive.tangerangkab.go.id/core/Events/ebay (CODE:502|SIZE:552)
++ https://drive.tangerangkab.go.id/core/Events/eblast (CODE:502|SIZE:552)
++ https://drive.tangerangkab.go.id/core/Events/ebook (CODE:502|SIZE:552)
++ https://drive.tangerangkab.go.id/core/Events/ebooks (CODE:502|SIZE:552)
++ https://drive.tangerangkab.go.id/core/Events/ebriefs (CODE:502|SIZE:552)
++ https://drive.tangerangkab.go.id/core/Events/ec (CODE:502|SIZE:552)
++ https://drive.tangerangkab.go.id/core/Events/ecard (CODE:502|SIZE:552)
++ https://drive.tangerangkab.go.id/core/Events/ecards (CODE:502|SIZE:552)
++ https://drive.tangerangkab.go.id/core/Events/echannel (CODE:502|SIZE:552)
++ https://drive.tangerangkab.go.id/core/Events/ecommerce (CODE:502|SIZE:552)
++ https://drive.tangerangkab.go.id/core/Events/ecrire (CODE:502|SIZE:552)
+
+---- Entering directory: https://drive.tangerangkab.go.id/core/fonts/ ----
+
+---- Entering directory: https://drive.tangerangkab.go.id/core/img/ ----
+==> DIRECTORY: https://drive.tangerangkab.go.id/core/img/actions/
+==> DIRECTORY: https://drive.tangerangkab.go.id/core/img/apps/
+==> DIRECTORY: https://drive.tangerangkab.go.id/core/img/categories/
+==> DIRECTORY: https://drive.tangerangkab.go.id/core/img/clients/
++ https://drive.tangerangkab.go.id/core/img/favicon.ico (CODE:200|SIZE:3262)
+==> DIRECTORY: https://drive.tangerangkab.go.id/core/img/logo/
+==> DIRECTORY: https://drive.tangerangkab.go.id/core/img/places/
+==> DIRECTORY: https://drive.tangerangkab.go.id/core/img/rating/
+
+---- Entering directory: https://drive.tangerangkab.go.id/core/js/ ----
+==> DIRECTORY: https://drive.tangerangkab.go.id/core/js/login/
+==> DIRECTORY: https://drive.tangerangkab.go.id/core/js/public/
+==> DIRECTORY: https://drive.tangerangkab.go.id/core/js/tests/
+
+---- Entering directory: https://drive.tangerangkab.go.id/core/templates/ ----
+
+(!) FATAL: Too many errors connecting to host
+    (Possible cause: COULDNT RESOLVE HOST)
+
+-----------------
+END_TIME: Sun Mar 31 01:47:51 2024
+DOWNLOADED: 138553 - FOUND: 85
